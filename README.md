@@ -65,6 +65,7 @@
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [LeCoupa/awesome-shopify](https://github.com/LeCoupa/awesome-shopify): 👩‍🎓👨‍🎓 Must-read articles, videos and books for store owners, app and theme developers.
 * [julionc/awesome-shopify](https://github.com/julionc/awesome-shopify): 📌✨A curated list of awesome Shopify resources, libraries and open source projects.
+* [WynStaXxx/awesome-stars](https://github.com/WynStaXxx/awesome-stars): None
 * [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars): A curated list of my GitHub stars by stargazed
 * [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars): My Awesome List
 * [vintagesucks/awesome-stars](https://github.com/vintagesucks/awesome-stars): :star: A curated list of my GitHub stars
@@ -303,7 +304,7 @@
 * [dannycolin/fx-compact-mode](https://github.com/dannycolin/fx-compact-mode): A Compact Mode for Firefox Proton
 * [hensm/fx_cast](https://github.com/hensm/fx_cast): Google Cast implementation for Firefox
 * [MrOtherGuy/FxChromeViewer](https://github.com/MrOtherGuy/FxChromeViewer): None
-* [8bitpizza/gatsby-shopify-starter](https://github.com/8bitpizza/gatsby-shopify-starter): 🛍 Simple starter to build a blazing fast Shopify store with Gatsby.
+* [BryceTheCreator/gatsby-shopify-starter](https://github.com/BryceTheCreator/gatsby-shopify-starter): 🛍 Simple starter to build a blazing fast Shopify store with Gatsby.
 * [ncyhere/gatsby-starter-shopify](https://github.com/ncyhere/gatsby-starter-shopify): A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
 * [rebhu-open-source-foundation/gecko-b2g](https://github.com/rebhu-open-source-foundation/gecko-b2g): This is a mirror of https://gitlab.com/rebhu/rosf/thenexus-codes/gecko-b2g
 * [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: http://bit.ly/contribute-code
@@ -426,6 +427,7 @@
 * [w0lfschild/macplugins](https://github.com/w0lfschild/macplugins): :green_book: Community repo for MacForge
 * [macports/macports-base](https://github.com/macports/macports-base): The MacPorts command-line client
 * [fharper/macsetup](https://github.com/fharper/macsetup): Scripts to setup my mac
+* [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [arp242/MartinFox](https://github.com/arp242/MartinFox): Really simple userChrome.css for Firefox 89 to make the active tab stand out more
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
@@ -666,6 +668,7 @@
 * [pandrey2003/social-media-profiler](https://github.com/pandrey2003/social-media-profiler): Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 * [lorey/social-media-profiles-regexs](https://github.com/lorey/social-media-profiles-regexs): :card_index: Extract social media profiles and more with regular expressions
 * [Greenwolf/social_mapper](https://github.com/Greenwolf/social_mapper): A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
+* [andreafortuna/SocialRecon](https://github.com/andreafortuna/SocialRecon): This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location of an image and it also checks whether the email is found or not.
 * [makiisthenes/socialScanner](https://github.com/makiisthenes/socialScanner): Will Search Various Platforms to Confirm An Email Exists.
 * [semvis123/Sonitus](https://github.com/semvis123/Sonitus): Noise-control like native, but for non-Apple devices
 * [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt): :rocket::star: A Zsh prompt for Astronauts
