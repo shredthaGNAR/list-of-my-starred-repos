@@ -54,6 +54,7 @@
 * [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal): A Terminal theme that mimics the One Dark theme made by the Atom team.
 * [sagars007/Australis-like-tabs-FF-ProtonUI-changes](https://github.com/sagars007/Australis-like-tabs-FF-ProtonUI-changes): Changes to make the new proton UI redesign in Firefox better; including australis tabs, compact mode, gradient accents in elements and much more
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
+* [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css): :art: A curated contents of amazing CSS :)
 * [gztchan/awesome-design](https://github.com/gztchan/awesome-design): 🌟 Curated design resources from all over the world.
 * [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems): A curated list of bookmarks, resources and articles about design systems focused on developers.
@@ -673,8 +674,10 @@
 * [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip YouTube video sponsors (browser extension)
 * [w0lfschild/spotifyPlus](https://github.com/w0lfschild/spotifyPlus): 🎵 MacForge plugin to enhance the Spotify Desktop player on macOS
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
+* [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed): 📋 Creating your own Awesome List of GitHub stars! 
 * [sagars007/starry-fox](https://github.com/sagars007/starry-fox): Firefox css stylesheets for the dark space theme. Matching more UI elements with the theme.
 * [Thomashighbaugh/stars](https://github.com/Thomashighbaugh/stars): A curated list of my GitHub stars!
+* [ccat3z/stars](https://github.com/ccat3z/stars): A simple tool for creating your own awesome list
 * [darekkay/static-marks](https://github.com/darekkay/static-marks): Shareable bookmarks
 * [vipintom/stealthFox](https://github.com/vipintom/stealthFox): Clean and minimal set of changes to get Vertical Tabs in Firefox
 * [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback): The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
