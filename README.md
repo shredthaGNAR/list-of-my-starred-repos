@@ -668,6 +668,7 @@
 * [pandrey2003/social-media-profiler](https://github.com/pandrey2003/social-media-profiler): Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 * [lorey/social-media-profiles-regexs](https://github.com/lorey/social-media-profiles-regexs): :card_index: Extract social media profiles and more with regular expressions
 * [Greenwolf/social_mapper](https://github.com/Greenwolf/social_mapper): A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
+* [Ramalingasamy012/SocialRecon](https://github.com/Ramalingasamy012/SocialRecon): This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location of an image and it also checks whether the email is found or not.
 * [andreafortuna/SocialRecon](https://github.com/andreafortuna/SocialRecon): This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location of an image and it also checks whether the email is found or not.
 * [makiisthenes/socialScanner](https://github.com/makiisthenes/socialScanner): Will Search Various Platforms to Confirm An Email Exists.
 * [semvis123/Sonitus](https://github.com/semvis123/Sonitus): Noise-control like native, but for non-Apple devices
