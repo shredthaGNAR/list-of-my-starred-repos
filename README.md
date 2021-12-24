@@ -281,6 +281,7 @@
 * [tagler/Firefox_Bookmark_Toolbar_Dark_Theme](https://github.com/tagler/Firefox_Bookmark_Toolbar_Dark_Theme): Custom CSS file for Firefox bookmark toolbar dark theme, v92+ (mac)
 * [Dini108/firefox_compact_style](https://github.com/Dini108/firefox_compact_style): Make Firefox compact!
 * [DrDesten/Firefox_reStock](https://github.com/DrDesten/Firefox_reStock): reStock theme for Mozilla Firefox. Gives Firefox an overhauled look and feel while preserving the structure und color palette of the default look
+* [sdavidg/firefoxChromeScripts](https://github.com/sdavidg/firefoxChromeScripts): None
 * [guidoevers/firefoxcss](https://github.com/guidoevers/firefoxcss): transparancy
 * [Pepitortue/FirefoxCSS-Safari-theme](https://github.com/Pepitortue/FirefoxCSS-Safari-theme): A Safari like them for Firefox 72+
 * [stobor827/firefoxPrefs](https://github.com/stobor827/firefoxPrefs): profile options that make firefox work the way I want.
@@ -761,6 +762,7 @@
 * [xarantolus/userchrome.css](https://github.com/xarantolus/userchrome.css): Firefox Proton userChrome.css customizations
 * [Endor8/userChrome.js](https://github.com/Endor8/userChrome.js): Skripte für die Firefox-Erweiterung userChromeJS
 * [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js): None
+* [ardiman/userChrome.js](https://github.com/ardiman/userChrome.js): Skripte für die Firefox-Erweiterung userChromeJS
 * [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js): userChrome.js for Firefox
 * [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-): UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
 * [tortious/userChrome.js-userChrome.css-Favorites](https://github.com/tortious/userChrome.js-userChrome.css-Favorites): None
