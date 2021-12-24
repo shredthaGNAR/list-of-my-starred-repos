@@ -517,6 +517,7 @@
 * [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis): Bringing sexy curves back to Firefox Photon.
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
 * [jayesh-bhoot/pin-unpin-tab](https://github.com/jayesh-bhoot/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
+* [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 * [gocom/pinceau](https://github.com/gocom/pinceau): Personal Firefox userChrome and preference customizations
 * [nicinabox/plistbuddy](https://github.com/nicinabox/plistbuddy): A handy tool to manipulate plist files. Useful for iOS development.
 * [joplin/plugin-templates](https://github.com/joplin/plugin-templates): Create templates in Joplin and use them to create new notes and todos.
