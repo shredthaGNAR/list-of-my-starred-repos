@@ -801,6 +801,7 @@
 * [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator): Chrome/Firefox extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others
 * [marcel-judth/Web_Shopify-Buy-Button-Demo](https://github.com/marcel-judth/Web_Shopify-Buy-Button-Demo): None
 * [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances): Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
+* [sblask/webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect): Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 * [tpamula/webextension-window-titler](https://github.com/tpamula/webextension-window-titler): Label your Firefox windows and profiles by modifying window title
 * [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server): Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 * [emin/WebPQuickLook](https://github.com/emin/WebPQuickLook): Mac OS X QuickLook plugin for WebP image files
