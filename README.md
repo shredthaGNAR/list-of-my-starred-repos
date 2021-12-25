@@ -680,6 +680,8 @@
 * [semvis123/Sonitus](https://github.com/semvis123/Sonitus): Noise-control like native, but for non-Apple devices
 * [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt): :rocket::star: A Zsh prompt for Astronauts
 * [friedPotat0/Spam-Scores](https://github.com/friedPotat0/Spam-Scores): Thunderbird add-on to display spam scores according to mail headers. Supports spam/ham score headers of Rspamd and SpamAssassin. The add-on adds a column with the overall spam score to the mail list view and shows details of any matched spam/ham rule.
+* [librespeed/speedtest](https://github.com/librespeed/speedtest): Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+* [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli): Command line interface for testing internet bandwidth using speedtest.net
 * [yt-dlp/SponSkrub](https://github.com/yt-dlp/SponSkrub): Strip advertisements from downloaded YouTube videos
 * [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip YouTube video sponsors (browser extension)
 * [w0lfschild/spotifyPlus](https://github.com/w0lfschild/spotifyPlus): 🎵 MacForge plugin to enhance the Spotify Desktop player on macOS

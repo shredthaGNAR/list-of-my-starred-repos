@@ -1553,6 +1553,9 @@
     "leemunroe/shopify-email-templates": [
         "Other"
     ],
+    "librespeed/speedtest": [
+        "Other"
+    ],
     "littledata/shopify-tracker": [
         "Other"
     ],
@@ -2097,6 +2100,9 @@
         "Other"
     ],
     "sindresorhus/terminal-snazzy": [
+        "Other"
+    ],
+    "sivel/speedtest-cli": [
         "Other"
     ],
     "skarif2/gmail-signature": [
