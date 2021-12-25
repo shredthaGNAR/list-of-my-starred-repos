@@ -686,6 +686,9 @@
     "aemi-dev/Fonts": [
         "Other"
     ],
+    "ageitgey/face_recognition": [
+        "Other"
+    ],
     "ago1024/userchrome": [
         "Other"
     ],
@@ -2064,6 +2067,9 @@
         "Other"
     ],
     "semvis123/Sonitus": [
+        "Other"
+    ],
+    "serengil/deepface": [
         "Other"
     ],
     "serhii-londar/open-source-mac-os-apps": [
