@@ -323,6 +323,9 @@
 * [gitx/gitx](https://github.com/gitx/gitx): The best fork of the best lightweight, visual git client for macOS. Current development focus is on modernizing, bug fixing, and removing legacy git command line usage in favour of libgit2 and objective-git.
 * [mjshofy/glass-morphism-ui-card-design](https://github.com/mjshofy/glass-morphism-ui-card-design): Learn to create a glass morphism UI card using HTML and CSS easily
 * [ravindranag/glassmorphism-in-firefox](https://github.com/ravindranag/glassmorphism-in-firefox): Create cards with acrylic effect in Firefox
+* [mr-feek/global-poker-hand-history-converter-chrome-extension](https://github.com/mr-feek/global-poker-hand-history-converter-chrome-extension): Chrome Extension for fetching Global Poker hand histories and converting them to poker stars format.
+* [sliggums/global-poker-hud](https://github.com/sliggums/global-poker-hud): non-functional global-poker chrome extension
+* [jabiddle/GlobalPokerExt](https://github.com/jabiddle/GlobalPokerExt): A Chrome extension that adds automation and statistic collection to GlobalPoker.
 * [tomatopickle/Glox](https://github.com/tomatopickle/Glox): A glassmorphistic Firefox skin, also has round elements
 * [Ipetar69/Gmail-creator](https://github.com/Ipetar69/Gmail-creator): It will generate random credentials for a new Gmail account. It autostarts Firefox and it is autotyping, you don't have to do anything other than run the script.
 * [skarif2/gmail-signature](https://github.com/skarif2/gmail-signature): :rabbit: Most elegant looking Gmail Signature in the world :metal:
