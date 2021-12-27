@@ -544,7 +544,7 @@
 * [xmansyx/Pro-Fox](https://github.com/xmansyx/Pro-Fox): A custome CSS Theme for firefox
 * [Shopify/product-reviews-sample-app](https://github.com/Shopify/product-reviews-sample-app): None
 * [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
-* [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts): This is a collection of programming fonts,just share this with the programmers.Now there are 103 kinds of fantastic fonts!
+* [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts): This is a collection of programming fonts,just share this with the programmers.Now there are 105 kinds of fantastic fonts!
 * [ProtonMail/proton-mail](https://github.com/ProtonMail/proton-mail): React web application to manage ProtonMail 
 * [sagars007/Proton-UI-connected-rounded-tabs](https://github.com/sagars007/Proton-UI-connected-rounded-tabs): Firefox Proton UI minimal changes with nav-bar-connected rounded tabs, reduced compact mode, nightly color gradient accents etc..
 * [Steccas/ProtonClient](https://github.com/Steccas/ProtonClient): An unofficial desktop client for ProtonMail done with electron nativefier
