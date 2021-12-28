@@ -45,6 +45,7 @@
 * [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer): Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
 * [ianyh/Amethyst](https://github.com/ianyh/Amethyst): Automatic tiling window manager for macOS à la xmonad.
 * [kevalpatel2106/android-ringtone-picker](https://github.com/kevalpatel2106/android-ringtone-picker): Simple Ringtone Picker dialog which allows you to pick different sounds from ringtone, alarm tone, notification tone and music from external storage.
+* [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer): Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 * [kevin-funderburg/AppleScripts](https://github.com/kevin-funderburg/AppleScripts): My collection of AppleScripts I've developed or acquired over the years.
 * [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -721,6 +722,7 @@
 * [sindresorhus/terminal-snazzy](https://github.com/sindresorhus/terminal-snazzy): Elegant Terminal theme with bright colors
 * [ncyhere/test-shopify-bloomandgrow](https://github.com/ncyhere/test-shopify-bloomandgrow): A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
 * [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver): 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds:
+* [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
 * [MorganJay/TheBox](https://github.com/MorganJay/TheBox): A responsive, asymmetrical design with HTML & CSS - Firefox!
 * [Shopify/theme-check](https://github.com/Shopify/theme-check): The Ultimate Shopify Theme Linter
 * [microsoft/theme-converter-for-vs](https://github.com/microsoft/theme-converter-for-vs): CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme.
