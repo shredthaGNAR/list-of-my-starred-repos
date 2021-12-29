@@ -469,7 +469,7 @@
 * [mpdf/mpdf](https://github.com/mpdf/mpdf): PHP library generating PDF files from UTF-8 encoded HTML
 * [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
 * [jnozsc/mpv-nightly-build](https://github.com/jnozsc/mpv-nightly-build):  🍿 Unofficial mpv nightly build for macOS
-* [sakaethossain/MR.kirof-email-signature](https://github.com/sakaethossain/MR.kirof-email-signature): None
+* [bappygazi/MR.kirof-email-signature](https://github.com/bappygazi/MR.kirof-email-signature): None
 * [ohmybahgosh/MTV-YTDLP](https://github.com/ohmybahgosh/MTV-YTDLP): Simple script using YT-DLP do download an episode from MTV.com, and then merge the resulting multiple output MP4 files using ffmpeg.  MTV episodes are split in to multiple MP4 files, so resulting output for a single episode can be between 3-11+ MP4 files.  This script is a band-aid for that.
 * [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers): Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 * [Javojav/Multi-engine-search](https://github.com/Javojav/Multi-engine-search): This Firefox extension allows you to use multiple of your installed search engines at once.
