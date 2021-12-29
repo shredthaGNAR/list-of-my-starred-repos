@@ -277,7 +277,6 @@
 * [LDK-iii/firefox-transparent-theme-mac](https://github.com/LDK-iii/firefox-transparent-theme-mac): One-line theme
 * [RobinBoers/firefox-tweaks](https://github.com/RobinBoers/firefox-tweaks): :fox_face: My current userChrome.css config for Firefox. Photon like design for Firefox.
 * [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix): 🦊 I respect proton UI and aim to improve it.
-* [DNM1008/Firefox-userChrome](https://github.com/DNM1008/Firefox-userChrome): My Firefox appearance config files
 * [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style): MDL2 + Sun Valley Theme for Firefox
 * [sagars007/Firefox-vertical-tabs-customUI](https://github.com/sagars007/Firefox-vertical-tabs-customUI): Custom userChrome and userContent.css for Firefox. Including vertical tabs(tree_style_tabs), full dark mode, thin title-bar text in nav-bar and much more.
 * [CaptainEureka/firefox-vibrancy](https://github.com/CaptainEureka/firefox-vibrancy): None
