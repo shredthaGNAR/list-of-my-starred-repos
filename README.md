@@ -72,6 +72,7 @@
 * [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars): My Awesome List
 * [vintagesucks/awesome-stars](https://github.com/vintagesucks/awesome-stars): :star: A curated list of my GitHub stars
 * [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design): 🎨 A curated list of awesome resources for digital designers.
+* [itsjoshthedeveloper/backupOneTab](https://github.com/itsjoshthedeveloper/backupOneTab): Back up and restore your OneTab Chrome extension data
 * [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator): Customize your Bash Prompt by setting the PS1 variable.
 * [beardedspice/beardedspice](https://github.com/beardedspice/beardedspice): Mac Media Keys for the Masses
 * [yokoffing/Better-Fox](https://github.com/yokoffing/Better-Fox): An up-to-date user.js to speed up and secure Firefox
@@ -301,6 +302,7 @@
 * [aemi-dev/Fonts](https://github.com/aemi-dev/Fonts): What you ever looked for.
 * [fontsource/fontsource](https://github.com/fontsource/fontsource): Self-host Open Source fonts in neatly bundled NPM packages.
 * [AveYo/fox](https://github.com/AveYo/fox): Firefox stuff
+* [bnpoirier/foxify](https://github.com/bnpoirier/foxify): Converts Chrome extensions to Firefox
 * [prabunagrajan/free-design-resources](https://github.com/prabunagrajan/free-design-resources): A collection of websites for free UI design materials for Sketch, Adobe XD, Figma, and other design tools.
 * [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube): An Open Source YouTube app for privacy
 * [tortious/FrozenFox](https://github.com/tortious/FrozenFox): A personal hodgepodge of css and js hacks to firefox that I personally enjoy. Strong emphasis on a blend of minimalism and functionality.
@@ -495,14 +497,19 @@
 * [nukeop/nuclear](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 * [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify): Nx plugin for developing performance-first Shopify themes 🚀
+* [njnmco/odinochka](https://github.com/njnmco/odinochka): featherweight tab manager
 * [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh): A prompt theme engine for any shell.
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [iansinnott/one-dark-tab](https://github.com/iansinnott/one-dark-tab): Like OneTab, but darker.
 * [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools): A theme for Firefox Devtools
 * [simurai/one-vibrancy](https://github.com/simurai/one-vibrancy): Vibrancy effect for Atom One themes
 * [lr-tech/OnelineProton](https://github.com/lr-tech/OnelineProton): An oneline userChrome.css theme for Firefox, which aims to keep the Proton experience
+* [AltarBeastiful/onetab](https://github.com/AltarBeastiful/onetab): Onetab extension unofuscated with a few keyboard shortcuts added.
+* [david-hoicka/OneTab-backup](https://github.com/david-hoicka/OneTab-backup): backup OneTab datafile using robocopy
 * [ylon/onetab-merge](https://github.com/ylon/onetab-merge): Merge util for OneTab browser extension
 * [pullup/OneTab-Night-Mode](https://github.com/pullup/OneTab-Night-Mode): Little theme for the onetab page to make it less eye raping.
+* [runoshun/onetab-sync](https://github.com/runoshun/onetab-sync): Command line utility for sync and backup OneTab Chrome extension data.
+* [Packetslave/onetab-to-bookmarks](https://github.com/Packetslave/onetab-to-bookmarks): Convert a OneTab bookmark export to the standard HTML bookmark export format
 * [cpeterso/open-page-in-private-window](https://github.com/cpeterso/open-page-in-private-window): 👻 Firefox extension to open a copy of the current page in a new Private Window
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
@@ -833,6 +840,7 @@
 * [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server): Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 * [emin/WebPQuickLook](https://github.com/emin/WebPQuickLook): Mac OS X QuickLook plugin for WebP image files
 * [AdamXweb/WhiteSurFirefoxThemeMacOS](https://github.com/AdamXweb/WhiteSurFirefoxThemeMacOS): MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
+* [selfish/window-merge-extension](https://github.com/selfish/window-merge-extension): Browser Addon/Extension to bring all open tabs into one window
 * [bit-tinker/Window-Saver](https://github.com/bit-tinker/Window-Saver): None
 * [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows and moving tabs between windows
 * [WynStaXxx/wokiee](https://github.com/WynStaXxx/wokiee): None
