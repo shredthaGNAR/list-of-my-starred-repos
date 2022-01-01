@@ -612,6 +612,7 @@
 * [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync): SessionSync
 * [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird): A universal dark theme for Thunderbird
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks
+* [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt): Managing windows size and position in OSX
 * [GregoryFore/shopfy-theme-dev](https://github.com/GregoryFore/shopfy-theme-dev): Shopify Theme Development
 * [lixonic/Shopify](https://github.com/lixonic/Shopify): Shopify resources and code snippets
 * [vuestorefront/shopify](https://github.com/vuestorefront/shopify): Vue Storefront 2 integration for Shopify
