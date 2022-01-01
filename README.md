@@ -112,6 +112,7 @@
 * [andrewchidden/btt-presets](https://github.com/andrewchidden/btt-presets): A robust BetterTouchTool preset for developer power users.
 * [mkbabb/btt-scripts](https://github.com/mkbabb/btt-scripts): A collection of utility scripts for Better Touch Tool.
 * [vas3k/btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets): BetterTouchTool Touch Bar Presets
+* [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset): BetterTouchTool Window Manager Preset
 * [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh): :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 * [huynhr36/bundle-builder](https://github.com/huynhr36/bundle-builder): Looking to use the bundle builder on your Shopify site? Here's a sample code to utilize the app if you are looking to break down product variants as individual products.
 * [dessant/buster](https://github.com/dessant/buster): Captcha solver extension for humans
