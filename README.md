@@ -782,6 +782,7 @@
 * [BPower0036/UserChrome](https://github.com/BPower0036/UserChrome): userChrome.css for FireFox and Thunderbird
 * [ago1024/userchrome](https://github.com/ago1024/userchrome): BEcuase F'
 * [annoyatron255/Userchrome](https://github.com/annoyatron255/Userchrome): My Firefox Userchrome Config
+* [Joolee/userchrome-toggle](https://github.com/Joolee/userchrome-toggle): A Firefox extension to allow a user to toggle custom userchrome styles
 * [benman604/userChrome.css](https://github.com/benman604/userChrome.css): None
 * [entepe85/userChrome.css](https://github.com/entepe85/userChrome.css): Firefox customizations to make Proton bearable (imho, of course)
 * [xarantolus/userchrome.css](https://github.com/xarantolus/userchrome.css): Firefox Proton userChrome.css customizations
