@@ -141,6 +141,7 @@
 * [PKxk8J/click-tab-move](https://github.com/PKxk8J/click-tab-move): タブ右クリックからタブを別のウインドウに送る Firefox アドオン 
 * [DevNurAlam/ClickableEmailSignatureDesign-2](https://github.com/DevNurAlam/ClickableEmailSignatureDesign-2): None
 * [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube): Replaces thumbnails and modifies titles of videos on youtube.com
+* [Wilbird/clickToPrivate](https://github.com/Wilbird/clickToPrivate): Firefox add-on to open links or current page in private mode
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
 * [webextensions/close-tab-by-double-right-click](https://github.com/webextensions/close-tab-by-double-right-click): Source code for Chrome/Firefox extension "Close Tab by Double Right Click"
 * [johncoryk/coastal-shopify-theme](https://github.com/johncoryk/coastal-shopify-theme): Shopify theme for Low Coast Coffee
