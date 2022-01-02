@@ -481,6 +481,7 @@
 * [Javojav/Multi-engine-search](https://github.com/Javojav/Multi-engine-search): This Firefox extension allows you to use multiple of your installed search engines at once.
 * [Noisy96/my-email-signature](https://github.com/Noisy96/my-email-signature): Email signature
 * [Minibus93/my-firefox-setup](https://github.com/Minibus93/my-firefox-setup): My firefox setup
+* [agneevX/my-ha-setup](https://github.com/agneevX/my-ha-setup): Home Assistant lovelace layout and config
 * [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme): My Joplin App userstyle and userchrome theme style.
 * [WynStaXxx/my-list](https://github.com/WynStaXxx/my-list): None
 * [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): UI Email Signature Generator - Make easy to create your email signature
@@ -515,6 +516,7 @@
 * [pullup/OneTab-Night-Mode](https://github.com/pullup/OneTab-Night-Mode): Little theme for the onetab page to make it less eye raping.
 * [runoshun/onetab-sync](https://github.com/runoshun/onetab-sync): Command line utility for sync and backup OneTab Chrome extension data.
 * [Packetslave/onetab-to-bookmarks](https://github.com/Packetslave/onetab-to-bookmarks): Convert a OneTab bookmark export to the standard HTML bookmark export format
+* [kukawski/Open-in-selected-Incognito-window](https://github.com/kukawski/Open-in-selected-Incognito-window): Firefox extension that allows to open link in selected incognito window from context menu
 * [cpeterso/open-page-in-private-window](https://github.com/cpeterso/open-page-in-private-window): 👻 Firefox extension to open a copy of the current page in a new Private Window
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
@@ -607,6 +609,7 @@
 * [dfiiroz/scss-to-css](https://github.com/dfiiroz/scss-to-css): Now, This is Shopify Online Store 2.0. The importance of CSS is undeniable and Shopify Deprecated the SCSS support. I have converted the gift-card.sccs & theme.scss files to gift-card.css and theme.css files.
 * [rominirani/Search-A-Profile](https://github.com/rominirani/Search-A-Profile): A Google Talk Bot that gives you details about a person from various Social Networks given an email address. Powered by Get Contact API
 * [dessant/search-by-image](https://github.com/dessant/search-by-image): Browser extension for reverse image search, available for Edge, Chrome and Safari
+* [electron0zero/search-google-in-private](https://github.com/electron0zero/search-google-in-private): Adds a Search Google in Private for in your context menu
 * [tusharahmmed/search-image](https://github.com/tusharahmmed/search-image): This is a Image Search Web Application in PHP.
 * [joelwembo/searchmediaProfilesLink](https://github.com/joelwembo/searchmediaProfilesLink): Angular CLI Seach All Social Media Profile Using an Email Account
 * [searx/searx](https://github.com/searx/searx): Privacy-respecting metasearch engine
@@ -849,6 +852,7 @@
 * [AdamXweb/WhiteSurFirefoxThemeMacOS](https://github.com/AdamXweb/WhiteSurFirefoxThemeMacOS): MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
 * [selfish/window-merge-extension](https://github.com/selfish/window-merge-extension): Browser Addon/Extension to bring all open tabs into one window
 * [bit-tinker/Window-Saver](https://github.com/bit-tinker/Window-Saver): None
+* [Wingtwz/Window-Title-Hider](https://github.com/Wingtwz/Window-Title-Hider): Webextension that hides the current tab title from the window shown on the task bar (shows browser name first)
 * [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows and moving tabs between windows
 * [WynStaXxx/wokiee](https://github.com/WynStaXxx/wokiee): None
 * [benibela/xidel](https://github.com/benibela/xidel): Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON documents.
