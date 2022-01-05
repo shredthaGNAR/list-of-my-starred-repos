@@ -715,6 +715,7 @@
 * [andreafortuna/SocialRecon](https://github.com/andreafortuna/SocialRecon): This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location of an image and it also checks whether the email is found or not.
 * [makiisthenes/socialScanner](https://github.com/makiisthenes/socialScanner): Will Search Various Platforms to Confirm An Email Exists.
 * [semvis123/Sonitus](https://github.com/semvis123/Sonitus): Noise-control like native, but for non-Apple devices
+* [cmacrae/spacebar](https://github.com/cmacrae/spacebar): A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 * [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt): :rocket::star: A Zsh prompt for Astronauts
 * [friedPotat0/Spam-Scores](https://github.com/friedPotat0/Spam-Scores): Thunderbird add-on to display spam scores according to mail headers. Supports spam/ham score headers of Rspamd and SpamAssassin. The add-on adds a column with the overall spam score to the mail list view and shows details of any matched spam/ham rule.
 * [librespeed/speedtest](https://github.com/librespeed/speedtest): Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
@@ -802,6 +803,7 @@
 * [ago1024/userchrome](https://github.com/ago1024/userchrome): BEcuase F'
 * [annoyatron255/Userchrome](https://github.com/annoyatron255/Userchrome): My Firefox Userchrome Config
 * [Joolee/userchrome-toggle](https://github.com/Joolee/userchrome-toggle): A Firefox extension to allow a user to toggle custom userchrome styles
+* [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks): A community maintained repository of userChrome.css tweaks for Firefox
 * [benman604/userChrome.css](https://github.com/benman604/userChrome.css): None
 * [entepe85/userChrome.css](https://github.com/entepe85/userChrome.css): Firefox customizations to make Proton bearable (imho, of course)
 * [xarantolus/userchrome.css](https://github.com/xarantolus/userchrome.css): Firefox Proton userChrome.css customizations
