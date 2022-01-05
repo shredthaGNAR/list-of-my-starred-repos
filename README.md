@@ -885,6 +885,7 @@
 * [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): A Desktop App for YouTube Music
 * [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi): Unofficial API for YouTube Music
 * [loveshopify/zooki](https://github.com/loveshopify/zooki): None
+* [li-zyang/zScripts](https://github.com/li-zyang/zScripts): Repository of my userscripts
 * [vaeth/zshrc-mv](https://github.com/vaeth/zshrc-mv): This is a zsh initialization file (e.g. /etc/zshrc or ~/.zshrc) which activates a lot of zsh features
 
 
