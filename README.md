@@ -205,6 +205,7 @@
 * [Mortennn/Dozer](https://github.com/Mortennn/Dozer): Hide menu bar icons on macOS
 * [coolaj86/dropshare](https://github.com/coolaj86/dropshare): A min.us / ge.tt file share clone.
 * [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper): A simple bash script to set wallpapers according to current time, using cron job scheduler.
+* [zx1262111739/DynamicWallpaper](https://github.com/zx1262111739/DynamicWallpaper): Mac dynamic wallpaper program
 * [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye): Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 * [easylist/easylist](https://github.com/easylist/easylist): EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 * [bmFtZQ/Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox): A userChrome.css theme for Firefox that replicates Microsoft Edge
@@ -443,8 +444,10 @@
 * [lra/mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
 * [hazcod/maclaunch](https://github.com/hazcod/maclaunch): Manage your macOS startup items.
 * [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults): Incomplete list of macOS `defaults` commands with demos ✨
+* [CyanFi/macos-dynamic-wallpaper](https://github.com/CyanFi/macos-dynamic-wallpaper): A simple dynamic wallpaper script on macOS
 * [yuanqing/macos-keyboard-shortcuts](https://github.com/yuanqing/macos-keyboard-shortcuts): :keyboard: A CLI to set application-specific keyboard shortcuts for macOS
 * [MaorS/macOS-PasswordManager](https://github.com/MaorS/macOS-PasswordManager): 🔑👨‍💻macOS Password Manager
+* [sindresorhus/macos-wallpaper](https://github.com/sindresorhus/macos-wallpaper): Manage the desktop wallpaper on macOS
 * [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements): Replacement icons for popular apps in the style of macOS Big Sur
 * [Tnings/MacosVibrant](https://github.com/Tnings/MacosVibrant): None
 * [MacPass/MacPass](https://github.com/MacPass/MacPass): A native OS X KeePass client 

@@ -125,6 +125,9 @@
     "Cookie-AutoDelete/Cookie-AutoDelete": [
         "Other"
     ],
+    "CyanFi/macos-dynamic-wallpaper": [
+        "Other"
+    ],
     "Cyanhall/awesome-javascript": [
         "Other"
     ],
@@ -2273,6 +2276,9 @@
     "sindresorhus/iterm2-snazzy": [
         "Other"
     ],
+    "sindresorhus/macos-wallpaper": [
+        "Other"
+    ],
     "sindresorhus/quick-look-plugins": [
         "Other"
     ],
@@ -2655,6 +2661,9 @@
         "Other"
     ],
     "zvuc/firefox-sliding-bookmarks-bar": [
+        "Other"
+    ],
+    "zx1262111739/DynamicWallpaper": [
         "Other"
     ]
 }
