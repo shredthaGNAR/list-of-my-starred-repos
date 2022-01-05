@@ -164,6 +164,7 @@
 * [estelle/CSS3Gradients](https://github.com/estelle/CSS3Gradients): Library of CSS3 Gradients
 * [Kungfoowiz/cssSuggestionsVSCode](https://github.com/Kungfoowiz/cssSuggestionsVSCode): Visual Studio Code Extension: CSS suggestions for Properties and Values.
 * [jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify](https://github.com/jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify): Monogram functionality using custom options
+* [Ahmed-Elswerky/custom-script-for-dark-theme](https://github.com/Ahmed-Elswerky/custom-script-for-dark-theme): this is a custom script repository,
 * [MrOtherGuy/custom_captions_webExt](https://github.com/MrOtherGuy/custom_captions_webExt): None
 * [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx): Custom CSS tweaks for Firefox
 * [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb): Custom user styles for Thunderbird 68+
@@ -324,6 +325,7 @@
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
 * [RaKeerS/Gif-Finder](https://github.com/RaKeerS/Gif-Finder): This is a web app created to be utilized in order to fetch the Gif Images from the Giphy Images Repository. It offer different categories and also a custom search tool in order to find what you exactly need! 
 * [defunkt/gist](https://github.com/defunkt/gist): Potentially the best command line gister.
+* [StylishThemes/GitHub-Dark-Script](https://github.com/StylishThemes/GitHub-Dark-Script): Archived - Please use https://github.com/StylishThemes/GitHub-Dark directly
 * [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List): Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
 * [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts): Userscripts to add functionality to GitHub
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
@@ -343,6 +345,7 @@
 * [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT): The complete Touch Bar UI replacement for BetterTouchTool
 * [min-uuu/GoldenRabbit-BTT](https://github.com/min-uuu/GoldenRabbit-BTT): MacBook Pro touchbar custom. Perfectly Optimized BTT(Better Touch Tool) Preset.
 * [GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify](https://github.com/GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify): Google Analytics Dynamic Remarketing Code for Shopify
+* [elibroftw/google-dark-theme](https://github.com/elibroftw/google-dark-theme): A dark theme for Google based on YouTube's dark theme
 * [cheap-glitch/google-keep-to-clipboard](https://github.com/cheap-glitch/google-keep-to-clipboard): 🗒️ A tiny browser extension to copy the contents of Google Keep notes to the clipboard in various formats.
 * [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool): Tool for deleting all photos from the Google Photos
 * [scrapewalrus/Google-Shopping-Scraper](https://github.com/scrapewalrus/Google-Shopping-Scraper): This is a python Google Shopping scraper that can scrape all the products by searching for a keyword.
@@ -589,6 +592,7 @@
 * [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover): A Python utility for moving bookmarks/reading lists between services
 * [bhavsec/reconspider](https://github.com/bhavsec/reconspider): 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 * [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle): Move and resize windows on macOS with keyboard shortcuts and snap areas
+* [marioortizmanero/reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google): Button on Google to search only for Reddit posts
 * [refined-github/refined-github](https://github.com/refined-github/refined-github): :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 * [shroudedcode/refined-prime-video](https://github.com/shroudedcode/refined-prime-video): 🍿 ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video
 * [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX): ReFleX - Deep Image Recognition Bot
