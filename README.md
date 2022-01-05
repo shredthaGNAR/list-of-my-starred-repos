@@ -395,6 +395,7 @@
 * [benji300/joplin-note-tabs](https://github.com/benji300/joplin-note-tabs): Allows to open several notes at once in tabs and pin them.
 * [WinkoErades/Joplin-note-taking-templates](https://github.com/WinkoErades/Joplin-note-taking-templates): Joplin note taking templates
 * [benji300/joplin-persistent-layout](https://github.com/benji300/joplin-persistent-layout): Save editor layout (editor/split view/viewer/rich text) for each note separately.
+* [hieuthi/joplin-plugin-metis](https://github.com/hieuthi/joplin-plugin-metis): A Simple Task Manager Plugin for Joplin based on Todo.txt Specification
 * [roman-r-m/joplin-plugin-table-formatter](https://github.com/roman-r-m/joplin-plugin-table-formatter): Markdown table format plugin for Joplin
 * [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme): My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inklusive a special Bullet Journal css style.
 * [hrqmonteiro/joplin-theme](https://github.com/hrqmonteiro/joplin-theme): My Joplin theme files, including userchrome.css and userstyles.css, as well as some markdown templates for my notes.
@@ -769,6 +770,7 @@
 * [OlegPoljakov/TinderPeopleFinder_Yandex_Images](https://github.com/OlegPoljakov/TinderPeopleFinder_Yandex_Images): This program helps to find people from tinder in some other social medias. It takes the screenshot of tinder profile, cuts the image and search it in Yandex Image. All you need to do is to choose the pictures and push few buttons.
 * [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle): None
 * [victor-savinov/todo](https://github.com/victor-savinov/todo): ToDo - Chrome Extension. Make checklists and more.
+* [mjdescy/TodoTxtMac](https://github.com/mjdescy/TodoTxtMac): TodoTxtMac is a minimalist, keyboard-driven to-do manager for Mac OS X (10.8 Mountain Lion and higher) that conforms to the todo.txt format spec.
 * [Calvin-LL/toggleairport](https://github.com/Calvin-LL/toggleairport): A script for macOS to turn off WiFi when Ethernet is plugged in, and turn on WiFi when Ethernet is unplugged
 * [tangledhelix/toggleAirport](https://github.com/tangledhelix/toggleAirport): Toggle Airport power based on presence of wired ethernet
 * [MrOtherGuy/ToyfoCSS](https://github.com/MrOtherGuy/ToyfoCSS): Guide to introduce basic CSS concepts and progressively advance into Firefox CSS hacking
