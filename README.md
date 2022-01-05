@@ -31,6 +31,8 @@
 * [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast): Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
 * [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine): Add a custom search engine to the list of available search engines in Firefox
 * [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title): A Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
+* [himanshukumar660/Address-Validation](https://github.com/himanshukumar660/Address-Validation): This is a website where user can perform Address Verification.
+* [mkoryak/address-validator](https://github.com/mkoryak/address-validator): nodejs address validator via google api
 * [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt): The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
@@ -375,6 +377,7 @@
 * [potsky/iajai-email-signature](https://github.com/potsky/iajai-email-signature): None
 * [lucaburgio/iconoir](https://github.com/lucaburgio/iconoir): A Simple and Definitive Open-Source Icons Library
 * [FirefoxUX/icons](https://github.com/FirefoxUX/icons): SVG icons used in Firefox. View all icons here:
+* [Sumeet-R/ID-Lookup](https://github.com/Sumeet-R/ID-Lookup): A search tool that can find exposed email addresses and mobile numbers on Internet.
 * [ProvenanceLabs/image-match](https://github.com/ProvenanceLabs/image-match): 🎇 Quickly search over billions of images
 * [eight04/image-picka](https://github.com/eight04/image-picka): A Firefox/Chrome extension helping you download images.
 * [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine): Web app to search similar images
@@ -424,6 +427,7 @@
 * [lando/lando](https://github.com/lando/lando): A development tool for all your projects that is fast, easy, powerful and liberating
 * [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop): Drop any files to any devices on your LAN.
 * [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool): Style and Grammar Checker for 25+ Languages
+* [stuyam/laravel-phone-validator](https://github.com/stuyam/laravel-phone-validator): A phone validator for Laravel using the free Twilio phone lookup service.
 * [AlexisDrain/Less-Addictive-YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube): Cross-browser plugin to remove addictive features on YT like thumbnails, comments, & previews
 * [spikecodes/libreddit](https://github.com/spikecodes/libreddit): Private front-end for Reddit
 * [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
@@ -512,6 +516,7 @@
 * [nuttyartist/notes](https://github.com/nuttyartist/notes): Note-taking application, write down your thoughts.
 * [MrOtherGuy/ntp_titler](https://github.com/MrOtherGuy/ntp_titler): Simple browser extension adding a window prefix to new tabs
 * [nukeop/nuclear](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
+* [apilayer/numverify-API](https://github.com/apilayer/numverify-API): Free global phone number validation & lookup JSON API
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 * [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify): Nx plugin for developing performance-first Shopify themes 🚀
 * [njnmco/odinochka](https://github.com/njnmco/odinochka): featherweight tab manager
@@ -812,6 +817,7 @@
 * [gorhill/uMatrix](https://github.com/gorhill/uMatrix): uMatrix: Point and click matrix to filter net requests according to source, destination and type
 * [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu): Firefox webextension to add an undo closed tabs menu to tabs.
 * [JYLD/User-CSS-For-Firefox-And-Thunderbird](https://github.com/JYLD/User-CSS-For-Firefox-And-Thunderbird): User CSS Contributions For CustomizeMyBird and Custom CSS For FX
+* [taitems/user-email-enrichment](https://github.com/taitems/user-email-enrichment): A free, open source tool to lookup user identities by email address
 * [arkenfox/user.js](https://github.com/arkenfox/user.js): Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 * [pyllyukko/user.js](https://github.com/pyllyukko/user.js): user.js -- Firefox configuration hardening
 * [BPower0036/UserChrome](https://github.com/BPower0036/UserChrome): userChrome.css for FireFox and Thunderbird
