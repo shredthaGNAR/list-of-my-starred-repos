@@ -25,6 +25,7 @@
 * [earthlng/aboutconfig](https://github.com/earthlng/aboutconfig): None
 * [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu): Shortcuts to settings in about:config, through a button on toolbar. Firefox userChrome script 🛠️
 * [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify): Deploy Shopify theme with Theme Kit on GitHub Actions
+* [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify): Deploy Shopify theme with Theme Kit on GitHub Actions
 * [techgaun/active-forks](https://github.com/techgaun/active-forks): Find active github forks of a repo https://git.io/vSnrC
 * [AdAway/AdAway](https://github.com/AdAway/AdAway): AdAway is a free and open source ad blocker for Android. 
 * [Yuki2718/adblock](https://github.com/Yuki2718/adblock): Personal filters and rules for AdGuard/uBlock Origin
@@ -393,6 +394,7 @@
 * [tessus/joplin-custom-css](https://github.com/tessus/joplin-custom-css): 📝 My custom styles for Joplin, the open source note taking app
 * [gonzalovsilva/joplin-dark-theme](https://github.com/gonzalovsilva/joplin-dark-theme): None
 * [benji300/joplin-favorites](https://github.com/benji300/joplin-favorites): Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access.
+* [LongBay/Joplin-Light-Theme](https://github.com/LongBay/Joplin-Light-Theme): A light theme for Joplin
 * [LongBay/Joplin-Light-Theme](https://github.com/LongBay/Joplin-Light-Theme): A light theme for Joplin
 * [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme): Native looking macOS theme for note taking app Joplin
 * [amandamcg/joplin-new-theme-sandbox](https://github.com/amandamcg/joplin-new-theme-sandbox): Testing CSS ideas for the new theme
