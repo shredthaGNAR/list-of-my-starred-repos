@@ -251,7 +251,6 @@
 * [Mrbigdog99/Firefox-compact](https://github.com/Mrbigdog99/Firefox-compact): Compact userChrome for Firefox Proton
 * [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement): None
 * [m3tro1d/firefox-config](https://github.com/m3tro1d/firefox-config): My Firefox configuration
-* [DominikMarcinowski/firefox-css](https://github.com/DominikMarcinowski/firefox-css): None
 * [HamletDuFromage/firefox-css](https://github.com/HamletDuFromage/firefox-css): None
 * [akisblack/firefox-css](https://github.com/akisblack/firefox-css): My custom CSS for Firefox 
 * [pdtxie/firefox-css](https://github.com/pdtxie/firefox-css): None
@@ -266,6 +265,7 @@
 * [jeremyperkin/Firefox-macOS-setup](https://github.com/jeremyperkin/Firefox-macOS-setup): userChrome.css and userContent.css files.
 * [nchlscs/firefox-macos-style](https://github.com/nchlscs/firefox-macos-style): Firefox style inspired by Safari of macOS
 * [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox Proton - Blur Mod / For dark theme lovers / Blurred search and bookmarks bar
+* [DominikMarcinowski/firefox-mods](https://github.com/DominikMarcinowski/firefox-mods): None
 * [giovannicaligaris/firefox-phosh-theme](https://github.com/giovannicaligaris/firefox-phosh-theme): None
 * [Azexios/firefox-photon](https://github.com/Azexios/firefox-photon): None
 * [nt0g/firefox-profile-stuff](https://github.com/nt0g/firefox-profile-stuff): As advertised on TV !
