@@ -615,7 +615,7 @@
 * [coekuss/quietfox](https://github.com/coekuss/quietfox): Very Clean Firefox userChrome Mod
 * [Shad0wSeven/Quietfox-Proton](https://github.com/Shad0wSeven/Quietfox-Proton): Quietfox release for Proton, upgrades and improvments from myself, and from the Lepton project
 * [TheGITofTeo997/quietfoxReborn](https://github.com/TheGITofTeo997/quietfoxReborn): Trying to resurrect a very Clean Firefox userChrome Mod
-* [1280px/rainfox](https://github.com/1280px/rainfox): It's like Photon, but better.
+* [1280px/rainfox](https://github.com/1280px/rainfox): Photon UI, re-imagined.
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 * [iampueroo/rComments](https://github.com/iampueroo/rComments): Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
