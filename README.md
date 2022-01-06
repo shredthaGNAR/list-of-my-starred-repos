@@ -22,6 +22,7 @@
 * [badmojr/1Hosts](https://github.com/badmojr/1Hosts): DNS filter-/blocklists for privacy. security. & clean browsing!
 * [tortious/2021_Firefox](https://github.com/tortious/2021_Firefox): Updated config settings & possibilities for Firefox. This includes all file types (css; uc.js; js; etc) and other tips and tricks, including about:config tweaks
 * [rsapkf/42](https://github.com/rsapkf/42): @rsapkf's linkroll.
+* [Lexxrt/9xe3](https://github.com/Lexxrt/9xe3): 9xe3 - Social Media Hunter
 * [earthlng/aboutconfig](https://github.com/earthlng/aboutconfig): None
 * [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu): Shortcuts to settings in about:config, through a button on toolbar. Firefox userChrome script 🛠️
 * [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify): Deploy Shopify theme with Theme Kit on GitHub Actions
@@ -119,6 +120,7 @@
 * [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh): :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 * [huynhr36/bundle-builder](https://github.com/huynhr36/bundle-builder): Looking to use the bundle builder on your Shopify site? Here's a sample code to utilize the app if you are looking to break down product variants as individual products.
 * [dessant/buster](https://github.com/dessant/buster): Captcha solver extension for humans
+* [sham00n/buster](https://github.com/sham00n/buster): An advanced tool for email reconnaissance
 * [alextidalrise/bysofie-shipping-message](https://github.com/alextidalrise/bysofie-shipping-message): None
 * [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew): Manage your Homebrew formulas with style using Cakebrew.
 * [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs): Homebrew GUI App written in electron
@@ -221,6 +223,7 @@
 * [Van-Code/email-signature-generator](https://github.com/Van-Code/email-signature-generator):  html email signature generator
 * [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template): An email signature template made using HTML & CSS - let's make its easier for everyone!
 * [bluginbuhl/email-signatures](https://github.com/bluginbuhl/email-signatures): Custom HTML/CSS e-mail signatures for Gmail
+* [maldevel/EmailHarvester](https://github.com/maldevel/EmailHarvester): Email addresses harvester
 * [crowdproperty/EmailSignatureMachine](https://github.com/crowdproperty/EmailSignatureMachine): You here to make some email signatures
 * [Sav22999/emoji](https://github.com/Sav22999/emoji): "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 * [hrai/english-popup-thesaurus](https://github.com/hrai/english-popup-thesaurus): Thesaurus firefox add-on.
@@ -334,6 +337,7 @@
 * [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts): Userscripts to add functionality to GitHub
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [gitx/gitx](https://github.com/gitx/gitx): The best fork of the best lightweight, visual git client for macOS. Current development focus is on modernizing, bug fixing, and removing legacy git command line usage in favour of libgit2 and objective-git.
+* [4xx404/Glass-Frog](https://github.com/4xx404/Glass-Frog): Keyword Search & Information Gathering Tool
 * [mjshofy/glass-morphism-ui-card-design](https://github.com/mjshofy/glass-morphism-ui-card-design): Learn to create a glass morphism UI card using HTML and CSS easily
 * [ravindranag/glassmorphism-in-firefox](https://github.com/ravindranag/glassmorphism-in-firefox): Create cards with acrylic effect in Firefox
 * [5starkarma/global-poker-addons](https://github.com/5starkarma/global-poker-addons): Quick Seat/Automated Tiling/Hotkey Tool
@@ -387,6 +391,7 @@
 * [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients): An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
 * [AvocadoSpoon/Informant](https://github.com/AvocadoSpoon/Informant): Informant is a macOS menu bar app that lets you inspect files with a single click. 🔍
 * [noahbuscher/inspire](https://github.com/noahbuscher/inspire): Collection of web design & development links :bulb:
+* [instantusername/instant-username-search](https://github.com/instantusername/instant-username-search): ⚡ Instantly search for the availability of your username on more than 100 social media sites.
 * [iv-org/invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
 * [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy): Elegant iTerm2 theme with bright colors
 * [quedayone/jamf-pro-scripts](https://github.com/quedayone/jamf-pro-scripts): Scripts that I use in my JSS.
@@ -461,6 +466,7 @@
 * [fharper/macsetup](https://github.com/fharper/macsetup): Scripts to setup my mac
 * [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+* [soxoj/marple](https://github.com/soxoj/marple): 📖 Collect links to profiles by username through search engines and analyze with various plugins
 * [arp242/MartinFox](https://github.com/arp242/MartinFox): Really simple userChrome.css for Firefox 89 to make the active tab stand out more
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
 * [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
@@ -542,6 +548,8 @@
 * [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig): Add ligatures to Operator Mono similar to Fira Code
 * [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates): Customize free Shopify Order Printer templates.
 * [loveshopify/orium](https://github.com/loveshopify/orium): None
+* [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list): A list of tools to search accounts by username
+* [rlyonheart/osinteye](https://github.com/rlyonheart/osinteye): A user reconnaisance tool that extracts a target's information from Instagram, DockerHub & Github. Also searches for matching usernames on Github.
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
 * [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config): macOS Scripting for Configuration, Backup and Restore
 * [sveinbjornt/osxiconutils](https://github.com/sveinbjornt/osxiconutils): A suite of command line utilities for working with Mac icons
@@ -782,6 +790,7 @@
 * [Shopify/themekit](https://github.com/Shopify/themekit): Shopify theme development command line tool.
 * [baileylatimer/ThemeKit](https://github.com/baileylatimer/ThemeKit): Built for GoSun (gosun.co). Made with ♥ by Latimer Design.
 * [brohlson/themekit-webpack-tailwind](https://github.com/brohlson/themekit-webpack-tailwind): Shopify Themekit with Webpack & Tailwind CSS 
+* [rlyonheart/thorndyke](https://github.com/rlyonheart/thorndyke): Username reconnaisance tool that checks the availability of a specified username on over 200 websites.
 * [metux/thunderbird](https://github.com/metux/thunderbird): None
 * [sms77io/thunderbird](https://github.com/sms77io/thunderbird): Send SMS from within Thunderbird
 * [metux/thunderbird-2](https://github.com/metux/thunderbird-2): thunderbird 2nd try ... v68.0
@@ -816,6 +825,7 @@
 * [DeweyReed/UltimateRingtonePicker](https://github.com/DeweyReed/UltimateRingtonePicker): An Android music picker library for picking alarm, notification or ringtones sound using an Activity or a dialog.
 * [gorhill/uMatrix](https://github.com/gorhill/uMatrix): uMatrix: Point and click matrix to filter net requests according to source, destination and type
 * [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu): Firefox webextension to add an undo closed tabs menu to tabs.
+* [TrollSkull/uScanner](https://github.com/TrollSkull/uScanner): uScanner is a tool to find usernames on various pages throughout the entire internet.
 * [JYLD/User-CSS-For-Firefox-And-Thunderbird](https://github.com/JYLD/User-CSS-For-Firefox-And-Thunderbird): User CSS Contributions For CustomizeMyBird and Custom CSS For FX
 * [taitems/user-email-enrichment](https://github.com/taitems/user-email-enrichment): A free, open source tool to lookup user identities by email address
 * [arkenfox/user.js](https://github.com/arkenfox/user.js): Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
@@ -835,6 +845,7 @@
 * [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-): UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
 * [tortious/userChrome.js-userChrome.css-Favorites](https://github.com/tortious/userChrome.js-userChrome.css-Favorites): None
 * [jikamens/userChromeJS](https://github.com/jikamens/userChromeJS): Re-implementation of the userChromeJS add-on for Thunderbird 60+
+* [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner): Fast & Accurate Username Scanner (Frontend)
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
 * [darkred/Userscripts](https://github.com/darkred/Userscripts): My userscripts
 * [jwilk/userscripts](https://github.com/jwilk/userscripts): Jakub's custom CSS and JavaScript (for dotPageMod Firefox extension)
@@ -880,6 +891,7 @@
 * [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances): Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
 * [sblask/webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect): Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 * [tpamula/webextension-window-titler](https://github.com/tpamula/webextension-window-titler): Label your Firefox windows and profiles by modifying window title
+* [RoboMx/WebIDHunt](https://github.com/RoboMx/WebIDHunt): Client based app to get information about username availability from different important websites. This tool can be used by startups, tech enthusiast, and people who want to block particular username on important domains.
 * [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server): Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
 * [emin/WebPQuickLook](https://github.com/emin/WebPQuickLook): Mac OS X QuickLook plugin for WebP image files
 * [AdamXweb/WhiteSurFirefoxThemeMacOS](https://github.com/AdamXweb/WhiteSurFirefoxThemeMacOS): MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
