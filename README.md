@@ -473,6 +473,7 @@
 * [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
 * [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur): A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
 * [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking): Local ad blocker. Like Pi-hole but local and using your operating system.
+* [lightward/mechanic-tasks](https://github.com/lightward/mechanic-tasks): Public task repository for Mechanic (https://mechanic.dev)
 * [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader): Media Downloader is a Qt/C++ front end to youtube-dl
 * [yousseb/meld](https://github.com/yousseb/meld): Meld for macOS
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser Extension to full-text search your browsing history & bookmarks.
