@@ -389,7 +389,6 @@
 * [ashwinishet/Image-Web-Scraper](https://github.com/ashwinishet/Image-Web-Scraper): This application is used for scraping images from google image search
 * [spidergears/import_chrome_bookmarks_to_pocket](https://github.com/spidergears/import_chrome_bookmarks_to_pocket): Simple chrome extension to import all your chrome bookmarks to Pocket.com account
 * [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients): An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
-* [AvocadoSpoon/Informant](https://github.com/AvocadoSpoon/Informant): Informant is a macOS menu bar app that lets you inspect files with a single click. 🔍
 * [noahbuscher/inspire](https://github.com/noahbuscher/inspire): Collection of frontend dev and web design links :bulb:
 * [instantusername/instant-username-search](https://github.com/instantusername/instant-username-search): ⚡ Instantly search for the availability of your username on more than 100 social media sites.
 * [iv-org/invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
