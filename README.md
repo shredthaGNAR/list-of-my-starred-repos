@@ -46,6 +46,7 @@
 * [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app): Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 * [Godiesc/AlpenBlue](https://github.com/Godiesc/AlpenBlue): Theme to blue lovers
 * [WynStaXxx/AlpenBr0-firefox-theme](https://github.com/WynStaXxx/AlpenBr0-firefox-theme): Alpenfox custom theme eith glowing gradient active tab and gradient to transparent hover plus other mods. Use with firefox alpenglow for look in pics or use default dark/light for transparent theme with cool look.
+* [marcel-kraatz/alpenglow-thunderbird](https://github.com/marcel-kraatz/alpenglow-thunderbird): The Firefox "Alpenglow" Theme for Thunderbird.
 * [amym321/am-studio-site](https://github.com/amym321/am-studio-site): AM Studio website
 * [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer): Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
 * [ianyh/Amethyst](https://github.com/ianyh/Amethyst): Automatic tiling window manager for macOS à la xmonad.
