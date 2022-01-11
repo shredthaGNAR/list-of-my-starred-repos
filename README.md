@@ -773,6 +773,7 @@
 * [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash): Firefox extension to save and restore tabs as bookmarks
 * [gmes78/tab_move](https://github.com/gmes78/tab_move): Firefox addon that lets you move a tab to the start or the end of the tab bar
 * [menhera-org/TabArray](https://github.com/menhera-org/TabArray): Chrome-like tab groups using isolated containers: The ultimate tab manager and groups for Firefox
+* [lbragile/TabMerger](https://github.com/lbragile/TabMerger): TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
 * [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
 * [DanielDe/TabRearranger](https://github.com/DanielDe/TabRearranger): Chrome extension to rearrange tabs and move them between windows using keyboard shortcuts
 * [tim-we/tabs-aside](https://github.com/tim-we/tabs-aside): A session/tab manager web extension for Firefox based on the Microsoft Edge feature.
