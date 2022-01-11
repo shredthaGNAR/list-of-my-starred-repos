@@ -265,6 +265,7 @@
 * [whitelightning76/Firefox-dark-theme](https://github.com/whitelightning76/Firefox-dark-theme): Just another dark theme
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
 * [pratyushtewari/firefox-like-chrome](https://github.com/pratyushtewari/firefox-like-chrome): This is the userChrome.css that can be used to theme Firfox Quantum 59.0 to look like chrome
+* [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-): Light theme on Firefox 
 * [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar): macOS Native-looking Translucent Tabbar for Firefox
 * [jeremyperkin/Firefox-macOS-setup](https://github.com/jeremyperkin/Firefox-macOS-setup): userChrome.css and userContent.css files.
 * [nchlscs/firefox-macos-style](https://github.com/nchlscs/firefox-macos-style): Firefox style inspired by Safari of macOS
