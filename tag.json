@@ -905,9 +905,6 @@
     "baileylatimer/adobe-illustrator": [
         "Other"
     ],
-    "baileylatimer/gosun_dev": [
-        "Other"
-    ],
     "bappygazi/MR.kirof-email-signature": [
         "Other"
     ],
@@ -1937,6 +1934,9 @@
     "mozilla/multi-account-containers": [
         "Other"
     ],
+    "mozilla/releases-comm-central": [
+        "Other"
+    ],
     "mpdf/mpdf": [
         "Other"
     ],
@@ -2445,6 +2445,9 @@
         "Other"
     ],
     "sunil209/shopify_themekit": [
+        "Other"
+    ],
+    "sunlightworks/gosun_dev": [
         "Other"
     ],
     "sveinbjornt/osxiconutils": [
