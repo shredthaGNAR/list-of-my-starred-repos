@@ -656,6 +656,8 @@
 * [117649/SavedPasswordEditorRedux](https://github.com/117649/SavedPasswordEditorRedux): Gecko application to allow creating and editing saved passwords 
 * [mdreier/savetabs](https://github.com/mdreier/savetabs): Save current tabs extension for Firefox
 * [shoekla/ScrapeC](https://github.com/shoekla/ScrapeC): ScrapeC is a “mock” search engine, in the fact that it does a lot of what Bing, YouTube, and DuckDuckGo does, but instead of searching its own database it crawls and scrape these search engines and other websites. Along with return links, images, and videos of searches it also return PDFs, Social Media information (Facebook, Twitter, Google+), and Contact Information related to the links that it returns. On top of that ScrapeC also has the same features on a smaller scale for web addresses used as an input. Link: http://scrapec.pythonanywhere.com/
+* [hotchemi/Scre](https://github.com/hotchemi/Scre): A lightweight screen recorder macOS application written in SwiftUI.
+* [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity): The most powerful screen recorder & annotation tool for Chrome 🎥
 * [dfiiroz/scss-to-css](https://github.com/dfiiroz/scss-to-css): Now, This is Shopify Online Store 2.0. The importance of CSS is undeniable and Shopify Deprecated the SCSS support. I have converted the gift-card.sccs & theme.scss files to gift-card.css and theme.css files.
 * [rominirani/Search-A-Profile](https://github.com/rominirani/Search-A-Profile): A Google Talk Bot that gives you details about a person from various Social Networks given an email address. Powered by Get Contact API
 * [dessant/search-by-image](https://github.com/dessant/search-by-image): Browser extension for reverse image search, available for Chrome, Edge and Safari
@@ -920,6 +922,9 @@
 * [StigNygaard/xIFr](https://github.com/StigNygaard/xIFr): Exif viewer WebExtension for Firefox [and Chrome] compatible webbrowsers
 * [koekeishiya/yabai](https://github.com/koekeishiya/yabai): A tiling window manager for macOS based on binary space partitioning
 * [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator): 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
+* [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner): Custom firmware for Yi 1080p camera based on Allwinner platform
+* [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2): Custom firmware for Yi 1080p camera based on Allwinner platform
+* [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4): New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
 * [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 * [murrty/youtube-dl-gui](https://github.com/murrty/youtube-dl-gui): Download/Convert videos from websites without needing to learn command line
 * [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): A cross platform front-end GUI of the popular youtube-dl written in wxPython.
