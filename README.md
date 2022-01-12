@@ -355,6 +355,7 @@
 * [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT): The complete Touch Bar UI replacement for BetterTouchTool
 * [min-uuu/GoldenRabbit-BTT](https://github.com/min-uuu/GoldenRabbit-BTT): MacBook Pro touchbar custom. Perfectly Optimized BTT(Better Touch Tool) Preset.
 * [GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify](https://github.com/GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify): Google Analytics Dynamic Remarketing Code for Shopify
+* [blyad2137/google-dark-theme](https://github.com/blyad2137/google-dark-theme): The Ultimate Dark Theme for Google.
 * [elibroftw/google-dark-theme](https://github.com/elibroftw/google-dark-theme): A dark theme for Google based on YouTube's dark theme
 * [cheap-glitch/google-keep-to-clipboard](https://github.com/cheap-glitch/google-keep-to-clipboard): 🗒️ A tiny browser extension to copy the contents of Google Keep notes to the clipboard in various formats.
 * [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool): Tool for deleting all photos from the Google Photos
