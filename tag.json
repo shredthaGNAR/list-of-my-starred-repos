@@ -1013,6 +1013,9 @@
     "cassidoo/shopify-next-netlify": [
         "Other"
     ],
+    "cc-archive/ccsearch-browser-extension": [
+        "Other"
+    ],
     "ccat3z/stars": [
         "Other"
     ],
@@ -1086,9 +1089,6 @@
         "Other"
     ],
     "craigerm/shopify-theme-dev": [
-        "Other"
-    ],
-    "creativecommons/ccsearch-browser-extension": [
         "Other"
     ],
     "crestonbunch/ff-ctrl-e": [
@@ -2676,6 +2676,12 @@
         "Other"
     ],
     "wlcr/shopify-product-previews": [
+        "Other"
+    ],
+    "wulkano/Aperture": [
+        "Other"
+    ],
+    "wulkano/Kap": [
         "Other"
     ],
     "xDae/vscode-snazzy-theme": [

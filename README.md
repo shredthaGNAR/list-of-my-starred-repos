@@ -52,6 +52,7 @@
 * [ianyh/Amethyst](https://github.com/ianyh/Amethyst): Automatic tiling window manager for macOS à la xmonad.
 * [kevalpatel2106/android-ringtone-picker](https://github.com/kevalpatel2106/android-ringtone-picker): Simple Ringtone Picker dialog which allows you to pick different sounds from ringtone, alarm tone, notification tone and music from external storage.
 * [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer): Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
+* [wulkano/Aperture](https://github.com/wulkano/Aperture): Record the screen on macOS
 * [kevin-funderburg/AppleScripts](https://github.com/kevin-funderburg/AppleScripts): My collection of AppleScripts I've developed or acquired over the years.
 * [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -133,7 +134,7 @@
 * [quiteconfused/CatImageInfo](https://github.com/quiteconfused/CatImageInfo): Image Recognition through known Social Media also known as "Search by Image or Google Goggles". Tools to dynamically identify and rename images based on image content in a directory or in a tcpdump'ish fashion
 * [unixpickle/cbyge](https://github.com/unixpickle/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
 * [chriswayg/CC-Offline-Package-Generator](https://github.com/chriswayg/CC-Offline-Package-Generator): Adobe CC 2018, 2019 and 2020 Direct Download and Offline Installer Package Generator 
-* [creativecommons/ccsearch-browser-extension](https://github.com/creativecommons/ccsearch-browser-extension): Cross-Browser extension to search, filter and use images in the public domain and under Creative Commons licenses.
+* [cc-archive/ccsearch-browser-extension](https://github.com/cc-archive/ccsearch-browser-extension): [PROJECT TRANSFERRED] Cross-Browser extension to search, filter and use images in the public domain and under Creative Commons licenses.
 * [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper): Kills Adobe's pesky background apps, and more!
 * [jbtule/cdto](https://github.com/jbtule/cdto): Finder Toolbar app to open the current directory in the Terminal
 * [Adobe-CEP/CEP-Resources](https://github.com/Adobe-CEP/CEP-Resources): Tools and documentation for building Creative Cloud app extensions with CEP
@@ -428,6 +429,7 @@
 * [LaneCommunityCollege/jquery-signature](https://github.com/LaneCommunityCollege/jquery-signature): a jQuery based email signature generator
 * [kucherenko/jscpd](https://github.com/kucherenko/jscpd): Copy/paste detector for programming source code.
 * [EragonJ/Kaku](https://github.com/EragonJ/Kaku): 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
+* [wulkano/Kap](https://github.com/wulkano/Kap): An open-source screen recorder built with web technology
 * [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements): Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 * [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications): Karabiner-Elements complex_modifications rules
 * [lukassr/keep-desktop](https://github.com/lukassr/keep-desktop): Google Keep Dark: Desktop application for Windows, Mac and Linux with Dark Theme.
