@@ -774,7 +774,9 @@
 * [jonashellmann/skip-prime-video-intro](https://github.com/jonashellmann/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
 * [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox): :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
 * [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer): Free Media Player for Windows, Linux and Mac OS with YouTube support.
+* [Snapcept/Snapcept](https://github.com/Snapcept/Snapcept): None
 * [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop): A Progressive Web App for local file sharing 
+* [pato/snapsaver](https://github.com/pato/snapsaver): android app that saves snapchats
 * [akarlsten/snaz](https://github.com/akarlsten/snaz): VS Code color theme
 * [akarlsten/snazzy-plus](https://github.com/akarlsten/snazzy-plus): VS Code color theme
 * [snthcy/snazzy-vscode](https://github.com/snthcy/snazzy-vscode): A snazzy looking theme for Visual Studio Code.
