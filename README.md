@@ -861,6 +861,7 @@
 * [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-): UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
 * [tortious/userChrome.js-userChrome.css-Favorites](https://github.com/tortious/userChrome.js-userChrome.css-Favorites): None
 * [jikamens/userChromeJS](https://github.com/jikamens/userChromeJS): Re-implementation of the userChromeJS add-on for Thunderbird 60+
+* [VolgemutNik/username-generator](https://github.com/VolgemutNik/username-generator): A username generator written in JavaScript
 * [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner): Fast & Accurate Username Scanner (Frontend)
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
 * [darkred/Userscripts](https://github.com/darkred/Userscripts): My userscripts
