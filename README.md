@@ -53,6 +53,7 @@
 * [kevalpatel2106/android-ringtone-picker](https://github.com/kevalpatel2106/android-ringtone-picker): Simple Ringtone Picker dialog which allows you to pick different sounds from ringtone, alarm tone, notification tone and music from external storage.
 * [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer): Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 * [wulkano/Aperture](https://github.com/wulkano/Aperture): Record the screen on macOS
+* [yiisoft/app](https://github.com/yiisoft/app): Yii 3 application template
 * [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra): Music Client for macOS. Upgrade your music experience with themes, styles, custom scripting and more. Uses WebKit and JavaScript.
 * [kevin-funderburg/AppleScripts](https://github.com/kevin-funderburg/AppleScripts): My collection of AppleScripts I've developed or acquired over the years.
 * [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
@@ -130,6 +131,7 @@
 * [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs): Homebrew GUI App written in electron
 * [mattlag/California-Gothic](https://github.com/mattlag/California-Gothic): A typeface for California vexillographers 
 * [babldev/camera-cli](https://github.com/babldev/camera-cli): Configure your webcam via the command line
+* [Itaybre/CameraController](https://github.com/Itaybre/CameraController): 📷 Control USB Cameras from an app
 * [Vonng/Capslock](https://github.com/Vonng/Capslock): Make Capslock Great Again!
 * [suliveevil/Capslock](https://github.com/suliveevil/Capslock): ultimate macOS keyboard re-mapping
 * [cerpow/catapult](https://github.com/cerpow/catapult): Access your workspace on the fly.
@@ -205,6 +207,7 @@
 * [thundernest/developer-docs](https://github.com/thundernest/developer-docs): Developer documentation for Thunderbird contributors.
 * [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim): Dim, a media manager fueled by dark forces.
 * [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images): Direct Google Images
+* [tapans/DIY-Surveillance-with-Smartphones](https://github.com/tapans/DIY-Surveillance-with-Smartphones): DIY hack for a complete CCTV solution using open source software and smartphones. 
 * [fredjoseph/dns-blocker](https://github.com/fredjoseph/dns-blocker): DNS Blocker for Chrome and Firefox (Web Extension)
 * [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli): Control the macOS `Do Not Disturb` feature from the command-line
 * [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn): Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
@@ -377,6 +380,7 @@
 * [scrapewalrus/Google-Shopping-Scraper](https://github.com/scrapewalrus/Google-Shopping-Scraper): This is a python Google Shopping scraper that can scrape all the products by searching for a keyword.
 * [sunlightworks/gosun_dev](https://github.com/sunlightworks/gosun_dev): Built for GoSun (gosun.co). Made with ♥ by Latimer Design. 
 * [privacy-tech-lab/gpc-optmeowt](https://github.com/privacy-tech-lab/gpc-optmeowt): Browser extension for opting out from the sale and sharing of personal information per the California Consumer Privacy Act and other privacy laws
+* [gphoto/gphoto2](https://github.com/gphoto/gphoto2): The gphoto2 commandline tool for accessing and controlling digital cameras.
 * [vipintom/gpm2spotify](https://github.com/vipintom/gpm2spotify): Google Play Music to Spotify Library Exporter
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
 * [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon): Staggeringly powerful macOS desktop automation with Lua
@@ -411,6 +415,7 @@
 * [noahbuscher/inspire](https://github.com/noahbuscher/inspire): Collection of frontend dev and web design links :bulb:
 * [instantusername/instant-username-search](https://github.com/instantusername/instant-username-search): ⚡ Instantly search for the availability of your username on more than 100 social media sites.
 * [iv-org/invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
+* [ShaleenM/IP-Camera](https://github.com/ShaleenM/IP-Camera): Change your android phone to surveillance camera
 * [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy): Elegant iTerm2 theme with bright colors
 * [quedayone/jamf-pro-scripts](https://github.com/quedayone/jamf-pro-scripts): Scripts that I use in my JSS.
 * [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter): Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provided (Three.js, Babylon.js, FaceSwap, Canvas2D, CSS3D...). 
@@ -455,6 +460,7 @@
 * [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool): Style and Grammar Checker for 25+ Languages
 * [stuyam/laravel-phone-validator](https://github.com/stuyam/laravel-phone-validator): A phone validator for Laravel using the free Twilio phone lookup service.
 * [AlexisDrain/Less-Addictive-YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube): Cross-browser plugin to remove addictive features on YT like thumbnails, comments, & previews
+* [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2): The libgphoto2 camera access and control library.
 * [spikecodes/libreddit](https://github.com/spikecodes/libreddit): Private front-end for Reddit
 * [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
@@ -596,6 +602,7 @@
 * [garrow/phoenix-configurations](https://github.com/garrow/phoenix-configurations): My custom configurations for the Phoenix macOS window Manager, ( https://github.com/kasper/phoenix )
 * [DhruvRoy247/Photo-Trans](https://github.com/DhruvRoy247/Photo-Trans): Image Search Web Application
 * [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis): Bringing sexy curves back to Firefox Photon.
+* [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera): Android Camera that uses Enhanced image processing
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
 * [jayesh-bhoot/pin-unpin-tab](https://github.com/jayesh-bhoot/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
@@ -638,6 +645,7 @@
 * [steccas/ProtonClient](https://github.com/steccas/ProtonClient): An unofficial desktop client for ProtonMail done with electron nativefier
 * [Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird](https://github.com/Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird): Thunderbird plugin to show E2E-encryption status for ProtonMail Bridge emails.
 * [bpwned/protovibrant](https://github.com/bpwned/protovibrant): None
+* [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam): Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
 * [evanjd/python-logi-circle](https://github.com/evanjd/python-logi-circle): Python 3.6+ API for Logi Circle cameras
 * [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox): Dynamic theming of Firefox (and Thunderbird) using your Pywal colors 
@@ -688,6 +696,7 @@
 * [joelwembo/searchmediaProfilesLink](https://github.com/joelwembo/searchmediaProfilesLink): Angular CLI Seach All Social Media Profile Using an Email Account
 * [searx/searx](https://github.com/searx/searx): Privacy-respecting metasearch engine
 * [mirceapiturca/Sections](https://github.com/mirceapiturca/Sections): Shopify sections for everyone. Tooltips, FAQ, Quiz, and App Performance
+* [larsow/SecurityCamera](https://github.com/larsow/SecurityCamera): Android Security Camera App
 * [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync): SessionSync
 * [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird): A universal dark theme for Thunderbird
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks
@@ -788,6 +797,7 @@
 * [yt-dlp/SponSkrub](https://github.com/yt-dlp/SponSkrub): Strip advertisements from downloaded YouTube videos
 * [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip YouTube video sponsors (browser extension)
 * [w0lfschild/spotifyPlus](https://github.com/w0lfschild/spotifyPlus): 🎵 MacForge plugin to enhance the Spotify Desktop player on macOS
+* [boygaggoo/spynet-camera](https://github.com/boygaggoo/spynet-camera): Allows to use your mobile device as an IP camera
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
 * [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed): 📋 Creating your own Awesome List of GitHub stars! 
 * [sagars007/starry-fox](https://github.com/sagars007/starry-fox): Firefox css stylesheets for the dark space theme. Matching more UI elements with the theme.
@@ -895,6 +905,7 @@
 * [fruiz500/VideoSkip-extension](https://github.com/fruiz500/VideoSkip-extension): Same as VideoSkip, but as a Chrome/Firefox/Edge extension so it can edit videos streaming from many sources
 * [plwt/View-Pocket-List](https://github.com/plwt/View-Pocket-List): None
 * [bijij/ViewImage](https://github.com/bijij/ViewImage): Extension to re-implement the "View Image" and "Search by image" buttons into google images.
+* [FunkyMuse/Vigilante](https://github.com/FunkyMuse/Vigilante): 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM architecture.
 * [VitaliyVstyle/VitaliyVstyle.github.io](https://github.com/VitaliyVstyle/VitaliyVstyle.github.io): Webextensions | Experiments | Custom CSS and JS for Firefox 
 * [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda): A VS Code theme
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
@@ -950,6 +961,7 @@
 * [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4): New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
+* [yiisoft/yii2-app-basic](https://github.com/yiisoft/yii2-app-basic): Yii 2.0 Basic Application Template
 * [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 * [murrty/youtube-dl-gui](https://github.com/murrty/youtube-dl-gui): Download/Convert videos from websites without needing to learn command line
 * [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): A cross platform front-end GUI of the popular youtube-dl written in wxPython.
