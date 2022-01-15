@@ -294,6 +294,7 @@
 * [nchlscs/firefox-macos-style](https://github.com/nchlscs/firefox-macos-style): Firefox style inspired by Safari of macOS
 * [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox Proton - Blur Mod / For dark theme lovers / Blurred search and bookmarks bar
 * [DominikMarcinowski/firefox-mods](https://github.com/DominikMarcinowski/firefox-mods): None
+* [SebastianSimon/firefox-omni-tweaks](https://github.com/SebastianSimon/firefox-omni-tweaks): A script that disables the clickSelectsAll behavior of Firefox, and more.
 * [giovannicaligaris/firefox-phosh-theme](https://github.com/giovannicaligaris/firefox-phosh-theme): None
 * [Azexios/firefox-photon](https://github.com/Azexios/firefox-photon): None
 * [nt0g/firefox-profile-stuff](https://github.com/nt0g/firefox-profile-stuff): As advertised on TV !
