@@ -596,7 +596,7 @@
 * [loveshopify/orium](https://github.com/loveshopify/orium): None
 * [shariati/OS-Folder-Icons](https://github.com/shariati/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list): A list of tools to search accounts by username
-* [rlyonheart/osinteye](https://github.com/rlyonheart/osinteye): A user reconnaisance tool that extracts a target's information from Instagram, DockerHub & Github. Also searches for matching usernames on Github.
+* [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): A user reconnaisance tool that extracts a target's information from Instagram, DockerHub & Github. Also searches for matching usernames on Github.
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
 * [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config): macOS Scripting for Configuration, Backup and Restore
 * [sveinbjornt/osxiconutils](https://github.com/sveinbjornt/osxiconutils): A suite of command line utilities for working with Mac icons
@@ -857,7 +857,7 @@
 * [Shopify/themekit](https://github.com/Shopify/themekit): Shopify theme development command line tool.
 * [baileylatimer/ThemeKit](https://github.com/baileylatimer/ThemeKit): Built for GoSun (gosun.co). Made with ♥ by Latimer Design.
 * [brohlson/themekit-webpack-tailwind](https://github.com/brohlson/themekit-webpack-tailwind): Shopify Themekit with Webpack & Tailwind CSS 
-* [rlyonheart/thorndyke](https://github.com/rlyonheart/thorndyke): Username reconnaisance tool that checks the availability of a specified username on over 200 websites.
+* [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Username reconnaisance tool that checks the availability of a specified username on over 200 websites.
 * [metux/thunderbird](https://github.com/metux/thunderbird): None
 * [sms77io/thunderbird](https://github.com/sms77io/thunderbird): Send SMS from within Thunderbird
 * [metux/thunderbird-2](https://github.com/metux/thunderbird-2): thunderbird 2nd try ... v68.0
