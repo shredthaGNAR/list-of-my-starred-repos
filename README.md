@@ -235,6 +235,7 @@
 * [easylist/easylist](https://github.com/easylist/easylist): EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 * [bmFtZQ/Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox): A userChrome.css theme for Firefox that replicates Microsoft Edge
 * [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox): Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
+* [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder): A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 * [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 * [Zonnev/elementaryos5-firefox-theme](https://github.com/Zonnev/elementaryos5-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS 5 (Hera) user interface.
 * [MrNewaz/Email-Signature](https://github.com/MrNewaz/Email-Signature): A gmail signature I made
@@ -481,6 +482,7 @@
 * [gkoehler/LogiCircleDownloader](https://github.com/gkoehler/LogiCircleDownloader): Automatically download all your videos from your Logi Circle camera
 * [Not-Cyrus/Login-Stealer](https://github.com/Not-Cyrus/Login-Stealer): what the name says (made for "educational" purposes)
 * [robin/LYTabView](https://github.com/robin/LYTabView): A customized Mac OS X Tab View with modern tab bar style
+* [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix): Mac Mouse Fix - A simple way to make your mouse better.
 * [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook): QuickLook plugins and packages
 * [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config): Shell scripts for customized macOS machine setup and configuration.
 * [SeanCAdams/MacDupFinder](https://github.com/SeanCAdams/MacDupFinder): A utility fo find and list duplicate files on a Mac.  Implemented in various languages as an exercise.
@@ -972,6 +974,7 @@
 * [drcheap/WindowSizer](https://github.com/drcheap/WindowSizer): WebExtension to quickly resize the window to one of your favorite sizes
 * [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows and moving tabs between windows
 * [WynStaXxx/wokiee](https://github.com/WynStaXxx/wokiee): None
+* [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins): Plugin repository for xbar (the BitBar reboot)
 * [benibela/xidel](https://github.com/benibela/xidel): Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON documents.
 * [StigNygaard/xIFr](https://github.com/StigNygaard/xIFr): Exif viewer WebExtension for Firefox [and Chrome] compatible webbrowsers
 * [koekeishiya/yabai](https://github.com/koekeishiya/yabai): A tiling window manager for macOS based on binary space partitioning

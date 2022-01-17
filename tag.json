@@ -1289,6 +1289,9 @@
     "electricmaybe/shopify-trafo": [
         "Other"
     ],
+    "electron-userland/electron-builder": [
+        "Other"
+    ],
     "electron0zero/search-google-in-private": [
         "Other"
     ],
@@ -1970,6 +1973,9 @@
     "mathiasbynens/dotfiles": [
         "Other"
     ],
+    "matryer/xbar-plugins": [
+        "Other"
+    ],
     "mattlag/California-Gothic": [
         "Other"
     ],
@@ -2133,6 +2139,9 @@
         "Other"
     ],
     "njnmco/odinochka": [
+        "Other"
+    ],
+    "noah-nuebling/mac-mouse-fix": [
         "Other"
     ],
     "noahbuscher/inspire": [
