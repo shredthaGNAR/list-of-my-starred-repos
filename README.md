@@ -859,7 +859,7 @@
 * [Shopify/themekit](https://github.com/Shopify/themekit): Shopify theme development command line tool.
 * [baileylatimer/ThemeKit](https://github.com/baileylatimer/ThemeKit): Built for GoSun (gosun.co). Made with ♥ by Latimer Design.
 * [brohlson/themekit-webpack-tailwind](https://github.com/brohlson/themekit-webpack-tailwind): Shopify Themekit with Webpack & Tailwind CSS 
-* [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Username reconnaisance tool that checks the availability of a specified username on over 200 websites.
+* [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
 * [metux/thunderbird](https://github.com/metux/thunderbird): None
 * [sms77io/thunderbird](https://github.com/sms77io/thunderbird): Send SMS from within Thunderbird
 * [metux/thunderbird-2](https://github.com/metux/thunderbird-2): thunderbird 2nd try ... v68.0
