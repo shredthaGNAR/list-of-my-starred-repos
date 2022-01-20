@@ -288,6 +288,7 @@
 * [whitelightning76/Firefox-dark-theme](https://github.com/whitelightning76/Firefox-dark-theme): Just another dark theme
 * [gsomoza/firefox-easy-container-shortcuts](https://github.com/gsomoza/firefox-easy-container-shortcuts): Easy, opinionated, keyboard shortcuts for Firefox 57+ containers.
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
+* [JoshCode94/Firefox-History-Combiner](https://github.com/JoshCode94/Firefox-History-Combiner): A tool to combine multiple Firefox history databases together!
 * [pratyushtewari/firefox-like-chrome](https://github.com/pratyushtewari/firefox-like-chrome): This is the userChrome.css that can be used to theme Firfox Quantum 59.0 to look like chrome
 * [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-): Light theme on Firefox 
 * [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar): macOS Native-looking Translucent Tabbar for Firefox
@@ -649,6 +650,7 @@
 * [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k): A Zsh theme
 * [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k): Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 * [parkermuir/preflop-poker](https://github.com/parkermuir/preflop-poker): Python scripts to navigate Texas Hold 'Em and Pot Limit Omaha preflop decision trees ♠️♣️
+* [MozillaSecurity/prefpicker](https://github.com/MozillaSecurity/prefpicker): Manage & generate prefs.js files
 * [praveenravi77/prime-video-adblock](https://github.com/praveenravi77/prime-video-adblock): A simple extension to block amazon prime video ads in shows that are "Free but have ads"
 * [jhonatasrm/print-preview](https://github.com/jhonatasrm/print-preview): This add-on works by showing a preview before printing. That can be done by clicking the button on the toolbar or shortcut keys.
 * [xmansyx/Pro-Fox](https://github.com/xmansyx/Pro-Fox): A custome CSS Theme for firefox
@@ -957,6 +959,7 @@
 * [RobinBoers/wavefox-lepton](https://github.com/RobinBoers/wavefox-lepton): :fox_face: Firefox UI fix. A combination of Lepton and Wavefox for Firefox 90-91
 * [Shopify/web-configs](https://github.com/Shopify/web-configs): Common configurations for building web apps at Shopify
 * [jamesqquick/Web-Development-Essentials-Extension-Pack](https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack): This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
+* [BCIT-DDC/web-extension-ts-starter](https://github.com/BCIT-DDC/web-extension-ts-starter): 🚀 A web extension starter built with React, Typescript, and Tailwind CSS. Build once, and run on multiple browsers: Google Chrome, Mozilla Firefox, Microsoft Edge, Brave, and Opera.
 * [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator): Chrome/Firefox extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others
 * [marcel-judth/Web_Shopify-Buy-Button-Demo](https://github.com/marcel-judth/Web_Shopify-Buy-Button-Demo): None
 * [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances): Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
