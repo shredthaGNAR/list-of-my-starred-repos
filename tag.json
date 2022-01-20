@@ -98,6 +98,9 @@
     "BPower0036/UserChrome": [
         "Other"
     ],
+    "BVAccel/dev-sandbox": [
+        "Other"
+    ],
     "BaseMax/GitHub-Repository-Export-List": [
         "Other"
     ],
@@ -609,6 +612,9 @@
         "Other"
     ],
     "Shopify/web-configs": [
+        "Other"
+    ],
+    "Shopitek/kueskipay-shopify-widget": [
         "Other"
     ],
     "SimonSiefke/vscode-html-missing-features": [
