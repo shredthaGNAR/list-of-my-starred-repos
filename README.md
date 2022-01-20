@@ -779,6 +779,7 @@
 * [Czarto/ShopifyScripts](https://github.com/Czarto/ShopifyScripts): Various Shopify scripts to generate XML product feeds, remarketing tracking for Google Ads, and others.
 * [makilyes/shopifyTheme](https://github.com/makilyes/shopifyTheme): None
 * [mikecrittenden/shortkeys](https://github.com/mikecrittenden/shortkeys): A browser extension for custom keyboard shortcuts 
+* [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
 * [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch): Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. 🪟
 * [ineat/signature](https://github.com/ineat/signature): How to have a nice signature for emails
 * [ronfybish/Signature-Generator](https://github.com/ronfybish/Signature-Generator): Email Signature Generator - React & Firebase
