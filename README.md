@@ -566,6 +566,7 @@
 * [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc): a blue-ish gray with a purple accent color palette for Visual Studio Code.
 * [opto/nostalgy-xpi](https://github.com/opto/nostalgy-xpi): nostalgy addon updated for Thunderbird 68 and now Thunderbird 78 - 91. Original code  by Alain Frisch.
 * [notable/notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
+* [notable/notable-customizations](https://github.com/notable/notable-customizations): A repository containing a collection of interesting community-created customizations for Notable.
 * [notable/notable-insiders](https://github.com/notable/notable-insiders): A repository containing experimental releases of Notable.
 * [amelandri/NotableUtilities](https://github.com/amelandri/NotableUtilities): A collection of utility scripts for Notable https://notable.app/
 * [nuttyartist/notes](https://github.com/nuttyartist/notes): Note-taking application, write down your thoughts.
