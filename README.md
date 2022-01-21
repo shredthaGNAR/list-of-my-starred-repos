@@ -234,7 +234,7 @@
 * [zx1262111739/DynamicWallpaper](https://github.com/zx1262111739/DynamicWallpaper): Mac dynamic wallpaper program
 * [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye): Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 * [easylist/easylist](https://github.com/easylist/easylist): EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
-* [bmFtZQ/Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox): A userChrome.css theme for Firefox that replicates Microsoft Edge
+* [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox): A Firefox userChrome.css theme that aims to recreate the look and feel of the Chromium version of Microsoft Edge.
 * [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox): Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
 * [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder): A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 * [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
@@ -445,6 +445,7 @@
 * [hieuthi/joplin-plugin-metis](https://github.com/hieuthi/joplin-plugin-metis): A Simple Task Manager Plugin for Joplin based on Todo.txt Specification
 * [roman-r-m/joplin-plugin-table-formatter](https://github.com/roman-r-m/joplin-plugin-table-formatter): Markdown table format plugin for Joplin
 * [CalebJohn/joplin-rich-markdown](https://github.com/CalebJohn/joplin-rich-markdown): Helping you ditch the markdown viewer for good.
+* [forcewake/joplin-tags-generator](https://github.com/forcewake/joplin-tags-generator): Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags
 * [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme): My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inklusive a special Bullet Journal css style.
 * [hrqmonteiro/joplin-theme](https://github.com/hrqmonteiro/joplin-theme): My Joplin theme files, including userchrome.css and userstyles.css, as well as some markdown templates for my notes.
 * [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils): Some joplin peripheral tools created by me. Since the functions are in the same category and are related, they are managed using monorepo.
@@ -525,6 +526,7 @@
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [jonathanKingston/merge-windows](https://github.com/jonathanKingston/merge-windows): A Firefox extension for merging windows
 * [alexta69/metube](https://github.com/alexta69/metube): youtube-dl web UI
+* [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 * [artginzburg/MiddleClick-BigSur](https://github.com/artginzburg/MiddleClick-BigSur):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 * [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox): A minimal, yet functional Firefox userChrome configuration.
 * [tortious/MintyFox](https://github.com/tortious/MintyFox): Customization of Firefox Quantum using userChrome, userContent, and various other files involving the userChrome.js hack that allows for uc.js docs to be incorporated. 
