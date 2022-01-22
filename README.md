@@ -665,6 +665,7 @@
 * [sagars007/Proton-UI-connected-rounded-tabs](https://github.com/sagars007/Proton-UI-connected-rounded-tabs): Firefox Proton UI minimal changes with nav-bar-connected rounded tabs, reduced compact mode, nightly color gradient accents etc..
 * [steccas/ProtonClient](https://github.com/steccas/ProtonClient): An unofficial desktop client for ProtonMail done with electron nativefier
 * [Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird](https://github.com/Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird): Thunderbird plugin to show E2E-encryption status for ProtonMail Bridge emails.
+* [marpies/protonmail-macos](https://github.com/marpies/protonmail-macos): Experimental email client for the ProtonMail service written in Swift.
 * [bpwned/protovibrant](https://github.com/bpwned/protovibrant): None
 * [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam): Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
