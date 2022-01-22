@@ -260,7 +260,9 @@
 * [Pocket/extension-save-to-pocket](https://github.com/Pocket/extension-save-to-pocket): Save to Pocket is a browser extension that is used to save pages to a connected Pocket account
 * [Raathigesh/fabulous](https://github.com/Raathigesh/fabulous): 🎨 CSS properties sidebar for VS Code
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition): The world's simplest facial recognition api for Python and the command line
+* [dmhacker/facebook-message-analysis](https://github.com/dmhacker/facebook-message-analysis): Visualizations of Facebook messenger history
 * [CleanCocoa/FatSidebar](https://github.com/CleanCocoa/FatSidebar): Custom vertical button toolbar for macOS
+* [ownaginatious/fbchat-archive-parser](https://github.com/ownaginatious/fbchat-archive-parser): An application for parsing chat history from a Facebook data archive.
 * [crestonbunch/ff-ctrl-e](https://github.com/crestonbunch/ff-ctrl-e): Ctrl+E shortcut for searching open tabs in Firefox
 * [hovercats/ff-user.js](https://github.com/hovercats/ff-user.js): couple of user.js profiles, for firefox. one based of off privacytools.io, and the other off Arkenfox's
 * [ewen-lbh/ffcss](https://github.com/ewen-lbh/ffcss): A CLI interface to apply and configure FirefoxCSS themes
@@ -769,7 +771,6 @@
 * [Maxvien/shopify-theme-customizer](https://github.com/Maxvien/shopify-theme-customizer): 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
 * [theadriann/shopify-theme-dawn](https://github.com/theadriann/shopify-theme-dawn): None
 * [craigerm/shopify-theme-dev](https://github.com/craigerm/shopify-theme-dev): None
-* [joiwilliweb/shopify-theme-dev](https://github.com/joiwilliweb/shopify-theme-dev): None
 * [Shopify/shopify-theme-inspector](https://github.com/Shopify/shopify-theme-inspector): A Chrome DevTools plugin that visualizes Shopify Liquid render profiling data so you can triage long-running code and reduce server response times!
 * [uicrooks/shopify-theme-lab](https://github.com/uicrooks/shopify-theme-lab): Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI 🧪
 * [uicrooks/shopify-theme-lab-plugins](https://github.com/uicrooks/shopify-theme-lab-plugins): Official Shopify Theme Lab Plugins
