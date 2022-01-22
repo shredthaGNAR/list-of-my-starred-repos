@@ -26,6 +26,12 @@
     "ACEx86/Firefox-about-config-tweaks": [
         "Other"
     ],
+    "Aadil101/cloud": [
+        "Other"
+    ],
+    "AaronSoria/PAnalizer": [
+        "Other"
+    ],
     "AdAway/AdAway": [
         "Other"
     ],
@@ -33,6 +39,9 @@
         "Other"
     ],
     "AdamXweb/WhiteSurFirefoxThemeMacOS": [
+        "Other"
+    ],
+    "AdguardTeam/ContentBlocker": [
         "Other"
     ],
     "Adobe-CEP/CEP-Resources": [
@@ -104,6 +113,9 @@
     "BaseMax/GitHub-Repository-Export-List": [
         "Other"
     ],
+    "Benjamin-Dobell/Heimdall": [
+        "Other"
+    ],
     "BloodyHell619/Firefox-Theme-DarkMatter": [
         "Other"
     ],
@@ -141,6 +153,9 @@
         "Other"
     ],
     "Cookie-AutoDelete/Cookie-AutoDelete": [
+        "Other"
+    ],
+    "CruelKernel/samsung-exynos9820": [
         "Other"
     ],
     "CyanFi/macos-dynamic-wallpaper": [
@@ -210,6 +225,9 @@
         "Other"
     ],
     "EliverLara/firefox-sweet-theme": [
+        "Other"
+    ],
+    "EmySaulIntec/SearchPeople": [
         "Other"
     ],
     "EnderDev/browser-chrome-experiment": [
@@ -366,6 +384,9 @@
         "Other"
     ],
     "LeCoupa/awesome-shopify": [
+        "Other"
+    ],
+    "LeeluPradhan/Service-accounts-seperator-AutoRclone": [
         "Other"
     ],
     "Lexxrt/9xe3": [
@@ -632,6 +653,9 @@
     "SoldierInFaith14/excel_automation": [
         "Other"
     ],
+    "Sparab16/Google-Drive-Upload": [
+        "Other"
+    ],
     "StarPlayrX/bigmac": [
         "Other"
     ],
@@ -702,6 +726,9 @@
         "Other"
     ],
     "Tzahi12345/YoutubeDL-Material": [
+        "Other"
+    ],
+    "UrielAbergel/Follow_The_Image--ComputerVision": [
         "Other"
     ],
     "Vallek/vallek-firefox-custom-css": [
@@ -791,6 +818,9 @@
     "aaFn/Bookmark-search-plus-2": [
         "Other"
     ],
+    "aaronmeder/social-history": [
+        "Other"
+    ],
     "aaronthomas/vscode-snazzy-operator": [
         "Other"
     ],
@@ -870,6 +900,9 @@
         "Other"
     ],
     "alexyz/poker": [
+        "Other"
+    ],
+    "algolia/facebook-search": [
         "Other"
     ],
     "alice0775/userChrome.js": [
@@ -981,6 +1014,9 @@
         "Other"
     ],
     "baileylatimer/adobe-illustrator": [
+        "Other"
+    ],
+    "bantunagarjuna/Real-time-data-storing-in-google-drive": [
         "Other"
     ],
     "bappygazi/MR.kirof-email-signature": [
@@ -1118,6 +1154,9 @@
     "cheap-glitch/warpgate": [
         "Other"
     ],
+    "cheems/transfer-between-drives": [
+        "Other"
+    ],
     "cheshire137/dotfiles": [
         "Other"
     ],
@@ -1205,6 +1244,9 @@
     "dannycolin/fx-compact-mode": [
         "Other"
     ],
+    "dantebarba/gdrive-migrator": [
+        "Other"
+    ],
     "darekkay/static-marks": [
         "Other"
     ],
@@ -1227,6 +1269,9 @@
         "Other"
     ],
     "denis-g/firefox-settings": [
+        "Other"
+    ],
+    "dermesser/photosync": [
         "Other"
     ],
     "desktop/desktop": [
@@ -1370,13 +1415,22 @@
     "evanjd/python-logi-circle": [
         "Other"
     ],
+    "evanp/openfollow": [
+        "Other"
+    ],
     "evilpie/add-custom-search-engine": [
         "Other"
     ],
     "ewen-lbh/ffcss": [
         "Other"
     ],
+    "execut/yii2-people-finder": [
+        "Other"
+    ],
     "fabiospampinato/phoenix": [
+        "Other"
+    ],
+    "facebookresearch/faiss": [
         "Other"
     ],
     "faridrony55/Shopify-Liquid-Coding-Template": [
@@ -1479,6 +1533,9 @@
         "Other"
     ],
     "gkoehler/LogiCircleDownloader": [
+        "Other"
+    ],
+    "glennjones/elsewhere-mapper": [
         "Other"
     ],
     "gluons/download-directory-helper": [
@@ -1682,6 +1739,12 @@
     "jeeliz/jeelizFaceFilter": [
         "Other"
     ],
+    "jeffreytram/UniDrive": [
+        "Other"
+    ],
+    "jenzz/social-web-search": [
+        "Other"
+    ],
     "jeremybwilson/shopify-bebe": [
         "Other"
     ],
@@ -1787,6 +1850,9 @@
     "kasper/phoenix": [
         "Other"
     ],
+    "kavinask007/stopify_drive": [
+        "Other"
+    ],
     "kayspiegel/shopify-notification-templates-l10n": [
         "Other"
     ],
@@ -1838,6 +1904,9 @@
     "kot-behemoth/awesome-joplin": [
         "Other"
     ],
+    "kpriyanshu256/Webpage_hosting_from_google_drive": [
+        "Other"
+    ],
     "krathalan/firefox-complement": [
         "Other"
     ],
@@ -1851,6 +1920,9 @@
         "Other"
     ],
     "kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically": [
+        "Other"
+    ],
+    "kumarram1011/Jan22_Q3": [
         "Other"
     ],
     "kush-agra/Dynamic_Walls": [
@@ -1895,6 +1967,9 @@
     "lightward/mechanic-tasks": [
         "Other"
     ],
+    "liqing1993/Find-The-Person-You-Want-in-videos": [
+        "Other"
+    ],
     "littledata/shopify-tracker": [
         "Other"
     ],
@@ -1902,6 +1977,9 @@
         "Other"
     ],
     "llacb47/miscfilters": [
+        "Other"
+    ],
+    "lliurex/lliurex-gdrive": [
         "Other"
     ],
     "lodestone/macpaste": [
@@ -2030,6 +2108,9 @@
     "mdreier/savetabs": [
         "Other"
     ],
+    "meanii/Search4": [
+        "Other"
+    ],
     "megasnippets/shopify-snippets": [
         "Other"
     ],
@@ -2061,6 +2142,9 @@
         "Other"
     ],
     "mikecrittenden/shortkeys": [
+        "Other"
+    ],
+    "milosbunijevac/GoogleDownloader": [
         "Other"
     ],
     "min-uuu/GoldenRabbit-BTT": [
@@ -2174,6 +2258,9 @@
     "nicinabox/plistbuddy": [
         "Other"
     ],
+    "nickysemenza/message-analyzer": [
+        "Other"
+    ],
     "nicolesaidy/awesome-web-design": [
         "Other"
     ],
@@ -2210,6 +2297,9 @@
     "nvm-sh/nvm": [
         "Other"
     ],
+    "o19s/awesome-search-relevance": [
+        "Other"
+    ],
     "ohmybahgosh/MTV-YTDLP": [
         "Other"
     ],
@@ -2223,6 +2313,9 @@
         "Other"
     ],
     "oleksis/youtube-dl-gui": [
+        "Other"
+    ],
+    "omnixent/omnixent": [
         "Other"
     ],
     "onekiloparsec/KPCTabsControl": [
@@ -2333,6 +2426,9 @@
     "pock/pock": [
         "Other"
     ],
+    "pooja-v-dev/php-drive-s3": [
+        "Other"
+    ],
     "potsky/iajai-email-signature": [
         "Other"
     ],
@@ -2352,6 +2448,9 @@
         "Other"
     ],
     "praveenravi77/prime-video-adblock": [
+        "Other"
+    ],
+    "preetmodh/PeopleConnect": [
         "Other"
     ],
     "privacy-tech-lab/gpc-optmeowt": [
@@ -2528,6 +2627,9 @@
     "shariati/OS-Folder-Icons": [
         "Other"
     ],
+    "shash007/People-Search-on-Social-Networks-using-Face-Recognition": [
+        "Other"
+    ],
     "shemeshg/cakebrewjs": [
         "Other"
     ],
@@ -2607,6 +2709,9 @@
         "Other"
     ],
     "solodev/email-signature": [
+        "Other"
+    ],
+    "sowdust/sowdust.github.io": [
         "Other"
     ],
     "soxoj/maigret": [
@@ -2718,6 +2823,9 @@
         "Other"
     ],
     "theadriann/shopify-theme-dawn": [
+        "Other"
+    ],
+    "thehappydinoa/TruePeopleSearch": [
         "Other"
     ],
     "thepante/SAL-Firefox": [
@@ -2840,6 +2948,9 @@
     "vikrantnegi/vscode-personal-preference-setting": [
         "Other"
     ],
+    "vinaywadhwa/Google-Account-Switcher---Alfred": [
+        "Other"
+    ],
     "vinitshahdeo/Email-Signature-Template": [
         "Other"
     ],
@@ -2898,6 +3009,9 @@
         "Other"
     ],
     "wilfredwee/photon-australis": [
+        "Other"
+    ],
+    "willo32/google-drive-upload-action": [
         "Other"
     ],
     "wlcr/shopify-product-previews": [

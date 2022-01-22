@@ -78,6 +78,7 @@
 * [kot-behemoth/awesome-joplin](https://github.com/kot-behemoth/awesome-joplin): 📒 A curated list of awesome Joplin themes and tools.
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos): A curated list of awesome software for Apple's macOS.
+* [o19s/awesome-search-relevance](https://github.com/o19s/awesome-search-relevance): Tools and other things for people who work on search relevance & information retrieval
 * [LeCoupa/awesome-shopify](https://github.com/LeCoupa/awesome-shopify): 👩‍🎓👨‍🎓 Must-read articles, videos and books for store owners, app and theme developers.
 * [julionc/awesome-shopify](https://github.com/julionc/awesome-shopify): 📌✨A curated list of awesome Shopify resources, libraries and open source projects.
 * [WynStaXxx/awesome-stars](https://github.com/WynStaXxx/awesome-stars): None
@@ -163,6 +164,7 @@
 * [Wilbird/clickToPrivate](https://github.com/Wilbird/clickToPrivate): Firefox add-on to open links or current page in private mode
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
 * [webextensions/close-tab-by-double-right-click](https://github.com/webextensions/close-tab-by-double-right-click): Source code for Chrome/Firefox extension "Close Tab by Double Right Click"
+* [Aadil101/cloud](https://github.com/Aadil101/cloud): A clean storage management interface for Google Drive, Dropbox, Box, and OneDrive accounts.
 * [johncoryk/coastal-shopify-theme](https://github.com/johncoryk/coastal-shopify-theme): Shopify theme for Low Coast Coffee
 * [mariia-nam/collection-tabs](https://github.com/mariia-nam/collection-tabs): Shopify Section for Home Page
 * [MikeC0xl0ng/Color-variants-collection](https://github.com/MikeC0xl0ng/Color-variants-collection): A collection template which will show all the color variations of the product as an individual product on the collection page
@@ -172,6 +174,7 @@
 * [timhettler/compass-photoshop-gradient-overlay](https://github.com/timhettler/compass-photoshop-gradient-overlay): A compass extension to translate between Photoshop gradient overlays and CSS linear-gradients
 * [argyleink/conic.css](https://github.com/argyleink/conic.css): nice'n simple conic gradients 🎨
 * [naveendnagendran/Contact-Search](https://github.com/naveendnagendran/Contact-Search): Search social profiles using email address
+* [AdguardTeam/ContentBlocker](https://github.com/AdguardTeam/ContentBlocker): Content blocking extension for Samsung Internet and Yandex Browser
 * [dokterdok/Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool): An all-in-one tool to activate and diagnose macOS 10.10-12 Continuity on compatible Mac configurations.
 * [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete): Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 * [ysard/cookie-quick-manager](https://github.com/ysard/cookie-quick-manager): An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
@@ -242,6 +245,7 @@
 * [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox): firefox themed context and bookmark menus
 * [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 * [Zonnev/elementaryos5-firefox-theme](https://github.com/Zonnev/elementaryos5-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS 5 (Hera) user interface.
+* [glennjones/elsewhere-mapper](https://github.com/glennjones/elsewhere-mapper): Social media profile endpoint mapper for node.js
 * [MrNewaz/Email-Signature](https://github.com/MrNewaz/Email-Signature): A gmail signature I made
 * [ryanoasis/email-signature](https://github.com/ryanoasis/email-signature): My E-mail Signature
 * [solodev/email-signature](https://github.com/solodev/email-signature): Creating a custom signature is one of those details that can add professionalism to your emails and reinforce your brand. There are, however, complications that can arise when attempting to create a signature due to the intricacies of email clients. Some crafty HTML can help resolve these problems and create a functional email signature.
@@ -261,6 +265,8 @@
 * [Raathigesh/fabulous](https://github.com/Raathigesh/fabulous): 🎨 CSS properties sidebar for VS Code
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition): The world's simplest facial recognition api for Python and the command line
 * [dmhacker/facebook-message-analysis](https://github.com/dmhacker/facebook-message-analysis): Visualizations of Facebook messenger history
+* [algolia/facebook-search](https://github.com/algolia/facebook-search): Facebook Feed Search powered by Algolia
+* [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 * [CleanCocoa/FatSidebar](https://github.com/CleanCocoa/FatSidebar): Custom vertical button toolbar for macOS
 * [ownaginatious/fbchat-archive-parser](https://github.com/ownaginatious/fbchat-archive-parser): An application for parsing chat history from a Facebook data archive.
 * [crestonbunch/ff-ctrl-e](https://github.com/crestonbunch/ff-ctrl-e): Ctrl+E shortcut for searching open tabs in Firefox
@@ -268,6 +274,7 @@
 * [ewen-lbh/ffcss](https://github.com/ewen-lbh/ffcss): A CLI interface to apply and configure FirefoxCSS themes
 * [vord1080/FFTweaks](https://github.com/vord1080/FFTweaks): smol tweaks for firefox proton redesign
 * [mklement0/fileicon](https://github.com/mklement0/fileicon): macOS CLI for managing custom icons for files and folders
+* [liqing1993/Find-The-Person-You-Want-in-videos](https://github.com/liqing1993/Find-The-Person-You-Want-in-videos): This project is to build a image search system. 
 * [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
 * [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript): Mashup Font of FiraCode and Script12
 * [bennypowers/fireblocks](https://github.com/bennypowers/fireblocks): Chonky Firefox tabs for square developers
@@ -346,6 +353,7 @@
 * [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox): An opinionated set of configurations for firefox.
 * [avindra/fndr](https://github.com/avindra/fndr): An Internet helper to wrangle multiple search providers, extract social media ids, perform reverse image search and more.
 * [VigoKrumins/folder-icons](https://github.com/VigoKrumins/folder-icons): Custom folder icons for macOS & Windows
+* [UrielAbergel/Follow_The_Image--ComputerVision](https://github.com/UrielAbergel/Follow_The_Image--ComputerVision): Search system, the system receives as input a picture of a person, and finds all his pictures in the destination folder or on the computer, the system will emit all the pictures in which the person appeared
 * [aemi-dev/Fonts](https://github.com/aemi-dev/Fonts): What you ever looked for.
 * [fontsource/fontsource](https://github.com/fontsource/fontsource): Self-host Open Source fonts in neatly bundled NPM packages.
 * [AveYo/fox](https://github.com/AveYo/fox): Firefox stuff
@@ -359,6 +367,7 @@
 * [hensm/fx_cast](https://github.com/hensm/fx_cast): Google Cast implementation for Firefox
 * [MrOtherGuy/FxChromeViewer](https://github.com/MrOtherGuy/FxChromeViewer): None
 * [ncyhere/gatsby-starter-shopify](https://github.com/ncyhere/gatsby-starter-shopify): A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
+* [dantebarba/gdrive-migrator](https://github.com/dantebarba/gdrive-migrator): Google Drive Migrator helper. Migrates from one gdrive account to another
 * [ShanukJ/gDrive-Multiple-File-Upload](https://github.com/ShanukJ/gDrive-Multiple-File-Upload): This is a simple script to upload Multiple files into google drive using google drive API and Nodejs.
 * [rebhu-open-source-foundation/gecko-b2g](https://github.com/rebhu-open-source-foundation/gecko-b2g): This is a mirror of https://gitlab.com/rebhu/rosf/thenexus-codes/gecko-b2g
 * [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: http://bit.ly/contribute-code
@@ -387,12 +396,16 @@
 * [tumpio/gmscripts](https://github.com/tumpio/gmscripts): tumpio's usercripts
 * [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT): The complete Touch Bar UI replacement for BetterTouchTool
 * [min-uuu/GoldenRabbit-BTT](https://github.com/min-uuu/GoldenRabbit-BTT): MacBook Pro touchbar custom. Perfectly Optimized BTT(Better Touch Tool) Preset.
+* [vinaywadhwa/Google-Account-Switcher---Alfred](https://github.com/vinaywadhwa/Google-Account-Switcher---Alfred): An Alfred workflow to Switch Google/GSuite accounts on Google websites (Gmail, Drive, Calendar) with keyboard shortcuts.
 * [GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify](https://github.com/GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify): Google Analytics Dynamic Remarketing Code for Shopify
 * [blyad2137/google-dark-theme](https://github.com/blyad2137/google-dark-theme): The Ultimate Dark Theme for Google.
 * [elibroftw/google-dark-theme](https://github.com/elibroftw/google-dark-theme): A dark theme for Google based on YouTube's dark theme
+* [Sparab16/Google-Drive-Upload](https://github.com/Sparab16/Google-Drive-Upload): Google drive upload is useful to help the user upload any files/folders directly on thier respective Google Drive account without leaving their system.
+* [willo32/google-drive-upload-action](https://github.com/willo32/google-drive-upload-action): Github action to upload a file to Google Drive using a service account
 * [cheap-glitch/google-keep-to-clipboard](https://github.com/cheap-glitch/google-keep-to-clipboard): 🗒️ A tiny browser extension to copy the contents of Google Keep notes to the clipboard in various formats.
 * [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool): Tool for deleting all photos from the Google Photos
 * [scrapewalrus/Google-Shopping-Scraper](https://github.com/scrapewalrus/Google-Shopping-Scraper): This is a python Google Shopping scraper that can scrape all the products by searching for a keyword.
+* [milosbunijevac/GoogleDownloader](https://github.com/milosbunijevac/GoogleDownloader): Python: Opens a google search to get the first 10 4k images of the person you enter. Downloads images to new folder named after search.
 * [sunlightworks/gosun_dev](https://github.com/sunlightworks/gosun_dev): Built for GoSun (gosun.co). Made with ♥ by Latimer Design. 
 * [privacy-tech-lab/gpc-optmeowt](https://github.com/privacy-tech-lab/gpc-optmeowt): Browser extension for opting out from the sale and sharing of personal information per the California Consumer Privacy Act and other privacy laws
 * [gphoto/gphoto2](https://github.com/gphoto/gphoto2): The gphoto2 commandline tool for accessing and controlling digital cameras.
@@ -401,6 +414,7 @@
 * [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon): Staggeringly powerful macOS desktop automation with Lua
 * [claytonjn/hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting): Circadian Lighting custom component for Home Assistant
 * [yangqian/hass-gelight](https://github.com/yangqian/hass-gelight): Home assistant custom component to control C by GE smart light bulb locally via Bluetooth
+* [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall): Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 * [idbakkasse/helium](https://github.com/idbakkasse/helium): Helium is a modern Shopify development ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind.. 
 * [demtario/hes-gallery](https://github.com/demtario/hes-gallery): Light, dependency free, responsive gallery script
 * [dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS utility that helps hide menu bar icons
@@ -433,6 +447,7 @@
 * [ShaleenM/IP-Camera](https://github.com/ShaleenM/IP-Camera): Change your android phone to surveillance camera
 * [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy): Elegant iTerm2 theme with bright colors
 * [quedayone/jamf-pro-scripts](https://github.com/quedayone/jamf-pro-scripts): Scripts that I use in my JSS.
+* [kumarram1011/Jan22_Q3](https://github.com/kumarram1011/Jan22_Q3): The candidate should ensure the availability of Git, Python and Django on their system as part of the setup exercise.. Preferred IDE is PyCharm to import the project directly. Postman tool to test the REST APIs and git.  Problem Breakdown  To start the development a skeleton repo for the project is provided at the github link – https://github.com/kumarram1011/Jan22_Q2   (master branch)  Then repo can be cloned into their local system through HTTPs or SSH. After cloning the project at your location, follow the below points:  Create Virtual env (ubuntu) 1. sudo apt install python3-venv 2. python3 -m venv relevel_env 3. cd relevel_env/ 4. source bin/activate Now quit this env location and jump to your working location/ Parent directory  Install all dependencies using ‘pip install -r requirements.txt’ Now run your initial migrations with the command as: 1. python manage.py makemigrations 2. python manage.py migrate  Note :-  A. Initially there is no any model in your projects so the 1st command will give you the response has "NO changes" but the 2nd command will configure you all initial settings like DB and all. B. At every stage while developing/implementing the features please use both of the above commands to reflect your changes in the running/development server.  Run ‘python manage.py runserver’ to start the development server. The hosted app can be checked on http://localhost:8000 on the browser.  Submission Instructions  Code Submission: Compress the code on the local system in the form of a *.zip file. Upload the code on your personal google drive in a folder titled - “Name_BD_ Code Base” Don’t forget to change the permissions of the folder to ‘Anyone with the link can edit’.  Loom video submission: Create an account on Loom. Go through the quick tutorial on how to record loom videos. Create a Loom video (while screen sharing) covering the following points: Show the functionality of the app you have created i.e demo of the working APIs through a command line. (1 min) Run through the key parts of your code explaining the core logic and how you organized the code. (2 min) Explain your problem-solving approach (what logic you have used and why). (2 min) Please keep your explanation to under 5 mins only. Avoid too much jargon and explain your app in a simple and clear manner.
 * [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter): Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provided (Three.js, Babylon.js, FaceSwap, Canvas2D, CSS3D...). 
 * [JasnaJovic/jjs-first-dawn-shop](https://github.com/JasnaJovic/jjs-first-dawn-shop): My first Shopify store using new Online store 2.0 and Dawn theme. :D 
 * [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
@@ -488,6 +503,7 @@
 * [TGIFelix/liquid_flex](https://github.com/TGIFelix/liquid_flex): Getting started with Shopify OS 2.0
 * [harttle/liquidjs](https://github.com/harttle/liquidjs): A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 * [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
+* [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
 * [gkoehler/LogiCircleDownloader](https://github.com/gkoehler/LogiCircleDownloader): Automatically download all your videos from your Logi Circle camera
 * [Not-Cyrus/Login-Stealer](https://github.com/Not-Cyrus/Login-Stealer): what the name says (made for "educational" purposes)
 * [robin/LYTabView](https://github.com/robin/LYTabView): A customized Mac OS X Tab View with modern tab bar style
@@ -531,6 +547,7 @@
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser Extension to full-text search your browsing history & bookmarks.
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [jonathanKingston/merge-windows](https://github.com/jonathanKingston/merge-windows): A Firefox extension for merging windows
+* [nickysemenza/message-analyzer](https://github.com/nickysemenza/message-analyzer): 💬 📊 Facebook Messenger history scraper + analyzer
 * [alexta69/metube](https://github.com/alexta69/metube): youtube-dl web UI
 * [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 * [artginzburg/MiddleClick-BigSur](https://github.com/artginzburg/MiddleClick-BigSur):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
@@ -585,6 +602,7 @@
 * [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh): A prompt theme engine for any shell.
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [quanm/Omaha-Poker](https://github.com/quanm/Omaha-Poker): None
+* [omnixent/omnixent](https://github.com/omnixent/omnixent): 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
 * [iansinnott/one-dark-tab](https://github.com/iansinnott/one-dark-tab): Like OneTab, but darker.
 * [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools): A theme for Firefox Devtools
 * [simurai/one-vibrancy](https://github.com/simurai/one-vibrancy): Vibrancy effect for Atom One themes
@@ -600,6 +618,7 @@
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 * [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container): Firefox extension to open external links in a specific container
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
+* [evanp/openfollow](https://github.com/evanp/openfollow): Search server to find people on the federated social web
 * [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 * [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp): OpenMTP  - Advanced Android File Transfer Application for macOS
 * [lukakerr/OpenQuickly](https://github.com/lukakerr/OpenQuickly): A custom 'open quickly' window that imitates macOS' Spotlight
@@ -614,12 +633,15 @@
 * [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config): macOS Scripting for Configuration, Backup and Restore
 * [sveinbjornt/osxiconutils](https://github.com/sveinbjornt/osxiconutils): A suite of command line utilities for working with Mac icons
 * [MrAndyStorey/pack-and-ship](https://github.com/MrAndyStorey/pack-and-ship): After many years of running some of this functionality using a LAMP server, now I'm redeveloping it to use Python. It interacts with Shopify (via API) and Royal Mail Pro Shipping (via CSV files) to pack our parcels retrieving customer data and uploading tracking numbers.
+* [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer): PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give to the aplication a few pictures of the person of interest
 * [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups):  An add-on for Firefox that implements the old Tab Groups/Panorama functionality
 * [photodiode/panorama-view](https://github.com/photodiode/panorama-view): Add-on for Firefox letting you organize tabs and tab groups visually in one place
 * [WynStaXxx/paper-app](https://github.com/WynStaXxx/paper-app): Unofficial Paper app for Mac
 * [keiichi4e/paper-app](https://github.com/keiichi4e/paper-app): Unofficial Paper app for Mac
 * [Futur3Sn0w/PaperProton](https://github.com/Futur3Sn0w/PaperProton): Google Chrome userChrome.css for Firefox Proton!
 * [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Papirus icon theme for Linux
+* [shash007/People-Search-on-Social-Networks-using-Face-Recognition](https://github.com/shash007/People-Search-on-Social-Networks-using-Face-Recognition): Searching people on social networking sites using Face Recognition
+* [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect): A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and view other users’ posts & profiles, search users & follow-unfollow them and get notified about activities on their profile.
 * [ChanChunCheong/PeopleSearch](https://github.com/ChanChunCheong/PeopleSearch): DSO Summer Internship-People Search Aggregator web application which use data analytics and artificial intelligence libraries, to simultaneously search social media profiles from various platforms, processes, and then rank the search results based on name, location, keywords and image matching
 * [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 * [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS/OS X window and app manager scriptable with JavaScript
@@ -627,6 +649,8 @@
 * [DhruvRoy247/Photo-Trans](https://github.com/DhruvRoy247/Photo-Trans): Image Search Web Application
 * [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis): Bringing sexy curves back to Firefox Photon.
 * [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera): Android Camera that uses Enhanced image processing
+* [dermesser/photosync](https://github.com/dermesser/photosync): Now that Google deprecated the Photos<->Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes them locally. It is not very user friendly yet, but definitely usable
+* [pooja-v-dev/php-drive-s3](https://github.com/pooja-v-dev/php-drive-s3): Read a Google Drive account, list files in a folder and move selected file to S3.
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
 * [jayesh-bhoot/pin-unpin-tab](https://github.com/jayesh-bhoot/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
@@ -692,6 +716,7 @@
 * [iampueroo/rComments](https://github.com/iampueroo/rComments): Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
 * [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list): A Chrome/Firefox extension for saving pages to read later.
 * [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover): A Python utility for moving bookmarks/reading lists between services
+* [bantunagarjuna/Real-time-data-storing-in-google-drive](https://github.com/bantunagarjuna/Real-time-data-storing-in-google-drive): Storing the real time data to the personal google drive account.
 * [bhavsec/reconspider](https://github.com/bhavsec/reconspider): 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 * [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle): Move and resize windows on macOS with keyboard shortcuts and snap areas
 * [marioortizmanero/reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google): Button on Google to search only for Reddit posts
@@ -709,6 +734,7 @@
 * [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt): RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!  
 * [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox): Sidebar Always Loaded for Firefox
 * [thundernest/sample-extensions](https://github.com/thundernest/sample-extensions): Example extensions for Thunderbird WebExtensions APIs
+* [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820): Unified kernel tree for S10 and Note10 devices
 * [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs): Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
 * [piroor/save-selected-tabs-to-files](https://github.com/piroor/save-selected-tabs-to-files): Provides ability to save selected tabs to local files for Firefox 63 and later.
 * [Karna98/Save-Tabs](https://github.com/Karna98/Save-Tabs): Export and Import Tabs with Cross-Browser support.
@@ -722,10 +748,13 @@
 * [dessant/search-by-image](https://github.com/dessant/search-by-image): Browser extension for reverse image search, available for Chrome, Edge and Safari
 * [electron0zero/search-google-in-private](https://github.com/electron0zero/search-google-in-private): Adds a Search Google in Private for in your context menu
 * [tusharahmmed/search-image](https://github.com/tusharahmmed/search-image): This is a Image Search Web Application in PHP.
+* [meanii/Search4](https://github.com/meanii/Search4): Search people on the Internet.
 * [joelwembo/searchmediaProfilesLink](https://github.com/joelwembo/searchmediaProfilesLink): Angular CLI Seach All Social Media Profile Using an Email Account
+* [EmySaulIntec/SearchPeople](https://github.com/EmySaulIntec/SearchPeople): Search images in your phone based in three photo of a person
 * [searx/searx](https://github.com/searx/searx): Privacy-respecting metasearch engine
 * [mirceapiturca/Sections](https://github.com/mirceapiturca/Sections): Shopify sections for everyone. Tooltips, FAQ, Quiz, and App Performance
 * [larsow/SecurityCamera](https://github.com/larsow/SecurityCamera): Android Security Camera App
+* [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 * [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync): SessionSync
 * [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird): A universal dark theme for Thunderbird
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks
@@ -816,13 +845,16 @@
 * [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape): A social networking service scraper in Python
 * [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia): Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
 * [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites
+* [aaronmeder/social-history](https://github.com/aaronmeder/social-history): A quick look into your history on social media. Drop in the archives you've downloaded from Facebook and Instagram and see some stats about your time on the networks.
 * [pandrey2003/social-media-profiler](https://github.com/pandrey2003/social-media-profiler): Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 * [lorey/social-media-profiles-regexs](https://github.com/lorey/social-media-profiles-regexs): :card_index: Extract social media profiles and more with regular expressions
+* [jenzz/social-web-search](https://github.com/jenzz/social-web-search): Search the social web... Find people & posts on Twitter, Facebook and Google+.
 * [Greenwolf/social_mapper](https://github.com/Greenwolf/social_mapper): A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
 * [Ramalingasamy012/SocialRecon](https://github.com/Ramalingasamy012/SocialRecon): This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location of an image and it also checks whether the email is found or not.
 * [andreafortuna/SocialRecon](https://github.com/andreafortuna/SocialRecon): This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location of an image and it also checks whether the email is found or not.
 * [makiisthenes/socialScanner](https://github.com/makiisthenes/socialScanner): Will Search Various Platforms to Confirm An Email Exists.
 * [semvis123/Sonitus](https://github.com/semvis123/Sonitus): Noise-control like native, but for non-Apple devices
+* [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io): Facebook search engine that works after the Graph API has been shut down
 * [cmacrae/spacebar](https://github.com/cmacrae/spacebar): A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 * [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt): :rocket::star: A Zsh prompt for Astronauts
 * [friedPotat0/Spam-Scores](https://github.com/friedPotat0/Spam-Scores): Thunderbird add-on to display spam scores according to mail headers. Supports spam/ham score headers of Rspamd and SpamAssassin. The add-on adds a column with the overall spam score to the mail list view and shows details of any matched spam/ham rule.
@@ -839,6 +871,7 @@
 * [ccat3z/stars](https://github.com/ccat3z/stars): A simple tool for creating your own awesome list
 * [darekkay/static-marks](https://github.com/darekkay/static-marks): Shareable bookmarks
 * [vipintom/stealthFox](https://github.com/vipintom/stealthFox): Clean and minimal set of changes to get Vertical Tabs in Firefox
+* [kavinask007/stopify_drive](https://github.com/kavinask007/stopify_drive): PWA (music player )to download songs from yt, spotify and store in the users google drive account
 * [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback): The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
 * [jonschlinkert/sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended): Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
 * [universalbyte/Superfox](https://github.com/universalbyte/Superfox): Silence Firefox from contacting MOZILLA , GOOGLE and other Servers. 600+ privacy features + userChrome.css file.
@@ -895,9 +928,11 @@
 * [Calvin-LL/toggleairport](https://github.com/Calvin-LL/toggleairport): A script for macOS to turn off WiFi when Ethernet is plugged in, and turn on WiFi when Ethernet is unplugged
 * [tangledhelix/toggleAirport](https://github.com/tangledhelix/toggleAirport): Toggle Airport power based on presence of wired ethernet
 * [MrOtherGuy/ToyfoCSS](https://github.com/MrOtherGuy/ToyfoCSS): Guide to introduce basic CSS concepts and progressively advance into Firefox CSS hacking
+* [cheems/transfer-between-drives](https://github.com/cheems/transfer-between-drives): This is a Google Colab notebook for transferring files/folders between drives from different Google accounts
 * [pjialin/TranslucentFox](https://github.com/pjialin/TranslucentFox): 🤭 Translucent UI for Firefox
 * [jy1263/Transparent-Firefox-and-Thunderbird-](https://github.com/jy1263/Transparent-Firefox-and-Thunderbird-): A theme for Firefox and Thunderbird completly transparent
 * [piroor/treestyletab](https://github.com/piroor/treestyletab): Tree Style Tab, Show tabs like a tree.
+* [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch): Gets info from truepeoplesearch.com and adds it to Maltego
 * [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets): Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 * [gorhill/uBlock](https://github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 * [mtxadmin/ublock](https://github.com/mtxadmin/ublock): Filters for uBlock Origin
@@ -908,6 +943,7 @@
 * [DeweyReed/UltimateRingtonePicker](https://github.com/DeweyReed/UltimateRingtonePicker): An Android music picker library for picking alarm, notification or ringtones sound using an Activity or a dialog.
 * [gorhill/uMatrix](https://github.com/gorhill/uMatrix): uMatrix: Point and click matrix to filter net requests according to source, destination and type
 * [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu): Firefox webextension to add an undo closed tabs menu to tabs.
+* [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
 * [TrollSkull/uScanner](https://github.com/TrollSkull/uScanner): uScanner is a tool to find usernames on various pages throughout the entire internet.
 * [JYLD/User-CSS-For-Firefox-And-Thunderbird](https://github.com/JYLD/User-CSS-For-Firefox-And-Thunderbird): User CSS Contributions For CustomizeMyBird and Custom CSS For FX
 * [taitems/user-email-enrichment](https://github.com/taitems/user-email-enrichment): A free, open source tool to lookup user identities by email address
@@ -980,6 +1016,7 @@
 * [tpamula/webextension-window-titler](https://github.com/tpamula/webextension-window-titler): Label your Firefox windows and profiles by modifying window title
 * [RoboMx/WebIDHunt](https://github.com/RoboMx/WebIDHunt): Client based app to get information about username availability from different important websites. This tool can be used by startups, tech enthusiast, and people who want to block particular username on important domains.
 * [webpack/webpack-dev-server](https://github.com/webpack/webpack-dev-server): Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.
+* [kpriyanshu256/Webpage_hosting_from_google_drive](https://github.com/kpriyanshu256/Webpage_hosting_from_google_drive): Easy way of hosting webpages using a Google Drive Account
 * [emin/WebPQuickLook](https://github.com/emin/WebPQuickLook): Mac OS X QuickLook plugin for WebP image files
 * [AdamXweb/WhiteSurFirefoxThemeMacOS](https://github.com/AdamXweb/WhiteSurFirefoxThemeMacOS): MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
 * [selfish/window-merge-extension](https://github.com/selfish/window-merge-extension): Browser Addon/Extension to bring all open tabs into one window
@@ -998,6 +1035,7 @@
 * [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4): New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
 * [yiisoft/yii2-app-basic](https://github.com/yiisoft/yii2-app-basic): Yii 2.0 Basic Application Template
+* [execut/yii2-people-finder](https://github.com/execut/yii2-people-finder): Library for search peoples via social networks
 * [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 * [murrty/youtube-dl-gui](https://github.com/murrty/youtube-dl-gui): Download/Convert videos from websites without needing to learn command line
 * [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): A cross platform front-end GUI of the popular youtube-dl written in wxPython.
