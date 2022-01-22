@@ -37,6 +37,7 @@
 * [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt): The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
+* [cipher387/Advanced-search-operators-list](https://github.com/cipher387/Advanced-search-operators-list): List of the links to the docs for different services, which explain using of advanced search operators
 * [gauti123456/AdvancedVideoSearch](https://github.com/gauti123456/AdvancedVideoSearch): This is a sample advanced youtube video search built in Javascript Using the Youtube Data API V3
 * [Czarto/Adwords-Scripts](https://github.com/Czarto/Adwords-Scripts): Google Ads Bidding scripts
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
@@ -112,6 +113,7 @@
 * [CoenraadS/Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2): Bracket Colorizer Extension for VSCode
 * [adobe/brackets](https://github.com/adobe/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
 * [Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox): Firefox Stylesheet To Add Brave-Like Elements
+* [brothersinvines/brothersinvines.github.io](https://github.com/brothersinvines/brothersinvines.github.io): None
 * [hoyang/browse-later](https://github.com/hoyang/browse-later): Browse later, a WebExtensions add-on.
 * [bitwarden/browser](https://github.com/bitwarden/browser): The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 * [EnderDev/browser-chrome-experiment](https://github.com/EnderDev/browser-chrome-experiment): None
@@ -763,6 +765,7 @@
 * [megasnippets/shopify-snippets](https://github.com/megasnippets/shopify-snippets): None
 * [pgrimaud/shopify-snippets](https://github.com/pgrimaud/shopify-snippets): Useful .liquid snippets for Shopify themes
 * [spiral/shopify-starter-kit](https://github.com/spiral/shopify-starter-kit): Starter theme and environment for the largest Shopify stores.
+* [PaulSteelway/shopify-terrelique](https://github.com/PaulSteelway/shopify-terrelique): None
 * [Maxvien/shopify-theme-customizer](https://github.com/Maxvien/shopify-theme-customizer): 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
 * [theadriann/shopify-theme-dawn](https://github.com/theadriann/shopify-theme-dawn): None
 * [craigerm/shopify-theme-dev](https://github.com/craigerm/shopify-theme-dev): None
@@ -1012,7 +1015,6 @@
 * [Margiris/ytmdesktop](https://github.com/Margiris/ytmdesktop): NO LONGER UPDATED (see readme). A fork of https://github.com/ytmdesktop/ytmdesktop with added adblocker from https://github.com/cliqz-oss/adblocker.
 * [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): A Desktop App for YouTube Music
 * [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi): Unofficial API for YouTube Music
-* [loveshopify/zooki](https://github.com/loveshopify/zooki): None
 * [li-zyang/zScripts](https://github.com/li-zyang/zScripts): Repository of my userscripts
 * [vaeth/zshrc-mv](https://github.com/vaeth/zshrc-mv): This is a zsh initialization file (e.g. /etc/zshrc or ~/.zshrc) which activates a lot of zsh features
 
