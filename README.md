@@ -24,7 +24,7 @@
 * [rsapkf/42](https://github.com/rsapkf/42): @rsapkf's linkroll.
 * [Lexxrt/9xe3](https://github.com/Lexxrt/9xe3): 9xe3 - Social Media Hunter
 * [earthlng/aboutconfig](https://github.com/earthlng/aboutconfig): None
-* [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu): Shortcuts to settings in about:config, through a button on toolbar. Firefox userChrome script 🛠️
+* [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu): Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️
 * [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify): Deploy Shopify theme with Theme Kit on GitHub Actions
 * [techgaun/active-forks](https://github.com/techgaun/active-forks): Find active github forks of a repo https://git.io/vSnrC
 * [AdAway/AdAway](https://github.com/AdAway/AdAway): AdAway is a free and open source ad blocker for Android. 
