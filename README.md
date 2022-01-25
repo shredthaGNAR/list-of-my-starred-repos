@@ -468,6 +468,7 @@
 * [benji300/joplin-favorites](https://github.com/benji300/joplin-favorites): Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access.
 * [LongBay/Joplin-Light-Theme](https://github.com/LongBay/Joplin-Light-Theme): A light theme for Joplin
 * [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme): Native looking macOS theme for note taking app Joplin
+* [benji300/joplin-milford-ui](https://github.com/benji300/joplin-milford-ui): Dark theme for Joplin's desktop application.
 * [amandamcg/joplin-new-theme-sandbox](https://github.com/amandamcg/joplin-new-theme-sandbox): Testing CSS ideas for the new theme
 * [mattsbennett/joplin-Nord2](https://github.com/mattsbennett/joplin-Nord2): Joplin Nord Sub-theme
 * [benji300/joplin-note-tabs](https://github.com/benji300/joplin-note-tabs): Allows to open several notes at once in tabs and pin them.
@@ -611,6 +612,7 @@
 * [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify): Nx plugin for developing performance-first Shopify themes 🚀
 * [njnmco/odinochka](https://github.com/njnmco/odinochka): featherweight tab manager
 * [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh): A prompt theme engine for any shell.
+* [Nacandev/Ohmine-Dark-Theme-For-Joplin](https://github.com/Nacandev/Ohmine-Dark-Theme-For-Joplin): This is a custom CSS theme for the opensource note-taking app Joplin.
 * [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh): 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [quanm/Omaha-Poker](https://github.com/quanm/Omaha-Poker): None
 * [omnixent/omnixent](https://github.com/omnixent/omnixent): 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
