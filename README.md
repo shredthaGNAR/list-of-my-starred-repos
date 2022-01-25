@@ -61,8 +61,11 @@
 * [aaronfreimark/Apple-ID-AppleScript](https://github.com/aaronfreimark/Apple-ID-AppleScript): AppleScript to programatically create Apple IDs
 * [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra): Music Client for macOS. Upgrade your music experience with themes, styles, custom scripting and more. Uses WebKit and JavaScript.
 * [unforswearing/applescript](https://github.com/unforswearing/applescript): Applescript applets, snippets, resources, and links
+* [adriannier/applescript-functions](https://github.com/adriannier/applescript-functions): None
 * [BLXXDING/applescript-snippets](https://github.com/BLXXDING/applescript-snippets): Some Apple Script snippets I made over the years. Maybe it will help you.
+* [Jmuccigr/AppleScripts](https://github.com/Jmuccigr/AppleScripts): Handy AppleScripts I use
 * [kevin-funderburg/AppleScripts](https://github.com/kevin-funderburg/AppleScripts): My collection of AppleScripts I've developed or acquired over the years.
+* [nathan-artist/AppleScripts](https://github.com/nathan-artist/AppleScripts): AppleScripts for use with OS X / macOS
 * [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 * [aria2/aria2](https://github.com/aria2/aria2): aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -123,6 +126,7 @@
 * [EnderDev/browser-chrome-experiment](https://github.com/EnderDev/browser-chrome-experiment): None
 * [adi6409/browser-ff](https://github.com/adi6409/browser-ff): None
 * [Zegnat/browserext-window-merger](https://github.com/Zegnat/browserext-window-merger): Merge specified browser windows into each other. Or all of them into one. Simply right click to open Firefox’s context menu when multiple windows are open, or configure a keyboard shortcut. All wrapped up in one tiny free extension.
+* [wonjoonSeol/BTT-Aqua-modification](https://github.com/wonjoonSeol/BTT-Aqua-modification): Better Touch Tool AquaTouch Preset Modification
 * [andrewchidden/btt-controllers](https://github.com/andrewchidden/btt-controllers): Small controller scripts and utilities designed to work with BetterTouchTool.
 * [skydiver/btt-helper](https://github.com/skydiver/btt-helper): Helpers to improve your BetterTouchTool presets"
 * [theachoem/btt-mac](https://github.com/theachoem/btt-mac): Better Touch Tool Preset for Touchbar
@@ -153,6 +157,7 @@
 * [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper): Kills Adobe's pesky background apps, and more!
 * [w0lfschild/cDock](https://github.com/w0lfschild/cDock): :lollipop: Basic dock customization for macOS
 * [jbtule/cdto](https://github.com/jbtule/cdto): Finder Toolbar app to open the current directory in the Terminal
+* [sw-uci/cdto](https://github.com/sw-uci/cdto): Mac script used to open a terminal at the current Finder folder
 * [Adobe-CEP/CEP-Resources](https://github.com/Adobe-CEP/CEP-Resources): Tools and documentation for building Creative Cloud app extensions with CEP
 * [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty): Adapted "Beautiful" Themes
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
@@ -366,6 +371,7 @@
 * [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube): An Open Source YouTube app for privacy
 * [tortious/FrozenFox](https://github.com/tortious/FrozenFox): A personal hodgepodge of css and js hacks to firefox that I personally enjoy. Strong emphasis on a blend of minimalism and functionality.
 * [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX): A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
+* [mikemadden42/fuji](https://github.com/mikemadden42/fuji): AppleScript collection
 * [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig): Load custom javascript in browser context
 * [dannycolin/fx-compact-mode](https://github.com/dannycolin/fx-compact-mode): A Compact Mode for Firefox Proton
 * [hensm/fx_cast](https://github.com/hensm/fx_cast): Google Cast implementation for Firefox
