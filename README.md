@@ -103,7 +103,7 @@
 * [folivoraAI/BetterTouchToolPlugins](https://github.com/folivoraAI/BetterTouchToolPlugins): Development of BetterTouchTool Plugins
 * [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
 * [StarPlayrX/bigmac](https://github.com/StarPlayrX/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
-* [garywill/BigSearch](https://github.com/garywill/BigSearch): Handily use/switch any One or Multiple search engines (uninterruptedly) via a Flexible Tool! Highly Customizable! 大术专搜，既专又广。以 灵活顺手的工具 使用(切换)任意一个 或 (连续)多个 搜索引擎 🔎🌐
+* [garywill/BigSearch](https://github.com/garywill/BigSearch): Handily use/switch any One or Multiple search engines (uninterruptedly) via a Flexible Tool! 大术专搜，既专又广。以 灵活顺手的工具 使用(切换)任意一个 或 (连续)多个 搜索引擎 🔎🌐
 * [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh): 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
 * [Filip-Sutkowy/blurclean-firefox-theme](https://github.com/Filip-Sutkowy/blurclean-firefox-theme): Clean, transparent firefox theme
 * [TheBi11iona1re/BlurFox-CSS-for-Mac](https://github.com/TheBi11iona1re/BlurFox-CSS-for-Mac): Update  to manilarome's Blur Fox for mac only
