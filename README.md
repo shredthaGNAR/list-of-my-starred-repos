@@ -641,7 +641,7 @@
 * [loveshopify/orium](https://github.com/loveshopify/orium): None
 * [shariati/OS-Folder-Icons](https://github.com/shariati/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list): A list of tools to search accounts by username
-* [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): A user reconnaisance tool that extracts a target's information from Instagram, DockerHub & Github. Also searches for matching usernames on Github.
+* [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): A user reconnaisance tool that extracts a target's information from About.me, Instagram, Dockerhub and Github
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
 * [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config): macOS Scripting for Configuration, Backup and Restore
 * [bgebhardt/osx_scripts_folder](https://github.com/bgebhardt/osx_scripts_folder): My repository of miscellaneous AppleScripts I've written for OS X
