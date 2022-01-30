@@ -425,7 +425,7 @@
 * [claytonjn/hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting): Circadian Lighting custom component for Home Assistant
 * [yangqian/hass-gelight](https://github.com/yangqian/hass-gelight): Home assistant custom component to control C by GE smart light bulb locally via Bluetooth
 * [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall): Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
-* [idbakkasse/helium](https://github.com/idbakkasse/helium): Helium is a modern Shopify development ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind.. 
+* [idbakkasse/helium](https://github.com/idbakkasse/helium): Helium is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind.. 
 * [demtario/hes-gallery](https://github.com/demtario/hes-gallery): Light, dependency free, responsive gallery script
 * [dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS utility that helps hide menu bar icons
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
