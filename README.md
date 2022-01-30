@@ -801,7 +801,6 @@
 * [kayspiegel/shopify-notification-templates-l10n](https://github.com/kayspiegel/shopify-notification-templates-l10n): Sometimes you need the Shopify Notification Templates in a different language than english. Starting this repo to collect some other languages. Starting with german. Want to contribute?
 * [kailasachse/Shopify-notifications](https://github.com/kailasachse/Shopify-notifications): Shopify's Default Notifications
 * [kevinrefvik/shopify-notifications](https://github.com/kevinrefvik/shopify-notifications): A collection of translated e-mail notification templates for Shopify
-* [volkovecom/Shopify-Notifications](https://github.com/volkovecom/Shopify-Notifications): None
 * [akospaska/shopify-outofthebox](https://github.com/akospaska/shopify-outofthebox): shopify-outofthebox
 * [hayes0724/shopify-packer](https://github.com/hayes0724/shopify-packer): Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
 * [wlcr/shopify-product-previews](https://github.com/wlcr/shopify-product-previews): Shopify Product Previews that work with Theme Previews
