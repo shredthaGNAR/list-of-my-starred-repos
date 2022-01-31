@@ -812,6 +812,7 @@
 * [Pravpro/Shopify-Product-Uploader](https://github.com/Pravpro/Shopify-Product-Uploader): An app being built with the goal of making Product Uploading exponentially faster for Shopify stores with one-off products.
 * [uicrooks/shopify-settings-control](https://github.com/uicrooks/shopify-settings-control): Automatic Git version control for Shopify settings_data.json via CI/CD
 * [megasnippets/shopify-snippets](https://github.com/megasnippets/shopify-snippets): None
+* [patrickbolle/shopify-snippets](https://github.com/patrickbolle/shopify-snippets): Random code snippets for Shopify. Sections, snippets, templates.
 * [pgrimaud/shopify-snippets](https://github.com/pgrimaud/shopify-snippets): Useful .liquid snippets for Shopify themes
 * [spiral/shopify-starter-kit](https://github.com/spiral/shopify-starter-kit): Starter theme and environment for the largest Shopify stores.
 * [PaulSteelway/shopify-terrelique](https://github.com/PaulSteelway/shopify-terrelique): None
