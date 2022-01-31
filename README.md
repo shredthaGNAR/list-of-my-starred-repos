@@ -38,6 +38,7 @@
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
 * [cipher387/Advanced-search-operators-list](https://github.com/cipher387/Advanced-search-operators-list): List of the links to the docs for different services, which explain using of advanced search operators
+* [117649/AdvancedLocationbar2](https://github.com/117649/AdvancedLocationbar2): None
 * [gauti123456/AdvancedVideoSearch](https://github.com/gauti123456/AdvancedVideoSearch): This is a sample advanced youtube video search built in Javascript Using the Youtube Data API V3
 * [Czarto/Adwords-Scripts](https://github.com/Czarto/Adwords-Scripts): Google Ads Bidding scripts
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
@@ -958,6 +959,7 @@
 * [DeweyReed/UltimateRingtonePicker](https://github.com/DeweyReed/UltimateRingtonePicker): An Android music picker library for picking alarm, notification or ringtones sound using an Activity or a dialog.
 * [gorhill/uMatrix](https://github.com/gorhill/uMatrix): uMatrix: Point and click matrix to filter net requests according to source, destination and type
 * [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu): Firefox webextension to add an undo closed tabs menu to tabs.
+* [p1usminus/undoclosetabreplacement](https://github.com/p1usminus/undoclosetabreplacement): Updated for FF78+
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
 * [TrollSkull/uScanner](https://github.com/TrollSkull/uScanner): uScanner is a tool to find usernames on various pages throughout the entire internet.
 * [JYLD/User-CSS-For-Firefox-And-Thunderbird](https://github.com/JYLD/User-CSS-For-Firefox-And-Thunderbird): User CSS Contributions For CustomizeMyBird and Custom CSS For FX
