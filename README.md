@@ -381,7 +381,7 @@
 * [dantebarba/gdrive-migrator](https://github.com/dantebarba/gdrive-migrator): Google Drive Migrator helper. Migrates from one gdrive account to another
 * [ShanukJ/gDrive-Multiple-File-Upload](https://github.com/ShanukJ/gDrive-Multiple-File-Upload): This is a simple script to upload Multiple files into google drive using google drive API and Nodejs.
 * [rebhu-open-source-foundation/gecko-b2g](https://github.com/rebhu-open-source-foundation/gecko-b2g): This is a mirror of https://gitlab.com/rebhu/rosf/thenexus-codes/gecko-b2g
-* [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: http://bit.ly/contribute-code
+* [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 * [AlfarexGuy2019/GentleFox](https://github.com/AlfarexGuy2019/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
 * [marchyman/GeoTag](https://github.com/marchyman/GeoTag): Image geo location editing for macOS 10.13 and later.  Available on the Mac App store (free).  Instructions and a .dmg of the current version are on the application home page ==>
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
