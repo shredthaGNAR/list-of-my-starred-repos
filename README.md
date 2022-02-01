@@ -648,6 +648,7 @@
 * [tiiiecherle/osx_install_config](https://github.com/tiiiecherle/osx_install_config): macOS Scripting for Configuration, Backup and Restore
 * [bgebhardt/osx_scripts_folder](https://github.com/bgebhardt/osx_scripts_folder): My repository of miscellaneous AppleScripts I've written for OS X
 * [sveinbjornt/osxiconutils](https://github.com/sveinbjornt/osxiconutils): A suite of command line utilities for working with Mac icons
+* [vasi/osxutils](https://github.com/vasi/osxutils): Mac-specific command line utilities (UPDATES)
 * [MrAndyStorey/pack-and-ship](https://github.com/MrAndyStorey/pack-and-ship): After many years of running some of this functionality using a LAMP server, now I'm redeveloping it to use Python. It interacts with Shopify (via API) and Royal Mail Pro Shipping (via CSV files) to pack our parcels retrieving customer data and uploading tracking numbers.
 * [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer): PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give to the aplication a few pictures of the person of interest
 * [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups):  An add-on for Firefox that implements the old Tab Groups/Panorama functionality
