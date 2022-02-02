@@ -128,6 +128,12 @@
     "BloodyHell619/Firefox-Theme-DarkMatter": [
         "Other"
     ],
+    "BoolenBread/Amazon-Drive-Video-Stream-API": [
+        "Other"
+    ],
+    "Bunn/macGist": [
+        "Other"
+    ],
     "CalebJohn/joplin-rich-markdown": [
         "Other"
     ],
@@ -195,6 +201,9 @@
         "Other"
     ],
     "DevNurAlam/ClickableEmailSignatureDesign-2": [
+        "Other"
+    ],
+    "DevUtilsApp/DevUtils-app": [
         "Other"
     ],
     "DeweyReed/UltimateRingtonePicker": [
@@ -513,6 +522,9 @@
         "Other"
     ],
     "OlegPoljakov/TinderPeopleFinder_Yandex_Images": [
+        "Other"
+    ],
+    "PHLAK/CloudDrop": [
         "Other"
     ],
     "PINPAL/btt-preset": [
@@ -918,6 +930,9 @@
         "Other"
     ],
     "alefragnani/vscode-project-manager": [
+        "Other"
+    ],
+    "alex-phillips/node-clouddrive": [
         "Other"
     ],
     "alexanderbast/vscode-snazzy": [
@@ -1458,6 +1473,9 @@
         "Other"
     ],
     "erichgoldman/add-url-to-window-title": [
+        "Other"
+    ],
+    "es-kumagai/OpenTerminal": [
         "Other"
     ],
     "estelle/CSS3Gradients": [
@@ -2165,6 +2183,9 @@
     "martinkorelic/my-joplin-theme": [
         "Other"
     ],
+    "mas-cli/mas": [
+        "Other"
+    ],
     "material-components/material-components-web": [
         "Other"
     ],
@@ -2274,6 +2295,9 @@
         "Other"
     ],
     "mmagnus/Pocket-Plus-Calibre-Plugin": [
+        "Other"
+    ],
+    "mortenjust/androidtool-mac": [
         "Other"
     ],
     "mozilla/gecko-dev": [
@@ -2537,6 +2561,9 @@
     "potsky/iajai-email-signature": [
         "Other"
     ],
+    "powerwolf543/DuplicateFinder": [
+        "Other"
+    ],
     "pqrs-org/KE-complex_modifications": [
         "Other"
     ],
@@ -2591,6 +2618,9 @@
     "rafaelmardojai/firefox-gnome-theme": [
         "Other"
     ],
+    "raphaelhanneken/iconizer": [
+        "Other"
+    ],
     "ravindranag/glassmorphism-in-firefox": [
         "Other"
     ],
@@ -2610,6 +2640,9 @@
         "Other"
     ],
     "revblaze/AppleMusicUltra": [
+        "Other"
+    ],
+    "rickkas7/TowerInfo": [
         "Other"
     ],
     "riddlesio/poker-engine-java": [
@@ -2679,6 +2712,9 @@
         "Other"
     ],
     "ryanoasis/nerd-fonts": [
+        "Other"
+    ],
+    "ryanpcmcquen/amatron": [
         "Other"
     ],
     "sagars007/Australis-like-tabs-FF-ProtonUI-changes": [
@@ -2993,6 +3029,9 @@
     "tomatopickle/Glox": [
         "Other"
     ],
+    "tombowditch/scripts": [
+        "Other"
+    ],
     "tortious/2021_Firefox": [
         "Other"
     ],
@@ -3069,6 +3108,9 @@
         "Other"
     ],
     "vasi/osxutils": [
+        "Other"
+    ],
+    "velvia/links": [
         "Other"
     ],
     "victor-savinov/todo": [
@@ -3153,6 +3195,9 @@
         "Other"
     ],
     "wulkano/Kap": [
+        "Other"
+    ],
+    "wynioux/macOS-GateKeeper-Helper": [
         "Other"
     ],
     "xDae/vscode-snazzy-theme": [

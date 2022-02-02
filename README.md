@@ -52,10 +52,13 @@
 * [marcel-kraatz/alpenglow-thunderbird](https://github.com/marcel-kraatz/alpenglow-thunderbird): The Firefox "Alpenglow" Theme for Thunderbird.
 * [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS 
 * [amym321/am-studio-site](https://github.com/amym321/am-studio-site): AM Studio website
+* [ryanpcmcquen/amatron](https://github.com/ryanpcmcquen/amatron): A cross-platform electron Amazon Cloud Drive app.
+* [BoolenBread/Amazon-Drive-Video-Stream-API](https://github.com/BoolenBread/Amazon-Drive-Video-Stream-API): Grabs direct mp4 link from amazon drive with filename and picture.
 * [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer): Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
 * [ianyh/Amethyst](https://github.com/ianyh/Amethyst): Automatic tiling window manager for macOS à la xmonad.
 * [amethyst/amethyst-starter-2d](https://github.com/amethyst/amethyst-starter-2d): Seed project for 2D games
 * [kevalpatel2106/android-ringtone-picker](https://github.com/kevalpatel2106/android-ringtone-picker): Simple Ringtone Picker dialog which allows you to pick different sounds from ringtone, alarm tone, notification tone and music from external storage.
+* [mortenjust/androidtool-mac](https://github.com/mortenjust/androidtool-mac): One-click screenshots, video recordings, app installation for iOS and Android
 * [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer): Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 * [wulkano/Aperture](https://github.com/wulkano/Aperture): Record the screen on macOS
 * [yiisoft/app](https://github.com/yiisoft/app): Yii 3 application template
@@ -175,6 +178,7 @@
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
 * [webextensions/close-tab-by-double-right-click](https://github.com/webextensions/close-tab-by-double-right-click): Source code for Chrome/Firefox extension "Close Tab by Double Right Click"
 * [Aadil101/cloud](https://github.com/Aadil101/cloud): A clean storage management interface for Google Drive, Dropbox, Box, and OneDrive accounts.
+* [PHLAK/CloudDrop](https://github.com/PHLAK/CloudDrop): Store and retrieve files in cloud storage providers (i.e. Dropbox, Google Drive, Microsoft OneDrive, Amazon Cloud Drive, etc.)
 * [johncoryk/coastal-shopify-theme](https://github.com/johncoryk/coastal-shopify-theme): Shopify theme for Low Coast Coffee
 * [mariia-nam/collection-tabs](https://github.com/mariia-nam/collection-tabs): Shopify Section for Home Page
 * [iShopifyExpert/color-swatches-as-sepreate-products](https://github.com/iShopifyExpert/color-swatches-as-sepreate-products): None
@@ -228,6 +232,7 @@
 * [BVAccel/dev-sandbox](https://github.com/BVAccel/dev-sandbox): New Dev Training Repo
 * [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup): macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 * [thundernest/developer-docs](https://github.com/thundernest/developer-docs): Developer documentation for Thunderbird contributors.
+* [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app): Offline Toolbox for Developers
 * [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim): Dim, a media manager fueled by dark forces.
 * [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images): Direct Google Images
 * [tapans/DIY-Surveillance-with-Smartphones](https://github.com/tapans/DIY-Surveillance-with-Smartphones): DIY hack for a complete CCTV solution using open source software and smartphones. 
@@ -245,6 +250,7 @@
 * [gluons/download-directory-helper](https://github.com/gluons/download-directory-helper): 📁 A Firefox add-on to use download-directory easily.
 * [Mortennn/Dozer](https://github.com/Mortennn/Dozer): Hide menu bar icons on macOS
 * [coolaj86/dropshare](https://github.com/coolaj86/dropshare): A min.us / ge.tt file share clone.
+* [powerwolf543/DuplicateFinder](https://github.com/powerwolf543/DuplicateFinder): Duplicate Finder is a macOS application that is written by Swift. It's a useful tool that would help you find all duplicate files with the same names in the specific folder.
 * [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper): A simple bash script to set wallpapers according to current time, using cron job scheduler.
 * [kush-agra/Dynamic_Walls](https://github.com/kush-agra/Dynamic_Walls): Replicating macOS Mojave's dynamic wallpaper feature
 * [zx1262111739/DynamicWallpaper](https://github.com/zx1262111739/DynamicWallpaper): Mac dynamic wallpaper program
@@ -447,6 +453,7 @@
 * [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
 * [penance316/hyper-dark-vibrancy](https://github.com/penance316/hyper-dark-vibrancy): A demo theme for hyperterm to demonstrate the vibrancy effect on macOS
 * [potsky/iajai-email-signature](https://github.com/potsky/iajai-email-signature): None
+* [raphaelhanneken/iconizer](https://github.com/raphaelhanneken/iconizer): Create Xcode asset catalogs swift and painless. Generate images for macOS and iOS app icons, launch images and image sets.
 * [lucaburgio/iconoir](https://github.com/lucaburgio/iconoir): A Simple and Definitive Open-Source Icons Library
 * [FirefoxUX/icons](https://github.com/FirefoxUX/icons): SVG icons used in Firefox. View all icons here:
 * [tale/iconset](https://github.com/tale/iconset): A nifty command-line tool to customize macOS icons
@@ -516,6 +523,7 @@
 * [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
 * [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
+* [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
 * [Shopify/liquid](https://github.com/Shopify/liquid): Liquid markup language. Safe, customer facing template language for flexible web apps. 
 * [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart): Ajaxifies Shopify cart sections and product forms like a boss  :dark_sunglasses:
 * [TGIFelix/liquid_flex](https://github.com/TGIFelix/liquid_flex): Getting started with Shopify OS 2.0
@@ -534,12 +542,14 @@
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
 * [maccman/macgap-rb](https://github.com/maccman/macgap-rb): Generator for MacGap
 * [darkbrow/macgap2_google_keep](https://github.com/darkbrow/macgap2_google_keep): None
+* [Bunn/macGist](https://github.com/Bunn/macGist): Simple app to send pasteboard items to GitHub's Gist
 * [lra/mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
 * [hazcod/maclaunch](https://github.com/hazcod/maclaunch): Manage your macOS startup items.
 * [temochka/macos-automation](https://github.com/temochka/macos-automation): A collection of my macOS automation scripts (Alfred Workflows, AppleScript, and JXA)
 * [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults): Incomplete list of macOS `defaults` commands with demos ✨
 * [CyanFi/macos-dynamic-wallpaper](https://github.com/CyanFi/macos-dynamic-wallpaper): A simple dynamic wallpaper script on macOS
 * [mBilG/macOS-Dynamic-Wallpaper](https://github.com/mBilG/macOS-Dynamic-Wallpaper): Vector Graphic for dynamic wallpaper
+* [wynioux/macOS-GateKeeper-Helper](https://github.com/wynioux/macOS-GateKeeper-Helper): Simple macOS GateKeeper script.
 * [yuanqing/macos-keyboard-shortcuts](https://github.com/yuanqing/macos-keyboard-shortcuts): :keyboard: A CLI to set application-specific keyboard shortcuts for macOS
 * [MaorS/macOS-PasswordManager](https://github.com/MaorS/macOS-PasswordManager): 🔑👨‍💻macOS Password Manager
 * [maustinstar/MacOS-Skin](https://github.com/maustinstar/MacOS-Skin): Custom icon sets for MacOS Apps
@@ -556,6 +566,7 @@
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [soxoj/marple](https://github.com/soxoj/marple): 📖 Collect links to profiles by username through search engines and analyze with various plugins
 * [arp242/MartinFox](https://github.com/arp242/MartinFox): Really simple userChrome.css for Firefox 89 to make the active tab stand out more
+* [mas-cli/mas](https://github.com/mas-cli/mas): :package: Mac App Store command line interface
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
 * [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
 * [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
@@ -607,6 +618,7 @@
 * [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu): FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. 📋🖱️🔗
 * [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil): OSINT tool for finding profiles by username
 * [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc): a blue-ish gray with a purple accent color palette for Visual Studio Code.
+* [alex-phillips/node-clouddrive](https://github.com/alex-phillips/node-clouddrive): Node SDK and CLI for Amazon's Cloud Drive
 * [opto/nostalgy-xpi](https://github.com/opto/nostalgy-xpi): nostalgy addon updated for Thunderbird 68 and now Thunderbird 78 - 91. Original code  by Alain Frisch.
 * [notable/notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
 * [notable/notable-customizations](https://github.com/notable/notable-customizations): A repository containing a collection of interesting community-created customizations for Notable.
@@ -644,6 +656,7 @@
 * [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 * [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp): OpenMTP  - Advanced Android File Transfer Application for macOS
 * [lukakerr/OpenQuickly](https://github.com/lukakerr/OpenQuickly): A custom 'open quickly' window that imitates macOS' Spotlight
+* [es-kumagai/OpenTerminal](https://github.com/es-kumagai/OpenTerminal): This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched.
 * [ajaybhatia/Operator-Mono](https://github.com/ajaybhatia/Operator-Mono): Operator Mono Font
 * [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig): Add ligatures to Operator Mono similar to Fira Code
 * [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates): Customize free Shopify Order Printer templates.
@@ -774,6 +787,7 @@
 * [shoekla/ScrapeC](https://github.com/shoekla/ScrapeC): ScrapeC is a “mock” search engine, in the fact that it does a lot of what Bing, YouTube, and DuckDuckGo does, but instead of searching its own database it crawls and scrape these search engines and other websites. Along with return links, images, and videos of searches it also return PDFs, Social Media information (Facebook, Twitter, Google+), and Contact Information related to the links that it returns. On top of that ScrapeC also has the same features on a smaller scale for web addresses used as an input. Link: http://scrapec.pythonanywhere.com/
 * [hotchemi/Scre](https://github.com/hotchemi/Scre): A lightweight screen recorder macOS application written in SwiftUI.
 * [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity): The most powerful screen recorder & annotation tool for Chrome 🎥
+* [tombowditch/scripts](https://github.com/tombowditch/scripts): General Scripts
 * [dfiiroz/scss-to-css](https://github.com/dfiiroz/scss-to-css): Now, This is Shopify Online Store 2.0. The importance of CSS is undeniable and Shopify Deprecated the SCSS support. I have converted the gift-card.sccs & theme.scss files to gift-card.css and theme.css files.
 * [rominirani/Search-A-Profile](https://github.com/rominirani/Search-A-Profile): A Google Talk Bot that gives you details about a person from various Social Networks given an email address. Powered by Get Contact API
 * [dessant/search-by-image](https://github.com/dessant/search-by-image): Browser extension for reverse image search, available for Chrome, Edge and Safari
@@ -963,6 +977,7 @@
 * [mjdescy/TodoTxtMac](https://github.com/mjdescy/TodoTxtMac): TodoTxtMac is a minimalist, keyboard-driven to-do manager for Mac OS X (10.8 Mountain Lion and higher) that conforms to the todo.txt format spec.
 * [Calvin-LL/toggleairport](https://github.com/Calvin-LL/toggleairport): A script for macOS to turn off WiFi when Ethernet is plugged in, and turn on WiFi when Ethernet is unplugged
 * [tangledhelix/toggleAirport](https://github.com/tangledhelix/toggleAirport): Toggle Airport power based on presence of wired ethernet
+* [rickkas7/TowerInfo](https://github.com/rickkas7/TowerInfo): Tool to show the location of nearby cellular towers on a mobile device, tablet, or laptop
 * [MrOtherGuy/ToyfoCSS](https://github.com/MrOtherGuy/ToyfoCSS): Guide to introduce basic CSS concepts and progressively advance into Firefox CSS hacking
 * [cheems/transfer-between-drives](https://github.com/cheems/transfer-between-drives): This is a Google Colab notebook for transferring files/folders between drives from different Google accounts
 * [pjialin/TranslucentFox](https://github.com/pjialin/TranslucentFox): 🤭 Translucent UI for Firefox
