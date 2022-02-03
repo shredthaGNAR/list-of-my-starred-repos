@@ -782,6 +782,7 @@
 * [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs): Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
 * [piroor/save-selected-tabs-to-files](https://github.com/piroor/save-selected-tabs-to-files): Provides ability to save selected tabs to local files for Firefox 63 and later.
 * [Karna98/Save-Tabs](https://github.com/Karna98/Save-Tabs): Export and Import Tabs with Cross-Browser support.
+* [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine): Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
 * [117649/SavedPasswordEditorRedux](https://github.com/117649/SavedPasswordEditorRedux): Not Gecko, application to allow creating and editing saved passwords 
 * [mdreier/savetabs](https://github.com/mdreier/savetabs): Save current tabs extension for Firefox
 * [shoekla/ScrapeC](https://github.com/shoekla/ScrapeC): ScrapeC is a “mock” search engine, in the fact that it does a lot of what Bing, YouTube, and DuckDuckGo does, but instead of searching its own database it crawls and scrape these search engines and other websites. Along with return links, images, and videos of searches it also return PDFs, Social Media information (Facebook, Twitter, Google+), and Contact Information related to the links that it returns. On top of that ScrapeC also has the same features on a smaller scale for web addresses used as an input. Link: http://scrapec.pythonanywhere.com/
@@ -840,12 +841,14 @@
 * [fireworkx/Shopify-Penta](https://github.com/fireworkx/Shopify-Penta): Shopify 2.0 theme for Penta Motor Group based off Dawn
 * [wlcr/shopify-product-previews](https://github.com/wlcr/shopify-product-previews): Shopify Product Previews that work with Theme Previews
 * [Pravpro/Shopify-Product-Uploader](https://github.com/Pravpro/Shopify-Product-Uploader): An app being built with the goal of making Product Uploading exponentially faster for Shopify stores with one-off products.
+* [bravetheskies/shopify-rapid-deploy-action](https://github.com/bravetheskies/shopify-rapid-deploy-action): A GitHub action for rapid deployment of Shopify themes.
 * [uicrooks/shopify-settings-control](https://github.com/uicrooks/shopify-settings-control): Automatic Git version control for Shopify settings_data.json via CI/CD
 * [megasnippets/shopify-snippets](https://github.com/megasnippets/shopify-snippets): None
 * [patrickbolle/shopify-snippets](https://github.com/patrickbolle/shopify-snippets): Random code snippets for Shopify. Sections, snippets, templates.
 * [pgrimaud/shopify-snippets](https://github.com/pgrimaud/shopify-snippets): Useful .liquid snippets for Shopify themes
 * [spiral/shopify-starter-kit](https://github.com/spiral/shopify-starter-kit): Starter theme and environment for the largest Shopify stores.
 * [PaulSteelway/shopify-terrelique](https://github.com/PaulSteelway/shopify-terrelique): None
+* [wyugen/shopify-theme-action](https://github.com/wyugen/shopify-theme-action): Deploy Previews for Shopify themes
 * [Maxvien/shopify-theme-customizer](https://github.com/Maxvien/shopify-theme-customizer): 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
 * [theadriann/shopify-theme-dawn](https://github.com/theadriann/shopify-theme-dawn): None
 * [craigerm/shopify-theme-dev](https://github.com/craigerm/shopify-theme-dev): None
@@ -955,6 +958,7 @@
 * [Godiesc/ThemeFixFox](https://github.com/Godiesc/ThemeFixFox): Correcciones generales del navegador Firefox
 * [Shopify/themekit](https://github.com/Shopify/themekit): Shopify theme development command line tool.
 * [baileylatimer/ThemeKit](https://github.com/baileylatimer/ThemeKit): Built for GoSun (gosun.co). Made with ♥ by Latimer Design.
+* [bravetheskies/themekit-download-action](https://github.com/bravetheskies/themekit-download-action): A GitHub action that pulls changes from Shopify Theme Kit themes.
 * [brohlson/themekit-webpack-tailwind](https://github.com/brohlson/themekit-webpack-tailwind): Shopify Themekit with Webpack & Tailwind CSS 
 * [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
 * [metux/thunderbird](https://github.com/metux/thunderbird): None
@@ -984,6 +988,7 @@
 * [jy1263/Transparent-Firefox-and-Thunderbird-](https://github.com/jy1263/Transparent-Firefox-and-Thunderbird-): A theme for Firefox and Thunderbird completly transparent
 * [piroor/treestyletab](https://github.com/piroor/treestyletab): Tree Style Tab, Show tabs like a tree.
 * [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch): Gets info from truepeoplesearch.com and adds it to Maltego
+* [Mennaruuk/twayback](https://github.com/Mennaruuk/twayback): Automate downloading deleted Tweets from the Wayback Machine.
 * [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets): Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 * [gorhill/uBlock](https://github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 * [mtxadmin/ublock](https://github.com/mtxadmin/ublock): Filters for uBlock Origin
@@ -1059,7 +1064,10 @@
 * [cheap-glitch/warpgate](https://github.com/cheap-glitch/warpgate): 💫 A lightweight browser extension to jump to various external bookmarks via the address bar.
 * [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox): CSS Style
 * [RobinBoers/wavefox-lepton](https://github.com/RobinBoers/wavefox-lepton): :fox_face: Firefox UI fix. A combination of Lepton and Wavefox for Firefox 90-91
+* [JamieMagee/wayback](https://github.com/JamieMagee/wayback): Save pages to the Wayback Machine as part of your CI/CD pipeline
 * [internetarchive/wayback-machine-webextension](https://github.com/internetarchive/wayback-machine-webextension): A web browser extension for Chrome, Firefox, Edge, and Safari 14.
+* [deyanvelichkov/waybackmachine](https://github.com/deyanvelichkov/waybackmachine): A simple wayback machine
+* [jsvine/waybackpack](https://github.com/jsvine/waybackpack): Download the entire Wayback Machine archive for a given URL.
 * [Shopify/web-configs](https://github.com/Shopify/web-configs): Common configurations for building web apps at Shopify
 * [jamesqquick/Web-Development-Essentials-Extension-Pack](https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack): This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
 * [BCIT-DDC/web-extension-ts-starter](https://github.com/BCIT-DDC/web-extension-ts-starter): 🚀 A web extension starter built with React, Typescript, and Tailwind CSS. Build once, and run on multiple browsers: Google Chrome, Mozilla Firefox, Microsoft Edge, Brave, and Opera.
