@@ -1030,6 +1030,7 @@
 * [jwilk/userscripts](https://github.com/jwilk/userscripts): Jakub's custom CSS and JavaScript (for dotPageMod Firefox extension)
 * [n3cr0cr0w/userscripts](https://github.com/n3cr0cr0w/userscripts): User Scripts for bingeing
 * [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css): Custom Firefox UI styles based on https://github.com/Aris-t2/CustomCSSforFx
+* [vegetableman/vandal](https://github.com/vegetableman/vandal): Navigator for Web Archive
 * [fruiz500/VideoSkip-extension](https://github.com/fruiz500/VideoSkip-extension): Same as VideoSkip, but as a Chrome/Firefox/Edge extension so it can edit videos streaming from many sources
 * [plwt/View-Pocket-List](https://github.com/plwt/View-Pocket-List): None
 * [bijij/ViewImage](https://github.com/bijij/ViewImage): Extension to re-implement the "View Image" and "Search by image" buttons into google images.
@@ -1068,6 +1069,7 @@
 * [internetarchive/wayback-machine-webextension](https://github.com/internetarchive/wayback-machine-webextension): A web browser extension for Chrome, Firefox, Edge, and Safari 14.
 * [deyanvelichkov/waybackmachine](https://github.com/deyanvelichkov/waybackmachine): A simple wayback machine
 * [jsvine/waybackpack](https://github.com/jsvine/waybackpack): Download the entire Wayback Machine archive for a given URL.
+* [dessant/web-archives](https://github.com/dessant/web-archives): Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 * [Shopify/web-configs](https://github.com/Shopify/web-configs): Common configurations for building web apps at Shopify
 * [jamesqquick/Web-Development-Essentials-Extension-Pack](https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack): This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
 * [BCIT-DDC/web-extension-ts-starter](https://github.com/BCIT-DDC/web-extension-ts-starter): 🚀 A web extension starter built with React, Typescript, and Tailwind CSS. Build once, and run on multiple browsers: Google Chrome, Mozilla Firefox, Microsoft Edge, Brave, and Opera.
