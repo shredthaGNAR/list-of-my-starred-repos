@@ -77,6 +77,7 @@
 * [atom/atom](https://github.com/atom/atom): :atom: The hackable text editor
 * [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal): A Terminal theme that mimics the One Dark theme made by the Atom team.
 * [sagars007/Australis-like-tabs-FF-ProtonUI-changes](https://github.com/sagars007/Australis-like-tabs-FF-ProtonUI-changes): Changes to make the new proton UI redesign in Firefox better; including australis tabs, compact mode, gradient accents in elements and much more
+* [Josua996/AutoTag](https://github.com/Josua996/AutoTag): A Thunderbird Add-on that automatically tag emails based on the sender address 🤖🏷
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css): :art: A curated contents of amazing CSS :)
@@ -185,6 +186,7 @@
 * [MikeC0xl0ng/Color-variants-collection](https://github.com/MikeC0xl0ng/Color-variants-collection): A collection template which will show all the color variations of the product as an individual product on the collection page
 * [w0lfschild/colorfulSidebar](https://github.com/w0lfschild/colorfulSidebar): :open_file_folder: MacForge plugin to add color back to the sidebar icons in Finder on macOS
 * [DigiDNA/ColorSet](https://github.com/DigiDNA/ColorSet): ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
+* [micz/ColumnsWizard](https://github.com/micz/ColumnsWizard): This is a Thunderbird addon that adds some magic to the folder list columns. Check the addon website for more info...
 * [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS): PowerShell script for comparing user.js (or prefs.js) files.
 * [timhettler/compass-photoshop-gradient-overlay](https://github.com/timhettler/compass-photoshop-gradient-overlay): A compass extension to translate between Photoshop gradient overlays and CSS linear-gradients
 * [argyleink/conic.css](https://github.com/argyleink/conic.css): nice'n simple conic gradients 🎨
@@ -263,6 +265,7 @@
 * [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 * [Zonnev/elementaryos5-firefox-theme](https://github.com/Zonnev/elementaryos5-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS 5 (Hera) user interface.
 * [glennjones/elsewhere-mapper](https://github.com/glennjones/elsewhere-mapper): Social media profile endpoint mapper for node.js
+* [regnull/email-autodiscover](https://github.com/regnull/email-autodiscover): Autodiscover email configuration for popular email clients
 * [MrNewaz/Email-Signature](https://github.com/MrNewaz/Email-Signature): A gmail signature I made
 * [ryanoasis/email-signature](https://github.com/ryanoasis/email-signature): My E-mail Signature
 * [solodev/email-signature](https://github.com/solodev/email-signature): Creating a custom signature is one of those details that can add professionalism to your emails and reinforce your brand. There are, however, complications that can arise when attempting to create a signature due to the intricacies of email clients. Some crafty HTML can help resolve these problems and create a functional email signature.
@@ -278,6 +281,7 @@
 * [maizzle/example-gradients](https://github.com/maizzle/example-gradients): Use CSS background gradients in HTML emails, with VML fallback for Outlook.
 * [SoldierInFaith14/excel_automation](https://github.com/SoldierInFaith14/excel_automation): Python script that modifies Shopify spreadsheet exports of order details.
 * [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+* [presuku/exteditor-mailext](https://github.com/presuku/exteditor-mailext): A Thunderbird add-on for editing text in your favourite external editor!
 * [Pocket/extension-save-to-pocket](https://github.com/Pocket/extension-save-to-pocket): Save to Pocket is a browser extension that is used to save pages to a connected Pocket account
 * [Raathigesh/fabulous](https://github.com/Raathigesh/fabulous): 🎨 CSS properties sidebar for VS Code
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition): The world's simplest facial recognition api for Python and the command line
@@ -356,6 +360,7 @@
 * [Rasmagoric/Firefox2022](https://github.com/Rasmagoric/Firefox2022): A new look for your Firefox browser.
 * [tagler/Firefox_Bookmark_Toolbar_Dark_Theme](https://github.com/tagler/Firefox_Bookmark_Toolbar_Dark_Theme): Custom CSS file for Firefox bookmark toolbar dark theme, v92+ (mac)
 * [Dini108/firefox_compact_style](https://github.com/Dini108/firefox_compact_style): Make Firefox compact!
+* [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt): Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
 * [DrDesten/Firefox_reStock](https://github.com/DrDesten/Firefox_reStock): reStock theme for Mozilla Firefox. Gives Firefox an overhauled look and feel while preserving the structure und color palette of the default look
 * [sdavidg/firefoxChromeScripts](https://github.com/sdavidg/firefoxChromeScripts): None
 * [guidoevers/firefoxcss](https://github.com/guidoevers/firefoxcss): transparancy
@@ -386,6 +391,7 @@
 * [hensm/fx_cast](https://github.com/hensm/fx_cast): Google Cast implementation for Firefox
 * [MrOtherGuy/FxChromeViewer](https://github.com/MrOtherGuy/FxChromeViewer): None
 * [ncyhere/gatsby-starter-shopify](https://github.com/ncyhere/gatsby-starter-shopify): A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
+* [ftassy/GCalTab](https://github.com/ftassy/GCalTab): GCalTab is a Thunderbird add-on that opens Google Calendar website in a Thunderbird tab. It facilitates multiple accounts management. and features a beautiful dark mode thanks to the DarkReader algorithm.
 * [dantebarba/gdrive-migrator](https://github.com/dantebarba/gdrive-migrator): Google Drive Migrator helper. Migrates from one gdrive account to another
 * [ShanukJ/gDrive-Multiple-File-Upload](https://github.com/ShanukJ/gDrive-Multiple-File-Upload): This is a simple script to upload Multiple files into google drive using google drive API and Nodejs.
 * [rebhu-open-source-foundation/gecko-b2g](https://github.com/rebhu-open-source-foundation/gecko-b2g): This is a mirror of https://gitlab.com/rebhu/rosf/thenexus-codes/gecko-b2g
@@ -415,6 +421,7 @@
 * [tumpio/gmscripts](https://github.com/tumpio/gmscripts): tumpio's usercripts
 * [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT): The complete Touch Bar UI replacement for BetterTouchTool
 * [min-uuu/GoldenRabbit-BTT](https://github.com/min-uuu/GoldenRabbit-BTT): MacBook Pro touchbar custom. Perfectly Optimized BTT(Better Touch Tool) Preset.
+* [zanonmark/Google-4-TbSync](https://github.com/zanonmark/Google-4-TbSync): This provider add-on adds Google synchronization capabilities to TbSync. Only contacts and contact groups are currently managed, using Google's People API.
 * [vinaywadhwa/Google-Account-Switcher---Alfred](https://github.com/vinaywadhwa/Google-Account-Switcher---Alfred): An Alfred workflow to Switch Google/GSuite accounts on Google websites (Gmail, Drive, Calendar) with keyboard shortcuts.
 * [GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify](https://github.com/GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify): Google Analytics Dynamic Remarketing Code for Shopify
 * [blyad2137/google-dark-theme](https://github.com/blyad2137/google-dark-theme): The Ultimate Dark Theme for Google.
@@ -532,6 +539,7 @@
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
 * [gkoehler/LogiCircleDownloader](https://github.com/gkoehler/LogiCircleDownloader): Automatically download all your videos from your Logi Circle camera
 * [Not-Cyrus/Login-Stealer](https://github.com/Not-Cyrus/Login-Stealer): what the name says (made for "educational" purposes)
+* [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
 * [robin/LYTabView](https://github.com/robin/LYTabView): A customized Mac OS X Tab View with modern tab bar style
 * [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix): Mac Mouse Fix - A simple way to make your mouse better.
 * [maximbilan/Mac-OS-X-App-Menu-Bar-Popup](https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup): Mac OS X Application like a menu bar popup message
@@ -563,6 +571,7 @@
 * [fharper/macsetup](https://github.com/fharper/macsetup): Scripts to setup my mac
 * [Clipy/Magnet](https://github.com/Clipy/Magnet): Customize global hotkeys in macOS.
 * [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+* [peci1/mailing-list-filter](https://github.com/peci1/mailing-list-filter): Thunderbird mail filter search term using mailing lists (and not whole addressbooks).
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [soxoj/marple](https://github.com/soxoj/marple): 📖 Collect links to profiles by username through search engines and analyze with various plugins
 * [arp242/MartinFox](https://github.com/arp242/MartinFox): Really simple userChrome.css for Firefox 89 to make the active tab stand out more
@@ -596,6 +605,7 @@
 * [joshuacant/move_to_private](https://github.com/joshuacant/move_to_private): Firefox webextension to add an 'open in private' menu item to tabs.
 * [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow): Move tab to next window browser context menu/button extension
 * [TwisterMc/moz-mac](https://github.com/TwisterMc/moz-mac): Translucent Mac Firefox Theme
+* [4ch1m/mozext](https://github.com/4ch1m/mozext): Extensions / Add-Ons for Mozilla Firefox and Mozilla Thunderbird
 * [mpdf/mpdf](https://github.com/mpdf/mpdf): PHP library generating PDF files from UTF-8 encoded HTML
 * [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
 * [jnozsc/mpv-nightly-build](https://github.com/jnozsc/mpv-nightly-build):  🍿 Unofficial mpv nightly build for macOS
@@ -769,7 +779,9 @@
 * [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX): ReFleX - Deep Image Recognition Bot
 * [mozilla/releases-comm-central](https://github.com/mozilla/releases-comm-central): EXPERIMENTAL - copy of comm-central for forking on github
 * [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions): Browser extension that removes recommended videos from YouTube
+* [eyalroz/removedupes](https://github.com/eyalroz/removedupes): Remove Duplicate Messages
 * [dexiota/replacefirefoxicon](https://github.com/dexiota/replacefirefoxicon): A collection of CSS tweaks to only change Firefox's icon throughout the UI.
+* [jeevatkm/ReplyWithHeaderMozilla](https://github.com/jeevatkm/ReplyWithHeaderMozilla): Outlook style headers and few goodies for Thunderbird & Postbox.
 * [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature): Template generator for (responsive) emails & email signatures ✨
 * [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS): userChromeJS scripts to restore Firefox features that have been removed or changed
 * [mariia-nam/reviews-collage](https://github.com/mariia-nam/reviews-collage): Shopify Section with customers reviews.
@@ -873,6 +885,7 @@
 * [mikecrittenden/shortkeys](https://github.com/mikecrittenden/shortkeys): A browser extension for custom keyboard shortcuts 
 * [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
 * [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch): Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. 🪟
+* [thsmi/sieve](https://github.com/thsmi/sieve): Sieve Script Editor
 * [ineat/signature](https://github.com/ineat/signature): How to have a nice signature for emails
 * [ronfybish/Signature-Generator](https://github.com/ronfybish/Signature-Generator): Email Signature Generator - React & Firebase
 * [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups): Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
@@ -946,6 +959,7 @@
 * [tim-we/tabs-aside](https://github.com/tim-we/tabs-aside): A session/tab manager web extension for Firefox based on the Microsoft Edge feature.
 * [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver): WebExtension to manage tabs
 * [thundernest/tb-web-ext-experiments](https://github.com/thundernest/tb-web-ext-experiments): WebExtension Experiments for Thunderbird
+* [wshanks/tbkeys](https://github.com/wshanks/tbkeys): Custom keybindings for Thunderbird
 * [eikendev/tbunread](https://github.com/eikendev/tbunread): Helps you to keep an eye on unread emails in Thunderbird 📬:fire:
 * [edo0/Technetium](https://github.com/edo0/Technetium): A focused approach to taming the new Firefox's Proton design
 * [sindresorhus/terminal-snazzy](https://github.com/sindresorhus/terminal-snazzy): Elegant Terminal theme with bright colors
@@ -953,6 +967,7 @@
 * [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver): 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds:
 * [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
 * [MorganJay/TheBox](https://github.com/MorganJay/TheBox): A responsive, asymmetrical design with HTML & CSS - Firefox!
+* [drsjb80/thematic](https://github.com/drsjb80/thematic): Now the official repo for the FF/TB Thematic extension.
 * [Shopify/theme-check](https://github.com/Shopify/theme-check): The Ultimate Shopify Theme Linter
 * [microsoft/theme-converter-for-vs](https://github.com/microsoft/theme-converter-for-vs): CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme.
 * [Godiesc/ThemeFixFox](https://github.com/Godiesc/ThemeFixFox): Correcciones generales del navegador Firefox
@@ -960,7 +975,9 @@
 * [baileylatimer/ThemeKit](https://github.com/baileylatimer/ThemeKit): Built for GoSun (gosun.co). Made with ♥ by Latimer Design.
 * [bravetheskies/themekit-download-action](https://github.com/bravetheskies/themekit-download-action): A GitHub action that pulls changes from Shopify Theme Kit themes.
 * [brohlson/themekit-webpack-tailwind](https://github.com/brohlson/themekit-webpack-tailwind): Shopify Themekit with Webpack & Tailwind CSS 
+* [devmount/third-stats](https://github.com/devmount/third-stats): Thunderbird add-on turning your emails into beautifully visualized email account stats
 * [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
+* [dracula/thunderbird](https://github.com/dracula/thunderbird): 🧛🏻‍♂️ Dark theme for Thunderbird
 * [metux/thunderbird](https://github.com/metux/thunderbird): None
 * [sms77io/thunderbird](https://github.com/sms77io/thunderbird): Send SMS from within Thunderbird
 * [metux/thunderbird-2](https://github.com/metux/thunderbird-2): thunderbird 2nd try ... v68.0
@@ -969,6 +986,7 @@
 * [joax/thunderbird-dark-theme](https://github.com/joax/thunderbird-dark-theme): Dark theme based on Monterail for Thunderbird 78
 * [mendel5/thunderbird-how-to](https://github.com/mendel5/thunderbird-how-to): How to configure Mozilla Thunderbird
 * [spymastermatt/thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail): A set of themes for thunderbird inspired by a Monterail blog post
+* [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches): Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 * [kaipee/thunderbird-theme-arc](https://github.com/kaipee/thunderbird-theme-arc): Arc inspired theme for Thunderbird
 * [PapirusDevelopmentTeam/thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus): Papirus icons for Thunderbird
 * [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js): Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening 
