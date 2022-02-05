@@ -438,6 +438,7 @@
 * [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool): Tool for deleting all photos from the Google Photos
 * [scrapewalrus/Google-Shopping-Scraper](https://github.com/scrapewalrus/Google-Shopping-Scraper): This is a python Google Shopping scraper that can scrape all the products by searching for a keyword.
 * [milosbunijevac/GoogleDownloader](https://github.com/milosbunijevac/GoogleDownloader): Python: Opens a google search to get the first 10 4k images of the person you enter. Downloads images to new folder named after search.
+* [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored): This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 * [sunlightworks/gosun_dev](https://github.com/sunlightworks/gosun_dev): Built for GoSun (gosun.co). Made with ♥ by Latimer Design. 
 * [privacy-tech-lab/gpc-optmeowt](https://github.com/privacy-tech-lab/gpc-optmeowt): Browser extension for opting out from the sale and sharing of personal information per the California Consumer Privacy Act and other privacy laws
 * [gphoto/gphoto2](https://github.com/gphoto/gphoto2): The gphoto2 commandline tool for accessing and controlling digital cameras.
