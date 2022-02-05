@@ -1012,7 +1012,7 @@
 * [jy1263/Transparent-Firefox-and-Thunderbird-](https://github.com/jy1263/Transparent-Firefox-and-Thunderbird-): A theme for Firefox and Thunderbird completly transparent
 * [piroor/treestyletab](https://github.com/piroor/treestyletab): Tree Style Tab, Show tabs like a tree.
 * [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch): Gets info from truepeoplesearch.com and adds it to Maltego
-* [Mennaruuk/twayback](https://github.com/Mennaruuk/twayback): Automate downloading deleted Tweets from the Wayback Machine.
+* [Mennaruuk/twayback](https://github.com/Mennaruuk/twayback): Automate downloading archived deleted Tweets.
 * [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets): Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 * [gorhill/uBlock](https://github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 * [mtxadmin/ublock](https://github.com/mtxadmin/ublock): Filters for uBlock Origin
