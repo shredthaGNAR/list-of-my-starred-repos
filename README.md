@@ -697,7 +697,7 @@
 * [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect): A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and view other users’ posts & profiles, search users & follow-unfollow them and get notified about activities on their profile.
 * [ChanChunCheong/PeopleSearch](https://github.com/ChanChunCheong/PeopleSearch): DSO Summer Internship-People Search Aggregator web application which use data analytics and artificial intelligence libraries, to simultaneously search social media profiles from various platforms, processes, and then rank the search results based on name, location, keywords and image matching
 * [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
-* [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS/OS X window and app manager scriptable with JavaScript
+* [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript
 * [garrow/phoenix-configurations](https://github.com/garrow/phoenix-configurations): My custom configurations for the Phoenix macOS window Manager, ( https://github.com/kasper/phoenix )
 * [DhruvRoy247/Photo-Trans](https://github.com/DhruvRoy247/Photo-Trans): Image Search Web Application
 * [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis): Bringing sexy curves back to Firefox Photon.
