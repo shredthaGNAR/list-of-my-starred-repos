@@ -305,7 +305,7 @@
 * [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
 * [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript): Mashup Font of FiraCode and Script12
 * [bennypowers/fireblocks](https://github.com/bennypowers/fireblocks): Chonky Firefox tabs for square developers
-* [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox): Torturing Firefox with userchrome.js and userchrome.css for Mozilla's successive degradation of the browser window. 
+* [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox): Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window. 
 * [bolucat/Firefox](https://github.com/bolucat/Firefox): The Source Code of Firefox on Desktop
 * [crssi/Firefox](https://github.com/crssi/Firefox): None
 * [nonoroazoro/firefox](https://github.com/nonoroazoro/firefox): Customized Extensions, Scripts, UserChromeJS and Rules of Firefox.
