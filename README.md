@@ -717,6 +717,7 @@
 * [lobre/pocket2notion](https://github.com/lobre/pocket2notion): Tool for migrating Pocket items to Notion
 * [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer): Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 * [ruipgil/pocketmark](https://github.com/ruipgil/pocketmark): From pocket to chrome bookmarks
+* [mmagnus/PocketX-Calibre-Plugin](https://github.com/mmagnus/PocketX-Calibre-Plugin): PocketX-Calibre-Plugin is an experimental version of Pocket-Plus-Calibre-Plugin (send articles from Pocket to your e-reader)
 * [karlicoss/pockexport](https://github.com/karlicoss/pockexport): Export/access your Pocket data, including highlights!
 * [typkrft/Poison-Firefox-Theme](https://github.com/typkrft/Poison-Firefox-Theme): A Firefox theme with Pywal and macOS in mind. 
 * [WynStaXxx/poker](https://github.com/WynStaXxx/poker): A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
