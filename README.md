@@ -296,7 +296,6 @@
 * [CleanCocoa/FatSidebar](https://github.com/CleanCocoa/FatSidebar): Custom vertical button toolbar for macOS
 * [ownaginatious/fbchat-archive-parser](https://github.com/ownaginatious/fbchat-archive-parser): An application for parsing chat history from a Facebook data archive.
 * [crestonbunch/ff-ctrl-e](https://github.com/crestonbunch/ff-ctrl-e): Ctrl+E shortcut for searching open tabs in Firefox
-* [hovercats/ff-user.js](https://github.com/hovercats/ff-user.js): couple of user.js profiles, for firefox. one based of off privacytools.io, and the other off Arkenfox's
 * [ewen-lbh/ffcss](https://github.com/ewen-lbh/ffcss): A CLI interface to apply and configure FirefoxCSS themes
 * [vord1080/FFTweaks](https://github.com/vord1080/FFTweaks): smol tweaks for firefox proton redesign
 * [mklement0/fileicon](https://github.com/mklement0/fileicon): macOS CLI for managing custom icons for files and folders
