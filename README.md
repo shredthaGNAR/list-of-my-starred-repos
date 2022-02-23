@@ -293,6 +293,7 @@
 * [sameera-madushan/Facebook-Video-Downloader](https://github.com/sameera-madushan/Facebook-Video-Downloader): Python script to download and save your favorite Facebook videos.
 * [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader): Facebook Video Downloader in PHP 
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
+* [dumbmatter/fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB): A pure JS in-memory implementation of the IndexedDB API
 * [CleanCocoa/FatSidebar](https://github.com/CleanCocoa/FatSidebar): Custom vertical button toolbar for macOS
 * [ownaginatious/fbchat-archive-parser](https://github.com/ownaginatious/fbchat-archive-parser): An application for parsing chat history from a Facebook data archive.
 * [crestonbunch/ff-ctrl-e](https://github.com/crestonbunch/ff-ctrl-e): Ctrl+E shortcut for searching open tabs in Firefox
