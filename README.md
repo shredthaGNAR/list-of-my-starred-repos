@@ -253,6 +253,7 @@
 * [gluons/download-directory-helper](https://github.com/gluons/download-directory-helper): 📁 A Firefox add-on to use download-directory easily.
 * [Mortennn/Dozer](https://github.com/Mortennn/Dozer): Hide menu bar icons on macOS
 * [coolaj86/dropshare](https://github.com/coolaj86/dropshare): A min.us / ge.tt file share clone.
+* [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
 * [powerwolf543/DuplicateFinder](https://github.com/powerwolf543/DuplicateFinder): Duplicate Finder is a macOS application that is written by Swift. It's a useful tool that would help you find all duplicate files with the same names in the specific folder.
 * [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper): A simple bash script to set wallpapers according to current time, using cron job scheduler.
 * [kush-agra/Dynamic_Walls](https://github.com/kush-agra/Dynamic_Walls): Replicating macOS Mojave's dynamic wallpaper feature
