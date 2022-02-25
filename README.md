@@ -109,6 +109,7 @@
 * [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
 * [StarPlayrX/bigmac](https://github.com/StarPlayrX/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! 大术专搜，既专又广。带些“独门特技”的搜索引擎使用工具 🔎🌐
+* [jnsdrtlf/bitwarden-menubar](https://github.com/jnsdrtlf/bitwarden-menubar): Bitwarden in the macOS menu bar
 * [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh): 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
 * [Filip-Sutkowy/blurclean-firefox-theme](https://github.com/Filip-Sutkowy/blurclean-firefox-theme): Clean, transparent firefox theme
 * [TheBi11iona1re/BlurFox-CSS-for-Mac](https://github.com/TheBi11iona1re/BlurFox-CSS-for-Mac): Update  to manilarome's Blur Fox for mac only
@@ -243,6 +244,7 @@
 * [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli): Control the macOS `Do Not Disturb` feature from the command-line
 * [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn): Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
 * [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge): RTMP/RTSP/HLS bridge for Wyze cams in a docker container
+* [DeromirNeves/DockSeparator](https://github.com/DeromirNeves/DockSeparator): macOS utility to add multiple separators to Dock
 * [cheshire137/dotfiles](https://github.com/cheshire137/dotfiles): All my handy configuration files, including for stuff like Skyrim. ⚔️
 * [eramdam/dotfiles](https://github.com/eramdam/dotfiles): My personal dotfiles (don't look at the mess pls)
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles): :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
@@ -379,6 +381,7 @@
 * [floccusaddon/floccus](https://github.com/floccusaddon/floccus): :cloud: Sync your bookmarks privately across browsers
 * [d2phap/fluent-reveal-effect](https://github.com/d2phap/fluent-reveal-effect): Fluent Reveal Effect JavaScript library for web
 * [YuvanMichael/fluentfox](https://github.com/YuvanMichael/fluentfox): A combination of FluentDotFox, Firefox-91plus-photon-userchrome-master and Firefox UWP style! The goal is to make an exact replica of Microsoft Edge™ Legacy in Mozilla Firefox. I'm not a developer, I usually report issues... But I wanted a Fluent style Firefox for everyone to use. So, I created this repository. 🙂️ 
+* [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet): Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows.
 * [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox): An opinionated set of configurations for firefox.
 * [avindra/fndr](https://github.com/avindra/fndr): An Internet helper to wrangle multiple search providers, extract social media ids, perform reverse image search and more.
 * [VigoKrumins/folder-icons](https://github.com/VigoKrumins/folder-icons): Custom folder icons for macOS & Windows
