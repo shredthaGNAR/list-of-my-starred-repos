@@ -1122,6 +1122,7 @@
 * [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop): Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 * [AdamXweb/WhiteSurFirefoxThemeMacOS](https://github.com/AdamXweb/WhiteSurFirefoxThemeMacOS): MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
 * [ATechnocratis/widefox](https://github.com/ATechnocratis/widefox): A wide screen friendly browser
+* [TDenisM/widevinedump](https://github.com/TDenisM/widevinedump): None
 * [selfish/window-merge-extension](https://github.com/selfish/window-merge-extension): Browser Addon/Extension to bring all open tabs into one window
 * [bit-tinker/Window-Saver](https://github.com/bit-tinker/Window-Saver): None
 * [Wingtwz/Window-Title-Hider](https://github.com/Wingtwz/Window-Title-Hider): Webextension that hides the current tab title from the window shown on the task bar (shows browser name first)
