@@ -84,6 +84,7 @@
 * [gztchan/awesome-design](https://github.com/gztchan/awesome-design): 🌟 Curated design resources from all over the world.
 * [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems): A curated list of bookmarks, resources and articles about design systems focused on developers.
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools): The best design tools and plugins for everything 👉
+* [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant): A curated list of amazingly awesome Home Assistant resources.
 * [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech): Promoting Solutions that Improve Wellbeing, Freedom and Society
 * [Cyanhall/awesome-javascript](https://github.com/Cyanhall/awesome-javascript): Better Awesome JavaScript List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
 * [kot-behemoth/awesome-joplin](https://github.com/kot-behemoth/awesome-joplin): 📒 A curated list of awesome Joplin themes and tools.
