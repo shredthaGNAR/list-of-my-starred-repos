@@ -552,6 +552,7 @@
 * [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart): Ajaxifies Shopify cart sections and product forms like a boss  :dark_sunglasses:
 * [TGIFelix/liquid_flex](https://github.com/TGIFelix/liquid_flex): Getting started with Shopify OS 2.0
 * [harttle/liquidjs](https://github.com/harttle/liquidjs): A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
+* [WynStaXxx/list-of-my-starred-repos](https://github.com/WynStaXxx/list-of-my-starred-repos): None
 * [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
 * [gkoehler/LogiCircleDownloader](https://github.com/gkoehler/LogiCircleDownloader): Automatically download all your videos from your Logi Circle camera
@@ -637,7 +638,6 @@
 * [Noisy96/my-email-signature](https://github.com/Noisy96/my-email-signature): Email signature
 * [Minibus93/my-firefox-setup](https://github.com/Minibus93/my-firefox-setup): My firefox setup
 * [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme): My Joplin App userstyle and userchrome theme style.
-* [WynStaXxx/my-list](https://github.com/WynStaXxx/my-list): None
 * [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): UI Email Signature Generator - Make easy to create your email signature
 * [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles): None
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
