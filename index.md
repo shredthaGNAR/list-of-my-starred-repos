@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Behold!!! This ia a top secert collection of lists and links of repos that  thi thought were cool enough to give them a STAR mark on the repo, in an attempt to make sure that I  keep track of the plethora of projects and repos, as I plan to keep checking rhwm up and would suck rto jest forgo the sites. So this is a list of all those repos and forks that I was maked with a gold star and then wit the jelp of the githib action, the list is actually updatesd with any new repos and is cateogies by tag, which is awesome. 
 
-You can use the [editor on GitHub](https://github.com/WynStaXxx/list-of-my-starred-repos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can check out my work curreently @ [Lead Web Dev(https://github.com/WynStaXxx/list-of-my-starred-repos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
