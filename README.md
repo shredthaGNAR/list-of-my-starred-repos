@@ -455,6 +455,7 @@
 * [vipintom/gpm2spotify](https://github.com/vipintom/gpm2spotify): Google Play Music to Spotify Library Exporter
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
 * [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon): Staggeringly powerful macOS desktop automation with Lua
+* [KURANADO2/hammerspoon-kuranado](https://github.com/KURANADO2/hammerspoon-kuranado): Hammerspoon 配置
 * [claytonjn/hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting): Circadian Lighting custom component for Home Assistant
 * [yangqian/hass-gelight](https://github.com/yangqian/hass-gelight): Home assistant custom component to control C by GE smart light bulb locally via Bluetooth
 * [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall): Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
