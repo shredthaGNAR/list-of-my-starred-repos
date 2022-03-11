@@ -35,6 +35,7 @@
 * [himanshukumar660/Address-Validation](https://github.com/himanshukumar660/Address-Validation): This is a website where user can perform Address Verification.
 * [mkoryak/address-validator](https://github.com/mkoryak/address-validator): nodejs address validator via google api
 * [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt): The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+* [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari): AdGuard for Safari app extension
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
 * [cipher387/Advanced-search-operators-list](https://github.com/cipher387/Advanced-search-operators-list): List of the links to the docs for different services, which explain using of advanced search operators
@@ -77,6 +78,7 @@
 * [atom/atom](https://github.com/atom/atom): :atom: The hackable text editor
 * [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal): A Terminal theme that mimics the One Dark theme made by the Atom team.
 * [sagars007/Australis-like-tabs-FF-ProtonUI-changes](https://github.com/sagars007/Australis-like-tabs-FF-ProtonUI-changes): Changes to make the new proton UI redesign in Firefox better; including australis tabs, compact mode, gradient accents in elements and much more
+* [withfig/autocomplete](https://github.com/withfig/autocomplete): Fig adds autocomplete to your terminal.
 * [Josua996/AutoTag](https://github.com/Josua996/AutoTag): A Thunderbird Add-on that automatically tag emails based on the sender address 🤖🏷
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
@@ -262,6 +264,7 @@
 * [Mortennn/Dozer](https://github.com/Mortennn/Dozer): Hide menu bar icons on macOS
 * [coolaj86/dropshare](https://github.com/coolaj86/dropshare): A min.us / ge.tt file share clone.
 * [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
+* [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru): Find duplicate files
 * [powerwolf543/DuplicateFinder](https://github.com/powerwolf543/DuplicateFinder): Duplicate Finder is a macOS application that is written by Swift. It's a useful tool that would help you find all duplicate files with the same names in the specific folder.
 * [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper): A simple bash script to set wallpapers according to current time, using cron job scheduler.
 * [kush-agra/Dynamic_Walls](https://github.com/kush-agra/Dynamic_Walls): Replicating macOS Mojave's dynamic wallpaper feature
@@ -271,6 +274,7 @@
 * [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox): A Firefox userChrome.css theme that aims to recreate the look and feel of the Chromium version of Microsoft Edge.
 * [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox): Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
 * [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder): A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+* [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail): Unofficial ProtonMail Desktop App
 * [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox): firefox themed context and bookmark menus
 * [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 * [Zonnev/elementaryos5-firefox-theme](https://github.com/Zonnev/elementaryos5-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS 5 (Hera) user interface.
@@ -383,6 +387,7 @@
 * [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig): Firefox privacy configuration (help + user.js)
 * [xKrusty/FirefoxTheme](https://github.com/xKrusty/FirefoxTheme): None
 * [josepedromonteiro/fireze](https://github.com/josepedromonteiro/fireze): Custome safari theme for Firefox
+* [Mortennn/FiScript](https://github.com/Mortennn/FiScript): Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
 * [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css): A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and gradients for some depth.
 * [floccusaddon/floccus](https://github.com/floccusaddon/floccus): :cloud: Sync your bookmarks privately across browsers
 * [d2phap/fluent-reveal-effect](https://github.com/d2phap/fluent-reveal-effect): Fluent Reveal Effect JavaScript library for web
@@ -612,6 +617,7 @@
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [jonathanKingston/merge-windows](https://github.com/jonathanKingston/merge-windows): A Firefox extension for merging windows
 * [nickysemenza/message-analyzer](https://github.com/nickysemenza/message-analyzer): 💬 📊 Facebook Messenger history scraper + analyzer
+* [glaurent/MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser): a macOS/OSX app to comfortably browse and search through your Messages.app history.
 * [alexta69/metube](https://github.com/alexta69/metube): youtube-dl web UI
 * [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 * [artginzburg/MiddleClick-BigSur](https://github.com/artginzburg/MiddleClick-BigSur):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
@@ -832,6 +838,7 @@
 * [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity): The most powerful screen recorder & annotation tool for Chrome 🎥
 * [tombowditch/scripts](https://github.com/tombowditch/scripts): General Scripts
 * [dfiiroz/scss-to-css](https://github.com/dfiiroz/scss-to-css): Now, This is Shopify Online Store 2.0. The importance of CSS is undeniable and Shopify Deprecated the SCSS support. I have converted the gift-card.sccs & theme.scss files to gift-card.css and theme.css files.
+* [neilalexander/seaglass](https://github.com/neilalexander/seaglass): A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 * [rominirani/Search-A-Profile](https://github.com/rominirani/Search-A-Profile): A Google Talk Bot that gives you details about a person from various Social Networks given an email address. Powered by Get Contact API
 * [dessant/search-by-image](https://github.com/dessant/search-by-image): Browser extension for reverse image search, available for Chrome, Edge and Safari
 * [electron0zero/search-google-in-private](https://github.com/electron0zero/search-google-in-private): Adds a Search Google in Private for in your context menu
@@ -985,6 +992,7 @@
 * [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash): Firefox extension to save and restore tabs as bookmarks
 * [gmes78/tab_move](https://github.com/gmes78/tab_move): Firefox addon that lets you move a tab to the start or the end of the tab bar
 * [menhera-org/TabArray](https://github.com/menhera-org/TabArray): Chrome-like tab groups using isolated containers: The ultimate tab manager and groups for Firefox
+* [jakob/TableTool](https://github.com/jakob/TableTool): A simple CSV editor for the Mac
 * [lbragile/TabMerger](https://github.com/lbragile/TabMerger): TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
 * [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
 * [DanielDe/TabRearranger](https://github.com/DanielDe/TabRearranger): Chrome extension to rearrange tabs and move them between windows using keyboard shortcuts
