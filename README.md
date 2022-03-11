@@ -138,6 +138,7 @@
 * [EnderDev/browser-chrome-experiment](https://github.com/EnderDev/browser-chrome-experiment): None
 * [adi6409/browser-ff](https://github.com/adi6409/browser-ff): None
 * [Zegnat/browserext-window-merger](https://github.com/Zegnat/browserext-window-merger): Merge specified browser windows into each other. Or all of them into one. Simply right click to open Firefox’s context menu when multiple windows are open, or configure a keyboard shortcut. All wrapped up in one tiny free extension.
+* [Worie/btt](https://github.com/Worie/btt): Low level MacOS management in JavaScript via BetterTouchTool
 * [wonjoonSeol/BTT-Aqua-modification](https://github.com/wonjoonSeol/BTT-Aqua-modification): Better Touch Tool AquaTouch Preset Modification
 * [andrewchidden/btt-controllers](https://github.com/andrewchidden/btt-controllers): Small controller scripts and utilities designed to work with BetterTouchTool.
 * [skydiver/btt-helper](https://github.com/skydiver/btt-helper): Helpers to improve your BetterTouchTool presets"
