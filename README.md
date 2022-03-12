@@ -220,6 +220,7 @@
 * [samiyuru/custom-finder-right-click-menu](https://github.com/samiyuru/custom-finder-right-click-menu): This project allows macOS users to setup custom right click menu items for MacOS Finder directories.
 * [jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify](https://github.com/jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify): Monogram functionality using custom options
 * [Ahmed-Elswerky/custom-tampermonkey-scripts](https://github.com/Ahmed-Elswerky/custom-tampermonkey-scripts): this is a custom script repository,
+* [Infocatcher/Custom_Buttons](https://github.com/Infocatcher/Custom_Buttons): Buttons for Custom Buttons extension for Firefox (and other Gecko-based applications)
 * [MrOtherGuy/custom_captions_webExt](https://github.com/MrOtherGuy/custom_captions_webExt): None
 * [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx): Custom CSS tweaks for Firefox
 * [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb): Custom user styles for Thunderbird 68+
