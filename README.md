@@ -601,6 +601,7 @@
 * [macports/macports-base](https://github.com/macports/macports-base): The MacPorts command-line client
 * [fharper/macsetup](https://github.com/fharper/macsetup): Scripts to setup my mac
 * [section83/MacYTDL](https://github.com/section83/MacYTDL): A macOS GUI front-end for the youtube-dl video downloader
+* [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
 * [Clipy/Magnet](https://github.com/Clipy/Magnet): Customize global hotkeys in macOS.
 * [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 * [peci1/mailing-list-filter](https://github.com/peci1/mailing-list-filter): Thunderbird mail filter search term using mailing lists (and not whole addressbooks).
