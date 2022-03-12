@@ -483,6 +483,7 @@
 * [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade): A command line tool for upgrading every outdated app installed by Homebrew Cask
 * [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): 🍻 Default formulae for the missing package manager for macOS (or Linux)
 * [Shopify/homebrew-shopify](https://github.com/Shopify/homebrew-shopify): None
+* [Aaron-P/HostnameTitleBar](https://github.com/Aaron-P/HostnameTitleBar): Adds the hostname of windows' active tab to the windows' title, e.g. for KeePass(X/XC).
 * [StevenBlack/hosts](https://github.com/StevenBlack/hosts): 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 * [specialunderwear/Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane): a Cocoa GUI for /etc/hosts
 * [soffes/HotKey](https://github.com/soffes/HotKey): Simple global shortcuts in macOS
