@@ -101,6 +101,7 @@
 * [abhijithvijayan/awesome-stars](https://github.com/abhijithvijayan/awesome-stars): A curated list of my GitHub stars by stargazed
 * [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars): My Awesome List
 * [vintagesucks/awesome-stars](https://github.com/vintagesucks/awesome-stars): :star: A curated list of my GitHub stars
+* [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez): All your base are belong to us!
 * [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design): 🎨 A curated list of awesome resources for digital designers.
 * [itsjoshthedeveloper/backupOneTab](https://github.com/itsjoshthedeveloper/backupOneTab): Back up and restore your OneTab Chrome extension data
 * [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator): Customize your Bash Prompt by setting the PS1 variable.
@@ -800,6 +801,7 @@
 * [Shad0wSeven/Quietfox-Proton](https://github.com/Shad0wSeven/Quietfox-Proton): Quietfox release for Proton, upgrades and improvments from myself, and from the Lepton project
 * [TheGITofTeo997/quietfoxReborn](https://github.com/TheGITofTeo997/quietfoxReborn): Trying to resurrect a very Clean Firefox userChrome Mod
 * [1280px/rainfox](https://github.com/1280px/rainfox): Photon UI, re-imagined.
+* [DEgITx/rats-search](https://github.com/DEgITx/rats-search): BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 * [iampueroo/rComments](https://github.com/iampueroo/rComments): Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
@@ -1041,8 +1043,10 @@
 * [mjdescy/TodoTxtMac](https://github.com/mjdescy/TodoTxtMac): TodoTxtMac is a minimalist, keyboard-driven to-do manager for Mac OS X (10.8 Mountain Lion and higher) that conforms to the todo.txt format spec.
 * [Calvin-LL/toggleairport](https://github.com/Calvin-LL/toggleairport): A script for macOS to turn off WiFi when Ethernet is plugged in, and turn on WiFi when Ethernet is unplugged
 * [tangledhelix/toggleAirport](https://github.com/tangledhelix/toggleAirport): Toggle Airport power based on presence of wired ethernet
+* [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api): Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
 * [rickkas7/TowerInfo](https://github.com/rickkas7/TowerInfo): Tool to show the location of nearby cellular towers on a mobile device, tablet, or laptop
 * [MrOtherGuy/ToyfoCSS](https://github.com/MrOtherGuy/ToyfoCSS): Guide to introduce basic CSS concepts and progressively advance into Firefox CSS hacking
+* [erickok/transdroid-search](https://github.com/erickok/transdroid-search): Cross-app torrent search results provider for Android
 * [cheems/transfer-between-drives](https://github.com/cheems/transfer-between-drives): This is a Google Colab notebook for transferring files/folders between drives from different Google accounts
 * [pjialin/TranslucentFox](https://github.com/pjialin/TranslucentFox): 🤭 Translucent UI for Firefox
 * [jy1263/Transparent-Firefox-and-Thunderbird-](https://github.com/jy1263/Transparent-Firefox-and-Thunderbird-): A theme for Firefox and Thunderbird completly transparent
