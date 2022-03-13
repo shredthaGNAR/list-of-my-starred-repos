@@ -1067,6 +1067,7 @@
 * [PapirusDevelopmentTeam/thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus): Papirus icons for Thunderbird
 * [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js): Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening 
 * [manilarome/thunderblurred](https://github.com/manilarome/thunderblurred): A theme for Thunderbird
+* [snchong/thunderthings](https://github.com/snchong/thunderthings): Integration between Thunderbird and Cultured Code's Things on macOS
 * [chzesa/tiled-tab-groups](https://github.com/chzesa/tiled-tab-groups): None
 * [visini/timebox](https://github.com/visini/timebox): A Custom Pomodoro macOS Menubar App with Things 3 integration
 * [OlegPoljakov/TinderPeopleFinder_Yandex_Images](https://github.com/OlegPoljakov/TinderPeopleFinder_Yandex_Images): This program helps to find people from tinder in some other social medias. It takes the screenshot of tinder profile, cuts the image and search it in Yandex Image. All you need to do is to choose the pictures and push few buttons.
