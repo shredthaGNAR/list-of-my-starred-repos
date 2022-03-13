@@ -234,6 +234,7 @@
 * [insidegui/CustomStatusBarWindow](https://github.com/insidegui/CustomStatusBarWindow): Demonstrates a custom NSWindowController that can be attached to a NSStatusItem on macOS.
 * [juanboro/cync2mqtt](https://github.com/juanboro/cync2mqtt): Bridge Cync bluetooth mesh to mqtt
 * [mitchuman/danshari](https://github.com/mitchuman/danshari): A blank slate theme for Shopify 2.0
+* [fastaddons/Darko](https://github.com/fastaddons/Darko): None
 * [TechnicalWebAnalytics/dataLayer-shopify](https://github.com/TechnicalWebAnalytics/dataLayer-shopify): A dataLayer integration specific to extracting information from Shopify.
 * [Shopify/dawn](https://github.com/Shopify/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 * [WynStaXxx/dawn](https://github.com/WynStaXxx/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
