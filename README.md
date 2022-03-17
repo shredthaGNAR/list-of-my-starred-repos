@@ -433,6 +433,8 @@
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
 * [RaKeerS/Gif-Finder](https://github.com/RaKeerS/Gif-Finder): This is a web app created to be utilized in order to fetch the Gif Images from the Giphy Images Repository. It offer different categories and also a custom search tool in order to find what you exactly need! 
 * [defunkt/gist](https://github.com/defunkt/gist): Potentially the best command line gister.
+* [weakish/gister](https://github.com/weakish/gister): command line tool to sync github gists
+* [Gisto/Gisto](https://github.com/Gisto/Gisto): Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution.  You may thing of Gisto as Evernote for code.
 * [git/git](https://github.com/git/git): Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 * [StylishThemes/GitHub-Dark-Script](https://github.com/StylishThemes/GitHub-Dark-Script): Archived - Please use https://github.com/StylishThemes/GitHub-Dark directly
 * [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List): Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
