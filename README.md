@@ -289,6 +289,7 @@
 * [easylist/easylist](https://github.com/easylist/easylist): EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 * [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox): A Firefox userChrome.css theme that aims to recreate the look and feel of the Chromium version of Microsoft Edge.
 * [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox): Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
+* [cleidigh/EditEmailSubject-MX](https://github.com/cleidigh/EditEmailSubject-MX): Conversion exercise for Thunderbird MailExtensions
 * [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder): A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 * [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail): Unofficial ProtonMail Desktop App
 * [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox): firefox themed context and bookmark menus
@@ -330,6 +331,7 @@
 * [ewen-lbh/ffcss](https://github.com/ewen-lbh/ffcss): A CLI interface to apply and configure FirefoxCSS themes
 * [vord1080/FFTweaks](https://github.com/vord1080/FFTweaks): smol tweaks for firefox proton redesign
 * [mklement0/fileicon](https://github.com/mklement0/fileicon): macOS CLI for managing custom icons for files and folders
+* [RealRaven2000/FiltaQuilla](https://github.com/RealRaven2000/FiltaQuilla): Adds many new mail filter actions to Thunderbird
 * [iShopifyExpert/find-my-size-shopify](https://github.com/iShopifyExpert/find-my-size-shopify): None
 * [liqing1993/Find-The-Person-You-Want-in-videos](https://github.com/liqing1993/Find-The-Person-You-Want-in-videos): This project is to build a image search system. 
 * [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
@@ -519,6 +521,7 @@
 * [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine): Web app to search similar images
 * [IbrahimMourad/image-search-webapp](https://github.com/IbrahimMourad/image-search-webapp): simple app to search for images by  keyword using unsplash API  
 * [ashwinishet/Image-Web-Scraper](https://github.com/ashwinishet/Image-Web-Scraper): This application is used for scraping images from google image search
+* [valinet/IMAPNotes](https://github.com/valinet/IMAPNotes): This is a simple Thunderbird extension (compatible with Thunderbird 78+ as of January 2021) that allows editing notes created, edited and synced from the iPhone Notes app.
 * [spidergears/import_chrome_bookmarks_to_pocket](https://github.com/spidergears/import_chrome_bookmarks_to_pocket): Simple chrome extension to import all your chrome bookmarks to Pocket.com account
 * [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients): An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
 * [noahbuscher/inspire](https://github.com/noahbuscher/inspire): Collection of frontend dev and web design links :bulb:
@@ -557,6 +560,7 @@
 * [gribnoysup/jpng.svg](https://github.com/gribnoysup/jpng.svg): Transparent PNG with JPEG Compression
 * [LaneCommunityCollege/jquery-signature](https://github.com/LaneCommunityCollege/jquery-signature): a jQuery based email signature generator
 * [kucherenko/jscpd](https://github.com/kucherenko/jscpd): Copy/paste detector for programming source code.
+* [RealRaven2000/JunQuilla](https://github.com/RealRaven2000/JunQuilla): Adopted Thunderbird Add-on from Kent James - adds column with percent likelihood that a message is spam
 * [EragonJ/Kaku](https://github.com/EragonJ/Kaku): 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
 * [wulkano/Kap](https://github.com/wulkano/Kap): An open-source screen recorder built with web technology
 * [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements): Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
@@ -591,6 +595,7 @@
 * [WynStaXxx/list-of-my-starred-repos](https://github.com/WynStaXxx/list-of-my-starred-repos): None
 * [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
+* [cleidigh/Localfolder-TB](https://github.com/cleidigh/Localfolder-TB): Thunderbird Add-On to add additional local folders to accounts
 * [gkoehler/LogiCircleDownloader](https://github.com/gkoehler/LogiCircleDownloader): Automatically download all your videos from your Logi Circle camera
 * [Not-Cyrus/Login-Stealer](https://github.com/Not-Cyrus/Login-Stealer): what the name says (made for "educational" purposes)
 * [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
@@ -653,6 +658,7 @@
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [jonathanKingston/merge-windows](https://github.com/jonathanKingston/merge-windows): A Firefox extension for merging windows
 * [nickysemenza/message-analyzer](https://github.com/nickysemenza/message-analyzer): 💬 📊 Facebook Messenger history scraper + analyzer
+* [cleidigh/Message-archive-options-TB](https://github.com/cleidigh/Message-archive-options-TB): Thunderbird Add-On Adds the ability to customize the date format of the archive folders created by TB Archive Messages
 * [glaurent/MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser): a macOS/OSX app to comfortably browse and search through your Messages.app history.
 * [alexta69/metube](https://github.com/alexta69/metube): youtube-dl web UI
 * [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
@@ -707,6 +713,7 @@
 * [amelandri/NotableUtilities](https://github.com/amelandri/NotableUtilities): A collection of utility scripts for Notable https://notable.app/
 * [nuttyartist/notes](https://github.com/nuttyartist/notes): Note-taking application, write down your thoughts.
 * [adamyi/notes_to_keep](https://github.com/adamyi/notes_to_keep): Export all your Apple iCloud Notes to your Google Keep.
+* [MDP43140/NoTrash-PureClean-YT](https://github.com/MDP43140/NoTrash-PureClean-YT): Makes YouTube Less trashy by removing distracting features, and trash videos
 * [MrOtherGuy/ntp_titler](https://github.com/MrOtherGuy/ntp_titler): Simple browser extension adding a window prefix to new tabs
 * [nukeop/nuclear](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
 * [apilayer/numverify-API](https://github.com/apilayer/numverify-API): Free global phone number validation & lookup JSON API
@@ -766,6 +773,7 @@
 * [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 * [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript
 * [garrow/phoenix-configurations](https://github.com/garrow/phoenix-configurations): My custom configurations for the Phoenix macOS window Manager, ( https://github.com/kasper/phoenix )
+* [FranklinDM/Phosphor](https://github.com/FranklinDM/Phosphor): Relive the monochrome screens of yesterday!
 * [DhruvRoy247/Photo-Trans](https://github.com/DhruvRoy247/Photo-Trans): Image Search Web Application
 * [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis): Bringing sexy curves back to Firefox Photon.
 * [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera): Android Camera that uses Enhanced image processing
@@ -834,6 +842,8 @@
 * [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 * [Izheil/Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme): A customizable full dark theme for Firefox. You can also add extra functions using the CSS and JS files here apart from the theme.
 * [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins): List of useful Quick Look plugins for developers
+* [RealRaven2000/quickFilters](https://github.com/RealRaven2000/quickFilters): Thunderbird Add-on: quickFilters 
+* [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders): Thunderbird Add-on: QuickFolders
 * [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver): Quicksilver Project Source
 * [jobisoft/quicktext](https://github.com/jobisoft/quicktext): An extension for Thunderbird that lets you create templates that can be easily inserted into your own emails.
 * [coekuss/quietfox](https://github.com/coekuss/quietfox): Very Clean Firefox userChrome Mod
@@ -979,6 +989,7 @@
 * [WynStaXxx/skip-prime-video-intro](https://github.com/WynStaXxx/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
 * [jonashellmann/skip-prime-video-intro](https://github.com/jonashellmann/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
 * [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox): :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
+* [RealRaven2000/SmartTemplates](https://github.com/RealRaven2000/SmartTemplates): Thunderbird Add-on: SmartTemplates
 * [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer): Free Media Player for Windows, Linux and Mac OS with YouTube support.
 * [Snapcept/Snapcept](https://github.com/Snapcept/Snapcept): None
 * [ToTheMax/Snapchat-All-Memories-Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader): Script to download all your Snapchat memories
@@ -1074,12 +1085,15 @@
 * [joax/thunderbird-dark-theme](https://github.com/joax/thunderbird-dark-theme): Dark theme based on Monterail for Thunderbird 78
 * [mendel5/thunderbird-how-to](https://github.com/mendel5/thunderbird-how-to): How to configure Mozilla Thunderbird
 * [PascaleBeier/thunderbird-ispdb](https://github.com/PascaleBeier/thunderbird-ispdb): Auto-generated ISPDB distribution from Thunderbird for PHP Applications.
+* [ixnewton/thunderbird-monterail](https://github.com/ixnewton/thunderbird-monterail): A set of themes for thunderbird inspired by a Monterail blog post
 * [spymastermatt/thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail): A set of themes for thunderbird inspired by a Monterail blog post
 * [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches): Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 * [kaipee/thunderbird-theme-arc](https://github.com/kaipee/thunderbird-theme-arc): Arc inspired theme for Thunderbird
 * [PapirusDevelopmentTeam/thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus): Papirus icons for Thunderbird
 * [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js): Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening 
 * [manilarome/thunderblurred](https://github.com/manilarome/thunderblurred): A theme for Thunderbird
+* [cleidigh/ThunderKdB](https://github.com/cleidigh/ThunderKdB): Thunderbird Addon Code Knowledge Base
+* [cleidigh/ThunderStorm](https://github.com/cleidigh/ThunderStorm): Tips, Tricks & Examples for Thunderbird E-mail New Add-On Development
 * [snchong/thunderthings](https://github.com/snchong/thunderthings): Integration between Thunderbird and Cultured Code's Things on macOS
 * [chzesa/tiled-tab-groups](https://github.com/chzesa/tiled-tab-groups): None
 * [visini/timebox](https://github.com/visini/timebox): A Custom Pomodoro macOS Menubar App with Things 3 integration
@@ -1089,6 +1103,7 @@
 * [mjdescy/TodoTxtMac](https://github.com/mjdescy/TodoTxtMac): TodoTxtMac is a minimalist, keyboard-driven to-do manager for Mac OS X (10.8 Mountain Lion and higher) that conforms to the todo.txt format spec.
 * [Calvin-LL/toggleairport](https://github.com/Calvin-LL/toggleairport): A script for macOS to turn off WiFi when Ethernet is plugged in, and turn on WiFi when Ethernet is unplugged
 * [tangledhelix/toggleAirport](https://github.com/tangledhelix/toggleAirport): Toggle Airport power based on presence of wired ethernet
+* [RealRaven2000/ToneQuilla](https://github.com/RealRaven2000/ToneQuilla): ToneQuilla 1.1.1 - Adds a new action to Thunderbird mail filters to allow playing a particular sound when the filter matches. Also includes several sample sound files - original project by R. Kent James
 * [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api): Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
 * [rickkas7/TowerInfo](https://github.com/rickkas7/TowerInfo): Tool to show the location of nearby cellular towers on a mobile device, tablet, or laptop
 * [MrOtherGuy/ToyfoCSS](https://github.com/MrOtherGuy/ToyfoCSS): Guide to introduce basic CSS concepts and progressively advance into Firefox CSS hacking
@@ -1240,6 +1255,7 @@
 * [Margiris/ytmdesktop](https://github.com/Margiris/ytmdesktop): NO LONGER UPDATED (see readme). A fork of https://github.com/ytmdesktop/ytmdesktop with added adblocker from https://github.com/cliqz-oss/adblocker.
 * [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): A Desktop App for YouTube Music
 * [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi): Unofficial API for YouTube Music
+* [RealRaven2000/ZombieKeys](https://github.com/RealRaven2000/ZombieKeys): Thunderbird / Waterfox Add-on: ZombieKeys
 * [li-zyang/zScripts](https://github.com/li-zyang/zScripts): Repository of my userscripts
 * [vaeth/zshrc-mv](https://github.com/vaeth/zshrc-mv): This is a zsh initialization file (e.g. /etc/zshrc or ~/.zshrc) which activates a lot of zsh features
 
