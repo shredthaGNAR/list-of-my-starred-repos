@@ -123,6 +123,7 @@
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! 大术专搜，既专又广。带些“独门特技”的搜索引擎使用工具 🔎🌐
 * [jnsdrtlf/bitwarden-menubar](https://github.com/jnsdrtlf/bitwarden-menubar): Bitwarden in the macOS menu bar
 * [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh): 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
+* [GreezXII/BlackList](https://github.com/GreezXII/BlackList): Black list for Thunderbird 
 * [Filip-Sutkowy/blurclean-firefox-theme](https://github.com/Filip-Sutkowy/blurclean-firefox-theme): Clean, transparent firefox theme
 * [TheBi11iona1re/BlurFox-CSS-for-Mac](https://github.com/TheBi11iona1re/BlurFox-CSS-for-Mac): Update  to manilarome's Blur Fox for mac only
 * [dwarvesf/blurred](https://github.com/dwarvesf/blurred): A macOS utility that helps reduce distraction by dimming your inactive noise
@@ -284,6 +285,7 @@
 * [kush-agra/Dynamic_Walls](https://github.com/kush-agra/Dynamic_Walls): Replicating macOS Mojave's dynamic wallpaper feature
 * [zx1262111739/DynamicWallpaper](https://github.com/zx1262111739/DynamicWallpaper): Mac dynamic wallpaper program
 * [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye): Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
+* [117649/EasyDragToGoPlus-Redux](https://github.com/117649/EasyDragToGoPlus-Redux): None
 * [easylist/easylist](https://github.com/easylist/easylist): EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 * [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox): A Firefox userChrome.css theme that aims to recreate the look and feel of the Chromium version of Microsoft Edge.
 * [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox): Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
@@ -865,6 +867,7 @@
 * [timonus/Rhea](https://github.com/timonus/Rhea): A Mac status bar app for quickly sharing files and links.
 * [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close): Firefox close tab by right clicking on tab button ,userchrome script 🖱️
 * [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt): RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!  
+* [moisseev/rspamd-spamness](https://github.com/moisseev/rspamd-spamness): Thunderbird add-on for visualizing rspamd spam scores.
 * [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension): 🦀 The ultimate search extension for Rust
 * [jballmann/safelink](https://github.com/jballmann/safelink): Thunderbird extension that allows to investigate links contained in emails.
 * [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox): Sidebar Always Loaded for Firefox
@@ -1062,6 +1065,7 @@
 * [devmount/third-stats](https://github.com/devmount/third-stats): Thunderbird add-on turning your emails into beautifully visualized email account stats
 * [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
 * [dracula/thunderbird](https://github.com/dracula/thunderbird): 🧛🏻‍♂️ Dark theme for Thunderbird
+* [justreportit/thunderbird](https://github.com/justreportit/thunderbird): Thunderbird plugin.
 * [metux/thunderbird](https://github.com/metux/thunderbird): None
 * [sms77io/thunderbird](https://github.com/sms77io/thunderbird): Send SMS from within Thunderbird
 * [metux/thunderbird-2](https://github.com/metux/thunderbird-2): thunderbird 2nd try ... v68.0
