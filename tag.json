@@ -125,6 +125,9 @@
     "BCIT-DDC/web-extension-ts-starter": [
         "Other"
     ],
+    "BDeliers/thunderbird-monterail": [
+        "Other"
+    ],
     "BLXXDING/applescript-snippets": [
         "Other"
     ],
@@ -212,6 +215,9 @@
     "Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird": [
         "Other"
     ],
+    "Danamir/imap-attachment-extractor": [
+        "Other"
+    ],
     "DandelionSprout/adfilt": [
         "Other"
     ],
@@ -279,6 +285,9 @@
         "Other"
     ],
     "Endor8/userChrome.js": [
+        "Other"
+    ],
+    "Era-Dorta/Thunderbird-Google-Keep-Tab": [
         "Other"
     ],
     "EragonJ/Kaku": [
@@ -438,6 +447,9 @@
         "Other"
     ],
     "JustAnotherArchivist/snscrape": [
+        "Other"
+    ],
+    "JustOff/ublock0-updater": [
         "Other"
     ],
     "KURANADO2/hammerspoon-kuranado": [
@@ -623,6 +635,9 @@
     "PhilippMatthes/neural-greenscreen": [
         "Other"
     ],
+    "PierreLebedel/ThunderbirdLargerMessageList": [
+        "Other"
+    ],
     "Pocket/extension-save-to-pocket": [
         "Other"
     ],
@@ -639,6 +654,9 @@
         "Other"
     ],
     "ProvenanceLabs/image-match": [
+        "Other"
+    ],
+    "PrsPrsBK/tbext-manifest-schema": [
         "Other"
     ],
     "QNetITQ/WaveFox": [
@@ -678,6 +696,9 @@
         "Other"
     ],
     "RealRaven2000/quickFilters": [
+        "Other"
+    ],
+    "RealityRipple/trackpackage": [
         "Other"
     ],
     "Reeywhaar/tabsaver": [
@@ -1080,6 +1101,9 @@
         "Other"
     ],
     "aligo/better-google": [
+        "Other"
+    ],
+    "alkatrazstudio/prev-colors": [
         "Other"
     ],
     "alyssaxuu/screenity": [
@@ -1613,6 +1637,9 @@
     "eclipsesource/megit": [
         "Other"
     ],
+    "ede1998/autoarchive": [
+        "Other"
+    ],
     "edgars21/nuxtjs-shopify-flex-theme-section-with-vue": [
         "Other"
     ],
@@ -2012,6 +2039,9 @@
     "ianyh/Amethyst": [
         "Other"
     ],
+    "icpantsparti/firefox-user.js-tool": [
+        "Other"
+    ],
     "idbakkasse/helium": [
         "Other"
     ],
@@ -2253,6 +2283,9 @@
         "Other"
     ],
     "kevinschaich/py-imessage-shortcuts": [
+        "Other"
+    ],
+    "kgraefe/thunderbird-autotag": [
         "Other"
     ],
     "kiliman/operator-mono-lig": [
@@ -2531,6 +2564,9 @@
     "metux/thunderbird-2": [
         "Other"
     ],
+    "mganss/EmojiAddIn": [
+        "Other"
+    ],
     "mhogomchungu/media-downloader": [
         "Other"
     ],
@@ -2550,6 +2586,9 @@
         "Other"
     ],
     "migueravila/SimpleFox": [
+        "Other"
+    ],
+    "mike-kfed/roundcube-thunderbird_labels": [
         "Other"
     ],
     "mikemadden42/fuji": [
@@ -2831,6 +2870,9 @@
     "peci1/mailing-list-filter": [
         "Other"
     ],
+    "peci1/more-snooze": [
+        "Other"
+    ],
     "pedritobata/dawn-clone-shopify": [
         "Other"
     ],
@@ -3002,6 +3044,9 @@
     "rinsuki/dotfiles": [
         "Other"
     ],
+    "rkokkelk/todo.txt-ext": [
+        "Other"
+    ],
     "rlxone/Equinox": [
         "Other"
     ],
@@ -3072,6 +3117,9 @@
         "Other"
     ],
     "ryanpcmcquen/amatron": [
+        "Other"
+    ],
+    "ryosama/mbox_spliter": [
         "Other"
     ],
     "sagars007/Australis-like-tabs-FF-ProtonUI-changes": [
@@ -3252,6 +3300,12 @@
         "Other"
     ],
     "specialunderwear/Hosts.prefpane": [
+        "Other"
+    ],
+    "speedball2001/identitychooser-mx": [
+        "Other"
+    ],
+    "speedball2001/nompsort-mx": [
         "Other"
     ],
     "spidergears/import_chrome_bookmarks_to_pocket": [
