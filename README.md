@@ -134,6 +134,7 @@
 * [Rob--W/bookmark-container-tab](https://github.com/Rob--W/bookmark-container-tab): Firefox add-on to add "Open in Container Tab" menu item to bookmark menus
 * [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2): Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymore in latest Firefox, and which was very useful.
 * [vaeth/bookmarkdupes](https://github.com/vaeth/bookmarkdupes): A WebExtension which can display/remove duplicate bookmarks or empty folders
+* [codeverland/bookmarks](https://github.com/codeverland/bookmarks): :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land 
 * [brian-girko/bookmarks-commander](https://github.com/brian-girko/bookmarks-commander): A two-panel bookmarks manager which is similar to the well-known Total Commander.
 * [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer): With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 * [Maxvien/bootstrap-shopify-theme](https://github.com/Maxvien/bootstrap-shopify-theme): 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
@@ -201,6 +202,7 @@
 * [Aadil101/cloud](https://github.com/Aadil101/cloud): A clean storage management interface for Google Drive, Dropbox, Box, and OneDrive accounts.
 * [PHLAK/CloudDrop](https://github.com/PHLAK/CloudDrop): Store and retrieve files in cloud storage providers (i.e. Dropbox, Google Drive, Microsoft OneDrive, Amazon Cloud Drive, etc.)
 * [johncoryk/coastal-shopify-theme](https://github.com/johncoryk/coastal-shopify-theme): Shopify theme for Low Coast Coffee
+* [codeverland/codever](https://github.com/codeverland/codever): Bookmarks and Snippets Manager for Developers & Co
 * [mariia-nam/collection-tabs](https://github.com/mariia-nam/collection-tabs): Shopify Section for Home Page
 * [iShopifyExpert/color-swatches-as-sepreate-products](https://github.com/iShopifyExpert/color-swatches-as-sepreate-products): None
 * [MikeC0xl0ng/Color-variants-collection](https://github.com/MikeC0xl0ng/Color-variants-collection): A collection template which will show all the color variations of the product as an individual product on the collection page
@@ -478,6 +480,7 @@
 * [cheap-glitch/google-keep-to-clipboard](https://github.com/cheap-glitch/google-keep-to-clipboard): 🗒️ A tiny browser extension to copy the contents of Google Keep notes to the clipboard in various formats.
 * [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop): A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 * [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool): Tool for deleting all photos from the Google Photos
+* [johnatasjmo/google-sheets-hugo-bookmarks](https://github.com/johnatasjmo/google-sheets-hugo-bookmarks): None
 * [scrapewalrus/Google-Shopping-Scraper](https://github.com/scrapewalrus/Google-Shopping-Scraper): This is a python Google Shopping scraper that can scrape all the products by searching for a keyword.
 * [milosbunijevac/GoogleDownloader](https://github.com/milosbunijevac/GoogleDownloader): Python: Opens a google search to get the first 10 4k images of the person you enter. Downloads images to new folder named after search.
 * [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored): This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
@@ -511,6 +514,8 @@
 * [IanLunn/Hover](https://github.com/IanLunn/Hover): A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 * [iShopifyExpert/How-To-Show-Percentage-Discount-Saved-on-Shopify](https://github.com/iShopifyExpert/How-To-Show-Percentage-Discount-Saved-on-Shopify): How To Show Percentage Discount Saved on Shopify
 * [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
+* [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
+* [theocjr/hugo-academic-bookmarks](https://github.com/theocjr/hugo-academic-bookmarks): Bookmarks content section for the Academic theme (Hugo framework).
 * [penance316/hyper-dark-vibrancy](https://github.com/penance316/hyper-dark-vibrancy): A demo theme for hyperterm to demonstrate the vibrancy effect on macOS
 * [potsky/iajai-email-signature](https://github.com/potsky/iajai-email-signature): None
 * [onmyway133/IconGenerator](https://github.com/onmyway133/IconGenerator): 🍱 A macOS app to generate app icons
