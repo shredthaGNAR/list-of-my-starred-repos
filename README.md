@@ -64,6 +64,7 @@
 * [mortenjust/androidtool-mac](https://github.com/mortenjust/androidtool-mac): One-click screenshots, video recordings, app installation for iOS and Android
 * [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer): Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 * [wulkano/Aperture](https://github.com/wulkano/Aperture): Record the screen on macOS
+* [amirgamil/apollo](https://github.com/amirgamil/apollo): A Unix-style personal search engine and web crawler for your digital footprint.
 * [yiisoft/app](https://github.com/yiisoft/app): Yii 3 application template
 * [aaronfreimark/Apple-ID-AppleScript](https://github.com/aaronfreimark/Apple-ID-AppleScript): AppleScript to programatically create Apple IDs
 * [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra): Music Client for macOS. Upgrade your music experience with themes, styles, custom scripting and more. Uses WebKit and JavaScript.
@@ -686,6 +687,7 @@
 * [keith/ModMove](https://github.com/keith/ModMove): Move/Resize windows using modifiers and the mouse
 * [rxhanson/ModMove](https://github.com/rxhanson/ModMove): Move/Resize windows using modifiers and the mouse
 * [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl): 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+* [thesephist/monocle](https://github.com/thesephist/monocle): Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 * [conema/monterail-dark](https://github.com/conema/monterail-dark): Monterail Dark, a Thunderbird theme inspired by the mockup of Monterail 
 * [conema/monterail-fulldark](https://github.com/conema/monterail-fulldark): Monterail Full Dark, a Thunderbird theme inspired by the mockup of Monterail 
 * [eduardhojbota/moonlight-userChrome](https://github.com/eduardhojbota/moonlight-userChrome): A dark userstyle for Firefox inspired by moonlight-vscode-theme and github-moonlight
