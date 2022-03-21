@@ -1063,6 +1063,7 @@
 * [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar): Powerful macOS menu bar customization tool
 * [swiftyapp/swifty](https://github.com/swiftyapp/swifty): 🔑   Free Offline Password Manager 
 * [calzoneman/sync](https://github.com/calzoneman/sync): Node.JS Server and JavaScript/HTML Client for synchronizing online media
+* [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
 * [117649/Tab-Groups](https://github.com/117649/Tab-Groups): Reimplementation of Firefox Tab Groups as an add-on.
 * [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus): An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager". 
 * [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2): Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
@@ -1109,6 +1110,7 @@
 * [Era-Dorta/Thunderbird-Google-Keep-Tab](https://github.com/Era-Dorta/Thunderbird-Google-Keep-Tab): Google Keep for Thunderbird
 * [mendel5/thunderbird-how-to](https://github.com/mendel5/thunderbird-how-to): How to configure Mozilla Thunderbird
 * [PascaleBeier/thunderbird-ispdb](https://github.com/PascaleBeier/thunderbird-ispdb): Auto-generated ISPDB distribution from Thunderbird for PHP Applications.
+* [marph91/thunderbird-joplin-export](https://github.com/marph91/thunderbird-joplin-export): Easily export your thunderbird emails to Joplin.
 * [BDeliers/thunderbird-monterail](https://github.com/BDeliers/thunderbird-monterail): A light and red theme for Thunderbird
 * [ixnewton/thunderbird-monterail](https://github.com/ixnewton/thunderbird-monterail): A set of themes for thunderbird inspired by a Monterail blog post
 * [spymastermatt/thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail): A set of themes for thunderbird inspired by a Monterail blog post
