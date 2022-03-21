@@ -143,6 +143,8 @@
 * [dreadnaut/bordercolors-d](https://github.com/dreadnaut/bordercolors-d): A Thunderbird add-on to color-code the compose window based on the selected identity.
 * [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css):  :pisces: A cross-browser collection of CSS box-shadows
 * [CoenraadS/Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2): Bracket Colorizer Extension for VSCode
+* [adobe/brackets](https://github.com/adobe/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
+* [brackets-cont/brackets](https://github.com/brackets-cont/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
 * [Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox): Firefox Stylesheet To Add Brave-Like Elements
 * [brothersinvines/brothersinvines.github.io](https://github.com/brothersinvines/brothersinvines.github.io): None
 * [hoyang/browse-later](https://github.com/hoyang/browse-later): Browse later, a WebExtensions add-on.
@@ -294,6 +296,7 @@
 * [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox): A Firefox userChrome.css theme that aims to recreate the look and feel of the Chromium version of Microsoft Edge.
 * [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox): Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
 * [cleidigh/EditEmailSubject-MX](https://github.com/cleidigh/EditEmailSubject-MX): Conversion exercise for Thunderbird MailExtensions
+* [G3root/Eisen-Matrix](https://github.com/G3root/Eisen-Matrix): 🎯 Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes.
 * [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder): A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 * [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail): Unofficial ProtonMail Desktop App
 * [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox): firefox themed context and bookmark menus
