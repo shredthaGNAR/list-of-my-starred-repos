@@ -87,6 +87,7 @@
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics): A curated list of analytics frameworks, software and other tools.
+* [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
 * [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css): :art: A curated contents of amazing CSS :)
 * [gztchan/awesome-design](https://github.com/gztchan/awesome-design): 🌟 Curated design resources from all over the world.
 * [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems): A curated list of bookmarks, resources and articles about design systems focused on developers.
@@ -1042,6 +1043,7 @@
 * [andreafortuna/SocialRecon](https://github.com/andreafortuna/SocialRecon): This is an Open source intelligence tool and used to gather information about social media and it is also used to find whether the user name found in any of the website.It is used to find GPS location of an image and it also checks whether the email is found or not.
 * [makiisthenes/socialScanner](https://github.com/makiisthenes/socialScanner): Will Search Various Platforms to Confirm An Email Exists.
 * [semvis123/Sonitus](https://github.com/semvis123/Sonitus): Noise-control like native, but for non-Apple devices
+* [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph): Universal code search (self-hosted)
 * [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io): Facebook search engine that works after the Graph API has been shut down
 * [cmacrae/spacebar](https://github.com/cmacrae/spacebar): A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 * [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt): :rocket::star: A Zsh prompt for Astronauts
