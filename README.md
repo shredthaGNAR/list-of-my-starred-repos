@@ -932,6 +932,7 @@
 * [electron0zero/search-google-in-private](https://github.com/electron0zero/search-google-in-private): Adds a Search Google in Private for in your context menu
 * [tusharahmmed/search-image](https://github.com/tusharahmmed/search-image): This is a Image Search Web Application in PHP.
 * [meanii/Search4](https://github.com/meanii/Search4): Search people on the Internet.
+* [diegov/searchbox](https://github.com/diegov/searchbox): Personal crawling and indexing
 * [joelwembo/searchmediaProfilesLink](https://github.com/joelwembo/searchmediaProfilesLink): Angular CLI Seach All Social Media Profile Using an Email Account
 * [EmySaulIntec/SearchPeople](https://github.com/EmySaulIntec/SearchPeople): Search images in your phone based in three photo of a person
 * [searx/searx](https://github.com/searx/searx): Privacy-respecting metasearch engine
