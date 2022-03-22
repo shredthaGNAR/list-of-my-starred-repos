@@ -522,6 +522,7 @@
 * [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [theocjr/hugo-academic-bookmarks](https://github.com/theocjr/hugo-academic-bookmarks): Bookmarks content section for the Academic theme (Hugo framework).
 * [spaghettiwews/hugonews](https://github.com/spaghettiwews/hugonews): hugo theme (based on https://news.ycombinator.com) for https://bookmarks.wews.co.zw
+* [vector-im/hydrogen-web](https://github.com/vector-im/hydrogen-web): Lightweight matrix client with legacy and mobile browser support
 * [penance316/hyper-dark-vibrancy](https://github.com/penance316/hyper-dark-vibrancy): A demo theme for hyperterm to demonstrate the vibrancy effect on macOS
 * [potsky/iajai-email-signature](https://github.com/potsky/iajai-email-signature): None
 * [onmyway133/IconGenerator](https://github.com/onmyway133/IconGenerator): 🍱 A macOS app to generate app icons
@@ -1067,6 +1068,7 @@
 * [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar): Powerful macOS menu bar customization tool
 * [swiftyapp/swifty](https://github.com/swiftyapp/swifty): 🔑   Free Offline Password Manager 
 * [calzoneman/sync](https://github.com/calzoneman/sync): Node.JS Server and JavaScript/HTML Client for synchronizing online media
+* [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
 * [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
 * [117649/Tab-Groups](https://github.com/117649/Tab-Groups): Reimplementation of Firefox Tab Groups as an add-on.
 * [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus): An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager". 
