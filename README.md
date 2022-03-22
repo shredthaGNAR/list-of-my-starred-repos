@@ -486,6 +486,7 @@
 * [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop): A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 * [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool): Tool for deleting all photos from the Google Photos
 * [johnatasjmo/google-sheets-hugo-bookmarks](https://github.com/johnatasjmo/google-sheets-hugo-bookmarks): None
+* [gglukmann/google-sheets-mapper](https://github.com/gglukmann/google-sheets-mapper): 📝  A library for getting data from Google Sheets API v4
 * [scrapewalrus/Google-Shopping-Scraper](https://github.com/scrapewalrus/Google-Shopping-Scraper): This is a python Google Shopping scraper that can scrape all the products by searching for a keyword.
 * [milosbunijevac/GoogleDownloader](https://github.com/milosbunijevac/GoogleDownloader): Python: Opens a google search to get the first 10 4k images of the person you enter. Downloads images to new folder named after search.
 * [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored): This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
@@ -1168,6 +1169,7 @@
 * [p1usminus/undoclosetabreplacement](https://github.com/p1usminus/undoclosetabreplacement): Updated for FF78+
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
 * [TrollSkull/uScanner](https://github.com/TrollSkull/uScanner): uScanner is a tool to find usernames on various pages throughout the entire internet.
+* [gglukmann/use-google-sheets](https://github.com/gglukmann/use-google-sheets): 📝 A React Hook for getting data from Google Sheets API v4
 * [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io): Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 * [JYLD/User-CSS-For-Firefox-And-Thunderbird](https://github.com/JYLD/User-CSS-For-Firefox-And-Thunderbird): User CSS Contributions For CustomizeMyBird and Custom CSS For FX
 * [taitems/user-email-enrichment](https://github.com/taitems/user-email-enrichment): A free, open source tool to lookup user identities by email address
