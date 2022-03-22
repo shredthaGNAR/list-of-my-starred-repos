@@ -910,6 +910,7 @@
 * [thundernest/sample-extensions](https://github.com/thundernest/sample-extensions): Example extensions for Thunderbird WebExtensions APIs
 * [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820): Unified kernel tree for S10 and Note10 devices
 * [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs): Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
+* [theopenroad/save-open-tabs-extension](https://github.com/theopenroad/save-open-tabs-extension): Firefox extension to save all open tabs within the extension
 * [piroor/save-selected-tabs-to-files](https://github.com/piroor/save-selected-tabs-to-files): Provides ability to save selected tabs to local files for Firefox 63 and later.
 * [Karna98/Save-Tabs](https://github.com/Karna98/Save-Tabs): Export and Import Tabs with Cross-Browser support.
 * [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine): Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
@@ -1083,6 +1084,7 @@
 * [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
 * [DanielDe/TabRearranger](https://github.com/DanielDe/TabRearranger): Chrome extension to rearrange tabs and move them between windows using keyboard shortcuts
 * [tim-we/tabs-aside](https://github.com/tim-we/tabs-aside): A session/tab manager web extension for Firefox based on the Microsoft Edge feature.
+* [jingyu9575/tabs-to-bookmark-groups](https://github.com/jingyu9575/tabs-to-bookmark-groups): (Work in progress) Firefox extension to save the tabs to a bookmark group and switch between different groups.
 * [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver): WebExtension to manage tabs
 * [thundernest/tb-web-ext-experiments](https://github.com/thundernest/tb-web-ext-experiments): WebExtension Experiments for Thunderbird
 * [PrsPrsBK/tbext-manifest-schema](https://github.com/PrsPrsBK/tbext-manifest-schema): None
@@ -1263,6 +1265,7 @@
 * [drcheap/WindowSizer](https://github.com/drcheap/WindowSizer): WebExtension to quickly resize the window to one of your favorite sizes
 * [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows and moving tabs between windows
 * [WynStaXxx/wokiee](https://github.com/WynStaXxx/wokiee): None
+* [utkarshsingh99/Workspace-Manager](https://github.com/utkarshsingh99/Workspace-Manager): A Firefox extension to save frequently used tabs as Workspaces
 * [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins): Plugin repository for xbar (the BitBar reboot)
 * [benibela/xidel](https://github.com/benibela/xidel): Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON documents.
 * [StigNygaard/xIFr](https://github.com/StigNygaard/xIFr): Exif viewer WebExtension for Firefox [and Chrome] compatible webbrowsers
