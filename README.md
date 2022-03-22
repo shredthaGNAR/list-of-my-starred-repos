@@ -383,6 +383,7 @@
 * [nt0g/firefox-profile-stuff](https://github.com/nt0g/firefox-profile-stuff): As advertised on TV !
 * [LRDN/firefox-proton-custom](https://github.com/LRDN/firefox-proton-custom): Firefox default theme customization that replaces the floating tabs with a more conventional, cleaner interface.
 * [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square): Makes Firefox Proton UI square again
+* [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
 * [intrnl/firefox-revert-proton](https://github.com/intrnl/firefox-revert-proton): Revert Firefox Proton to Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
 * [ideaweb/firefox-safari-style](https://github.com/ideaweb/firefox-safari-style): A macOS compliant theme for Firefox
