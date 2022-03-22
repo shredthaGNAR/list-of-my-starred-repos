@@ -438,6 +438,7 @@
 * [mikemadden42/fuji](https://github.com/mikemadden42/fuji): AppleScript collection
 * [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig): Load custom javascript in browser context
 * [dannycolin/fx-compact-mode](https://github.com/dannycolin/fx-compact-mode): A Compact Mode for Firefox Proton
+* [MrOtherGuy/fx-nightly-changelog](https://github.com/MrOtherGuy/fx-nightly-changelog): Generated list of daily bug fixes
 * [hensm/fx_cast](https://github.com/hensm/fx_cast): Google Cast implementation for Firefox
 * [MrOtherGuy/FxChromeViewer](https://github.com/MrOtherGuy/FxChromeViewer): None
 * [ncyhere/gatsby-starter-shopify](https://github.com/ncyhere/gatsby-starter-shopify): A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
@@ -909,6 +910,7 @@
 * [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox): Sidebar Always Loaded for Firefox
 * [thundernest/sample-extensions](https://github.com/thundernest/sample-extensions): Example extensions for Thunderbird WebExtensions APIs
 * [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820): Unified kernel tree for S10 and Note10 devices
+* [allen505/save-for-later](https://github.com/allen505/save-for-later): A web extension for Chrome/Firefox which saves the tabs in current window for later use.
 * [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs): Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
 * [theopenroad/save-open-tabs-extension](https://github.com/theopenroad/save-open-tabs-extension): Firefox extension to save all open tabs within the extension
 * [piroor/save-selected-tabs-to-files](https://github.com/piroor/save-selected-tabs-to-files): Provides ability to save selected tabs to local files for Firefox 63 and later.
@@ -1045,6 +1047,7 @@
 * [friedPotat0/Spam-Scores](https://github.com/friedPotat0/Spam-Scores): Thunderbird add-on to display spam scores according to mail headers. Supports spam/ham score headers of Rspamd and SpamAssassin. The add-on adds a column with the overall spam score to the mail list view and shows details of any matched spam/ham rule.
 * [librespeed/speedtest](https://github.com/librespeed/speedtest): Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 * [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli): Command line interface for testing internet bandwidth using speedtest.net
+* [onaralili/SplitUp](https://github.com/onaralili/SplitUp): ✨ SplitUp! is a browser extension allows a user to split tabs into a different window, save session, export tabs, supports multiple screens, dark mode etc. ✨
 * [yt-dlp/SponSkrub](https://github.com/yt-dlp/SponSkrub): Strip advertisements from downloaded YouTube videos
 * [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip YouTube video sponsors (browser extension)
 * [Hammerspoon/Spoons](https://github.com/Hammerspoon/Spoons): The official repository of Spoon plugins
