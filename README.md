@@ -1212,6 +1212,7 @@
 * [darkred/Userscripts](https://github.com/darkred/Userscripts): My userscripts
 * [jwilk/userscripts](https://github.com/jwilk/userscripts): Jakub's custom CSS and JavaScript (for dotPageMod Firefox extension)
 * [n3cr0cr0w/userscripts](https://github.com/n3cr0cr0w/userscripts): User Scripts for bingeing
+* [33kk/uso-archive](https://github.com/33kk/uso-archive): Full mirror of UserStyles.org
 * [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css): Custom Firefox UI styles based on https://github.com/Aris-t2/CustomCSSforFx
 * [vegetableman/vandal](https://github.com/vegetableman/vandal): Navigator for Web Archive
 * [mi-g/vdhcoapp](https://github.com/mi-g/vdhcoapp): Companion application for Video DownloadHelper browser add-on
