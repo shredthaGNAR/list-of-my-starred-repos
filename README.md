@@ -245,6 +245,7 @@
 * [Aris-t2/CustomJSforFx](https://github.com/Aris-t2/CustomJSforFx): custom scripts
 * [insidegui/CustomStatusBarWindow](https://github.com/insidegui/CustomStatusBarWindow): Demonstrates a custom NSWindowController that can be attached to a NSStatusItem on macOS.
 * [juanboro/cync2mqtt](https://github.com/juanboro/cync2mqtt): Bridge Cync bluetooth mesh to mqtt
+* [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights): None
 * [mitchuman/danshari](https://github.com/mitchuman/danshari): A blank slate theme for Shopify 2.0
 * [fastaddons/Darko](https://github.com/fastaddons/Darko): None
 * [TechnicalWebAnalytics/dataLayer-shopify](https://github.com/TechnicalWebAnalytics/dataLayer-shopify): A dataLayer integration specific to extracting information from Shopify.
@@ -505,6 +506,7 @@
 * [KURANADO2/hammerspoon-kuranado](https://github.com/KURANADO2/hammerspoon-kuranado): Hammerspoon 配置
 * [claytonjn/hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting): Circadian Lighting custom component for Home Assistant
 * [yangqian/hass-gelight](https://github.com/yangqian/hass-gelight): Home assistant custom component to control C by GE smart light bulb locally via Bluetooth
+* [nikshriv/hassio-addons](https://github.com/nikshriv/hassio-addons): None
 * [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall): Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 * [idbakkasse/helium](https://github.com/idbakkasse/helium): Helium is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind.. 
 * [demtario/hes-gallery](https://github.com/demtario/hes-gallery): Light, dependency free, responsive gallery script
