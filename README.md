@@ -66,6 +66,7 @@
 * [wulkano/Aperture](https://github.com/wulkano/Aperture): Record the screen on macOS
 * [amirgamil/apollo](https://github.com/amirgamil/apollo): A Unix-style personal search engine and web crawler for your digital footprint.
 * [yiisoft/app](https://github.com/yiisoft/app): Yii 3 application template
+* [doug-leith/appFirewall](https://github.com/doug-leith/appFirewall): A free, fully open-source application firewall for MAC OS High Sierra and later. Allows real-time monitoring of network connections being made by applications, and blocking/allowing of these per app by user. Supports use of hostname lists (Energized Blu etc) to block known tracker and advertising domains for all apps. Also allows blocking of all network connections for specified apps, blocking of all connections except for specified whitelisted connections, use of pre-configured lists of connections per app to allow/block etc.
 * [aaronfreimark/Apple-ID-AppleScript](https://github.com/aaronfreimark/Apple-ID-AppleScript): AppleScript to programatically create Apple IDs
 * [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra): Music Client for macOS. Upgrade your music experience with themes, styles, custom scripting and more. Uses WebKit and JavaScript.
 * [unforswearing/applescript](https://github.com/unforswearing/applescript): Applescript applets, snippets, resources, and links
