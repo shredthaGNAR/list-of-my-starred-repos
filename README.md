@@ -851,6 +851,7 @@
 * [praveenravi77/prime-video-adblock](https://github.com/praveenravi77/prime-video-adblock): A simple extension to block amazon prime video ads in shows that are "Free but have ads"
 * [jhonatasrm/print-preview](https://github.com/jhonatasrm/print-preview): This add-on works by showing a preview before printing. That can be done by clicking the button on the toolbar or shortcut keys.
 * [xmansyx/Pro-Fox](https://github.com/xmansyx/Pro-Fox): A custome CSS Theme for firefox
+* [vandergit/product-comparison](https://github.com/vandergit/product-comparison): App enabling users in a simple and centralized way to compare product features or capabilities across multiple similar products.
 * [Shopify/product-reviews-sample-app](https://github.com/Shopify/product-reviews-sample-app): A sample Shopify application that creates and stores product reviews for a store, written in Node.js
 * [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
 * [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts): This is a collection of programming fonts,just share this with the programmers.Now there are 105 kinds of fantastic fonts!
