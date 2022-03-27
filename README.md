@@ -729,6 +729,7 @@
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 * [aminomancer/Netflix-Marathon-Pausable](https://github.com/aminomancer/Netflix-Marathon-Pausable): Automatically skip recaps, intros, credits, and ads, and clicks "next episode" prompts on Netflix, Amazon, and potentially other sites if anyone has suggestions
 * [M66B/NetGuard](https://github.com/M66B/NetGuard): A simple way to block access to the internet per app
+* [objective-see/Netiquette](https://github.com/objective-see/Netiquette): Network Monitor
 * [PhilippMatthes/neural-greenscreen](https://github.com/PhilippMatthes/neural-greenscreen): Real time background replacement on a mac os driven webcam using the DeepLabV3 neural network for image segmentation and the native CoreMediaIO DAL framework of Mac OS.
 * [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style): A replacement for Firefox's builtin browser style CSS
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android.
