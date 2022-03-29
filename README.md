@@ -115,6 +115,7 @@
 * [itsjoshthedeveloper/backupOneTab](https://github.com/itsjoshthedeveloper/backupOneTab): Back up and restore your OneTab Chrome extension data
 * [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator): Customize your Bash Prompt by setting the PS1 variable.
 * [beardedspice/beardedspice](https://github.com/beardedspice/beardedspice): Mac Media Keys for the Masses
+* [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay): One button to close any overlay on any website
 * [yokoffing/Better-Fox](https://github.com/yokoffing/Better-Fox): An up-to-date user.js to speed up and secure Firefox
 * [aligo/better-google](https://github.com/aligo/better-google): Userscript to Better (or Older and Good) Google
 * [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab): :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
@@ -1152,6 +1153,7 @@
 * [cleidigh/ThunderStorm](https://github.com/cleidigh/ThunderStorm): Tips, Tricks & Examples for Thunderbird E-mail New Add-On Development
 * [snchong/thunderthings](https://github.com/snchong/thunderthings): Integration between Thunderbird and Cultured Code's Things on macOS
 * [chzesa/tiled-tab-groups](https://github.com/chzesa/tiled-tab-groups): None
+* [skhzhang/time-based-themes](https://github.com/skhzhang/time-based-themes): Automatically change Firefox's theme based on the time
 * [visini/timebox](https://github.com/visini/timebox): A Custom Pomodoro macOS Menubar App with Things 3 integration
 * [OlegPoljakov/TinderPeopleFinder_Yandex_Images](https://github.com/OlegPoljakov/TinderPeopleFinder_Yandex_Images): This program helps to find people from tinder in some other social medias. It takes the screenshot of tinder profile, cuts the image and search it in Yandex Image. All you need to do is to choose the pictures and push few buttons.
 * [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle): None
