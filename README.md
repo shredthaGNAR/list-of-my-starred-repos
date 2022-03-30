@@ -906,7 +906,7 @@
 * [shroudedcode/refined-prime-video](https://github.com/shroudedcode/refined-prime-video): 🍿 ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video
 * [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX): ReFleX - Deep Image Recognition Bot
 * [mozilla/releases-comm-central](https://github.com/mozilla/releases-comm-central): EXPERIMENTAL - copy of comm-central for forking on github
-* [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions): Customize YouTube to be less engaging.
+* [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions): Spend less time on YouTube.
 * [eyalroz/removedupes](https://github.com/eyalroz/removedupes): Remove Duplicate Messages
 * [dexiota/replacefirefoxicon](https://github.com/dexiota/replacefirefoxicon): A collection of CSS tweaks to only change Firefox's icon throughout the UI.
 * [jeevatkm/ReplyWithHeaderMozilla](https://github.com/jeevatkm/ReplyWithHeaderMozilla): Outlook style headers and few goodies for Thunderbird & Postbox.
