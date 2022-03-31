@@ -1139,7 +1139,7 @@
 * [Era-Dorta/Thunderbird-Google-Keep-Tab](https://github.com/Era-Dorta/Thunderbird-Google-Keep-Tab): Google Keep for Thunderbird
 * [mendel5/thunderbird-how-to](https://github.com/mendel5/thunderbird-how-to): How to configure Mozilla Thunderbird
 * [PascaleBeier/thunderbird-ispdb](https://github.com/PascaleBeier/thunderbird-ispdb): Auto-generated ISPDB distribution from Thunderbird for PHP Applications.
-* [marph91/thunderbird-joplin-export](https://github.com/marph91/thunderbird-joplin-export): Easily export your thunderbird emails to Joplin.
+* [marph91/thunderbird-joplin-export](https://github.com/marph91/thunderbird-joplin-export): Easily export your Thunderbird emails to Joplin.
 * [BDeliers/thunderbird-monterail](https://github.com/BDeliers/thunderbird-monterail): A light and red theme for Thunderbird
 * [ixnewton/thunderbird-monterail](https://github.com/ixnewton/thunderbird-monterail): A set of themes for thunderbird inspired by a Monterail blog post
 * [spymastermatt/thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail): A set of themes for thunderbird inspired by a Monterail blog post
