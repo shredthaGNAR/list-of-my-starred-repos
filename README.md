@@ -1157,7 +1157,7 @@
 * [visini/timebox](https://github.com/visini/timebox): A Custom Pomodoro macOS Menubar App with Things 3 integration
 * [OlegPoljakov/TinderPeopleFinder_Yandex_Images](https://github.com/OlegPoljakov/TinderPeopleFinder_Yandex_Images): This program helps to find people from tinder in some other social medias. It takes the screenshot of tinder profile, cuts the image and search it in Yandex Image. All you need to do is to choose the pictures and push few buttons.
 * [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle): None
-* [felscripter/todo](https://github.com/felscripter/todo): ToDo - Chrome Extension. Make checklists and more.
+* [victor-savinov/todo](https://github.com/victor-savinov/todo): ToDo - Chrome Extension. Make checklists and more.
 * [rkokkelk/todo.txt-ext](https://github.com/rkokkelk/todo.txt-ext): Thunderbird extension for the Todo.txt application.
 * [mjdescy/TodoTxtMac](https://github.com/mjdescy/TodoTxtMac): TodoTxtMac is a minimalist, keyboard-driven to-do manager for Mac OS X (10.8 Mountain Lion and higher) that conforms to the todo.txt format spec.
 * [Calvin-LL/toggleairport](https://github.com/Calvin-LL/toggleairport): A script for macOS to turn off WiFi when Ethernet is plugged in, and turn on WiFi when Ethernet is unplugged
