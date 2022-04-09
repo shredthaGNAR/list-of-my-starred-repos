@@ -544,6 +544,7 @@
 * [tale/iconset](https://github.com/tale/iconset): A nifty command-line tool to customize macOS icons
 * [Sumeet-R/ID-Lookup](https://github.com/Sumeet-R/ID-Lookup): A search tool that can find exposed email addresses and mobile numbers on Internet.
 * [speedball2001/identitychooser-mx](https://github.com/speedball2001/identitychooser-mx): A thunderbird mailextension for explicitely choosing the correct sender identity before opening an email editor.
+* [iina/iina](https://github.com/iina/iina): The modern video player for macOS.
 * [ProvenanceLabs/image-match](https://github.com/ProvenanceLabs/image-match): 🎇 Quickly search over billions of images
 * [eight04/image-picka](https://github.com/eight04/image-picka): A Firefox/Chrome extension helping you download images.
 * [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine): Web app to search similar images
