@@ -249,6 +249,7 @@
 * [juanboro/cync2mqtt](https://github.com/juanboro/cync2mqtt): Bridge Cync bluetooth mesh to mqtt
 * [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights): None
 * [mitchuman/danshari](https://github.com/mitchuman/danshari): A blank slate theme for Shopify 2.0
+* [FilkCH/dark-filk-theme](https://github.com/FilkCH/dark-filk-theme): Visual Studio Code theme inspired by Monokai.
 * [fastaddons/Darko](https://github.com/fastaddons/Darko): None
 * [TechnicalWebAnalytics/dataLayer-shopify](https://github.com/TechnicalWebAnalytics/dataLayer-shopify): A dataLayer integration specific to extracting information from Shopify.
 * [Shopify/dawn](https://github.com/Shopify/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
