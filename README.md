@@ -369,6 +369,7 @@
 * [pdtxie/firefox-css](https://github.com/pdtxie/firefox-css): None
 * [seatedSinger/Firefox-CSS](https://github.com/seatedSinger/Firefox-CSS): None
 * [NiBa97/firefox-css-custom](https://github.com/NiBa97/firefox-css-custom): A modified version of Andreas Grafen's "ag-proton" design for firefox
+* [viesual/Firefox-CSS-for-MacOS](https://github.com/viesual/Firefox-CSS-for-MacOS): A custom Firefox CSS that works well with the current MacOS design
 * [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks): Collection of userstyles affecting the browser
 * [Soft-Bred/Firefox-Customisation](https://github.com/Soft-Bred/Firefox-Customisation): None
 * [whitelightning76/Firefox-dark-theme](https://github.com/whitelightning76/Firefox-dark-theme): Just another dark theme
