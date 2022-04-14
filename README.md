@@ -1187,6 +1187,7 @@
 * [jofpin/trape](https://github.com/jofpin/trape): People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 * [piroor/treestyletab](https://github.com/piroor/treestyletab): Tree Style Tab, Show tabs like a tree.
 * [Xinkai/TreeStyleTabCompanion.uc.js](https://github.com/Xinkai/TreeStyleTabCompanion.uc.js): A Firefox userChrome.js for hiding the native tab bar when a sidebar tab manager is active
+* [trockerapp/trocker](https://github.com/trockerapp/trocker): This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
 * [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch): Gets info from truepeoplesearch.com and adds it to Maltego
 * [Mennaruuk/twayback](https://github.com/Mennaruuk/twayback): Automate downloading archived deleted Tweets.
 * [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets): Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
