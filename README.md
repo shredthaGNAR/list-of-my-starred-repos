@@ -1116,6 +1116,7 @@
 * [DanielDe/TabRearranger](https://github.com/DanielDe/TabRearranger): Chrome extension to rearrange tabs and move them between windows using keyboard shortcuts
 * [tim-we/tabs-aside](https://github.com/tim-we/tabs-aside): A session/tab manager web extension for Firefox based on the Microsoft Edge feature.
 * [jingyu9575/tabs-to-bookmark-groups](https://github.com/jingyu9575/tabs-to-bookmark-groups): (Work in progress) Firefox extension to save the tabs to a bookmark group and switch between different groups.
+* [AnyMinorDeerPanda/tabsaver](https://github.com/AnyMinorDeerPanda/tabsaver): Allows you to easily save all of your tabs for later use, reducing clutter
 * [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver): WebExtension to manage tabs
 * [thundernest/tb-web-ext-experiments](https://github.com/thundernest/tb-web-ext-experiments): WebExtension Experiments for Thunderbird
 * [PrsPrsBK/tbext-manifest-schema](https://github.com/PrsPrsBK/tbext-manifest-schema): None
