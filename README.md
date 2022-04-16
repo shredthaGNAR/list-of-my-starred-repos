@@ -218,7 +218,7 @@
 * [MikeC0xl0ng/Color-variants-collection](https://github.com/MikeC0xl0ng/Color-variants-collection): A collection template which will show all the color variations of the product as an individual product on the collection page
 * [w0lfschild/colorfulSidebar](https://github.com/w0lfschild/colorfulSidebar): :open_file_folder: MacForge plugin to add color back to the sidebar icons in Finder on macOS
 * [DigiDNA/ColorSet](https://github.com/DigiDNA/ColorSet): ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
-* [OsborneSystems/Columbia](https://github.com/OsborneSystems/Columbia): Columbia by Osborne —  Privacy at the Forefront · Over 50K rules for your content blocker · Block ads and more
+* [OsborneSystems/Columbia](https://github.com/OsborneSystems/Columbia): Columbia by Osborne —  Privacy at the ForeFront · Over 50K rules for your content blocker · Block ads and more
 * [micz/ColumnsWizard](https://github.com/micz/ColumnsWizard): This is a Thunderbird addon that adds some magic to the folder list columns. Check the addon website for more info...
 * [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS): PowerShell script for comparing user.js (or prefs.js) files.
 * [timhettler/compass-photoshop-gradient-overlay](https://github.com/timhettler/compass-photoshop-gradient-overlay): A compass extension to translate between Photoshop gradient overlays and CSS linear-gradients
