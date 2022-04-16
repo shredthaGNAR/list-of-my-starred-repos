@@ -267,6 +267,7 @@
 * [MohamedYoussouf/Design-Resources](https://github.com/MohamedYoussouf/Design-Resources): A curated list of design resources from design templates, stock photos, icons, colors, and much more.
 * [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 * [desktop/desktop](https://github.com/desktop/desktop): Simple collaboration from your desktop
+* [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App): Windscribe 2.0 desktop client for Windows, Mac and Linux
 * [chriskol/Desktop-Google-Keep-OSX](https://github.com/chriskol/Desktop-Google-Keep-OSX): A Super Simple Desktop Client for Mac OSX Built in Javascript and MacGap
 * [TASEmulators/desmume](https://github.com/TASEmulators/desmume): DeSmuME is a Nintendo DS emulator
 * [BVAccel/dev-sandbox](https://github.com/BVAccel/dev-sandbox): New Dev Training Repo
