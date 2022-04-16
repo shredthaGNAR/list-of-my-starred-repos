@@ -1280,7 +1280,7 @@
 * [z0ccc/Vytal](https://github.com/z0ccc/Vytal): Vytal Privacy Scan
 * [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 * [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper): :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
-* [cheap-glitch/warpgate](https://github.com/cheap-glitch/warpgate): 💫 A lightweight browser extension to jump to various external bookmarks via the address bar.
+* [cheap-glitch/warpgate](https://github.com/cheap-glitch/warpgate): 💫 A lightweight browser extension to jump to various external bookmarks from the address bar.
 * [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox): CSS Style
 * [RobinBoers/wavefox-lepton](https://github.com/RobinBoers/wavefox-lepton): :fox_face: Firefox UI fix. A combination of Lepton and Wavefox for Firefox 90-91
 * [JamieMagee/wayback](https://github.com/JamieMagee/wayback): Save pages to the Wayback Machine as part of your CI/CD pipeline
