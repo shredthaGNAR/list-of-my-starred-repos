@@ -121,6 +121,7 @@
 * [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab): :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
 * [structunit/better-onetab](https://github.com/structunit/better-onetab): :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
 * [wlor0623/better-onetab](https://github.com/wlor0623/better-onetab): :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
+* [cnwangjie/better-onetab-sync-server](https://github.com/cnwangjie/better-onetab-sync-server): This is the sync server for better-onetab. Please don't submit PR to master directly.
 * [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord): Better Discord enhances Discord desktop app with new features.
 * [ttscoff/BetterTouchTool-Widgets](https://github.com/ttscoff/BetterTouchTool-Widgets): None
 * [opentizen/bettertouchtool_apple_script](https://github.com/opentizen/bettertouchtool_apple_script): BettertouchTool Used User for AppleScript
@@ -156,6 +157,7 @@
 * [bitwarden/browser](https://github.com/bitwarden/browser): The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 * [EnderDev/browser-chrome-experiment](https://github.com/EnderDev/browser-chrome-experiment): None
 * [adi6409/browser-ff](https://github.com/adi6409/browser-ff): None
+* [Luzifer/browser-privacy](https://github.com/Luzifer/browser-privacy): List of filter rules for uBlock Origin to enhance the browsing privacy and replace Ghostery
 * [Zegnat/browserext-window-merger](https://github.com/Zegnat/browserext-window-merger): Merge specified browser windows into each other. Or all of them into one. Simply right click to open Firefox’s context menu when multiple windows are open, or configure a keyboard shortcut. All wrapped up in one tiny free extension.
 * [Worie/btt](https://github.com/Worie/btt): Low level MacOS management in JavaScript via BetterTouchTool
 * [wonjoonSeol/BTT-Aqua-modification](https://github.com/wonjoonSeol/BTT-Aqua-modification): Better Touch Tool AquaTouch Preset Modification
@@ -216,6 +218,7 @@
 * [MikeC0xl0ng/Color-variants-collection](https://github.com/MikeC0xl0ng/Color-variants-collection): A collection template which will show all the color variations of the product as an individual product on the collection page
 * [w0lfschild/colorfulSidebar](https://github.com/w0lfschild/colorfulSidebar): :open_file_folder: MacForge plugin to add color back to the sidebar icons in Finder on macOS
 * [DigiDNA/ColorSet](https://github.com/DigiDNA/ColorSet): ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
+* [OsborneSystems/Columbia](https://github.com/OsborneSystems/Columbia): Columbia by Osborne —  Privacy at the Forefront · Over 50K rules for your content blocker · Block ads and more
 * [micz/ColumnsWizard](https://github.com/micz/ColumnsWizard): This is a Thunderbird addon that adds some magic to the folder list columns. Check the addon website for more info...
 * [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS): PowerShell script for comparing user.js (or prefs.js) files.
 * [timhettler/compass-photoshop-gradient-overlay](https://github.com/timhettler/compass-photoshop-gradient-overlay): A compass extension to translate between Photoshop gradient overlays and CSS linear-gradients
@@ -1196,6 +1199,7 @@
 * [mtxadmin/ublock](https://github.com/mtxadmin/ublock): Filters for uBlock Origin
 * [JustOff/ublock0-updater](https://github.com/JustOff/ublock0-updater): Keep uBlock Origin up to date using the latest XUL-compatible release from GitHub
 * [jeremyperkin/uBlockdark](https://github.com/jeremyperkin/uBlockdark): Dark theme for uBlock Origin
+* [LanikSJ/ubo-filters](https://github.com/LanikSJ/ubo-filters): uBlock Origin Filters
 * [avotoko/ubo-resource](https://github.com/avotoko/ubo-resource): uBlock Origin Experimental Scriptlets Resource
 * [uBlock-user/uBO-Scriptlets](https://github.com/uBlock-user/uBO-Scriptlets): A custom arsenal of scriptlets to be used for injecting userscripts via uBlock Origin.
 * [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js): A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets, but it's intended for use with an autoconfig loader like fx-autoconfig, since it uses JavaScript and Firefox's component registrar to implement its more functional features.
