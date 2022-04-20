@@ -432,6 +432,7 @@
 * [Pepitortue/FirefoxCSS-Safari-theme](https://github.com/Pepitortue/FirefoxCSS-Safari-theme): A Safari like them for Firefox 72+
 * [stobor827/firefoxPrefs](https://github.com/stobor827/firefoxPrefs): profile options that make firefox work the way I want.
 * [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig): Firefox privacy configuration (help + user.js)
+* [drannex42/FirefoxSidebar](https://github.com/drannex42/FirefoxSidebar): Vertical tab design for Firefox with dynamic indentation:: Sideberry and TreeStyleTabs (Legacy) themes available! 
 * [xKrusty/FirefoxTheme](https://github.com/xKrusty/FirefoxTheme): None
 * [josepedromonteiro/fireze](https://github.com/josepedromonteiro/fireze): Custome safari theme for Firefox
 * [Mortennn/FiScript](https://github.com/Mortennn/FiScript): Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
@@ -630,8 +631,10 @@
 * [spikecodes/libreddit](https://github.com/spikecodes/libreddit): Private front-end for Reddit
 * [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
+* [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core): A JavaScript library for linkification stuff. Used by linkify-plus-plus.
 * [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
 * [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
+* [cloux/LinkSanitizer](https://github.com/cloux/LinkSanitizer): Browser userscript to clean up hyperlink redirections and link shims
 * [Shopify/liquid](https://github.com/Shopify/liquid): Liquid markup language. Safe, customer facing template language for flexible web apps. 
 * [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart): Ajaxifies Shopify cart sections and product forms like a boss  :dark_sunglasses:
 * [TGIFelix/liquid_flex](https://github.com/TGIFelix/liquid_flex): Getting started with Shopify OS 2.0

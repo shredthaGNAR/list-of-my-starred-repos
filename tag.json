@@ -1514,6 +1514,9 @@
     "cli/cli": [
         "Other"
     ],
+    "cloux/LinkSanitizer": [
+        "Other"
+    ],
     "cmacrae/spacebar": [
         "Other"
     ],
@@ -1691,6 +1694,9 @@
     "dralletje/Windowed": [
         "Other"
     ],
+    "drannex42/FirefoxSidebar": [
+        "Other"
+    ],
     "drcheap/WindowSizer": [
         "Other"
     ],
@@ -1752,6 +1758,9 @@
         "Other"
     ],
     "eight04/linkify-plus-plus": [
+        "Other"
+    ],
+    "eight04/linkify-plus-plus-core": [
         "Other"
     ],
     "eight04/popup-tab": [
