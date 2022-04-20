@@ -114,6 +114,7 @@
 * [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design): 🎨 A curated list of awesome resources for digital designers.
 * [itsjoshthedeveloper/backupOneTab](https://github.com/itsjoshthedeveloper/backupOneTab): Back up and restore your OneTab Chrome extension data
 * [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator): Customize your Bash Prompt by setting the PS1 variable.
+* [sabaatworld/batch-media-compressor](https://github.com/sabaatworld/batch-media-compressor): Compress your entire photo & video library and take it with you everywhere.
 * [beardedspice/beardedspice](https://github.com/beardedspice/beardedspice): Mac Media Keys for the Masses
 * [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay): One button to close any overlay on any website
 * [yokoffing/Better-Fox](https://github.com/yokoffing/Better-Fox): An up-to-date user.js to speed up and secure Firefox
@@ -604,6 +605,7 @@
 * [p0rc0jet/joplin_styles](https://github.com/p0rc0jet/joplin_styles): CSS tweaks for joplin app
 * [gribnoysup/jpng.svg](https://github.com/gribnoysup/jpng.svg): Transparent PNG with JPEG Compression
 * [LaneCommunityCollege/jquery-signature](https://github.com/LaneCommunityCollege/jquery-signature): a jQuery based email signature generator
+* [criblio/js2bin](https://github.com/criblio/js2bin): NodeJS application to native executable
 * [kucherenko/jscpd](https://github.com/kucherenko/jscpd): Copy/paste detector for programming source code.
 * [RealRaven2000/JunQuilla](https://github.com/RealRaven2000/JunQuilla): Adopted Thunderbird Add-on from Kent James - adds column with percent likelihood that a message is spam
 * [EragonJ/Kaku](https://github.com/EragonJ/Kaku): 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
@@ -761,6 +763,7 @@
 * [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil): OSINT tool for finding profiles by username
 * [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc): a blue-ish gray with a purple accent color palette for Visual Studio Code.
 * [alex-phillips/node-clouddrive](https://github.com/alex-phillips/node-clouddrive): Node SDK and CLI for Amazon's Cloud Drive
+* [nodegui/nodegui](https://github.com/nodegui/nodegui): A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 * [speedball2001/nompsort-mx](https://github.com/speedball2001/nompsort-mx): A mailextension for Thunderbird that prevents accidental message sorting.
 * [opto/nostalgy-xpi](https://github.com/opto/nostalgy-xpi): nostalgy addon updated for Thunderbird 68 and now Thunderbird 78 - 91. Original code  by Alain Frisch.
 * [notable/notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
