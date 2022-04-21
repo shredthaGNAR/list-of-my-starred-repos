@@ -605,6 +605,7 @@
 * [p0rc0jet/joplin_styles](https://github.com/p0rc0jet/joplin_styles): CSS tweaks for joplin app
 * [gribnoysup/jpng.svg](https://github.com/gribnoysup/jpng.svg): Transparent PNG with JPEG Compression
 * [LaneCommunityCollege/jquery-signature](https://github.com/LaneCommunityCollege/jquery-signature): a jQuery based email signature generator
+* [MrOtherGuy/js-modules](https://github.com/MrOtherGuy/js-modules): None
 * [criblio/js2bin](https://github.com/criblio/js2bin): NodeJS application to native executable
 * [kucherenko/jscpd](https://github.com/kucherenko/jscpd): Copy/paste detector for programming source code.
 * [RealRaven2000/JunQuilla](https://github.com/RealRaven2000/JunQuilla): Adopted Thunderbird Add-on from Kent James - adds column with percent likelihood that a message is spam
