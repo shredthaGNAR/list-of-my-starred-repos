@@ -982,6 +982,7 @@
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks
 * [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt): Managing windows size and position in OSX
 * [TheUmslopogaas/shipping_bar-shopify](https://github.com/TheUmslopogaas/shipping_bar-shopify): Created a custom shipping bar / moneyspent bar for shopify store. (Turbo Theme)
+* [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku): Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 * [GregoryFore/shopfy-theme-dev](https://github.com/GregoryFore/shopfy-theme-dev): Shopify Theme Development
 * [lixonic/Shopify](https://github.com/lixonic/Shopify): Shopify resources and code snippets
 * [vuestorefront/shopify](https://github.com/vuestorefront/shopify): Vue Storefront 2 integration for Shopify
