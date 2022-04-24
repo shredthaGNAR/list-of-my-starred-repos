@@ -1136,6 +1136,7 @@
 * [jingyu9575/tabs-to-bookmark-groups](https://github.com/jingyu9575/tabs-to-bookmark-groups): (Work in progress) Firefox extension to save the tabs to a bookmark group and switch between different groups.
 * [AnyMinorDeerPanda/tabsaver](https://github.com/AnyMinorDeerPanda/tabsaver): Allows you to easily save all of your tabs for later use, reducing clutter
 * [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver): WebExtension to manage tabs
+* [axcore/tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 * [thundernest/tb-web-ext-experiments](https://github.com/thundernest/tb-web-ext-experiments): WebExtension Experiments for Thunderbird
 * [PrsPrsBK/tbext-manifest-schema](https://github.com/PrsPrsBK/tbext-manifest-schema): None
 * [wshanks/tbkeys](https://github.com/wshanks/tbkeys): Custom keybindings for Thunderbird
