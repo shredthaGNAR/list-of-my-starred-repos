@@ -62,7 +62,6 @@
 * [amethyst/amethyst-starter-2d](https://github.com/amethyst/amethyst-starter-2d): Seed project for 2D games
 * [kevalpatel2106/android-ringtone-picker](https://github.com/kevalpatel2106/android-ringtone-picker): Simple Ringtone Picker dialog which allows you to pick different sounds from ringtone, alarm tone, notification tone and music from external storage.
 * [mortenjust/androidtool-mac](https://github.com/mortenjust/androidtool-mac): One-click screenshots, video recordings, app installation for iOS and Android
-* [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer): Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 * [wulkano/Aperture](https://github.com/wulkano/Aperture): Record the screen on macOS
 * [amirgamil/apollo](https://github.com/amirgamil/apollo): A Unix-style personal search engine and web crawler for your digital footprint.
 * [yiisoft/app](https://github.com/yiisoft/app): Yii 3 application template
@@ -348,6 +347,7 @@
 * [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader): Facebook Video Downloader in PHP 
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 * [dumbmatter/fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB): A pure JS in-memory implementation of the IndexedDB API
+* [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward): Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 * [CleanCocoa/FatSidebar](https://github.com/CleanCocoa/FatSidebar): Custom vertical button toolbar for macOS
 * [ownaginatious/fbchat-archive-parser](https://github.com/ownaginatious/fbchat-archive-parser): An application for parsing chat history from a Facebook data archive.
 * [crestonbunch/ff-ctrl-e](https://github.com/crestonbunch/ff-ctrl-e): Ctrl+E shortcut for searching open tabs in Firefox
@@ -750,6 +750,7 @@
 * [Noisy96/my-email-signature](https://github.com/Noisy96/my-email-signature): Email signature
 * [Minibus93/my-firefox-setup](https://github.com/Minibus93/my-firefox-setup): My firefox setup
 * [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme): My Joplin App userstyle and userchrome theme style.
+* [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001): My filter lists - feel free to add these lists to uBlock Origin
 * [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): UI Email Signature Generator - Make easy to create your email signature
 * [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles): None
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
@@ -1148,6 +1149,7 @@
 * [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver): 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds:
 * [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
 * [MorganJay/TheBox](https://github.com/MorganJay/TheBox): A responsive, asymmetrical design with HTML & CSS - Firefox!
+* [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection): The ultimate collection of scripts for YouTube-DL.
 * [drsjb80/thematic](https://github.com/drsjb80/thematic): Now the official repo for the FF/TB Thematic extension.
 * [Shopify/theme-check](https://github.com/Shopify/theme-check): The Ultimate Shopify Theme Linter
 * [microsoft/theme-converter-for-vs](https://github.com/microsoft/theme-converter-for-vs): CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme.
