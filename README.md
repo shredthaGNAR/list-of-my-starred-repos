@@ -389,7 +389,7 @@
 * [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-): Light theme on Firefox 
 * [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar): macOS Native-looking Translucent Tabbar for Firefox
 * [jeremyperkin/Firefox-macOS-setup](https://github.com/jeremyperkin/Firefox-macOS-setup): userChrome.css and userContent.css files.
-* [nchlscs/firefox-macos-style](https://github.com/nchlscs/firefox-macos-style): Firefox style inspired by Safari of macOS
+* [nchlscs/firefox-macos-style](https://github.com/nchlscs/firefox-macos-style): Firefox css theme inspired by Safari of macOS
 * [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox Proton - Blur Mod / For dark theme lovers / Blurred search and bookmarks bar
 * [DominikMarcinowski/firefox-mods](https://github.com/DominikMarcinowski/firefox-mods): None
 * [SebastianSimon/firefox-omni-tweaks](https://github.com/SebastianSimon/firefox-omni-tweaks): A script that disables the clickSelectsAll behavior of Firefox, and more.
