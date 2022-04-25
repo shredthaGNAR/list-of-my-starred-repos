@@ -857,6 +857,8 @@
 * [joplin/plugins](https://github.com/joplin/plugins): Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin): 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
+* [turadg/pocket-ruby](https://github.com/turadg/pocket-ruby): Ruby wrapper for the Pocket REST and Search APIs
+* [ShockwaveNN/pocket-sinatra-interface](https://github.com/ShockwaveNN/pocket-sinatra-interface): Sinatra-based web interface for pocket api
 * [lobre/pocket2notion](https://github.com/lobre/pocket2notion): Tool for migrating Pocket items to Notion
 * [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer): Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 * [ruipgil/pocketmark](https://github.com/ruipgil/pocketmark): From pocket to chrome bookmarks
