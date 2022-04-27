@@ -72,6 +72,7 @@
 * [adriannier/applescript-functions](https://github.com/adriannier/applescript-functions): None
 * [BLXXDING/applescript-snippets](https://github.com/BLXXDING/applescript-snippets): Some Apple Script snippets I made over the years. Maybe it will help you.
 * [Jmuccigr/AppleScripts](https://github.com/Jmuccigr/AppleScripts): Handy AppleScripts I use
+* [abbeycode/AppleScripts](https://github.com/abbeycode/AppleScripts): My collection of scripts I've written over the years
 * [kevin-funderburg/AppleScripts](https://github.com/kevin-funderburg/AppleScripts): My collection of AppleScripts I've developed or acquired over the years.
 * [nathan-artist/AppleScripts](https://github.com/nathan-artist/AppleScripts): AppleScripts for use with OS X / macOS
 * [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
