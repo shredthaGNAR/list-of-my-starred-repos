@@ -47,6 +47,7 @@
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X.
 * [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow): Alfred workflow to search google drive
+* [edgarjs/alfred-github-repos](https://github.com/edgarjs/alfred-github-repos): Alfred workflow to easily open Github repositories
 * [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket): Manage your Pocket list with Alfred
 * [onury/alfred-video-downloader](https://github.com/onury/alfred-video-downloader): Video Downloader is an Alfred workflow written in Bash/Shell for easily downloading videos (and/or extracting audio) from various websites such as YouTube, Vimeo, DailyMotion and more...
 * [ikedaosushi/alfred-wf-music-dl](https://github.com/ikedaosushi/alfred-wf-music-dl): A Alfred workflow that download Spotify, Youtube, SoundCloud, Bandcamp Musics
@@ -1074,6 +1075,7 @@
 * [mzama/ShopifyInventoryChecker](https://github.com/mzama/ShopifyInventoryChecker): A simple python script to check a Shopify store's inventory for a particular product, and send an email notification if the product is available.
 * [Czarto/ShopifyScripts](https://github.com/Czarto/ShopifyScripts): Various Shopify scripts to generate XML product feeds, remarketing tracking for Google Ads, and others.
 * [makilyes/shopifyTheme](https://github.com/makilyes/shopifyTheme): None
+* [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow): Run installled macOS shortcuts
 * [crittermike/shortkeys](https://github.com/crittermike/shortkeys): A browser extension for custom keyboard shortcuts 
 * [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
 * [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch): Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. 🪟
