@@ -150,6 +150,7 @@
 * [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
 * [StarPlayrX/bigmac](https://github.com/StarPlayrX/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! 🌐🔍
+* [bitwarden/bitwarden](https://github.com/bitwarden/bitwarden): Bitwarden client applications (web, browser extension, desktop, and cli)
 * [jnsdrtlf/bitwarden-menubar](https://github.com/jnsdrtlf/bitwarden-menubar): Bitwarden in the macOS menu bar
 * [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh): 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
 * [GreezXII/BlackList](https://github.com/GreezXII/BlackList): Black list for Thunderbird 
@@ -175,7 +176,6 @@
 * [Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox): Firefox Stylesheet To Add Brave-Like Elements
 * [brothersinvines/brothersinvines.github.io](https://github.com/brothersinvines/brothersinvines.github.io): None
 * [hoyang/browse-later](https://github.com/hoyang/browse-later): Browse later, a WebExtensions add-on.
-* [bitwarden/browser](https://github.com/bitwarden/browser): The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 * [EnderDev/browser-chrome-experiment](https://github.com/EnderDev/browser-chrome-experiment): None
 * [adi6409/browser-ff](https://github.com/adi6409/browser-ff): None
 * [Luzifer/browser-privacy](https://github.com/Luzifer/browser-privacy): List of filter rules for uBlock Origin to enhance the browsing privacy and replace Ghostery
