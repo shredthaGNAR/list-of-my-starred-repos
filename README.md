@@ -1000,6 +1000,7 @@
 * [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine): Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
 * [117649/SavedPasswordEditorRedux](https://github.com/117649/SavedPasswordEditorRedux): Not Gecko, application to allow creating and editing saved passwords 
 * [mdreier/savetabs](https://github.com/mdreier/savetabs): Save current tabs extension for Firefox
+* [pvpscript/savetabs](https://github.com/pvpscript/savetabs): A web browser extension that allows the user to save every tab's url to a file
 * [shoekla/ScrapeC](https://github.com/shoekla/ScrapeC): ScrapeC is a “mock” search engine, in the fact that it does a lot of what Bing, YouTube, and DuckDuckGo does, but instead of searching its own database it crawls and scrape these search engines and other websites. Along with return links, images, and videos of searches it also return PDFs, Social Media information (Facebook, Twitter, Google+), and Contact Information related to the links that it returns. On top of that ScrapeC also has the same features on a smaller scale for web addresses used as an input. Link: http://scrapec.pythonanywhere.com/
 * [hotchemi/Scre](https://github.com/hotchemi/Scre): A lightweight screen recorder macOS application written in SwiftUI.
 * [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity): The most powerful screen recorder & annotation tool for Chrome 🎥
