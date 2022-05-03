@@ -884,6 +884,7 @@
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 * [gocom/pinceau](https://github.com/gocom/pinceau): Personal Firefox userChrome and preference customizations
 * [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus): Create native Mac applications from command line scripts.
+* [benr0th/PlaylistSearch](https://github.com/benr0th/PlaylistSearch): Search your Youtube™ playlists
 * [nicinabox/plistbuddy](https://github.com/nicinabox/plistbuddy): A handy tool to manipulate plist files. Useful for iOS development.
 * [joplin/plugin-templates](https://github.com/joplin/plugin-templates): Create templates in Joplin and use them to create new notes and todos.
 * [Dis90/plugin.video.discoveryplus](https://github.com/Dis90/plugin.video.discoveryplus): discovery+ add-on for Kodi
@@ -1394,6 +1395,7 @@
 * [akhilkedia/youtube-dl-firefox-addon](https://github.com/akhilkedia/youtube-dl-firefox-addon): Addon to download youtube videos from firefox using youtube-dl
 * [murrty/youtube-dl-gui](https://github.com/murrty/youtube-dl-gui): Download/Convert videos from websites without needing to learn command line
 * [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+* [longpdo/youtube-dl-watch-later-playlist](https://github.com/longpdo/youtube-dl-watch-later-playlist): Python script to download all YouTube videos from your Watch Later Playlist automatically.
 * [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web): A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 * [TheYellowArchitect/youtube-dlp-bash](https://github.com/TheYellowArchitect/youtube-dlp-bash): Bash script which opens youtube-dlp on the dmenu, and optionally pastes the clipboard
 * [DenBeke/YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS): Simple menu bar app to download YouTube movies on your Mac
@@ -1403,6 +1405,8 @@
 * [th-ch/youtube-music](https://github.com/th-ch/youtube-music): YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 * [pateldevang/Youtube-music-macOS](https://github.com/pateldevang/Youtube-music-macOS): Youtube Music for macOS (Ads free) & Download Music For Free.
 * [alexmercerind/youtube-search-python](https://github.com/alexmercerind/youtube-search-python): 🔎 Search for YouTube videos, channels & playlists. Get 🎞 video &  📑 playlist info using link. Get search suggestions. WITHOUT YouTube Data API v3.
+* [Tatsh/youtube-unofficial](https://github.com/Tatsh/youtube-unofficial): Access parts of your account unavailable through normal YouTube API access.
+* [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
 * [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material): Self-hosted YouTube downloader built on Material Design
 * [xhico/YoutubeDownloader](https://github.com/xhico/YoutubeDownloader): Download any public Playlist from Youtube
 * [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
