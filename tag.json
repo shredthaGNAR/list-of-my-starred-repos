@@ -1196,6 +1196,12 @@
     "alexyz/poker": [
         "Other"
     ],
+    "alfredapp/google-drive-workflow": [
+        "Other"
+    ],
+    "alfredapp/magic-8-ball-workflow": [
+        "Other"
+    ],
     "alfredapp/shortcuts-workflow": [
         "Other"
     ],
@@ -1532,6 +1538,9 @@
     "chriskol/Desktop-Google-Keep-OSX": [
         "Other"
     ],
+    "chrismessina/alfred-theme-chirp": [
+        "Other"
+    ],
     "chriswayg/CC-Offline-Package-Generator": [
         "Other"
     ],
@@ -1674,6 +1683,15 @@
         "Other"
     ],
     "david-hoicka/OneTab-backup": [
+        "Other"
+    ],
+    "deanishe/alfred-convert": [
+        "Other"
+    ],
+    "deanishe/alfred-smartfolders": [
+        "Other"
+    ],
+    "deanishe/alfred-workflow": [
         "Other"
     ],
     "defunkt/gist": [
@@ -2597,6 +2615,9 @@
     "leadweedy/Firefox-Proton-Square": [
         "Other"
     ],
+    "learn-anything/alfred-workflows": [
+        "Other"
+    ],
     "leemunroe/shopify-email-templates": [
         "Other"
     ],
@@ -3515,6 +3536,9 @@
     "sindresorhus/KeyboardShortcuts": [
         "Other"
     ],
+    "sindresorhus/alfy": [
+        "Other"
+    ],
     "sindresorhus/awesome": [
         "Other"
     ],
@@ -3743,6 +3767,9 @@
     "thehappydinoa/TruePeopleSearch": [
         "Other"
     ],
+    "themerdev/themer": [
+        "Other"
+    ],
     "theocjr/hugo-academic-bookmarks": [
         "Other"
     ],
@@ -3959,6 +3986,9 @@
     "vitorgalvao/alfred-workflows": [
         "Other"
     ],
+    "vitorgalvao/custom-alfred-iterm-scripts": [
+        "Other"
+    ],
     "vitorgalvao/tiny-scripts": [
         "Other"
     ],
@@ -4071,6 +4101,9 @@
         "Other"
     ],
     "xiaoxiaoflood/firefox-scripts": [
+        "Other"
+    ],
+    "xilopaint/alfred-things": [
         "Other"
     ],
     "xmansyx/Pro-Fox": [

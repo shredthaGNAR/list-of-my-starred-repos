@@ -46,17 +46,24 @@
 * [Czarto/Adwords-Scripts](https://github.com/Czarto/Adwords-Scripts): Google Ads Bidding scripts
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X.
+* [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert): Convert between different units in Alfred
 * [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow): Alfred workflow to search google drive
 * [edgarjs/alfred-github-repos](https://github.com/edgarjs/alfred-github-repos): Alfred workflow to easily open Github repositories
 * [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket): Manage your Pocket list with Alfred
+* [deanishe/alfred-smartfolders](https://github.com/deanishe/alfred-smartfolders): Quick access to your Smart Folders (Saved Searches) from Alfred
+* [chrismessina/alfred-theme-chirp](https://github.com/chrismessina/alfred-theme-chirp): Themes inspired by Twitter's new font, Chirp
+* [xilopaint/alfred-things](https://github.com/xilopaint/alfred-things): Interact with Things 3 using Alfred.
 * [onury/alfred-video-downloader](https://github.com/onury/alfred-video-downloader): Video Downloader is an Alfred workflow written in Bash/Shell for easily downloading videos (and/or extracting audio) from various websites such as YouTube, Vimeo, DailyMotion and more...
 * [ikedaosushi/alfred-wf-music-dl](https://github.com/ikedaosushi/alfred-wf-music-dl): A Alfred workflow that download Spotify, Youtube, SoundCloud, Bandcamp Musics
+* [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow): Full-featured library for writing Alfred 3 & 4 workflows
+* [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows): Amazing Alfred Workflows
 * [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows): Collection of Alfred workflows
 * [jenslys/alfred-youtube-downloader](https://github.com/jenslys/alfred-youtube-downloader): Alfred Workflow to download YouTube videos
 * [simonbs/alfred-youtube-workflow](https://github.com/simonbs/alfred-youtube-workflow): A workflow for Alfred 2.0 which lets the user search for YouTube videos and have them returned to Alfred.
 * [willfarrell/alfred-youtube-workflow](https://github.com/willfarrell/alfred-youtube-workflow): Search and Download YouTube Videos
 * [raleycs/alfred-ytsuggest](https://github.com/raleycs/alfred-ytsuggest): Alfred Workflow to get search suggestions from YouTube.
 * [mandrigin/AlfredSwitchWindows](https://github.com/mandrigin/AlfredSwitchWindows): An application for using in Alfred workflow to enumerate and switch between windows on OSX.
+* [sindresorhus/alfy](https://github.com/sindresorhus/alfy): Create Alfred workflows with ease
 * [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app): Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 * [Godiesc/AlpenBlue](https://github.com/Godiesc/AlpenBlue): Theme to blue lovers
 * [WynStaXxx/AlpenBr0-firefox-theme](https://github.com/WynStaXxx/AlpenBr0-firefox-theme): Alpenfox custom theme eith glowing gradient active tab and gradient to transparent hover plus other mods. Use with firefox alpenglow for look in pics or use default dark/light for transparent theme with cool look.
@@ -252,6 +259,7 @@
 * [AnCIity/css-smart](https://github.com/AnCIity/css-smart): a smart css helpers.
 * [estelle/CSS3Gradients](https://github.com/estelle/CSS3Gradients): Library of CSS3 Gradients
 * [Kungfoowiz/cssSuggestionsVSCode](https://github.com/Kungfoowiz/cssSuggestionsVSCode): Visual Studio Code Extension: CSS suggestions for Properties and Values.
+* [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts): AppleScript for iTerm2 Alfred integration.
 * [samiyuru/custom-finder-right-click-menu](https://github.com/samiyuru/custom-finder-right-click-menu): This project allows macOS users to setup custom right click menu items for MacOS Finder directories.
 * [jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify](https://github.com/jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify): Monogram functionality using custom options
 * [Ahmed-Elswerky/custom-tampermonkey-scripts](https://github.com/Ahmed-Elswerky/custom-tampermonkey-scripts): this is a custom script repository,
@@ -527,6 +535,7 @@
 * [elibroftw/google-dark-theme](https://github.com/elibroftw/google-dark-theme): A dark theme for Google based on YouTube's dark theme
 * [Sparab16/Google-Drive-Upload](https://github.com/Sparab16/Google-Drive-Upload): Google drive upload is useful to help the user upload any files/folders directly on thier respective Google Drive account without leaving their system.
 * [willo32/google-drive-upload-action](https://github.com/willo32/google-drive-upload-action): Github action to upload a file to Google Drive using a service account
+* [alfredapp/google-drive-workflow](https://github.com/alfredapp/google-drive-workflow): Alfred Workflow for Google Drive
 * [cheap-glitch/google-keep-to-clipboard](https://github.com/cheap-glitch/google-keep-to-clipboard): 🗒️ A tiny browser extension to copy the contents of Google Keep notes to the clipboard in various formats.
 * [kelyvin/Google-Messages-For-Desktop](https://github.com/kelyvin/Google-Messages-For-Desktop): A "native-like" OS X, Windows, & Linux desktop app for Google Messages
 * [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool): Tool for deleting all photos from the Google Photos
@@ -713,6 +722,7 @@
 * [macports/macports-base](https://github.com/macports/macports-base): The MacPorts command-line client
 * [fharper/macsetup](https://github.com/fharper/macsetup): Scripts to setup my mac
 * [section83/MacYTDL](https://github.com/section83/MacYTDL): A macOS GUI front-end for the youtube-dl video downloader
+* [alfredapp/magic-8-ball-workflow](https://github.com/alfredapp/magic-8-ball-workflow): A simple workflow that makes use of the Random utility to answer your questions like a classic magic 8-ball
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
 * [Clipy/Magnet](https://github.com/Clipy/Magnet): Customize global hotkeys in macOS.
 * [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
@@ -1189,6 +1199,7 @@
 * [baileylatimer/ThemeKit](https://github.com/baileylatimer/ThemeKit): Built for GoSun (gosun.co). Made with ♥ by Latimer Design.
 * [bravetheskies/themekit-download-action](https://github.com/bravetheskies/themekit-download-action): A GitHub action that pulls changes from Shopify Theme Kit themes.
 * [brohlson/themekit-webpack-tailwind](https://github.com/brohlson/themekit-webpack-tailwind): Shopify Themekit with Webpack & Tailwind CSS 
+* [themerdev/themer](https://github.com/themerdev/themer): 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 * [devmount/third-stats](https://github.com/devmount/third-stats): Thunderbird add-on turning your emails into beautifully visualized email account stats
 * [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
 * [dracula/thunderbird](https://github.com/dracula/thunderbird): 🧛🏻‍♂️ Dark theme for Thunderbird
