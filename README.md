@@ -978,7 +978,7 @@
 * [eyalroz/removedupes](https://github.com/eyalroz/removedupes): Remove Duplicate Messages
 * [dexiota/replacefirefoxicon](https://github.com/dexiota/replacefirefoxicon): A collection of CSS tweaks to only change Firefox's icon throughout the UI.
 * [jeevatkm/ReplyWithHeaderMozilla](https://github.com/jeevatkm/ReplyWithHeaderMozilla): Outlook style headers and few goodies for Thunderbird & Postbox.
-* [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature): Template generator for (responsive) emails & email signatures ✨
+* [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature): ✨ Template generator for (responsive) emails & email signatures 
 * [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS): userChromeJS scripts to restore Firefox features that have been removed or changed
 * [mariia-nam/reviews-collage](https://github.com/mariia-nam/reviews-collage): Shopify Section with customers reviews.
 * [timonus/Rhea](https://github.com/timonus/Rhea): A Mac status bar app for quickly sharing files and links.
