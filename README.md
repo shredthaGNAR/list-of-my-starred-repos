@@ -1068,7 +1068,6 @@
 * [PaulSteelway/shopify-terrelique](https://github.com/PaulSteelway/shopify-terrelique): None
 * [wyugen/shopify-theme-action](https://github.com/wyugen/shopify-theme-action): Deploy Previews for Shopify themes
 * [Maxvien/shopify-theme-customizer](https://github.com/Maxvien/shopify-theme-customizer): 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
-* [theadriann/shopify-theme-dawn](https://github.com/theadriann/shopify-theme-dawn): None
 * [craigerm/shopify-theme-dev](https://github.com/craigerm/shopify-theme-dev): None
 * [Shopify/shopify-theme-inspector](https://github.com/Shopify/shopify-theme-inspector): A Chrome DevTools plugin that visualizes Shopify Liquid render profiling data so you can triage long-running code and reduce server response times!
 * [uicrooks/shopify-theme-lab](https://github.com/uicrooks/shopify-theme-lab): Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI 🧪
