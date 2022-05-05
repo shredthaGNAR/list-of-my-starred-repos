@@ -150,7 +150,6 @@
 * [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
 * [StarPlayrX/bigmac](https://github.com/StarPlayrX/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! 🌐🔍
-* [bitwarden/bitwarden](https://github.com/bitwarden/bitwarden): Bitwarden client applications (web, browser extension, desktop, and cli)
 * [jnsdrtlf/bitwarden-menubar](https://github.com/jnsdrtlf/bitwarden-menubar): Bitwarden in the macOS menu bar
 * [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh): 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
 * [GreezXII/BlackList](https://github.com/GreezXII/BlackList): Black list for Thunderbird 
@@ -228,6 +227,7 @@
 * [DevNurAlam/ClickableEmailSignatureDesign-2](https://github.com/DevNurAlam/ClickableEmailSignatureDesign-2): None
 * [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube): Replaces thumbnails and modifies titles of videos on youtube.com
 * [Wilbird/clickToPrivate](https://github.com/Wilbird/clickToPrivate): Firefox add-on to open links or current page in private mode
+* [bitwarden/clients](https://github.com/bitwarden/clients): Bitwarden client applications (web, browser extension, desktop, and cli)
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
 * [webextensions/close-tab-by-double-right-click](https://github.com/webextensions/close-tab-by-double-right-click): Source code for Chrome/Firefox extension "Close Tab by Double Right Click"
 * [Aadil101/cloud](https://github.com/Aadil101/cloud): A clean storage management interface for Google Drive, Dropbox, Box, and OneDrive accounts.
