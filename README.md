@@ -655,6 +655,7 @@
 * [kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance](https://github.com/kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance): A web page (NOTE: Only Firefox & Pale Moon browsers give approved rendering) and some server-side web server scripting in a mini web server called bashttpd.  Even looks good on Android devices as far as I've seen, though working the sliders is more difficult when your finger touch point is larger than them.  With this tricked out version of bashttpd, you won't need a high-powered web server like Apache nor nginx (I didn't feel like learning nginx, and certainly don't care for learning Apache).  IN PROGRESS but does work way, way better than nothing.  Chrome renders differently, but in a pinch it will function halfway.
 * [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher): A lightweight, pure-Swift library for downloading and caching images from the web.
 * [onekiloparsec/KPCTabsControl](https://github.com/onekiloparsec/KPCTabsControl): A macOS control for tabs with enhanced capabilities, and styles: Safari, Chrome and custom ones.
+* [kondasoft/ks-bootshop](https://github.com/kondasoft/ks-bootshop): Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of coding experience.
 * [lando/lando](https://github.com/lando/lando): A development tool for all your projects that is fast, easy, powerful and liberating
 * [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop): Drop any files to any devices on your LAN.
 * [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool): Style and Grammar Checker for 25+ Languages
@@ -1032,7 +1033,6 @@
 * [phillipkingston/Shopify---Change-Image-On-Hover](https://github.com/phillipkingston/Shopify---Change-Image-On-Hover): A few simple lines of code to swap product images on hover across collection pages and feature product sections on homepage and product pages in Shopify. Many projects in the Shopify App Store are a) expensive or b) do not work with the default Shopify Theme in 2020 (Debut) or c) do not work at all.
 * [JoshTag/shopify-2.0-dev-course](https://github.com/JoshTag/shopify-2.0-dev-course): None
 * [jeremybwilson/shopify-bebe](https://github.com/jeremybwilson/shopify-bebe): None
-* [kondasoft/shopify-bootstrap-theme](https://github.com/kondasoft/shopify-bootstrap-theme): Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of coding experience.
 * [Shopify/shopify-cli](https://github.com/Shopify/shopify-cli): Shopify CLI helps you build against the Shopify platform faster.
 * [freakdesign/Shopify-code-snippets](https://github.com/freakdesign/Shopify-code-snippets): Shopify code examples and tips
 * [maazRepo/shopify-code-snippets](https://github.com/maazRepo/shopify-code-snippets): collection of useful code snippets
