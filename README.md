@@ -630,7 +630,7 @@
 * [forcewake/joplin-tags-generator](https://github.com/forcewake/joplin-tags-generator): Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags
 * [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme): My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inklusive a special Bullet Journal css style.
 * [hrqmonteiro/joplin-theme](https://github.com/hrqmonteiro/joplin-theme): My Joplin theme files, including userchrome.css and userstyles.css, as well as some markdown templates for my notes.
-* [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils): Some joplin peripheral tools created by me. Since the functions are in the same category and are related, they are managed using monorepo.
+* [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils): Joplin-based peripheral community tool
 * [jerrylususu/joplin-vacuum](https://github.com/jerrylususu/joplin-vacuum): Removes attachments (resources) that are not referred in Joplin. 
 * [mahor1221/joplin-vsc-material-theme](https://github.com/mahor1221/joplin-vsc-material-theme): VSCode Community Material Theme for Joplin
 * [p0rc0jet/joplin_styles](https://github.com/p0rc0jet/joplin_styles): CSS tweaks for joplin app
