@@ -1147,6 +1147,7 @@
 * [ccat3z/stars](https://github.com/ccat3z/stars): A simple tool for creating your own awesome list
 * [darekkay/static-marks](https://github.com/darekkay/static-marks): Shareable bookmarks
 * [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app): Frontend part of the Static Marks project
+* [WynStaXxx/static-marks-docker](https://github.com/WynStaXxx/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
 * [gaerfield/static-marks-docker](https://github.com/gaerfield/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
 * [vipintom/stealthFox](https://github.com/vipintom/stealthFox): Clean and minimal set of changes to get Vertical Tabs in Firefox
 * [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback): The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
