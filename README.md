@@ -255,6 +255,7 @@
 * [msk4862/Copyright-free-image-search](https://github.com/msk4862/Copyright-free-image-search): Web app to search copyright free images from across the popular platforms and shows you the results in a single platform.
 * [home-assistant/core](https://github.com/home-assistant/core): :house_with_garden: Open source home automation that puts local control and privacy first.
 * [Andereoo/Cortland](https://github.com/Andereoo/Cortland): A sleek, modern, macOS-inspired theme for Firefox
+* [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV): website userscript: redirect embedded videos from "tubitv.com" to an external player
 * [cedricbeau/css-gradient-generator](https://github.com/cedricbeau/css-gradient-generator): Générateur de gradient css en ligne
 * [AnCIity/css-smart](https://github.com/AnCIity/css-smart): a smart css helpers.
 * [estelle/CSS3Gradients](https://github.com/estelle/CSS3Gradients): Library of CSS3 Gradients
@@ -1257,6 +1258,7 @@
 * [trockerapp/trocker](https://github.com/trockerapp/trocker): This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
 * [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch): Gets info from truepeoplesearch.com and adds it to Maltego
 * [syanle/ts-commercials-remover](https://github.com/syanle/ts-commercials-remover): MPEG-TS stream workflow
+* [Leonetienne/Tubio](https://github.com/Leonetienne/Tubio): The free, open source video downloader!
 * [Mennaruuk/twayback](https://github.com/Mennaruuk/twayback): Automate downloading archived deleted Tweets.
 * [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets): Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 * [gorhill/uBlock](https://github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
