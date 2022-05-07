@@ -155,6 +155,7 @@
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! 🌐🔍
 * [jnsdrtlf/bitwarden-menubar](https://github.com/jnsdrtlf/bitwarden-menubar): Bitwarden in the macOS menu bar
 * [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh): 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
+* [danielmiessler/blackhat-arsenal-tools](https://github.com/danielmiessler/blackhat-arsenal-tools): Official Black Hat Arsenal Security Tools Repository
 * [GreezXII/BlackList](https://github.com/GreezXII/BlackList): Black list for Thunderbird 
 * [Filip-Sutkowy/blurclean-firefox-theme](https://github.com/Filip-Sutkowy/blurclean-firefox-theme): Clean, transparent firefox theme
 * [TheBi11iona1re/BlurFox-CSS-for-Mac](https://github.com/TheBi11iona1re/BlurFox-CSS-for-Mac): Update  to manilarome's Blur Fox for mac only
@@ -202,6 +203,8 @@
 * [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew): Manage your Homebrew formulas with style using Cakebrew.
 * [shemeshg/cakebrewjs](https://github.com/shemeshg/cakebrewjs): Homebrew GUI App written in electron
 * [mattlag/California-Gothic](https://github.com/mattlag/California-Gothic): A typeface for California vexillographers 
+* [Neil-Lal/California-Lotto-Scratchers-EV](https://github.com/Neil-Lal/California-Lotto-Scratchers-EV): This project is to pull data from the California lotto website into a local MSSQL server.  This data is used to calculate and report on the EV of each lotto ticket.  The goal is to make statistically "smart" scratcher purchases.
+* [Protovision/calottery-scratchers](https://github.com/Protovision/calottery-scratchers): Web scraper for california lottery scratchers
 * [babldev/camera-cli](https://github.com/babldev/camera-cli): Configure your webcam via the command line
 * [Itaybre/CameraController](https://github.com/Itaybre/CameraController): 📷 Control USB Cameras from an app
 * [sindresorhus/caprine](https://github.com/sindresorhus/caprine): Elegant Facebook Messenger desktop app
@@ -503,6 +506,8 @@
 * [rebhu-open-source-foundation/gecko-b2g](https://github.com/rebhu-open-source-foundation/gecko-b2g): This is a mirror of https://gitlab.com/rebhu/rosf/thenexus-codes/gecko-b2g
 * [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 * [AlfarexGuy2019/GentleFox](https://github.com/AlfarexGuy2019/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
+* [danielmiessler/GeoHarvest](https://github.com/danielmiessler/GeoHarvest): A simple script for translating IP addresses to GeoLocations
+* [danielmiessler/geoip](https://github.com/danielmiessler/geoip): A Ruby script that takes in IPs and returns Country, State, and City
 * [marchyman/GeoTag](https://github.com/marchyman/GeoTag): Image geo location editing for macOS 10.13 and later.  Available on the Mac App store (free).  Instructions and a .dmg of the current version are on the application home page ==>
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
 * [finia2NA/getter](https://github.com/finia2NA/getter): A multi-workflow YouTube downloader
@@ -538,6 +543,7 @@
 * [GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify](https://github.com/GratefulDave/google-analytics-dynamic-remarketing-code-for-shopify): Google Analytics Dynamic Remarketing Code for Shopify
 * [blyad2137/google-dark-theme](https://github.com/blyad2137/google-dark-theme): The Ultimate Dark Theme for Google.
 * [elibroftw/google-dark-theme](https://github.com/elibroftw/google-dark-theme): A dark theme for Google based on YouTube's dark theme
+* [donPabloNow/Google-Drive-Direct](https://github.com/donPabloNow/Google-Drive-Direct): The Google Drive Direct Bookmarklet is a bookmark that allows you to input a download URL and have it added directly to your Google Drive almost instantly, without using your bandwidth. Its really easy, drag and drop the bookmark onto your address bar, click on the bookmark enter the details, and done. It fast, easy to use and completely free.
 * [Sparab16/Google-Drive-Upload](https://github.com/Sparab16/Google-Drive-Upload): Google drive upload is useful to help the user upload any files/folders directly on thier respective Google Drive account without leaving their system.
 * [willo32/google-drive-upload-action](https://github.com/willo32/google-drive-upload-action): Github action to upload a file to Google Drive using a service account
 * [alfredapp/google-drive-workflow](https://github.com/alfredapp/google-drive-workflow): Alfred Workflow for Google Drive
@@ -574,6 +580,7 @@
 * [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade): A command line tool for upgrading every outdated app installed by Homebrew Cask
 * [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): 🍻 Default formulae for the missing package manager for macOS (or Linux)
 * [Shopify/homebrew-shopify](https://github.com/Shopify/homebrew-shopify): None
+* [danielmiessler/HoneyCredIPTracker](https://github.com/danielmiessler/HoneyCredIPTracker): Quick script to gather stats on incoming credentials and IPs for a honey listener.
 * [Aaron-P/HostnameTitleBar](https://github.com/Aaron-P/HostnameTitleBar): Adds the hostname of windows' active tab to the windows' title, e.g. for KeePass(X/XC).
 * [StevenBlack/hosts](https://github.com/StevenBlack/hosts): 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 * [specialunderwear/Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane): a Cocoa GUI for /etc/hosts
@@ -1023,6 +1030,7 @@
 * [joelwembo/searchmediaProfilesLink](https://github.com/joelwembo/searchmediaProfilesLink): Angular CLI Seach All Social Media Profile Using an Email Account
 * [EmySaulIntec/SearchPeople](https://github.com/EmySaulIntec/SearchPeople): Search images in your phone based in three photo of a person
 * [searx/searx](https://github.com/searx/searx): Privacy-respecting metasearch engine
+* [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 * [mirceapiturca/Sections](https://github.com/mirceapiturca/Sections): Shopify sections for everyone. Tooltips, FAQ, Quiz, and App Performance
 * [larsow/SecurityCamera](https://github.com/larsow/SecurityCamera): Android Security Camera App
 * [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
