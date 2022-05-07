@@ -50,6 +50,7 @@
 * [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert): Convert between different units in Alfred
 * [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow): Alfred workflow to search google drive
 * [edgarjs/alfred-github-repos](https://github.com/edgarjs/alfred-github-repos): Alfred workflow to easily open Github repositories
+* [otherguy/alfred-passwords-workflow](https://github.com/otherguy/alfred-passwords-workflow): An Alfred 4 workflow that allows you to quickly generate strong passwords.
 * [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket): Manage your Pocket list with Alfred
 * [deanishe/alfred-smartfolders](https://github.com/deanishe/alfred-smartfolders): Quick access to your Smart Folders (Saved Searches) from Alfred
 * [chrismessina/alfred-theme-chirp](https://github.com/chrismessina/alfred-theme-chirp): Themes inspired by Twitter's new font, Chirp
@@ -57,6 +58,7 @@
 * [onury/alfred-video-downloader](https://github.com/onury/alfred-video-downloader): Video Downloader is an Alfred workflow written in Bash/Shell for easily downloading videos (and/or extracting audio) from various websites such as YouTube, Vimeo, DailyMotion and more...
 * [ikedaosushi/alfred-wf-music-dl](https://github.com/ikedaosushi/alfred-wf-music-dl): A Alfred workflow that download Spotify, Youtube, SoundCloud, Bandcamp Musics
 * [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow): Full-featured library for writing Alfred 3 & 4 workflows
+* [alanhg/alfred-workflows](https://github.com/alanhg/alfred-workflows): Save time, Improve life.🚀  ☕️
 * [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows): Amazing Alfred Workflows
 * [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows): Collection of Alfred workflows
 * [jenslys/alfred-youtube-downloader](https://github.com/jenslys/alfred-youtube-downloader): Alfred Workflow to download YouTube videos
@@ -1006,6 +1008,7 @@
 * [mdreier/savetabs](https://github.com/mdreier/savetabs): Save current tabs extension for Firefox
 * [pvpscript/savetabs](https://github.com/pvpscript/savetabs): A web browser extension that allows the user to save every tab's url to a file
 * [shoekla/ScrapeC](https://github.com/shoekla/ScrapeC): ScrapeC is a “mock” search engine, in the fact that it does a lot of what Bing, YouTube, and DuckDuckGo does, but instead of searching its own database it crawls and scrape these search engines and other websites. Along with return links, images, and videos of searches it also return PDFs, Social Media information (Facebook, Twitter, Google+), and Contact Information related to the links that it returns. On top of that ScrapeC also has the same features on a smaller scale for web addresses used as an input. Link: http://scrapec.pythonanywhere.com/
+* [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [hotchemi/Scre](https://github.com/hotchemi/Scre): A lightweight screen recorder macOS application written in SwiftUI.
 * [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity): The most powerful screen recorder & annotation tool for Chrome 🎥
 * [tombowditch/scripts](https://github.com/tombowditch/scripts): General Scripts
