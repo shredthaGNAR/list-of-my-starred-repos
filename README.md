@@ -368,6 +368,7 @@
 * [maizzle/example-gradients](https://github.com/maizzle/example-gradients): Use CSS background gradients in HTML emails, with VML fallback for Outlook.
 * [SoldierInFaith14/excel_automation](https://github.com/SoldierInFaith14/excel_automation): Python script that modifies Shopify spreadsheet exports of order details.
 * [KhashayarKhm/export-tabs-urls](https://github.com/KhashayarKhm/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+* [Zabakes/export-tabs-urls](https://github.com/Zabakes/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 * [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 * [presuku/exteditor-mailext](https://github.com/presuku/exteditor-mailext): A Thunderbird add-on for editing text in your favourite external editor!
 * [Pocket/extension-save-to-pocket](https://github.com/Pocket/extension-save-to-pocket): Save to Pocket is a browser extension that is used to save pages to a connected Pocket account
@@ -1023,6 +1024,7 @@
 * [neilalexander/seaglass](https://github.com/neilalexander/seaglass): A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 * [rominirani/Search-A-Profile](https://github.com/rominirani/Search-A-Profile): A Google Talk Bot that gives you details about a person from various Social Networks given an email address. Powered by Get Contact API
 * [dessant/search-by-image](https://github.com/dessant/search-by-image): Browser extension for reverse image search, available for Chrome, Edge and Safari
+* [YoshifumiFuyuno/Search-from-Popup-or-ContextMenu](https://github.com/YoshifumiFuyuno/Search-from-Popup-or-ContextMenu): WebExtension
 * [electron0zero/search-google-in-private](https://github.com/electron0zero/search-google-in-private): Adds a Search Google in Private for in your context menu
 * [tusharahmmed/search-image](https://github.com/tusharahmmed/search-image): This is a Image Search Web Application in PHP.
 * [meanii/Search4](https://github.com/meanii/Search4): Search people on the Internet.
