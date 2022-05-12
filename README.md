@@ -283,6 +283,7 @@
 * [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights): None
 * [DanaMW/DanaMW.github.io](https://github.com/DanaMW/DanaMW.github.io): None
 * [mitchuman/danshari](https://github.com/mitchuman/danshari): A blank slate theme for Shopify 2.0
+* [m-khvoinitsky/dark-background-light-text-extension](https://github.com/m-khvoinitsky/dark-background-light-text-extension): Firefox addon that turns every page colors into "light text on dark background"
 * [FilkCH/dark-filk-theme](https://github.com/FilkCH/dark-filk-theme): Visual Studio Code theme inspired by Monokai.
 * [fastaddons/Darko](https://github.com/fastaddons/Darko): None
 * [TechnicalWebAnalytics/dataLayer-shopify](https://github.com/TechnicalWebAnalytics/dataLayer-shopify): A dataLayer integration specific to extracting information from Shopify.
@@ -874,6 +875,7 @@
 * [bgebhardt/osx_scripts_folder](https://github.com/bgebhardt/osx_scripts_folder): My repository of miscellaneous AppleScripts I've written for OS X
 * [sveinbjornt/osxiconutils](https://github.com/sveinbjornt/osxiconutils): A suite of command line utilities for working with Mac icons
 * [vasi/osxutils](https://github.com/vasi/osxutils): Mac-specific command line utilities (UPDATES)
+* [CptFoobar/Owl](https://github.com/CptFoobar/Owl): A Mozilla Firefox add-on to make online reading comfortable.
 * [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer): PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give to the aplication a few pictures of the person of interest
 * [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups):  An add-on for Firefox that implements the old Tab Groups/Panorama functionality
 * [photodiode/panorama-view](https://github.com/photodiode/panorama-view): Add-on for Firefox letting you organize tabs and tab groups visually in one place
