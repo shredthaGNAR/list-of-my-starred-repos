@@ -177,6 +177,7 @@
 * [brackets-cont/brackets](https://github.com/brackets-cont/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
 * [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix): Brackets Utility Belt
 * [Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox): Firefox Stylesheet To Add Brave-Like Elements
+* [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
 * [brothersinvines/brothersinvines.github.io](https://github.com/brothersinvines/brothersinvines.github.io): None
 * [hoyang/browse-later](https://github.com/hoyang/browse-later): Browse later, a WebExtensions add-on.
 * [EnderDev/browser-chrome-experiment](https://github.com/EnderDev/browser-chrome-experiment): None
