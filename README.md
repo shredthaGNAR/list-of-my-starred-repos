@@ -652,6 +652,7 @@
 * [MrOtherGuy/js-modules](https://github.com/MrOtherGuy/js-modules): None
 * [criblio/js2bin](https://github.com/criblio/js2bin): NodeJS application to native executable
 * [kucherenko/jscpd](https://github.com/kucherenko/jscpd): Copy/paste detector for programming source code.
+* [jsdom/jsdom](https://github.com/jsdom/jsdom): A JavaScript implementation of various web standards, for use with Node.js
 * [RealRaven2000/JunQuilla](https://github.com/RealRaven2000/JunQuilla): Adopted Thunderbird Add-on from Kent James - adds column with percent likelihood that a message is spam
 * [EragonJ/Kaku](https://github.com/EragonJ/Kaku): 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
 * [wulkano/Kap](https://github.com/wulkano/Kap): An open-source screen recorder built with web technology
@@ -755,6 +756,7 @@
 * [ryosama/mbox_spliter](https://github.com/ryosama/mbox_spliter): Split large mbox files (from hunderbird) into smaller one, class by year of the message
 * [lightward/mechanic-tasks](https://github.com/lightward/mechanic-tasks): Public task repository for Mechanic (https://mechanic.dev)
 * [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader): Media Downloader is a Qt/C++ front end to youtube-dl
+* [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited): A browser extension to read medium.com articles for free without membership.
 * [eclipsesource/megit](https://github.com/eclipsesource/megit): Standalone Git GUI based on EGit
 * [yousseb/meld](https://github.com/yousseb/meld): Meld for macOS
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser Extension to full-text search your browsing history & bookmarks.
@@ -1114,6 +1116,7 @@
 * [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 * [Automattic/simplenote-macos](https://github.com/Automattic/simplenote-macos): Simplenote for macOS
 * [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile): 📷 Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+* [screenbreak/SingleFile-dockerized](https://github.com/screenbreak/SingleFile-dockerized): SingleFile docker implementation providing access via CLI and WEB service
 * [david-littlefield/SingleFileMac](https://github.com/david-littlefield/SingleFileMac): A Mac application that uses the SingleFile repository.
 * [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ): Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file 
 * [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
