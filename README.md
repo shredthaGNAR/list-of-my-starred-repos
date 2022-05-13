@@ -47,6 +47,7 @@
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X.
+* [kkanzelmeyer/alfred](https://github.com/kkanzelmeyer/alfred): Raspberry pi webcam and motion sensor project
 * [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert): Convert between different units in Alfred
 * [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow): Alfred workflow to search google drive
 * [edgarjs/alfred-github-repos](https://github.com/edgarjs/alfred-github-repos): Alfred workflow to easily open Github repositories
@@ -288,6 +289,7 @@
 * [m-khvoinitsky/dark-background-light-text-extension](https://github.com/m-khvoinitsky/dark-background-light-text-extension): Firefox addon that turns every page colors into "light text on dark background"
 * [FilkCH/dark-filk-theme](https://github.com/FilkCH/dark-filk-theme): Visual Studio Code theme inspired by Monokai.
 * [fastaddons/Darko](https://github.com/fastaddons/Darko): None
+* [darkreader/darkreader](https://github.com/darkreader/darkreader): Dark Reader Chrome and Firefox extension
 * [TechnicalWebAnalytics/dataLayer-shopify](https://github.com/TechnicalWebAnalytics/dataLayer-shopify): A dataLayer integration specific to extracting information from Shopify.
 * [Shopify/dawn](https://github.com/Shopify/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 * [WynStaXxx/dawn](https://github.com/WynStaXxx/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
@@ -1041,6 +1043,7 @@
 * [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 * [mirceapiturca/Sections](https://github.com/mirceapiturca/Sections): Shopify sections for everyone. Tooltips, FAQ, Quiz, and App Performance
 * [larsow/SecurityCamera](https://github.com/larsow/SecurityCamera): Android Security Camera App
+* [rak3n/SecuritySttream](https://github.com/rak3n/SecuritySttream): an Alfred Camera like solution for motion detection and streaming based on react-native
 * [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 * [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync): SessionSync
 * [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird): A universal dark theme for Thunderbird
