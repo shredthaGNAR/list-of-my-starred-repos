@@ -52,6 +52,7 @@
 * [edgarjs/alfred-github-repos](https://github.com/edgarjs/alfred-github-repos): Alfred workflow to easily open Github repositories
 * [otherguy/alfred-passwords-workflow](https://github.com/otherguy/alfred-passwords-workflow): An Alfred 4 workflow that allows you to quickly generate strong passwords.
 * [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket): Manage your Pocket list with Alfred
+* [cj1128/alfred-qrcode-workflow](https://github.com/cj1128/alfred-qrcode-workflow): 🎉 Generate/Scan QR Code on the fly
 * [deanishe/alfred-smartfolders](https://github.com/deanishe/alfred-smartfolders): Quick access to your Smart Folders (Saved Searches) from Alfred
 * [chrismessina/alfred-theme-chirp](https://github.com/chrismessina/alfred-theme-chirp): Themes inspired by Twitter's new font, Chirp
 * [xilopaint/alfred-things](https://github.com/xilopaint/alfred-things): Interact with Things 3 using Alfred.
