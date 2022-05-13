@@ -368,6 +368,7 @@
 * [Sav22999/emoji](https://github.com/Sav22999/emoji): "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 * [mganss/EmojiAddIn](https://github.com/mganss/EmojiAddIn): Emoji for Outlook and Thunderbird
 * [hrai/english-popup-thesaurus](https://github.com/hrai/english-popup-thesaurus): Thesaurus firefox add-on.
+* [bitgapp/eqMac](https://github.com/bitgapp/eqMac): macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 * [rlxone/Equinox](https://github.com/rlxone/Equinox): 🌇 🌃  Create dynamic wallpapers for macOS.
 * [gao-sun/eul](https://github.com/gao-sun/eul): 🖥️ macOS status monitoring app written in SwiftUI.
 * [maizzle/example-gradients](https://github.com/maizzle/example-gradients): Use CSS background gradients in HTML emails, with VML fallback for Outlook.
