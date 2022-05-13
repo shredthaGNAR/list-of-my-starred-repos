@@ -794,6 +794,7 @@
 * [rshev/MoveTabToNextWindow](https://github.com/rshev/MoveTabToNextWindow): Move tab to next window browser context menu/button extension
 * [TwisterMc/moz-mac](https://github.com/TwisterMc/moz-mac): Translucent Mac Firefox Theme
 * [4ch1m/mozext](https://github.com/4ch1m/mozext): Extensions / Add-Ons for Mozilla Firefox and Mozilla Thunderbird
+* [serj-kzv/mozlz4-edit](https://github.com/serj-kzv/mozlz4-edit): None
 * [balvin-perrie/mp3-converter](https://github.com/balvin-perrie/mp3-converter): a pure JS mp3 encoder for Chrome and Firefox browser
 * [mpdf/mpdf](https://github.com/mpdf/mpdf): PHP library generating PDF files from UTF-8 encoded HTML
 * [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
