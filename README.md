@@ -106,6 +106,7 @@
 * [ede1998/autoarchive](https://github.com/ede1998/autoarchive): Add an archiving button to thunderbird.
 * [withfig/autocomplete](https://github.com/withfig/autocomplete): Fig adds autocomplete to your terminal.
 * [PrinceBalabis/Automator](https://github.com/PrinceBalabis/Automator): Various Automator and AppleScript workflow and scripts for simplifying life
+* [moosethegoose2213/automator-for-barrykn-micropatcher](https://github.com/moosethegoose2213/automator-for-barrykn-micropatcher): Automator for the BarryKN Micropatcher
 * [lawrenceting/Automator-Services-and-Workflows](https://github.com/lawrenceting/Automator-Services-and-Workflows): Automator Services and Workflows
 * [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows): A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 and 7 Actions
 * [yeutterg/automator-workflows](https://github.com/yeutterg/automator-workflows): MacOS Automator Workflows for PDFs, images, and more
