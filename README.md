@@ -214,6 +214,7 @@
 * [sindresorhus/caprine](https://github.com/sindresorhus/caprine): Elegant Facebook Messenger desktop app
 * [Vonng/Capslock](https://github.com/Vonng/Capslock): Make Capslock Great Again!
 * [suliveevil/Capslock](https://github.com/suliveevil/Capslock): ultimate macOS keyboard re-mapping
+* [jacklukem/CatalinaOTAswufix](https://github.com/jacklukem/CatalinaOTAswufix): None
 * [cerpow/catapult](https://github.com/cerpow/catapult): Access your workspace on the fly.
 * [quiteconfused/CatImageInfo](https://github.com/quiteconfused/CatImageInfo): Image Recognition through known Social Media also known as "Search by Image or Google Goggles". Tools to dynamically identify and rename images based on image content in a directory or in a tcpdump'ish fashion
 * [unixpickle/cbyge](https://github.com/unixpickle/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
@@ -1319,6 +1320,7 @@
 * [p1usminus/undoclosetabreplacement](https://github.com/p1usminus/undoclosetabreplacement): Updated for FF78+
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
 * [alfredapp/updated-third-party-python2-workflows](https://github.com/alfredapp/updated-third-party-python2-workflows): Third-party Python 2 Workflows updated to work on macOS Monterey 12.3 and above
+* [jacklukem/USBOpenCoreAPFSloader](https://github.com/jacklukem/USBOpenCoreAPFSloader): None
 * [TrollSkull/uScanner](https://github.com/TrollSkull/uScanner): uScanner is a tool to find usernames on various pages throughout the entire internet.
 * [gglukmann/use-google-sheets](https://github.com/gglukmann/use-google-sheets): 📝 A React Hook for getting data from Google Sheets API v4
 * [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io): Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
