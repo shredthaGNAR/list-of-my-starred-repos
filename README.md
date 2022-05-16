@@ -1292,7 +1292,6 @@
 * [erickok/transdroid-search](https://github.com/erickok/transdroid-search): Cross-app torrent search results provider for Android
 * [cheems/transfer-between-drives](https://github.com/cheems/transfer-between-drives): This is a Google Colab notebook for transferring files/folders between drives from different Google accounts
 * [pjialin/TranslucentFox](https://github.com/pjialin/TranslucentFox): 🤭 Translucent UI for Firefox
-* [jy1263/Transparent-Firefox-and-Thunderbird-](https://github.com/jy1263/Transparent-Firefox-and-Thunderbird-): A theme for Firefox and Thunderbird completly transparent
 * [jofpin/trape](https://github.com/jofpin/trape): People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 * [piroor/treestyletab](https://github.com/piroor/treestyletab): Tree Style Tab, Show tabs like a tree.
 * [Xinkai/TreeStyleTabCompanion.uc.js](https://github.com/Xinkai/TreeStyleTabCompanion.uc.js): A Firefox userChrome.js for hiding the native tab bar when a sidebar tab manager is active
