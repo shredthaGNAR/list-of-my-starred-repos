@@ -164,7 +164,6 @@
 * [TheBi11iona1re/BlurFox-CSS-for-Mac](https://github.com/TheBi11iona1re/BlurFox-CSS-for-Mac): Update  to manilarome's Blur Fox for mac only
 * [dwarvesf/blurred](https://github.com/dwarvesf/blurred): A macOS utility that helps reduce distraction by dimming your inactive noise
 * [manilarome/blurredfox](https://github.com/manilarome/blurredfox): A sleek, modern and elegant Firefox CSS theme
-* [Frankly-BmAn/Bo-Tab](https://github.com/Frankly-BmAn/Bo-Tab): :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
 * [MrOtherGuy/bookmark-batch-updater](https://github.com/MrOtherGuy/bookmark-batch-updater): A webextension tool to update multiple bookmarks at once
 * [Rob--W/bookmark-container-tab](https://github.com/Rob--W/bookmark-container-tab): Firefox add-on to add "Open in Container Tab" menu item to bookmark menus
 * [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2): Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymore in latest Firefox, and which was very useful.
