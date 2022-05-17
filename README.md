@@ -499,6 +499,7 @@
 * [bnpoirier/foxify](https://github.com/bnpoirier/foxify): Converts Chrome extensions to Firefox
 * [marklieberman/foxygestures](https://github.com/marklieberman/foxygestures): Mouse gestures for Firefox
 * [prabunagrajan/free-design-resources](https://github.com/prabunagrajan/free-design-resources): A collection of websites for free UI design materials for Sketch, Adobe XD, Figma, and other design tools.
+* [LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks): Freely bookmark export tool. 自由地书签导出工具。
 * [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube): An Open Source YouTube app for privacy
 * [tortious/FrozenFox](https://github.com/tortious/FrozenFox): A personal hodgepodge of css and js hacks to firefox that I personally enjoy. Strong emphasis on a blend of minimalism and functionality.
 * [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX): A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
@@ -1030,6 +1031,7 @@
 * [hiroshil/save-tabs](https://github.com/hiroshil/save-tabs): Firefox Add-on to Save, copy and reload later Tab URLs along with titles. WebExtension-format Addon.
 * [mnba/save-tabs](https://github.com/mnba/save-tabs): Firefox Add-on to Save, copy and reload later Tab URLs along with titles. WebExtension-format Addon. Install it from here: https://addons.mozilla.org/en-US/firefox/addon/save-tab-urls/
 * [nbeaver/save-tabs-as-html](https://github.com/nbeaver/save-tabs-as-html): Webextension to save the title and URLs of open tabs as an HTML file.
+* [Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc](https://github.com/Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc): Browser addon for FireFox & Chrome to save active tabs as Markdown
 * [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine): Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
 * [117649/SavedPasswordEditorRedux](https://github.com/117649/SavedPasswordEditorRedux): Not Gecko, application to allow creating and editing saved passwords 
 * [mdreier/savetabs](https://github.com/mdreier/savetabs): Save current tabs extension for Firefox
