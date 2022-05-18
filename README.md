@@ -123,6 +123,8 @@
 * [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon): awesome configuration for Hammerspoon.
 * [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant): A curated list of amazingly awesome Home Assistant resources.
 * [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech): Promoting Solutions that Improve Wellbeing, Freedom and Society
+* [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons): A curated list of awesome downloadable SVG/PNG/Font icon projects
+* [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons): A curated list of awesome Web Font Icons
 * [Cyanhall/awesome-javascript](https://github.com/Cyanhall/awesome-javascript): Better Awesome JavaScript List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
 * [kot-behemoth/awesome-joplin](https://github.com/kot-behemoth/awesome-joplin): 📒 A curated list of awesome Joplin themes and tools.
 * [HoMeCracKeR/awesome-mac](https://github.com/HoMeCracKeR/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -610,6 +612,7 @@
 * [vector-im/hydrogen-web](https://github.com/vector-im/hydrogen-web): Lightweight matrix client with legacy and mobile browser support
 * [penance316/hyper-dark-vibrancy](https://github.com/penance316/hyper-dark-vibrancy): A demo theme for hyperterm to demonstrate the vibrancy effect on macOS
 * [potsky/iajai-email-signature](https://github.com/potsky/iajai-email-signature): None
+* [jenstornell/icon-flood](https://github.com/jenstornell/icon-flood): Hand picked SVG icon packs with at least 200 icons
 * [onmyway133/IconGenerator](https://github.com/onmyway133/IconGenerator): 🍱 A macOS app to generate app icons
 * [raphaelhanneken/iconizer](https://github.com/raphaelhanneken/iconizer): Create Xcode asset catalogs swift and painless. Generate images for macOS and iOS app icons, launch images and image sets.
 * [lucaburgio/iconoir](https://github.com/lucaburgio/iconoir): A Simple and Definitive Open-Source Icons Library
@@ -909,6 +912,7 @@
 * [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix): Phoenix is a modern open-source IDE for the web, built for the browser. 
 * [garrow/phoenix-configurations](https://github.com/garrow/phoenix-configurations): My custom configurations for the Phoenix macOS window Manager, ( https://github.com/kasper/phoenix )
 * [FranklinDM/Phosphor](https://github.com/FranklinDM/Phosphor): Relive the monochrome screens of yesterday.
+* [phosphor-icons/phosphor-android](https://github.com/phosphor-icons/phosphor-android): An elegant and sophisticated line icon pack to declutter your home screen.
 * [DhruvRoy247/Photo-Trans](https://github.com/DhruvRoy247/Photo-Trans): Image Search Web Application
 * [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis): Bringing sexy curves back to Firefox Photon.
 * [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera): Android Camera that uses Enhanced image processing
@@ -1010,6 +1014,7 @@
 * [shroudedcode/refined-prime-video](https://github.com/shroudedcode/refined-prime-video): 🍿 ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video
 * [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX): ReFleX - Deep Image Recognition Bot
 * [mozilla/releases-comm-central](https://github.com/mozilla/releases-comm-central): EXPERIMENTAL - copy of comm-central for forking on github
+* [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon): Open source neutral style icon system
 * [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions): Spend less time on YouTube.
 * [xia4zhi3yun2/remove_commercial](https://github.com/xia4zhi3yun2/remove_commercial): remove commercial and detect logo in video
 * [eyalroz/removedupes](https://github.com/eyalroz/removedupes): Remove Duplicate Messages
@@ -1201,6 +1206,7 @@
 * [jonschlinkert/sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended): Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
 * [universalbyte/Superfox](https://github.com/universalbyte/Superfox): Silence Firefox from contacting MOZILLA , GOOGLE and other Servers. 600+ privacy features + userChrome.css file.
 * [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys): Map your keys for web surfing, expand your browser with javascript and keyboard.
+* [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon): An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 * [iShopifyExpert/swatches-color-settings-section](https://github.com/iShopifyExpert/swatches-color-settings-section): None
 * [WynStaXxx/SWBH-Impulse](https://github.com/WynStaXxx/SWBH-Impulse): SWBH Theme Export Impluse Theme
 * [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula): Sweet Dracula — A beautiful, darker - Dracula fork.
@@ -1220,6 +1226,7 @@
 * [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash): Firefox extension to save and restore tabs as bookmarks
 * [gmes78/tab_move](https://github.com/gmes78/tab_move): Firefox addon that lets you move a tab to the start or the end of the tab bar
 * [menhera-org/TabArray](https://github.com/menhera-org/TabArray): Chrome-like tab groups using isolated containers: The ultimate tab manager and groups for Firefox
+* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 1950 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * [jakob/TableTool](https://github.com/jakob/TableTool): A simple CSV editor for the Mac
 * [lbragile/TabMerger](https://github.com/lbragile/TabMerger): TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
 * [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
@@ -1410,6 +1417,7 @@
 * [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator): Chrome/Firefox extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others
 * [marcel-judth/Web_Shopify-Buy-Button-Demo](https://github.com/marcel-judth/Web_Shopify-Buy-Button-Demo): None
 * [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances): Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
+* [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs): A suite of polyfills supporting the HTML Web Components specs
 * [sblask/webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect): Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 * [tpamula/webextension-window-titler](https://github.com/tpamula/webextension-window-titler): Label your Firefox windows and profiles by modifying window title
 * [RoboMx/WebIDHunt](https://github.com/RoboMx/WebIDHunt): Client based app to get information about username availability from different important websites. This tool can be used by startups, tech enthusiast, and people who want to block particular username on important domains.
