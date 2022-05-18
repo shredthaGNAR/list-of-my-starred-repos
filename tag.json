@@ -2279,6 +2279,9 @@
     "home-assistant/core": [
         "Other"
     ],
+    "home-assistant/home-assistant.io": [
+        "Other"
+    ],
     "honestbleeps/Reddit-Enhancement-Suite": [
         "Other"
     ],
@@ -2640,6 +2643,9 @@
         "Other"
     ],
     "kkanzelmeyer/alfred": [
+        "Other"
+    ],
+    "klanchman/homebridge-logi-circle-controls": [
         "Other"
     ],
     "klaufel/awesome-design-systems": [

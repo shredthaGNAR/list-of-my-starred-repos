@@ -588,10 +588,12 @@
 * [agneevX/home-assistant](https://github.com/agneevX/home-assistant): Home Assistant lovelace layout and config
 * [cbrooker/home-assistant-cync](https://github.com/cbrooker/home-assistant-cync): Home Assistant Custom Integration for GE Cync (wifi) IoT Devices
 * [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar): Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
+* [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io): :blue_book: Home Assistant User documentation
 * [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 * [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade): A command line tool for upgrading every outdated app installed by Homebrew Cask
 * [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): 🍻 Default formulae for the missing package manager for macOS (or Linux)
 * [Shopify/homebrew-shopify](https://github.com/Shopify/homebrew-shopify): None
+* [klanchman/homebridge-logi-circle-controls](https://github.com/klanchman/homebridge-logi-circle-controls): Homebridge plugin for extended Logitech Circle camera controls
 * [danielmiessler/HoneyCredIPTracker](https://github.com/danielmiessler/HoneyCredIPTracker): Quick script to gather stats on incoming credentials and IPs for a honey listener.
 * [Aaron-P/HostnameTitleBar](https://github.com/Aaron-P/HostnameTitleBar): Adds the hostname of windows' active tab to the windows' title, e.g. for KeePass(X/XC).
 * [StevenBlack/hosts](https://github.com/StevenBlack/hosts): 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
