@@ -1454,7 +1454,7 @@
 * [execut/yii2-people-finder](https://github.com/execut/yii2-people-finder): Library for search peoples via social networks
 * [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl): Automated yt-dlp Docker image
 * [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
-* [xeniafiorenza/youtube-dl-alfred](https://github.com/xeniafiorenza/youtube-dl-alfred): Alfred workflow for quickly downloading YouTube videos using youtube-dl.
+* [xenosf/youtube-dl-alfred](https://github.com/xenosf/youtube-dl-alfred): Alfred workflow for quickly downloading YouTube videos using youtube-dl.
 * [akhilkedia/youtube-dl-firefox-addon](https://github.com/akhilkedia/youtube-dl-firefox-addon): Addon to download youtube videos from firefox using youtube-dl
 * [murrty/youtube-dl-gui](https://github.com/murrty/youtube-dl-gui): Download/Convert videos from websites without needing to learn command line
 * [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): A cross platform front-end GUI of the popular youtube-dl written in wxPython.
