@@ -181,7 +181,6 @@
 * [adobe/brackets](https://github.com/adobe/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
 * [brackets-cont/brackets](https://github.com/brackets-cont/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
 * [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix): Brackets Utility Belt
-* [Soft-Bred/Brave-Fox](https://github.com/Soft-Bred/Brave-Fox): Firefox Stylesheet To Add Brave-Like Elements
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
 * [brothersinvines/brothersinvines.github.io](https://github.com/brothersinvines/brothersinvines.github.io): None
 * [hoyang/browse-later](https://github.com/hoyang/browse-later): Browse later, a WebExtensions add-on.
@@ -490,7 +489,6 @@
 * [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css): A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and gradients for some depth.
 * [floccusaddon/floccus](https://github.com/floccusaddon/floccus): :cloud: Sync your bookmarks privately across browsers and devices
 * [d2phap/fluent-reveal-effect](https://github.com/d2phap/fluent-reveal-effect): Fluent Reveal Effect JavaScript library for web
-* [YuvanMichael/fluentfox](https://github.com/YuvanMichael/fluentfox): A combination of FluentDotFox, Firefox-91plus-photon-userchrome-master and Firefox UWP style! The goal is to make an exact replica of Microsoft Edge™ Legacy in Mozilla Firefox. I'm not a developer, I usually report issues... But I wanted a Fluent style Firefox for everyone to use. So, I created this repository. 🙂️ 
 * [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet): Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows.
 * [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox): An opinionated set of configurations for firefox.
 * [avindra/fndr](https://github.com/avindra/fndr): An Internet helper to wrangle multiple search providers, extract social media ids, perform reverse image search and more.
