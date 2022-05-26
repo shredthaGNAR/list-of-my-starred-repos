@@ -222,6 +222,7 @@
 * [nikshriv/cbyge](https://github.com/nikshriv/cbyge): Reverse engineering C by GE WiFi devices
 * [robaston9/cbyge](https://github.com/robaston9/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
 * [unixpickle/cbyge](https://github.com/unixpickle/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
+* [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt): None
 * [chriswayg/CC-Offline-Package-Generator](https://github.com/chriswayg/CC-Offline-Package-Generator): Adobe CC 2018 to 2022 Direct Download and Offline Installer Package Generator 
 * [cc-archive/ccsearch-browser-extension](https://github.com/cc-archive/ccsearch-browser-extension): [PROJECT TRANSFERRED] Cross-Browser extension to search, filter and use images in the public domain and under Creative Commons licenses.
 * [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper): Kills Adobe's pesky background apps, and more!
