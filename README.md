@@ -218,6 +218,9 @@
 * [jacklukem/CatalinaOTAswufix](https://github.com/jacklukem/CatalinaOTAswufix): None
 * [cerpow/catapult](https://github.com/cerpow/catapult): Access your workspace on the fly.
 * [quiteconfused/CatImageInfo](https://github.com/quiteconfused/CatImageInfo): Image Recognition through known Social Media also known as "Search by Image or Google Goggles". Tools to dynamically identify and rename images based on image content in a directory or in a tcpdump'ish fashion
+* [CaptainN/cbyge](https://github.com/CaptainN/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
+* [nikshriv/cbyge](https://github.com/nikshriv/cbyge): Reverse engineering C by GE WiFi devices
+* [robaston9/cbyge](https://github.com/robaston9/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
 * [unixpickle/cbyge](https://github.com/unixpickle/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
 * [chriswayg/CC-Offline-Package-Generator](https://github.com/chriswayg/CC-Offline-Package-Generator): Adobe CC 2018 to 2022 Direct Download and Offline Installer Package Generator 
 * [cc-archive/ccsearch-browser-extension](https://github.com/cc-archive/ccsearch-browser-extension): [PROJECT TRANSFERRED] Cross-Browser extension to search, filter and use images in the public domain and under Creative Commons licenses.
@@ -229,6 +232,7 @@
 * [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty): Adapted "Beautiful" Themes
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
+* [Taiga74164/ChecksumBypass-GenshinImpact](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact): Bypasses the checksum at login to allow modified files in official servers.
 * [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader): Chrome manifest loader for webpack
 * [Noitidart/Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified): Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites.
 * [matthewfallshaw/chrome-window-management-scripts](https://github.com/matthewfallshaw/chrome-window-management-scripts): Chrome window and tab management scripts
