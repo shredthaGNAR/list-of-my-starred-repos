@@ -114,7 +114,7 @@
 * [Josua996/AutoTag](https://github.com/Josua996/AutoTag): A Thunderbird Add-on that automatically tag emails based on the sender address 🤖🏷
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
-* [0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics): A curated list of analytics frameworks, software and other tools.
+* [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics): A curated list of analytics frameworks, software and other tools.
 * [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
 * [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css): :art: A curated contents of amazing CSS :)
 * [gztchan/awesome-design](https://github.com/gztchan/awesome-design): 🌟 Curated design resources from all over the world.
