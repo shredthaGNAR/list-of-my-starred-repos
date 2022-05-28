@@ -1850,6 +1850,9 @@
     "donnemartin/dev-setup": [
         "Other"
     ],
+    "donspablo/Google-Drive-Direct": [
+        "Other"
+    ],
     "dosdude1/macos-catalina-patcher": [
         "Other"
     ],
@@ -4224,9 +4227,6 @@
         "Other"
     ],
     "weakish/gister": [
-        "Other"
-    ],
-    "web3pablo/Google-Drive-Direct": [
         "Other"
     ],
     "webcomponents/webcomponentsjs": [
