@@ -607,6 +607,7 @@
 * [StevenBlack/hosts](https://github.com/StevenBlack/hosts): 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 * [specialunderwear/Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane): a Cocoa GUI for /etc/hosts
 * [soffes/HotKey](https://github.com/soffes/HotKey): Simple global shortcuts in macOS
+* [muhamaddarulhadi/Hotspot](https://github.com/muhamaddarulhadi/Hotspot): Change hop limit on windows to bypass the hotspot from mobile provider to use other source of mobile data 
 * [IanLunn/Hover](https://github.com/IanLunn/Hover): A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 * [iShopifyExpert/How-To-Show-Percentage-Discount-Saved-on-Shopify](https://github.com/iShopifyExpert/How-To-Show-Percentage-Discount-Saved-on-Shopify): How To Show Percentage Discount Saved on Shopify
 * [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -982,6 +983,7 @@
 * [Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird](https://github.com/Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird): Thunderbird plugin to show E2E-encryption status for ProtonMail Bridge emails.
 * [marpies/protonmail-macos](https://github.com/marpies/protonmail-macos): Experimental email client for the ProtonMail service written in Swift.
 * [bpwned/protovibrant](https://github.com/bpwned/protovibrant): None
+* [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox): Pseudo-fullscreen Firefox and YouTube
 * [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam): Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
