@@ -175,6 +175,7 @@
 * [codeverland/bookmarks](https://github.com/codeverland/bookmarks): :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land 
 * [brian-girko/bookmarks-commander](https://github.com/brian-girko/bookmarks-commander): A two-panel bookmarks manager which is similar to the well-known Total Commander.
 * [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer): With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
+* [mabdelaal86/bookmarks_gkeep](https://github.com/mabdelaal86/bookmarks_gkeep): Copy bookmarks from Google Keep into Pocket/Instapaper
 * [Maxvien/bootstrap-shopify-theme](https://github.com/Maxvien/bootstrap-shopify-theme): 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
 * [dreadnaut/bordercolors-d](https://github.com/dreadnaut/bordercolors-d): A Thunderbird add-on to color-code the compose window based on the selected identity.
 * [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css):  :pisces: A cross-browser collection of CSS box-shadows
@@ -937,9 +938,11 @@
 * [joplin/plugins](https://github.com/joplin/plugins): Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues
 * [withfig/plugins](https://github.com/withfig/plugins): Plugin store for zsh, bash & fish.
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
+* [knowfox/pocket](https://github.com/knowfox/pocket): Knowfox: Retrieve bookmarks from getpocket.com
 * [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin): 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
 * [turadg/pocket-ruby](https://github.com/turadg/pocket-ruby): Ruby wrapper for the Pocket REST and Search APIs
 * [ShockwaveNN/pocket-sinatra-interface](https://github.com/ShockwaveNN/pocket-sinatra-interface): Sinatra-based web interface for pocket api
+* [tadeussenf/pocket-wiki](https://github.com/tadeussenf/pocket-wiki): Alternative User Interface for getpocket.com
 * [lobre/pocket2notion](https://github.com/lobre/pocket2notion): Tool for migrating Pocket items to Notion
 * [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer): Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 * [ruipgil/pocketmark](https://github.com/ruipgil/pocketmark): From pocket to chrome bookmarks
@@ -1030,6 +1033,7 @@
 * [jeevatkm/ReplyWithHeaderMozilla](https://github.com/jeevatkm/ReplyWithHeaderMozilla): Outlook style headers and few goodies for Thunderbird & Postbox.
 * [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature): ✨ Template generator for (responsive) emails & email signatures 
 * [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS): userChromeJS scripts to restore Firefox features that have been removed or changed
+* [briangershon/retrieve-pocket-bookmarks](https://github.com/briangershon/retrieve-pocket-bookmarks): Retrieves your bookmarks and meta data from Pocket API (via https://getpocket.com/developer/docs/v3/retrieve)
 * [mariia-nam/reviews-collage](https://github.com/mariia-nam/reviews-collage): Shopify Section with customers reviews.
 * [timonus/Rhea](https://github.com/timonus/Rhea): A Mac status bar app for quickly sharing files and links.
 * [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close): Firefox close tab by right clicking on tab button ,userchrome script 🖱️
