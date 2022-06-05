@@ -385,7 +385,6 @@
 * [bitgapp/eqMac](https://github.com/bitgapp/eqMac): macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 * [rlxone/Equinox](https://github.com/rlxone/Equinox): 🌇 🌃  Create dynamic wallpapers for macOS.
 * [gao-sun/eul](https://github.com/gao-sun/eul): 🖥️ macOS status monitoring app written in SwiftUI.
-* [maizzle/example-gradients](https://github.com/maizzle/example-gradients): Use CSS background gradients in HTML emails, with VML fallback for Outlook.
 * [SoldierInFaith14/excel_automation](https://github.com/SoldierInFaith14/excel_automation): Python script that modifies Shopify spreadsheet exports of order details.
 * [KhashayarKhm/export-tabs-urls](https://github.com/KhashayarKhm/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 * [Zabakes/export-tabs-urls](https://github.com/Zabakes/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
@@ -1213,6 +1212,7 @@
 * [sagars007/starry-fox](https://github.com/sagars007/starry-fox): Firefox css stylesheets for the dark space theme. Matching more UI elements with the theme.
 * [Thomashighbaugh/stars](https://github.com/Thomashighbaugh/stars): A curated list of my GitHub stars!
 * [ccat3z/stars](https://github.com/ccat3z/stars): A simple tool for creating your own awesome list
+* [maizzle/starter-gradients](https://github.com/maizzle/starter-gradients): Use CSS background gradients in HTML emails, with VML fallback for Outlook.
 * [darekkay/static-marks](https://github.com/darekkay/static-marks): Shareable bookmarks
 * [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app): Frontend part of the Static Marks project
 * [WynStaXxx/static-marks-docker](https://github.com/WynStaXxx/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
