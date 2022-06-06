@@ -1163,7 +1163,7 @@
 * [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups): Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 * [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 * [Automattic/simplenote-macos](https://github.com/Automattic/simplenote-macos): Simplenote for macOS
-* [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile): 📷 Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+* [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile): Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 * [screenbreak/SingleFile-dockerized](https://github.com/screenbreak/SingleFile-dockerized): SingleFile docker implementation providing access via CLI and WEB service
 * [david-littlefield/SingleFileMac](https://github.com/david-littlefield/SingleFileMac): A Mac application that uses the SingleFile repository.
 * [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ): Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file 
