@@ -1417,7 +1417,7 @@
 * [code0312/VSCode-Theme-Snazzy](https://github.com/code0312/VSCode-Theme-Snazzy): None
 * [phoihos/vscode-translate-it](https://github.com/phoihos/vscode-translate-it): Text/Comment Translator Extension for VS Code    https://marketplace.visualstudio.com/items?itemName=phoihos.translate-it
 * [EYHN/vscode-vibrancy](https://github.com/EYHN/vscode-vibrancy): Enable Acrylic/Glass effect for your VS Code.
-* [z0ccc/Vytal](https://github.com/z0ccc/Vytal): Protect your privacy by mocking your personal data.
+* [z0ccc/Vytal](https://github.com/z0ccc/Vytal): Protect your privacy by spoofing your personal data.
 * [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 * [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper): :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
 * [cheap-glitch/warpgate](https://github.com/cheap-glitch/warpgate): 💫 A lightweight browser extension to jump to various external bookmarks from the address bar.
