@@ -975,7 +975,7 @@
 * [Century300/powerlevel10k](https://github.com/Century300/powerlevel10k): fast install powerlevel10k theme
 * [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k): A Zsh theme
 * [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k): Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
-* [DanaMW/PowerShell-TuneUp](https://github.com/DanaMW/PowerShell-TuneUp): PowerShell Core scripts and snips for the learning curve.
+* [DanaMW/PowerShell-TuneUp](https://github.com/DanaMW/PowerShell-TuneUp): PowerShell scripts and snips for the learning curve.
 * [parkermuir/preflop-poker](https://github.com/parkermuir/preflop-poker): Python scripts to navigate Texas Hold 'Em and Pot Limit Omaha preflop decision trees ♠️♣️
 * [MozillaSecurity/prefpicker](https://github.com/MozillaSecurity/prefpicker): Manage & generate prefs.js files
 * [alkatrazstudio/prev-colors](https://github.com/alkatrazstudio/prev-colors): Thunderbird add-on for choosing one of the previously selected colors
