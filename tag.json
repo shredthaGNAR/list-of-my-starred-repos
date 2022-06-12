@@ -443,6 +443,12 @@
     "Infocatcher/Custom_Buttons": [
         "Other"
     ],
+    "Infocatcher/Right_Links": [
+        "Other"
+    ],
+    "Infocatcher/Right_Links_WE": [
+        "Other"
+    ],
     "Infocatcher/UserScripts": [
         "Other"
     ],
@@ -729,6 +735,9 @@
         "Other"
     ],
     "Pepitortue/FirefoxCSS-Safari-theme": [
+        "Other"
+    ],
+    "Peuj/duplicate-tabs-closer": [
         "Other"
     ],
     "PhilippMatthes/neural-greenscreen": [
