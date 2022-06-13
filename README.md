@@ -49,6 +49,7 @@
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X.
 * [kkanzelmeyer/alfred](https://github.com/kkanzelmeyer/alfred): Raspberry pi webcam and motion sensor project
+* [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection): A collection of all known Alfred3 workflows
 * [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert): Convert between different units in Alfred
 * [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow): Alfred workflow to search google drive
 * [edgarjs/alfred-github-repos](https://github.com/edgarjs/alfred-github-repos): Alfred workflow to easily open Github repositories
@@ -197,6 +198,7 @@
 * [andrewchidden/btt-controllers](https://github.com/andrewchidden/btt-controllers): Small controller scripts and utilities designed to work with BetterTouchTool.
 * [skydiver/btt-helper](https://github.com/skydiver/btt-helper): Helpers to improve your BetterTouchTool presets"
 * [theachoem/btt-mac](https://github.com/theachoem/btt-mac): Better Touch Tool Preset for Touchbar
+* [jlehrer1/BTT-Practical](https://github.com/jlehrer1/BTT-Practical): A BetterTouchTool preset focused on a clean, minimalistic design for those interested in hardware stats and essential developer tools. 
 * [PINPAL/btt-preset](https://github.com/PINPAL/btt-preset): BetterTouchTool Preset
 * [andrewchidden/btt-presets](https://github.com/andrewchidden/btt-presets): A robust BetterTouchTool preset for developer power users.
 * [ChrisPenner/btt-quicknav](https://github.com/ChrisPenner/btt-quicknav): HTML overlay for quickly navigating your computer
@@ -736,6 +738,7 @@
 * [robin/LYTabView](https://github.com/robin/LYTabView): A customized Mac OS X Tab View with modern tab bar style
 * [rgcr/m-cli](https://github.com/rgcr/m-cli):  Swiss Army Knife for macOS 
 * [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts): BTT presets, macros & scripts I use to make my life sometimes easier
+* [zhuochun/mac-keyboard](https://github.com/zhuochun/mac-keyboard): 🎹 Keyboard Enhancements for Mac
 * [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix): Mac Mouse Fix - A simple way to make your mouse better.
 * [maximbilan/Mac-OS-X-App-Menu-Bar-Popup](https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup): Mac OS X Application like a menu bar popup message
 * [anonymousaga/mac-passwords-app](https://github.com/anonymousaga/mac-passwords-app): An app that allows you to view keychain passwords with one click.
