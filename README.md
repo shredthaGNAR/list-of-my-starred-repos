@@ -416,6 +416,7 @@
 * [RealRaven2000/FiltaQuilla](https://github.com/RealRaven2000/FiltaQuilla): Adds many new mail filter actions to Thunderbird
 * [iShopifyExpert/find-my-size-shopify](https://github.com/iShopifyExpert/find-my-size-shopify): None
 * [liqing1993/Find-The-Person-You-Want-in-videos](https://github.com/liqing1993/Find-The-Person-You-Want-in-videos): This project is to build a image search system. 
+* [pointu-l/finder-basic-visor](https://github.com/pointu-l/finder-basic-visor): Basic AppleScript visor mode for the finder. Designed for better touch tool
 * [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode): Free monospaced font with programming ligatures
 * [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript): Mashup Font of FiraCode and Script12
@@ -734,6 +735,7 @@
 * [objective-see/LuLu](https://github.com/objective-see/LuLu): LuLu is the free macOS firewall
 * [robin/LYTabView](https://github.com/robin/LYTabView): A customized Mac OS X Tab View with modern tab bar style
 * [rgcr/m-cli](https://github.com/rgcr/m-cli):  Swiss Army Knife for macOS 
+* [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts): BTT presets, macros & scripts I use to make my life sometimes easier
 * [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix): Mac Mouse Fix - A simple way to make your mouse better.
 * [maximbilan/Mac-OS-X-App-Menu-Bar-Popup](https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup): Mac OS X Application like a menu bar popup message
 * [anonymousaga/mac-passwords-app](https://github.com/anonymousaga/mac-passwords-app): An app that allows you to view keychain passwords with one click.
@@ -832,6 +834,7 @@
 * [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers): Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 * [Javojav/Multi-engine-search](https://github.com/Javojav/Multi-engine-search): This Firefox extension allows you to use multiple of your installed search engines at once.
 * [wantora/multiple-paste-and-go-button](https://github.com/wantora/multiple-paste-and-go-button): This add-on provides a button to open multiple URLs from clipboard.
+* [rxhanson/Multitouch-Community](https://github.com/rxhanson/Multitouch-Community): Issue and feature request tracking for the Multitouch app
 * [Noisy96/my-email-signature](https://github.com/Noisy96/my-email-signature): Email signature
 * [Minibus93/my-firefox-setup](https://github.com/Minibus93/my-firefox-setup): My firefox setup - this is sewn on me, so YMMV
 * [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme): My Joplin App userstyle and userchrome theme style.
