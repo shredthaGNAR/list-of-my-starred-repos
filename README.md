@@ -714,6 +714,7 @@
 * [spikecodes/libreddit](https://github.com/spikecodes/libreddit): Private front-end for Reddit
 * [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
 * [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): LinearMouse is a free and open-source utility for macOS which aims to improve the experience and functionality of third-party mice.
+* [ddawson/Link-Tools](https://github.com/ddawson/Link-Tools): Configurable copy and visit operations for links in Firefox
 * [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook): Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more. 
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
 * [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core): A JavaScript library for linkification stuff. Used by linkify-plus-plus.
