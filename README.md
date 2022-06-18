@@ -807,6 +807,7 @@
 * [alexta69/metube](https://github.com/alexta69/metube): youtube-dl web UI
 * [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 * [artginzburg/MiddleClick-BigSur](https://github.com/artginzburg/MiddleClick-BigSur):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
+* [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard): Сustom color schemes for all websites
 * [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox): A minimal, yet functional Firefox userChrome configuration.
 * [tortious/MintyFox](https://github.com/tortious/MintyFox): Customization of Firefox Quantum using userChrome, userContent, and various other files involving the userChrome.js hack that allows for uc.js docs to be incorporated. 
 * [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager): Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX
