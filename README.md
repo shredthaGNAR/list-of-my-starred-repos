@@ -538,6 +538,7 @@
 * [danielmiessler/GeoHarvest](https://github.com/danielmiessler/GeoHarvest): A simple script for translating IP addresses to GeoLocations
 * [danielmiessler/geoip](https://github.com/danielmiessler/geoip): A Ruby script that takes in IPs and returns Country, State, and City
 * [marchyman/GeoTag](https://github.com/marchyman/GeoTag): Image geo location editing for macOS 10.13 and later.  Available on the Mac App store (free).  Instructions and a .dmg of the current version are on the application home page ==>
+* [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy): Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
 * [finia2NA/getter](https://github.com/finia2NA/getter): A multi-workflow YouTube downloader
 * [RaKeerS/Gif-Finder](https://github.com/RaKeerS/Gif-Finder): This is a web app created to be utilized in order to fetch the Gif Images from the Giphy Images Repository. It offer different categories and also a custom search tool in order to find what you exactly need! 
@@ -1238,6 +1239,7 @@
 * [openstyles/stylus](https://github.com/openstyles/stylus): Stylus - Userstyles Manager
 * [jonschlinkert/sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended): Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
 * [universalbyte/Superfox](https://github.com/universalbyte/Superfox): Silence Firefox from contacting MOZILLA , GOOGLE and other Servers. 600+ privacy features + userChrome.css file.
+* [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
 * [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys): Map your keys for web surfing, expand your browser with javascript and keyboard.
 * [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon): An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 * [iShopifyExpert/swatches-color-settings-section](https://github.com/iShopifyExpert/swatches-color-settings-section): None
