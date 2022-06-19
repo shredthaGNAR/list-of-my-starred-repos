@@ -797,6 +797,7 @@
 * [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader): Media Downloader is a Qt/C++ front end to youtube-dl
 * [tillig/mediacenter](https://github.com/tillig/mediacenter): Documentation/info on my media center setup.
 * [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited): A browser extension to read medium.com articles for free without membership.
+* [und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker): Read Medium content without limit!
 * [eclipsesource/megit](https://github.com/eclipsesource/megit): Standalone Git GUI based on EGit
 * [yousseb/meld](https://github.com/yousseb/meld): Meld for macOS
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser Extension to full-text search your browsing history & bookmarks.
