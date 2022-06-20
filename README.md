@@ -783,6 +783,7 @@
 * [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 * [peci1/mailing-list-filter](https://github.com/peci1/mailing-list-filter): Thunderbird mail filter search term using mailing lists (and not whole addressbooks).
 * [mangtronix/MangTouchBar](https://github.com/mangtronix/MangTouchBar): Minimalist Touch Bar setup
+* [AbhishekKalavadiya/maper](https://github.com/AbhishekKalavadiya/maper): A location-based website using React as Frontend and NodeJs, ExpressJS as backend, and MongoDB as Database. On this website, I had use MapBox for the world map and React-Mapbox-gl for configuration. We can select the place where we had visited and added the photo URL, so the entry will be seen on the map and in the visited place area. We can delete or modify the changes in the Entry we had created. It is a responsive website with live location of a point on the map. The Backend is deployed on Heroku and the frontend is deployed on Netlify.
 * [trambarhq/mark-gor](https://github.com/trambarhq/mark-gor): A markdown parser for React/Preact
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [soxoj/marple](https://github.com/soxoj/marple): 📖 Collect links to profiles by username through search engines and analyze with various plugins
@@ -1108,6 +1109,7 @@
 * [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird): A universal dark theme for Thunderbird
 * [shahasad78/shahdevthemecourse2-0](https://github.com/shahasad78/shahdevthemecourse2-0): None
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks
+* [FH-Potsdam/shifted-maps](https://github.com/FH-Potsdam/shifted-maps): Shifted Maps visualizes personal movement data as a network of map extracts showing visited places.
 * [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt): Managing windows size and position in OSX
 * [TheUmslopogaas/shipping_bar-shopify](https://github.com/TheUmslopogaas/shipping_bar-shopify): Created a custom shipping bar / moneyspent bar for shopify store. (Turbo Theme)
 * [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku): Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
@@ -1415,6 +1417,7 @@
 * [bijij/ViewImage](https://github.com/bijij/ViewImage): Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 * [FunkyMuse/Vigilante](https://github.com/FunkyMuse/Vigilante): 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM architecture.
 * [Tusko/vimeo-private-downloader](https://github.com/Tusko/vimeo-private-downloader): Script gets you access to download private videos on Vimeo
+* [sanderdebr/visited-places-api](https://github.com/sanderdebr/visited-places-api): Full-stack App - user generated map of visited places. Where have you been to?
 * [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda): A VS Code theme
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
 * [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks): Bookmarks Extension for Visual Studio Code
