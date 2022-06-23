@@ -1304,7 +1304,7 @@
 * [dracula/thunderbird](https://github.com/dracula/thunderbird): 🧛🏻‍♂️ Dark theme for Thunderbird
 * [justreportit/thunderbird](https://github.com/justreportit/thunderbird): Thunderbird plugin.
 * [metux/thunderbird](https://github.com/metux/thunderbird): None
-* [sms77io/thunderbird](https://github.com/sms77io/thunderbird): Send SMS from within Thunderbird
+* [seven-io/thunderbird](https://github.com/seven-io/thunderbird): Send SMS from within Thunderbird
 * [metux/thunderbird-2](https://github.com/metux/thunderbird-2): thunderbird 2nd try ... v68.0
 * [kgraefe/thunderbird-autotag](https://github.com/kgraefe/thunderbird-autotag): Copy keywords from thread parent in Thunderbird
 * [ChooChooAl/Thunderbird-Chrome](https://github.com/ChooChooAl/Thunderbird-Chrome): Mozilla Thunderbird Email Client Chrome Folder used for theming the UI.
