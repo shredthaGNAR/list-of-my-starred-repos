@@ -208,6 +208,7 @@
 * [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset): BetterTouchTool Window Manager Preset
 * [noonchen/BTT_MacUsage](https://github.com/noonchen/BTT_MacUsage): A BetterTouchTool preset that displays network speed (more to come...) on Touch Bar
 * [noonchen/BTT_NightShiftSlider](https://github.com/noonchen/BTT_NightShiftSlider): A BetterTouchTool widget to control Night Shift strength
+* [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener): Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 * [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh): :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 * [huynhr36/bundle-builder](https://github.com/huynhr36/bundle-builder): Looking to use the bundle builder on your Shopify site? Here's a sample code to utilize the app if you are looking to break down product variants as individual products.
 * [dessant/buster](https://github.com/dessant/buster): Captcha solver extension for humans
