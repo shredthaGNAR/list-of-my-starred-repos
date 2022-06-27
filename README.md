@@ -1306,6 +1306,7 @@
 * [themerdev/themer](https://github.com/themerdev/themer): 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 * [devmount/third-stats](https://github.com/devmount/third-stats): Thunderbird add-on turning your emails into beautifully visualized email account stats
 * [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
+* [mrdoob/three.js](https://github.com/mrdoob/three.js): JavaScript 3D Library.
 * [dracula/thunderbird](https://github.com/dracula/thunderbird): 🧛🏻‍♂️ Dark theme for Thunderbird
 * [justreportit/thunderbird](https://github.com/justreportit/thunderbird): Thunderbird plugin.
 * [metux/thunderbird](https://github.com/metux/thunderbird): None
