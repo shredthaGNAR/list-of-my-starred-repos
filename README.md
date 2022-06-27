@@ -325,7 +325,6 @@
 * [scriptingosx/desktoppr](https://github.com/scriptingosx/desktoppr): Simple command line tool to set the desktop picture on macOS
 * [TASEmulators/desmume](https://github.com/TASEmulators/desmume): DeSmuME is a Nintendo DS emulator
 * [WynStaXxx/dev-new](https://github.com/WynStaXxx/dev-new): None
-* [BVAccel/dev-sandbox](https://github.com/BVAccel/dev-sandbox): New Dev Training Repo
 * [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup): macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 * [thundernest/developer-docs](https://github.com/thundernest/developer-docs): Developer documentation for Thunderbird contributors.
 * [matomo-org/device-detector](https://github.com/matomo-org/device-detector): The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. 
