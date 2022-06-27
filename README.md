@@ -1376,6 +1376,7 @@
 * [pwn20wndstuff/Undecimus-Resources](https://github.com/pwn20wndstuff/Undecimus-Resources): None
 * [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu): Firefox webextension to add an undo closed tabs menu to tabs.
 * [p1usminus/undoclosetabreplacement](https://github.com/p1usminus/undoclosetabreplacement): Updated for FF78+
+* [LAX18/Unichat-Firefox-Extension](https://github.com/LAX18/Unichat-Firefox-Extension): The repo for the firefox port of the Unichat Chrome Extension
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
 * [alfredapp/updated-third-party-python2-workflows](https://github.com/alfredapp/updated-third-party-python2-workflows): Third-party Python 2 Workflows updated to work on macOS Monterey 12.3 and above
 * [jacklukem/USBOpenCoreAPFSloader](https://github.com/jacklukem/USBOpenCoreAPFSloader): None
