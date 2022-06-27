@@ -324,6 +324,7 @@
 * [chriskol/Desktop-Google-Keep-OSX](https://github.com/chriskol/Desktop-Google-Keep-OSX): A Super Simple Desktop Client for Mac OSX Built in Javascript and MacGap
 * [scriptingosx/desktoppr](https://github.com/scriptingosx/desktoppr): Simple command line tool to set the desktop picture on macOS
 * [TASEmulators/desmume](https://github.com/TASEmulators/desmume): DeSmuME is a Nintendo DS emulator
+* [WynStaXxx/dev-new](https://github.com/WynStaXxx/dev-new): None
 * [BVAccel/dev-sandbox](https://github.com/BVAccel/dev-sandbox): New Dev Training Repo
 * [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup): macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 * [thundernest/developer-docs](https://github.com/thundernest/developer-docs): Developer documentation for Thunderbird contributors.
@@ -395,6 +396,7 @@
 * [Zabakes/export-tabs-urls](https://github.com/Zabakes/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 * [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 * [presuku/exteditor-mailext](https://github.com/presuku/exteditor-mailext): A Thunderbird add-on for editing text in your favourite external editor!
+* [mkaply/extended_color_management](https://github.com/mkaply/extended_color_management): None
 * [Pocket/extension-save-to-pocket](https://github.com/Pocket/extension-save-to-pocket): Save to Pocket is a browser extension that is used to save pages to a connected Pocket account
 * [feller-prj/extractor-project](https://github.com/feller-prj/extractor-project): forked from iaextractor
 * [Raathigesh/fabulous](https://github.com/Raathigesh/fabulous): 🎨 CSS properties sidebar for VS Code
@@ -850,6 +852,7 @@
 * [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme): My Joplin App userstyle and userchrome theme style.
 * [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001): My filter lists - feel free to add these lists to uBlock Origin
 * [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): UI Email Signature Generator - Make easy to create your email signature
+* [WynStaXxx/mytheme](https://github.com/WynStaXxx/mytheme): firefox userchrome css theme
 * [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles): None
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1267,6 +1270,7 @@
 * [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash): Firefox extension to save and restore tabs as bookmarks
 * [gmes78/tab_move](https://github.com/gmes78/tab_move): Firefox addon that lets you move a tab to the start or the end of the tab bar
 * [menhera-org/TabArray](https://github.com/menhera-org/TabArray): Chrome-like tab groups using isolated containers: The ultimate tab manager and groups for Firefox
+* [Bill13579/tabby](https://github.com/Bill13579/tabby): A web extension for managing great amounts of windows and tabs at ease.
 * [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 1950 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * [jakob/TableTool](https://github.com/jakob/TableTool): A simple CSV editor for the Mac
 * [lbragile/TabMerger](https://github.com/lbragile/TabMerger): TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
@@ -1412,6 +1416,7 @@
 * [mi-g/vdhcoapp](https://github.com/mi-g/vdhcoapp): Companion application for Video DownloadHelper browser add-on
 * [Pravpro/Vibn-Central](https://github.com/Pravpro/Vibn-Central): An app being built with the goal of making Product Uploading exponentially faster for Shopify stores with one-off products.
 * [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme): I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
+* [wateroverdose/vibrantfox](https://github.com/wateroverdose/vibrantfox): a clean firefox userchrome
 * [fruiz500/VideoSkip-extension](https://github.com/fruiz500/VideoSkip-extension): Same as VideoSkip, but as a Chrome/Firefox/Edge extension so it can edit videos streaming from many sources
 * [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss): Vienna is a free and open-source RSS/Atom newsreader for macOS.
 * [plwt/View-Pocket-List](https://github.com/plwt/View-Pocket-List): None
