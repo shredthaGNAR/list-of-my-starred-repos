@@ -1190,7 +1190,7 @@
 * [screenbreak/SingleFile-dockerized](https://github.com/screenbreak/SingleFile-dockerized): SingleFile docker implementation providing access via CLI and WEB service
 * [david-littlefield/SingleFileMac](https://github.com/david-littlefield/SingleFileMac): A Mac application that uses the SingleFile repository.
 * [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ): Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file 
-* [idbakkasse/skeleton](https://github.com/idbakkasse/skeleton): Skeleton is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind.. 
+* [blanklob/skeleton](https://github.com/blanklob/skeleton): Skeleton is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind.. 
 * [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
 * [WynStaXxx/skip-prime-video-intro](https://github.com/WynStaXxx/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
 * [jonashellmann/skip-prime-video-intro](https://github.com/jonashellmann/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
