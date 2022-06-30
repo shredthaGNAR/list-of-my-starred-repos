@@ -224,6 +224,7 @@
 * [sindresorhus/caprine](https://github.com/sindresorhus/caprine): Elegant Facebook Messenger desktop app
 * [Vonng/Capslock](https://github.com/Vonng/Capslock): Make Capslock Great Again!
 * [suliveevil/Capslock](https://github.com/suliveevil/Capslock): ultimate macOS keyboard re-mapping
+* [miozus/CapslockMagic](https://github.com/miozus/CapslockMagic): Make Capslock Great Three! 
 * [jacklukem/CatalinaOTAswufix](https://github.com/jacklukem/CatalinaOTAswufix): None
 * [cerpow/catapult](https://github.com/cerpow/catapult): Access your workspace on the fly.
 * [quiteconfused/CatImageInfo](https://github.com/quiteconfused/CatImageInfo): Image Recognition through known Social Media also known as "Search by Image or Google Goggles". Tools to dynamically identify and rename images based on image content in a directory or in a tcpdump'ish fashion
