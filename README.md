@@ -466,6 +466,7 @@
 * [LRDN/firefox-proton-custom](https://github.com/LRDN/firefox-proton-custom): Firefox default theme customization that replaces the floating tabs with a more conventional, cleaner interface.
 * [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square): Makes Firefox Proton UI square again
 * [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
+* [nuchi/firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs): **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
 * [intrnl/firefox-revert-proton](https://github.com/intrnl/firefox-revert-proton): Revert Firefox Proton to Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -499,6 +500,7 @@
 * [sdavidg/firefoxChromeScripts](https://github.com/sdavidg/firefoxChromeScripts): None
 * [guidoevers/firefoxcss](https://github.com/guidoevers/firefoxcss): transparancy
 * [Pepitortue/FirefoxCSS-Safari-theme](https://github.com/Pepitortue/FirefoxCSS-Safari-theme): A Safari like them for Firefox 72+
+* [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize): Ryan 收集的 Firefox 个性化相关资源
 * [stobor827/firefoxPrefs](https://github.com/stobor827/firefoxPrefs): profile options that make firefox work the way I want.
 * [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig): Firefox privacy configuration (help + user.js)
 * [drannex42/FirefoxSidebar](https://github.com/drannex42/FirefoxSidebar): Vertical tab design for Firefox with dynamic indentation:: Sideberry and TreeStyleTabs (Legacy) themes available! 
@@ -526,6 +528,7 @@
 * [tortious/FrozenFox](https://github.com/tortious/FrozenFox): A personal hodgepodge of css and js hacks to firefox that I personally enjoy. Strong emphasis on a blend of minimalism and functionality.
 * [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX): A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
 * [mikemadden42/fuji](https://github.com/mikemadden42/fuji): AppleScript collection
+* [robrop/FullScreen-FirefoxMac](https://github.com/robrop/FullScreen-FirefoxMac): Firefox / Mac real full screen and hotkey
 * [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig): Load custom javascript in browser context
 * [dannycolin/fx-compact-mode](https://github.com/dannycolin/fx-compact-mode): A Compact Mode for Firefox Proton
 * [MrOtherGuy/fx-nightly-changelog](https://github.com/MrOtherGuy/fx-nightly-changelog): Generated list of daily bug fixes
@@ -607,6 +610,7 @@
 * [demtario/hes-gallery](https://github.com/demtario/hes-gallery): Light, dependency free, responsive gallery script
 * [dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS utility that helps hide menu bar icons
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
+* [Ulf3000/highlight-tabs](https://github.com/Ulf3000/highlight-tabs): firefox addon to highlight tabs with colors for easy and fast recognition and fluid workflow
 * [agneevX/home-assistant](https://github.com/agneevX/home-assistant): Home Assistant lovelace layout and config
 * [cbrooker/home-assistant-cync](https://github.com/cbrooker/home-assistant-cync): Home Assistant Custom Integration for GE Cync (wifi) IoT Devices
 * [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar): Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
@@ -856,6 +860,7 @@
 * [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001): My filter lists - feel free to add these lists to uBlock Origin
 * [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): UI Email Signature Generator - Make easy to create your email signature
 * [WynStaXxx/mytheme](https://github.com/WynStaXxx/mytheme): firefox userchrome css theme
+* [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl): Use external downloader directly from Firefox's native download asking dialog
 * [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles): None
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1410,8 +1415,10 @@
 * [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js): userChrome.js for Firefox
 * [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-): UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
 * [tortious/userChrome.js-userChrome.css-Favorites](https://github.com/tortious/userChrome.js-userChrome.css-Favorites): None
+* [harv/userChromeJS](https://github.com/harv/userChromeJS): My userChromeJS scripts!
 * [jikamens/userChromeJS](https://github.com/jikamens/userChromeJS): Re-implementation of the userChromeJS add-on for Thunderbird 60+
 * [myfreeer/userChromeJS](https://github.com/myfreeer/userChromeJS): userChrome.js scripts for firefox
+* [zephyrer/userChromeJS](https://github.com/zephyrer/userChromeJS): uc.js, uc.xul collections
 * [VolgemutNik/username-generator](https://github.com/VolgemutNik/username-generator): A username generator written in JavaScript
 * [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner): Fast & Accurate Username Scanner (Frontend)
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
