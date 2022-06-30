@@ -1188,6 +1188,7 @@
 * [mzama/ShopifyInventoryChecker](https://github.com/mzama/ShopifyInventoryChecker): A simple python script to check a Shopify store's inventory for a particular product, and send an email notification if the product is available.
 * [Czarto/ShopifyScripts](https://github.com/Czarto/ShopifyScripts): Various Shopify scripts to generate XML product feeds, remarketing tracking for Google Ads, and others.
 * [makilyes/shopifyTheme](https://github.com/makilyes/shopifyTheme): None
+* [taminob/shortcuts](https://github.com/taminob/shortcuts): WebExtension which allows selecting tabs with [CTRL] + [1-9]
 * [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow): Run installled macOS shortcuts
 * [crittermike/shortkeys](https://github.com/crittermike/shortkeys): A browser extension for custom keyboard shortcuts 
 * [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
