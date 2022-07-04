@@ -108,6 +108,7 @@
 * [sagars007/Australis-like-tabs-FF-ProtonUI-changes](https://github.com/sagars007/Australis-like-tabs-FF-ProtonUI-changes): Changes to make the new proton UI redesign in Firefox better; including australis tabs, compact mode, gradient accents in elements and much more
 * [ede1998/autoarchive](https://github.com/ede1998/autoarchive): Add an archiving button to thunderbird.
 * [withfig/autocomplete](https://github.com/withfig/autocomplete): Fig adds autocomplete to your terminal.
+* [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig): Fork of Auto Config.
 * [PrinceBalabis/Automator](https://github.com/PrinceBalabis/Automator): Various Automator and AppleScript workflow and scripts for simplifying life
 * [moosethegoose2213/automator-for-barrykn-micropatcher](https://github.com/moosethegoose2213/automator-for-barrykn-micropatcher): Automator for the BarryKN Micropatcher
 * [lawrenceting/Automator-Services-and-Workflows](https://github.com/lawrenceting/Automator-Services-and-Workflows): Automator Services and Workflows
