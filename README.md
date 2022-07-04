@@ -1547,7 +1547,7 @@
 * [xhico/YoutubeDownloader](https://github.com/xhico/YoutubeDownloader): Download any public Playlist from Youtube
 * [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A youtube-dl fork with additional features and fixes
 * [ohmybahgosh/YT-DLP-SCRIPTS](https://github.com/ohmybahgosh/YT-DLP-SCRIPTS): ...Just a place for me to share my various YT-DLP & related bash scripts.
-* [slow-but-steady/yt-videos-list](https://github.com/slow-but-steady/yt-videos-list): Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for YouTube videos list  updates.
+* [slow-but-steady/yt_videos_list](https://github.com/slow-but-steady/yt_videos_list): Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for YouTube videos list  updates.
 * [ytb2mp3/ytb2mp3](https://github.com/ytb2mp3/ytb2mp3): Convert YouTube videos to mp3 files via the command-line
 * [Margiris/ytmdesktop](https://github.com/Margiris/ytmdesktop): NO LONGER UPDATED (see readme). A fork of https://github.com/ytmdesktop/ytmdesktop with added adblocker from https://github.com/cliqz-oss/adblocker.
 * [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): A Desktop App for YouTube Music
