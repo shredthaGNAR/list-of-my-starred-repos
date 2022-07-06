@@ -476,7 +476,6 @@
 * [tsanaung/firefox-safari-style](https://github.com/tsanaung/firefox-safari-style): None
 * [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts): Custom tweaks and preferences for Firefox
 * [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts): userChromeJS / autoconfig.js and extensions
-* [denis-g/firefox-settings](https://github.com/denis-g/firefox-settings): 🦊 Personal Firefox settings. Based on arkenfox/user.js with additional UI fixes.
 * [onozaty/firefox-shortcutkey2url](https://github.com/onozaty/firefox-shortcutkey2url): ShortcutKey2URL - Firefox Extension
 * [YousufSSyed/Firefox-Skin](https://github.com/YousufSSyed/Firefox-Skin): A skin for Firefox using custom CSS
 * [zvuc/firefox-sliding-bookmarks-bar](https://github.com/zvuc/firefox-sliding-bookmarks-bar): Sliding bookmarks bar userChrome.css tweak for Firefox (71.0+) on macOS
@@ -486,6 +485,7 @@
 * [LDK-iii/firefox-transparent-theme-mac](https://github.com/LDK-iii/firefox-transparent-theme-mac): One-line theme
 * [RobinBoers/firefox-tweaks](https://github.com/RobinBoers/firefox-tweaks): :fox_face: My current userChrome.css config for Firefox. Photon like design for Firefox.
 * [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix): 🦊 I respect proton UI and aim to improve it.
+* [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js): 🦊 Personal Firefox settings. Based on arkenfox/user.js with additional UI fixes.
 * [icpantsparti/firefox-user.js-tool](https://github.com/icpantsparti/firefox-user.js-tool): Interactive view, compare, and more for Firefox user.js (eg arkenfox/user.js) + about:config functions
 * [icpantsparti2/firefox-user.js-tool](https://github.com/icpantsparti2/firefox-user.js-tool): Interactive view, compare, and more for Firefox user.js (eg arkenfox/user.js) + about:config functions
 * [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style): MDL2 + Sun Valley Theme for Firefox
