@@ -48,6 +48,7 @@
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X.
+* [ajrosen/Alfred](https://github.com/ajrosen/Alfred): Alfred workflows
 * [kkanzelmeyer/alfred](https://github.com/kkanzelmeyer/alfred): Raspberry pi webcam and motion sensor project
 * [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection): A collection of all known Alfred3 workflows
 * [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert): Convert between different units in Alfred
@@ -612,6 +613,7 @@
 * [demtario/hes-gallery](https://github.com/demtario/hes-gallery): Light, dependency free, responsive gallery script
 * [dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS utility that helps hide menu bar icons
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
+* [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator): Simple tool to generate HIDUTIL key remapping configurations for MacOS
 * [Ulf3000/highlight-tabs](https://github.com/Ulf3000/highlight-tabs): firefox addon to highlight tabs with colors for easy and fast recognition and fluid workflow
 * [agneevX/home-assistant](https://github.com/agneevX/home-assistant): Home Assistant lovelace layout and config
 * [cbrooker/home-assistant-cync](https://github.com/cbrooker/home-assistant-cync): Home Assistant Custom Integration for GE Cync (wifi) IoT Devices
