@@ -237,7 +237,7 @@
 * [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt): None
 * [chriswayg/CC-Offline-Package-Generator](https://github.com/chriswayg/CC-Offline-Package-Generator): Adobe CC 2018 to 2022 Direct Download and Offline Installer Package Generator 
 * [cc-archive/ccsearch-browser-extension](https://github.com/cc-archive/ccsearch-browser-extension): [PROJECT TRANSFERRED] Cross-Browser extension to search, filter and use images in the public domain and under Creative Commons licenses.
-* [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper): Stops Adobe's pesky background apps, and more!
+* [eaaasun/CCStopper](https://github.com/eaaasun/CCStopper): Stops Adobe's pesky background apps and more!
 * [w0lfschild/cDock](https://github.com/w0lfschild/cDock): :lollipop: Basic dock customization for macOS
 * [jbtule/cdto](https://github.com/jbtule/cdto): Finder Toolbar app to open the current directory in the Terminal
 * [sw-uci/cdto](https://github.com/sw-uci/cdto): Mac script used to open a terminal at the current Finder folder
