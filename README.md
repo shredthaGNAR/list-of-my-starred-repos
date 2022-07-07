@@ -676,6 +676,7 @@
 * [tessus/joplin-custom-css](https://github.com/tessus/joplin-custom-css): 📝 My custom styles for Joplin, the open source note taking app
 * [Liscum/Joplin-Dark-Theme](https://github.com/Liscum/Joplin-Dark-Theme): A beautiful Joplin dark theme
 * [gonzalovsilva/joplin-dark-theme](https://github.com/gonzalovsilva/joplin-dark-theme): None
+* [EliasVincent/joplin-email-note](https://github.com/EliasVincent/joplin-email-note): A plugin for Joplin which sends your note to your email client
 * [benji300/joplin-favorites](https://github.com/benji300/joplin-favorites): Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access.
 * [LongBay/Joplin-Light-Theme](https://github.com/LongBay/Joplin-Light-Theme): A light theme for Joplin
 * [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme): Native looking macOS theme for note taking app Joplin
