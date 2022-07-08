@@ -369,6 +369,7 @@
 * [coder-chenzhi/EasyTabURL-ChromeExtension](https://github.com/coder-chenzhi/EasyTabURL-ChromeExtension): Help you operate tabs' url more conveniently
 * [Turpster/Edge-FrFox](https://github.com/Turpster/Edge-FrFox): A userChrome.css theme for Firefox that replicates Microsoft Edge
 * [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox): A Firefox userChrome.css theme that aims to recreate the look and feel of the Chromium version of Microsoft Edge.
+* [maicol07/edge-frfox](https://github.com/maicol07/edge-frfox): A Firefox userChrome.css theme that aims to recreate the look and feel of the Chromium version of Microsoft Edge.
 * [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox): Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
 * [cleidigh/EditEmailSubject-MX](https://github.com/cleidigh/EditEmailSubject-MX): Conversion exercise for Thunderbird MailExtensions
 * [G3root/Eisen-Matrix](https://github.com/G3root/Eisen-Matrix): 🎯 Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes.
