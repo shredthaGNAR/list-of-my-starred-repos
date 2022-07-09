@@ -573,6 +573,7 @@
 * [jabiddle/GlobalPokerExt](https://github.com/jabiddle/GlobalPokerExt): A Chrome extension that adds automation and statistic collection to GlobalPoker.
 * [yinthewind/GlobalPokerHandTracker](https://github.com/yinthewind/GlobalPokerHandTracker): None
 * [tomatopickle/Glox](https://github.com/tomatopickle/Glox): A glassmorphistic Firefox skin, also has round elements
+* [langren1353/GM_script](https://github.com/langren1353/GM_script): 我就是来分享脚本玩玩的
 * [Ipetar69/Gmail-creator](https://github.com/Ipetar69/Gmail-creator): It will generate random credentials for a new Gmail account. It autostarts Firefox and it is autotyping, you don't have to do anything other than run the script.
 * [skarif2/gmail-signature](https://github.com/skarif2/gmail-signature): :rabbit: Most elegant looking Gmail Signature in the world :metal:
 * [tumpio/gmscripts](https://github.com/tumpio/gmscripts): tumpio's usercripts
