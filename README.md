@@ -247,6 +247,7 @@
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
 * [Taiga74164/ChecksumBypass-GenshinImpact](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact): Bypasses the checksum at login to allow modified files in official servers.
 * [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader): Chrome manifest loader for webpack
+* [willbchang/chrome-read-later](https://github.com/willbchang/chrome-read-later): A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
 * [Noitidart/Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified): Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites.
 * [matthewfallshaw/chrome-window-management-scripts](https://github.com/matthewfallshaw/chrome-window-management-scripts): Chrome window and tab management scripts
 * [jimmyxu/circle](https://github.com/jimmyxu/circle): Logi Circle video downloader
@@ -1058,9 +1059,11 @@
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 * [iampueroo/rComments](https://github.com/iampueroo/rComments): Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
 * [facebook/react](https://github.com/facebook/react): A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [XcrossD/read-later-bookmarks](https://github.com/XcrossD/read-later-bookmarks): A chrome extension that add a read later view for chrome bookmarks
 * [rNeomy/reader-view](https://github.com/rNeomy/reader-view): Access Firefox's built in reader view from right click context menu
 * [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list): A Chrome/Firefox extension for saving pages to read later.
 * [codebox/reading-list-mover](https://github.com/codebox/reading-list-mover): A Python utility for moving bookmarks/reading lists between services
+* [sakuyaa/readLater](https://github.com/sakuyaa/readLater): A Read-it-later extension for Firefox using WebExtension APIs
 * [bantunagarjuna/Real-time-data-storing-in-google-drive](https://github.com/bantunagarjuna/Real-time-data-storing-in-google-drive): Storing the real time data to the personal google drive account.
 * [bhavsec/reconspider](https://github.com/bhavsec/reconspider): 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 * [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle): Move and resize windows on macOS with keyboard shortcuts and snap areas
@@ -1301,6 +1304,7 @@
 * [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
 * [DanielDe/TabRearranger](https://github.com/DanielDe/TabRearranger): Chrome extension to rearrange tabs and move them between windows using keyboard shortcuts
 * [tim-we/tabs-aside](https://github.com/tim-we/tabs-aside): A session/tab manager web extension for Firefox based on the Microsoft Edge feature.
+* [ClementGre/Tabs-Groups-Manager](https://github.com/ClementGre/Tabs-Groups-Manager): Firefox Add-ons to sync tabs between browsers and to manage tabs with custom tabs groups
 * [jingyu9575/tabs-to-bookmark-groups](https://github.com/jingyu9575/tabs-to-bookmark-groups): (Work in progress) Firefox extension to save the tabs to a bookmark group and switch between different groups.
 * [deniszanin/tabs2text](https://github.com/deniszanin/tabs2text): Tabs2Text is a Firefox extension to export all your opened tabs to a text file.
 * [AnyMinorDeerPanda/tabsaver](https://github.com/AnyMinorDeerPanda/tabsaver): Allows you to easily save all of your tabs for later use, reducing clutter
@@ -1328,6 +1332,7 @@
 * [bravetheskies/themekit-download-action](https://github.com/bravetheskies/themekit-download-action): A GitHub action that pulls changes from Shopify Theme Kit themes.
 * [brohlson/themekit-webpack-tailwind](https://github.com/brohlson/themekit-webpack-tailwind): Shopify Themekit with Webpack & Tailwind CSS 
 * [themerdev/themer](https://github.com/themerdev/themer): 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+* [knyar/theoldreader-chrome](https://github.com/knyar/theoldreader-chrome): Chrome extension for The Old Reader
 * [devmount/third-stats](https://github.com/devmount/third-stats): Thunderbird add-on turning your emails into beautifully visualized email account stats
 * [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
 * [mrdoob/three.js](https://github.com/mrdoob/three.js): JavaScript 3D Library.
