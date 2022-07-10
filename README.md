@@ -167,6 +167,7 @@
 * [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh): 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
 * [danielmiessler/blackhat-arsenal-tools](https://github.com/danielmiessler/blackhat-arsenal-tools): Official Black Hat Arsenal Security Tools Repository
 * [GreezXII/BlackList](https://github.com/GreezXII/BlackList): Black list for Thunderbird 
+* [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts): None
 * [Filip-Sutkowy/blurclean-firefox-theme](https://github.com/Filip-Sutkowy/blurclean-firefox-theme): Clean, transparent firefox theme
 * [TheBi11iona1re/BlurFox-CSS-for-Mac](https://github.com/TheBi11iona1re/BlurFox-CSS-for-Mac): Update  to manilarome's Blur Fox for mac only
 * [dwarvesf/blurred](https://github.com/dwarvesf/blurred): A macOS utility that helps reduce distraction by dimming your inactive noise
@@ -247,6 +248,7 @@
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
 * [Taiga74164/ChecksumBypass-GenshinImpact](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact): Bypasses the checksum at login to allow modified files in official servers.
+* [adamschwartz/chrome-desaturate-favicons](https://github.com/adamschwartz/chrome-desaturate-favicons): Desaturate the favicons of all inactive tabs.
 * [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader): Chrome manifest loader for webpack
 * [willbchang/chrome-read-later](https://github.com/willbchang/chrome-read-later): A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
 * [elgervb/chrome-readinglist2](https://github.com/elgervb/chrome-readinglist2): None
