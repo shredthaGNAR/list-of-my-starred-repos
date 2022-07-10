@@ -398,6 +398,8 @@
 * [hrai/english-popup-thesaurus](https://github.com/hrai/english-popup-thesaurus): Thesaurus firefox add-on.
 * [bitgapp/eqMac](https://github.com/bitgapp/eqMac): macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 * [rlxone/Equinox](https://github.com/rlxone/Equinox): 🌇 🌃  Create dynamic wallpapers for macOS.
+* [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier): Turns off all rules that are unnecessary or might conflict with Prettier.
+* [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier): ESLint plugin for Prettier formatting
 * [gao-sun/eul](https://github.com/gao-sun/eul): 🖥️ macOS status monitoring app written in SwiftUI.
 * [SoldierInFaith14/excel_automation](https://github.com/SoldierInFaith14/excel_automation): Python script that modifies Shopify spreadsheet exports of order details.
 * [KhashayarKhm/export-tabs-urls](https://github.com/KhashayarKhm/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/

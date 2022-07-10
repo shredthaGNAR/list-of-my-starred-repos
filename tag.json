@@ -3641,6 +3641,12 @@
     "presuku/exteditor-mailext": [
         "Other"
     ],
+    "prettier/eslint-config-prettier": [
+        "Other"
+    ],
+    "prettier/eslint-plugin-prettier": [
+        "Other"
+    ],
     "privacy-tech-lab/gpc-optmeowt": [
         "Other"
     ],
