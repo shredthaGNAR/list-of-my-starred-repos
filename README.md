@@ -918,6 +918,7 @@
 * [pullup/OneTab-Night-Mode](https://github.com/pullup/OneTab-Night-Mode): Little theme for the onetab page to make it less eye raping.
 * [runoshun/onetab-sync](https://github.com/runoshun/onetab-sync): Command line utility for sync and backup OneTab Chrome extension data.
 * [Packetslave/onetab-to-bookmarks](https://github.com/Packetslave/onetab-to-bookmarks): Convert a OneTab bookmark export to the standard HTML bookmark export format
+* [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch): ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 * [kukawski/Open-in-selected-Incognito-window](https://github.com/kukawski/Open-in-selected-Incognito-window): Firefox extension that allows to open link in selected incognito window from context menu
 * [cpeterso/open-page-in-private-window](https://github.com/cpeterso/open-page-in-private-window): 👻 Firefox extension to open a copy of the current page in a new Private Window
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
