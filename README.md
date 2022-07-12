@@ -451,6 +451,7 @@
 * [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement): None
 * [m3tro1d/firefox-config](https://github.com/m3tro1d/firefox-config): My Firefox configuration
 * [HamletDuFromage/firefox-css](https://github.com/HamletDuFromage/firefox-css): None
+* [Shadow-of-Colossus/Firefox-CSS](https://github.com/Shadow-of-Colossus/Firefox-CSS): A mish mash of css files to change Firefox appearance, more of old style
 * [akisblack/firefox-css](https://github.com/akisblack/firefox-css): My custom CSS for Firefox 
 * [pdtxie/firefox-css](https://github.com/pdtxie/firefox-css): None
 * [seatedSinger/Firefox-CSS](https://github.com/seatedSinger/Firefox-CSS): None
