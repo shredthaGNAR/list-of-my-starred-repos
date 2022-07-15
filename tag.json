@@ -449,6 +449,9 @@
     "Homebrew/homebrew-cask": [
         "Other"
     ],
+    "Homebrew/homebrew-cask-fonts": [
+        "Other"
+    ],
     "Homebrew/homebrew-core": [
         "Other"
     ],
@@ -3831,6 +3834,9 @@
         "Other"
     ],
     "rshev/MoveTabToNextWindow": [
+        "Other"
+    ],
+    "rubjo/victor-mono": [
         "Other"
     ],
     "ruipgil/pocketmark": [
