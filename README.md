@@ -1102,6 +1102,8 @@
 * [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature): ✨ Template generator for (responsive) emails & email signatures 
 * [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS): userChromeJS scripts to restore Firefox features that have been removed or changed
 * [briangershon/retrieve-pocket-bookmarks](https://github.com/briangershon/retrieve-pocket-bookmarks): Retrieves your bookmarks and meta data from Pocket API (via https://getpocket.com/developer/docs/v3/retrieve)
+* [revanced/revanced-manager](https://github.com/revanced/revanced-manager): 💊 The official ReVanced Manager
+* [revanced/revanced-patches](https://github.com/revanced/revanced-patches): 🧩 Official patches by ReVanced
 * [mariia-nam/reviews-collage](https://github.com/mariia-nam/reviews-collage): Shopify Section with customers reviews.
 * [timonus/Rhea](https://github.com/timonus/Rhea): A Mac status bar app for quickly sharing files and links.
 * [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close): Firefox close tab by right clicking on tab button ,userchrome script (runs on ff102) 🖱️
