@@ -658,7 +658,7 @@
 * [jenstornell/icon-flood](https://github.com/jenstornell/icon-flood): Hand picked SVG icon packs with at least 200 icons
 * [onmyway133/IconGenerator](https://github.com/onmyway133/IconGenerator): 🍱 A macOS app to generate app icons
 * [raphaelhanneken/iconizer](https://github.com/raphaelhanneken/iconizer): Create Xcode asset catalogs swift and painless. Generate images for macOS and iOS app icons, launch images and image sets.
-* [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir): A Simple and Definitive Open-Source Icons Library
+* [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir): An open source icons library with 1K+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
 * [kreativekorp/iconposeur](https://github.com/kreativekorp/iconposeur): Open-source recreation of the Icon Composer application. Create icons for Mac OS X without Xcode. Also creates Windows ico files.
 * [FirefoxUX/icons](https://github.com/FirefoxUX/icons): SVG icons used in Firefox. View all icons here:
 * [tale/iconset](https://github.com/tale/iconset): A nifty command-line tool to customize macOS icons
