@@ -1065,7 +1065,7 @@
 * [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders): Thunderbird Add-on: QuickFolders
 * [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver): Quicksilver Project Source
 * [jobisoft/quicktext](https://github.com/jobisoft/quicktext): An extension for Thunderbird that lets you create templates that can be easily inserted into your own emails.
-* [coekuss/quietfox](https://github.com/coekuss/quietfox): Very Clean Firefox userChrome Mod
+* [kamrynsite/quietfox](https://github.com/kamrynsite/quietfox): Very Clean Firefox userChrome Mod
 * [Shad0wSeven/Quietfox-Proton](https://github.com/Shad0wSeven/Quietfox-Proton): Quietfox release for Proton, upgrades and improvments from myself, and from the Lepton project
 * [TheGITofTeo997/quietfoxReborn](https://github.com/TheGITofTeo997/quietfoxReborn): Trying to resurrect a very Clean Firefox userChrome Mod
 * [1280px/rainfox](https://github.com/1280px/rainfox): Photon UI, re-imagined.
