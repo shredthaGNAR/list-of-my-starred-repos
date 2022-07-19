@@ -712,7 +712,7 @@
 * [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils): Joplin-based peripheral community tool
 * [jerrylususu/joplin-vacuum](https://github.com/jerrylususu/joplin-vacuum): Removes attachments (resources) that are not referred in Joplin. 
 * [mahor1221/joplin-vsc-material-theme](https://github.com/mahor1221/joplin-vsc-material-theme): VSCode Community Material Theme for Joplin
-* [p0rc0jet/joplin_styles](https://github.com/p0rc0jet/joplin_styles): CSS tweaks for joplin app
+* [geoai777/joplin_styles](https://github.com/geoai777/joplin_styles): CSS tweaks for joplin app
 * [cweirup/JoplinSafariWebClipper](https://github.com/cweirup/JoplinSafariWebClipper): Safari App Extension for Joplin Web Clipper
 * [gribnoysup/jpng.svg](https://github.com/gribnoysup/jpng.svg): Transparent PNG with JPEG Compression
 * [LaneCommunityCollege/jquery-signature](https://github.com/LaneCommunityCollege/jquery-signature): a jQuery based email signature generator
