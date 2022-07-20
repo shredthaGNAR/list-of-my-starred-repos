@@ -157,6 +157,7 @@
 * [structunit/better-onetab](https://github.com/structunit/better-onetab): :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
 * [wlor0623/better-onetab](https://github.com/wlor0623/better-onetab): :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
 * [cnwangjie/better-onetab-sync-server](https://github.com/cnwangjie/better-onetab-sync-server): This is the sync server for better-onetab. Please don't submit PR to master directly.
+* [songhao/BetterAndBetter](https://github.com/songhao/BetterAndBetter): BetterAndBetter 是一款包含很多功能的 macOS 软件。
 * [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord): Better Discord enhances Discord desktop app with new features.
 * [SichangHe/BetterTouchTool-SLite-Preset](https://github.com/SichangHe/BetterTouchTool-SLite-Preset): SLite is a preset of BetterTouchTool inspired by GoldenChaos and many other presets. It is a light preset that is also neat. Try it and you'll know.
 * [ttscoff/BetterTouchTool-Widgets](https://github.com/ttscoff/BetterTouchTool-Widgets): None
@@ -354,6 +355,7 @@
 * [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn): Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
 * [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge): RTMP/RTSP/LL-HLS bridge for Wyze cams in a docker container
 * [DeromirNeves/DockSeparator](https://github.com/DeromirNeves/DockSeparator): macOS utility to add multiple separators to Dock
+* [GiorgioBertolotti/dotfiles](https://github.com/GiorgioBertolotti/dotfiles): 💻 My config files for the shell (MacOS & WSL)
 * [cheshire137/dotfiles](https://github.com/cheshire137/dotfiles): All my handy configuration files, including for stuff like Skyrim. ⚔️
 * [eramdam/dotfiles](https://github.com/eramdam/dotfiles): My personal dotfiles (don't look at the mess pls)
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles): :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
@@ -857,6 +859,7 @@
 * [ScanuNicco/Modern-ThunderBird](https://github.com/ScanuNicco/Modern-ThunderBird): A userChrome.css theme to make thunderbird resemble Firefox 89+
 * [keith/ModMove](https://github.com/keith/ModMove): Move/Resize windows using modifiers and the mouse
 * [rxhanson/ModMove](https://github.com/rxhanson/ModMove): Move/Resize windows using modifiers and the mouse
+* [basharovV/Modos-BTT](https://github.com/basharovV/Modos-BTT): Modos is a BetterTouchTool preset for managing workspaces + windows. 
 * [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl): 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 * [thesephist/monocle](https://github.com/thesephist/monocle): Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 * [conema/monterail-dark](https://github.com/conema/monterail-dark): Monterail Dark, a Thunderbird theme inspired by the mockup of Monterail 
