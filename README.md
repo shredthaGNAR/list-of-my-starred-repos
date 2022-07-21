@@ -708,6 +708,7 @@
 * [benji300/joplin-persistent-layout](https://github.com/benji300/joplin-persistent-layout): Save editor layout (editor/split view/viewer/rich text) for each note separately.
 * [hieuthi/joplin-plugin-metis](https://github.com/hieuthi/joplin-plugin-metis): A Simple Task Manager Plugin for Joplin based on Todo.txt Specification
 * [roman-r-m/joplin-plugin-table-formatter](https://github.com/roman-r-m/joplin-plugin-table-formatter): Markdown table format plugin for Joplin
+* [JackGruber/joplin-plugin-tagging](https://github.com/JackGruber/joplin-plugin-tagging): Plugin to extend the Joplin tagging menu with a copy all tags and tagging dialog with more control.
 * [CalebJohn/joplin-rich-markdown](https://github.com/CalebJohn/joplin-rich-markdown): Helping you ditch the markdown viewer for good.
 * [forcewake/joplin-tags-generator](https://github.com/forcewake/joplin-tags-generator): Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags
 * [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme): My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inklusive a special Bullet Journal css style.
