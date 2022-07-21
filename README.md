@@ -816,6 +816,7 @@
 * [section83/MacYTDL](https://github.com/section83/MacYTDL): A macOS GUI front-end for the youtube-dl video downloader
 * [alfredapp/magic-8-ball-workflow](https://github.com/alfredapp/magic-8-ball-workflow): A simple workflow that makes use of the Random utility to answer your questions like a classic magic 8-ball
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
+* [Magisk-Modules-Repo/MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf): MagiskHidePropsConf
 * [Clipy/Magnet](https://github.com/Clipy/Magnet): Customize global hotkeys in macOS.
 * [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 * [peci1/mailing-list-filter](https://github.com/peci1/mailing-list-filter): Thunderbird mail filter search term using mailing lists (and not whole addressbooks).
