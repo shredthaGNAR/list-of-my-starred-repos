@@ -749,6 +749,7 @@
 * [ray-lothian/Layout-Resizer](https://github.com/ray-lothian/Layout-Resizer): A simple powerful extension to adjust layout size of the current browser window
 * [gildas-lormeau/LazyLoadify](https://github.com/gildas-lormeau/LazyLoadify): Web Extension to force the lazy loading of non-displayed resources (i.e. image, frame, video and audio contents)
 * [AlexisDrain/Less-Addictive-YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube): Cross-browser plugin to remove addictive features on YT like thumbnails, comments, & previews
+* [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit): Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 * [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2): The libgphoto2 camera access and control library.
 * [spikecodes/libreddit](https://github.com/spikecodes/libreddit): Private front-end for Reddit
 * [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
