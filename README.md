@@ -19,7 +19,7 @@
 
 # Other
 
-* [badmojr/1Hosts](https://github.com/badmojr/1Hosts): World's most advanced general-purpose DNS filter-/blocklists!
+* [badmojr/1Hosts](https://github.com/badmojr/1Hosts): World's most advanced  DNS filter-/blocklists!
 * [tortious/2021_Firefox](https://github.com/tortious/2021_Firefox): Updated config settings & possibilities for Firefox. This includes all file types (css; uc.js; js; etc) and other tips and tricks, including about:config tweaks
 * [rsapkf/42](https://github.com/rsapkf/42): @rsapkf's wiki.
 * [Lexxrt/9xe3](https://github.com/Lexxrt/9xe3): 🔍sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʟᴏᴏᴋᴜᴘ🔍
