@@ -50,6 +50,7 @@
 * [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X.
 * [ajrosen/Alfred](https://github.com/ajrosen/Alfred): Alfred workflows
 * [kkanzelmeyer/alfred](https://github.com/kkanzelmeyer/alfred): Raspberry pi webcam and motion sensor project
+* [CacherApp/alfred-cacher](https://github.com/CacherApp/alfred-cacher): Alfred workflow for finding a Cacher snippet.
 * [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection): A collection of all known Alfred3 workflows
 * [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert): Convert between different units in Alfred
 * [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow): Alfred workflow to search google drive
@@ -351,6 +352,7 @@
 * [fredjoseph/dns-blocker](https://github.com/fredjoseph/dns-blocker): DNS Blocker for Chrome and Firefox (Web Extension)
 * [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy): dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 * [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli): Control the macOS `Do Not Disturb` feature from the command-line
+* [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview): Mac OSX app that displays window previews when hovering over app icon on the Dock. 
 * [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 * [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn): Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
 * [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge): RTMP/RTSP/LL-HLS bridge for Wyze cams in a docker container
@@ -990,6 +992,7 @@
 * [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis): Bringing sexy curves back to Firefox Photon.
 * [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera): Android Camera that uses Enhanced image processing
 * [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
+* [peter-sk/photosdup](https://github.com/peter-sk/photosdup): Mac Photos Duplicate Finder
 * [dermesser/photosync](https://github.com/dermesser/photosync): Now that Google deprecated the Photos<->Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes them locally. It is not very user friendly yet, but definitely usable
 * [pooja-v-dev/php-drive-s3](https://github.com/pooja-v-dev/php-drive-s3): Read a Google Drive account, list files in a folder and move selected file to S3.
 * [bltavares/pickpocket](https://github.com/bltavares/pickpocket): Pocket CLI management tools
