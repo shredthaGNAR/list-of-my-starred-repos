@@ -1739,6 +1739,9 @@
     "cassidoo/shopify-next-netlify": [
         "Other"
     ],
+    "catppuccin/joplin": [
+        "Other"
+    ],
     "cbrooker/home-assistant-cync": [
         "Other"
     ],
@@ -1758,6 +1761,9 @@
         "Other"
     ],
     "chaance/vscode-setup": [
+        "Other"
+    ],
+    "charlieMonroe/DownieExtensions": [
         "Other"
     ],
     "cheap-glitch/google-keep-to-clipboard": [
@@ -3840,6 +3846,9 @@
         "Other"
     ],
     "revanced/revanced-manager": [
+        "Other"
+    ],
+    "revanced/revanced-patcher": [
         "Other"
     ],
     "revanced/revanced-patches": [
