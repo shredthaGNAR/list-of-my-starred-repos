@@ -3737,6 +3737,9 @@
     "prettier/eslint-plugin-prettier": [
         "Other"
     ],
+    "prettier/prettier-vscode": [
+        "Other"
+    ],
     "privacy-tech-lab/gpc-optmeowt": [
         "Other"
     ],
@@ -4284,6 +4287,9 @@
         "Other"
     ],
     "te6-in/MaterialFox-BigSur": [
+        "Other"
+    ],
+    "te6-in/lepton-custom": [
         "Other"
     ],
     "techgaun/active-forks": [
