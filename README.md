@@ -1290,6 +1290,7 @@
 * [makiisthenes/socialScanner](https://github.com/makiisthenes/socialScanner): Will Search Various Platforms to Confirm An Email Exists.
 * [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr): Smart PVR for newsgroup and bittorrent users.
 * [semvis123/Sonitus](https://github.com/semvis123/Sonitus): Noise-control like native, but for non-Apple devices
+* [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower): MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
 * [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph): Universal code search (self-hosted)
 * [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io): Facebook search engine that works after the Graph API has been shut down
 * [cmacrae/spacebar](https://github.com/cmacrae/spacebar): A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
