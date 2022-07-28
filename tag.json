@@ -1,4 +1,7 @@
 {
+    "0xdevalias/devalias.net": [
+        "Other"
+    ],
     "117649/AdvancedLocationbar2": [
         "Other"
     ],
@@ -462,6 +465,9 @@
         "Other"
     ],
     "Homebrew/brew": [
+        "Other"
+    ],
+    "Homebrew/discussions": [
         "Other"
     ],
     "Homebrew/homebrew-cask": [
