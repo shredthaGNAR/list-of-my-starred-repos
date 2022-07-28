@@ -754,6 +754,9 @@
 * [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop): Drop any files to any devices on your LAN.
 * [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool): Style and Grammar Checker for 25+ Languages
 * [stuyam/laravel-phone-validator](https://github.com/stuyam/laravel-phone-validator): A phone validator for Laravel using the free Twilio phone lookup service.
+* [spotlightishere/launchcontrol](https://github.com/spotlightishere/launchcontrol): A GUI for launchd, similar to launchctl. Or... something.
+* [net-ref/launchd-package-creator](https://github.com/net-ref/launchd-package-creator): A utility that allows you to easily create a .pkg containing a LaunchDaemon or LaunchAgent, and a target script of your choosing.
+* [ryangball/launchd-package-creator](https://github.com/ryangball/launchd-package-creator): A utility that allows you to easily create a .pkg containing a LaunchDaemon or LaunchAgent, and a target script of your choosing.
 * [ray-lothian/Layout-Resizer](https://github.com/ray-lothian/Layout-Resizer): A simple powerful extension to adjust layout size of the current browser window
 * [gildas-lormeau/LazyLoadify](https://github.com/gildas-lormeau/LazyLoadify): Web Extension to force the lazy loading of non-displayed resources (i.e. image, frame, video and audio contents)
 * [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom): A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
@@ -1075,6 +1078,7 @@
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
 * [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts): 💬 Send iMessages using Python through the Shortcuts app.
+* [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd): MacOS launchd/launchctl GUI
 * [newville/pyshortcuts](https://github.com/newville/pyshortcuts): create desktop shortcuts to python scripts on Windows, Mac, or Linux
 * [google/python-laurel](https://github.com/google/python-laurel): Python control of C by GE Bluetooth lightbulbs
 * [evanjd/python-logi-circle](https://github.com/evanjd/python-logi-circle): Python 3.6+ API for Logi Circle cameras
@@ -1179,6 +1183,7 @@
 * [larsow/SecurityCamera](https://github.com/larsow/SecurityCamera): Android Security Camera App
 * [rak3n/SecuritySttream](https://github.com/rak3n/SecuritySttream): an Alfred Camera like solution for motion detection and streaming based on react-native
 * [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
+* [aderyabin/ServPane](https://github.com/aderyabin/ServPane): A launchd menu bar app for Mac
 * [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync): SessionSync
 * [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird): A universal dark theme for Thunderbird
 * [shahasad78/shahdevthemecourse2-0](https://github.com/shahasad78/shahdevthemecourse2-0): None
