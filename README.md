@@ -1121,6 +1121,7 @@
 * [DedSecInside/ReFleX](https://github.com/DedSecInside/ReFleX): ReFleX - Deep Image Recognition Bot
 * [mozilla/releases-comm-central](https://github.com/mozilla/releases-comm-central): EXPERIMENTAL - copy of comm-central for forking on github
 * [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon): Open source neutral style icon system
+* [Cat7373/remove-web-limits](https://github.com/Cat7373/remove-web-limits): 通杀大部分网站，可以解除禁止复制、剪切、选择文本、右键菜单的限制。
 * [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions): Customize YouTube
 * [xia4zhi3yun2/remove_commercial](https://github.com/xia4zhi3yun2/remove_commercial): remove commercial and detect logo in video
 * [eyalroz/removedupes](https://github.com/eyalroz/removedupes): Remove Duplicate Messages
