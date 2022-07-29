@@ -1538,6 +1538,7 @@
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
 * [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks): Bookmarks Extension for Visual Studio Code
 * [slysherz/vscode-comment-box](https://github.com/slysherz/vscode-comment-box): Extension that transforms lines of text into a pretty comment box.
+* [danileao/vscode-css-variables-autocomplete](https://github.com/danileao/vscode-css-variables-autocomplete): None
 * [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar): VSCode extension to support CSS Variables Intellisense
 * [be5invis/vscode-custom-css](https://github.com/be5invis/vscode-custom-css): Custom CSS Plugin for Visual Studio Code. Based on vscode-icon
 * [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic): Enhanced VScode Dark+ theme with support for Fira Code iScript and Fira Code + Operator Mono fonts.
