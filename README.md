@@ -632,6 +632,7 @@
 * [privacy-tech-lab/gpc-optmeowt](https://github.com/privacy-tech-lab/gpc-optmeowt): Browser extension for opting out from the sale and sharing of personal information per the California Consumer Privacy Act and other privacy laws
 * [gphoto/gphoto2](https://github.com/gphoto/gphoto2): The gphoto2 commandline tool for accessing and controlling digital cameras.
 * [vipintom/gpm2spotify](https://github.com/vipintom/gpm2spotify): Google Play Music to Spotify Library Exporter
+* [tardisx/gropple](https://github.com/tardisx/gropple): Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
 * [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01): Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascript website this boilerplate is for you. 
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
@@ -657,6 +658,7 @@
 * [Shopify/homebrew-shopify](https://github.com/Shopify/homebrew-shopify): None
 * [klanchman/homebridge-logi-circle-controls](https://github.com/klanchman/homebridge-logi-circle-controls): Homebridge plugin for extended Logitech Circle camera controls
 * [danielmiessler/HoneyCredIPTracker](https://github.com/danielmiessler/HoneyCredIPTracker): Quick script to gather stats on incoming credentials and IPs for a honey listener.
+* [horahoradev/horahora](https://github.com/horahoradev/horahora): Self-hosted media server and yt-dlp archival manager
 * [Aaron-P/HostnameTitleBar](https://github.com/Aaron-P/HostnameTitleBar): Adds the hostname of windows' active tab to the windows' title, e.g. for KeePass(X/XC).
 * [StevenBlack/hosts](https://github.com/StevenBlack/hosts): 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 * [specialunderwear/Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane): a Cocoa GUI for /etc/hosts
@@ -1453,6 +1455,8 @@
 * [trockerapp/trocker](https://github.com/trockerapp/trocker): This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
 * [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch): Gets info from truepeoplesearch.com and adds it to Maltego
 * [syanle/ts-commercials-remover](https://github.com/syanle/ts-commercials-remover): MPEG-TS stream workflow
+* [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): Your self hosted YouTube media server
+* [meeb/tubesync](https://github.com/meeb/tubesync): Syncs YouTube channels and playlists to a locally hosted media server
 * [Leonetienne/Tubio](https://github.com/Leonetienne/Tubio): The free, open source video downloader!
 * [Mennaruuk/twayback](https://github.com/Mennaruuk/twayback): Automate downloading archived deleted Tweets.
 * [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets): Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
@@ -1638,6 +1642,7 @@
 * [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): A Desktop App for YouTube Music
 * [Goxore/ytmp3](https://github.com/Goxore/ytmp3): A simple shell script that downloads a song with youtube-dl/yt-dlp, renames it and adds artist and album names with id3tool.
 * [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi): Unofficial API for YouTube Music
+* [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm): Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
 * [zbrateam/Zebra](https://github.com/zbrateam/Zebra): 🦓 A Useful Package Manager for iOS
 * [RealRaven2000/ZombieKeys](https://github.com/RealRaven2000/ZombieKeys): Thunderbird / Waterfox Add-on: ZombieKeys
 * [li-zyang/zScripts](https://github.com/li-zyang/zScripts): Repository of my userscripts
