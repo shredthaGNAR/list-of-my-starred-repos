@@ -367,6 +367,7 @@
 * [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge): RTMP/RTSP/LL-HLS bridge for Wyze cams in a docker container
 * [DeromirNeves/DockSeparator](https://github.com/DeromirNeves/DockSeparator): macOS utility to add multiple separators to Dock
 * [GiorgioBertolotti/dotfiles](https://github.com/GiorgioBertolotti/dotfiles): 💻 My config files for the shell (MacOS & WSL)
+* [ahmadawais/dotfiles](https://github.com/ahmadawais/dotfiles): A non-exhaustive collection of my dotfiles.
 * [cheshire137/dotfiles](https://github.com/cheshire137/dotfiles): All my handy configuration files, including for stuff like Skyrim. ⚔️
 * [eramdam/dotfiles](https://github.com/eramdam/dotfiles): My personal dotfiles (don't look at the mess pls)
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles): :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
@@ -747,6 +748,7 @@
 * [criblio/js2bin](https://github.com/criblio/js2bin): NodeJS application to native executable
 * [kucherenko/jscpd](https://github.com/kucherenko/jscpd): Copy/paste detector for programming source code.
 * [jsdom/jsdom](https://github.com/jsdom/jsdom): A JavaScript implementation of various web standards, for use with Node.js
+* [snark/jumpcut](https://github.com/snark/jumpcut): Minimalist clipboard management for macOS
 * [RealRaven2000/JunQuilla](https://github.com/RealRaven2000/JunQuilla): Adopted Thunderbird Add-on from Kent James - adds column with percent likelihood that a message is spam
 * [EragonJ/Kaku](https://github.com/EragonJ/Kaku): 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
 * [wulkano/Kap](https://github.com/wulkano/Kap): An open-source screen recorder built with web technology
