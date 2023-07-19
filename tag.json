@@ -1,4 +1,7 @@
 {
+    "0nn0/terminal-mac-cheatsheet": [
+        "Other"
+    ],
     "0xdevalias/devalias.net": [
         "Other"
     ],
@@ -14,7 +17,13 @@
     "117649/Tab-Groups": [
         "Other"
     ],
+    "11ty/eleventy-base-blog": [
+        "Other"
+    ],
     "1280px/rainfox": [
+        "Other"
+    ],
+    "1nfiniteloop/json-bookmarks": [
         "Other"
     ],
     "23Bluemaster23/EdgeFox": [
@@ -23,10 +32,7 @@
     "2ndalpha/gasmask": [
         "Other"
     ],
-    "33kk/uso-archive": [
-        "Other"
-    ],
-    "3whitehats/shopify-gtm-ga": [
+    "3ter/Ohmine-Dark-Theme-For-Joplin": [
         "Other"
     ],
     "400yk/PokerBotMac": [
@@ -39,6 +45,9 @@
         "Other"
     ],
     "5starkarma/global-poker-addons": [
+        "Other"
+    ],
+    "A9T9/Copyfish": [
         "Other"
     ],
     "ACEx86/Firefox-about-config-tweaks": [
@@ -57,6 +66,9 @@
         "Other"
     ],
     "AbhishekKalavadiya/maper": [
+        "Other"
+    ],
+    "AbinavJ-FamilyZone/launchd-package-creator": [
         "Other"
     ],
     "AdAway/AdAway": [
@@ -80,19 +92,28 @@
     "Ahmed-Elswerky/custom-tampermonkey-scripts": [
         "Other"
     ],
+    "Aholicknight/IMDb-Scout": [
+        "Other"
+    ],
+    "Airmail/AirmailPlugIn-Framework": [
+        "Other"
+    ],
     "AlexisDrain/Less-Addictive-YouTube": [
         "Other"
     ],
     "AlfarexGuy2019/GentleFox": [
         "Other"
     ],
+    "AlickH/BetterTouchBar": [
+        "Other"
+    ],
+    "Alir3z4/html2text": [
+        "Other"
+    ],
     "AllToMP3/alltomp3-app": [
         "Other"
     ],
-    "AltarBeastiful/onetab": [
-        "Other"
-    ],
-    "AnCIity/css-smart": [
+    "Aloxaf/fzf-tab": [
         "Other"
     ],
     "Andereoo/Cortland": [
@@ -101,7 +122,10 @@
     "AngelCrawford/joplin-theme": [
         "Other"
     ],
-    "AnyMinorDeerPanda/tabsaver": [
+    "AntennaPod/AntennaPod": [
+        "Other"
+    ],
+    "AnthonyRobertson17/better-touch-tool": [
         "Other"
     ],
     "ArchiveBox/ArchiveBox": [
@@ -122,7 +146,10 @@
     "Asteezy24/ShopifyCheckout": [
         "Other"
     ],
-    "AussieSeaweed/pokerface": [
+    "Authenticator-Extension/Authenticator": [
+        "Other"
+    ],
+    "Automattic/juice": [
         "Other"
     ],
     "Automattic/simplenote-macos": [
@@ -134,10 +161,16 @@
     "Azexios/firefox-photon": [
         "Other"
     ],
+    "B00ze64/FF-Menu-Icon-Plus-CSS": [
+        "Other"
+    ],
     "BCIT-DDC/web-extension-ts-starter": [
         "Other"
     ],
     "BDeliers/thunderbird-monterail": [
+        "Other"
+    ],
+    "BGMP/firefox-revert-proton": [
         "Other"
     ],
     "BLXXDING/applescript-snippets": [
@@ -149,10 +182,16 @@
     "BaseMax/GitHub-Repository-Export-List": [
         "Other"
     ],
+    "Bellisario/node-snapdrop": [
+        "Other"
+    ],
     "Benjamin-Dobell/Heimdall": [
         "Other"
     ],
     "BetterDiscord/BetterDiscord": [
+        "Other"
+    ],
+    "BetterDiscord/Installer": [
         "Other"
     ],
     "Betterbird/thunderbird-patches": [
@@ -161,10 +200,19 @@
     "Bill13579/tabby": [
         "Other"
     ],
+    "BjorneEk/zshrc-cheat-sheet": [
+        "Other"
+    ],
+    "BlackwinMin/keyboard-maestro-gallery": [
+        "Other"
+    ],
     "BloodyHell619/Firefox-Theme-DarkMatter": [
         "Other"
     ],
     "BoolenBread/Amazon-Drive-Video-Stream-API": [
+        "Other"
+    ],
+    "Brawl345/Image-Reverse-Search-WebExtension": [
         "Other"
     ],
     "Bunn/macGist": [
@@ -182,6 +230,9 @@
     "Calvin-LL/toggleairport": [
         "Other"
     ],
+    "CanisLupus/swift-selection-search": [
+        "Other"
+    ],
     "CaptainEureka/firefox-vibrancy": [
         "Other"
     ],
@@ -189,6 +240,9 @@
         "Other"
     ],
     "CaptainN/cbyge2mqtt": [
+        "Other"
+    ],
+    "CarterLi/iina": [
         "Other"
     ],
     "Cat7373/remove-web-limits": [
@@ -206,7 +260,16 @@
     "ChrisPenner/btt-quicknav": [
         "Other"
     ],
+    "ChristoferK/AppleScriptive": [
+        "Other"
+    ],
+    "Claudiohbsantos/github-material-icons-extension": [
+        "Other"
+    ],
     "CleanCocoa/FatSidebar": [
+        "Other"
+    ],
+    "CleanMachine1/AdlistTXTS": [
         "Other"
     ],
     "ClementGre/Tabs-Groups-Manager": [
@@ -218,16 +281,25 @@
     "Clipy/Magnet": [
         "Other"
     ],
+    "CodelyTV/dotfiles": [
+        "Other"
+    ],
+    "CodeverDotDev/bookmarks": [
+        "Other"
+    ],
+    "CodeverDotDev/codever": [
+        "Other"
+    ],
     "CoenraadS/Bracket-Pair-Colorizer-2": [
         "Other"
     ],
     "CollectionBuilder/collectionbuilder-gh": [
         "Other"
     ],
-    "Cookie-AutoDelete/Cookie-AutoDelete": [
+    "ColorlibHQ/email-templates": [
         "Other"
     ],
-    "CortexVacua/Youtube-MP3-Playlist-Downloader": [
+    "Cookie-AutoDelete/Cookie-AutoDelete": [
         "Other"
     ],
     "CptFoobar/Owl": [
@@ -272,6 +344,9 @@
     "DanielDe/TabRearranger": [
         "Other"
     ],
+    "DarrinTisdale/zsh-aliases-exa": [
+        "Other"
+    ],
     "DedSecInside/ReFleX": [
         "Other"
     ],
@@ -296,19 +371,22 @@
     "DigiDNA/ColorSet": [
         "Other"
     ],
-    "Dini108/firefox_compact_style": [
+    "Dimentium/homebrew-autoraise": [
         "Other"
     ],
     "Dis90/plugin.video.discoveryplus": [
         "Other"
     ],
-    "DominikMarcinowski/firefox-mods": [
+    "DonJayamanne/gitHistoryVSCode": [
         "Other"
     ],
     "DozenPixels/shopify-free-shipping-bar": [
         "Other"
     ],
     "DrDesten/Firefox_reStock": [
+        "Other"
+    ],
+    "Dreamlinerm/Netflix-Prime-Auto-Skip": [
         "Other"
     ],
     "Drive4ik/simple-tab-groups": [
@@ -335,16 +413,28 @@
     "EmySaulIntec/SearchPeople": [
         "Other"
     ],
+    "Enan01/OneTabClear": [
+        "Other"
+    ],
     "EnderDev/browser-chrome-experiment": [
         "Other"
     ],
     "Endor8/userChrome.js": [
         "Other"
     ],
+    "EnergizedProtection/block": [
+        "Other"
+    ],
+    "EnixCoda/Gitako": [
+        "Other"
+    ],
     "Era-Dorta/Thunderbird-Google-Keep-Tab": [
         "Other"
     ],
     "EragonJ/Kaku": [
+        "Other"
+    ],
+    "EricSteinberger/PokerRL": [
         "Other"
     ],
     "Erisa/save-all-tab-urls": [
@@ -362,6 +452,12 @@
     "FH-Potsdam/shifted-maps": [
         "Other"
     ],
+    "FakeFiller/fake-filler-extension": [
+        "Other"
+    ],
+    "Fannon/search-bookmarks-history-and-tabs": [
+        "Other"
+    ],
     "FarisHijazi/SuperGoogleImages": [
         "Other"
     ],
@@ -371,10 +467,19 @@
     "Federico-Ciuffardi/nay-dotfiles": [
         "Other"
     ],
+    "FelixKratz/SketchyBar": [
+        "Other"
+    ],
     "Filip-Sutkowy/blurclean-firefox-theme": [
         "Other"
     ],
     "FilkCH/dark-filk-theme": [
+        "Other"
+    ],
+    "Finickyflame/amazon-unsponsored": [
+        "Other"
+    ],
+    "FiorenMas/Revanced-And-Revanced-Extended-Non-Root": [
         "Other"
     ],
     "FirefoxCSSThemers/WhiteSur-FirefoxTheme": [
@@ -389,7 +494,16 @@
     "FranklinDM/Phosphor": [
         "Other"
     ],
+    "FredrikNoren/ungit": [
+        "Other"
+    ],
     "FreeTubeApp/FreeTube": [
+        "Other"
+    ],
+    "FreeWebber/SyncedJSONtoOnetab": [
+        "Other"
+    ],
+    "FrenchGithubUser/Hatt": [
         "Other"
     ],
     "Frewacom/pywalfox": [
@@ -404,6 +518,9 @@
     "GSA/asis": [
         "Other"
     ],
+    "GameXG/keep2joplin": [
+        "Other"
+    ],
     "Genymobile/scrcpy": [
         "Other"
     ],
@@ -411,6 +528,12 @@
         "Other"
     ],
     "Gisto/Gisto": [
+        "Other"
+    ],
+    "GitJournal/GitJournal": [
+        "Other"
+    ],
+    "GitZip/firefox-addons": [
         "Other"
     ],
     "Godiesc/AlpenBlue": [
@@ -422,7 +545,7 @@
     "Godiesc/ThemeFixFox": [
         "Other"
     ],
-    "Godiesc/opera-gx": [
+    "Godiesc/firefox-gx": [
         "Other"
     ],
     "GoldenChaos/GoldenChaos-BTT": [
@@ -438,9 +561,6 @@
         "Other"
     ],
     "Greenwolf/social_mapper": [
-        "Other"
-    ],
-    "GreezXII/BlackList": [
         "Other"
     ],
     "GregoryFore/shopfy-theme-dev": [
@@ -461,10 +581,19 @@
     "Hammerspoon/hammerspoon": [
         "Other"
     ],
+    "HandBrake/HandBrake": [
+        "Other"
+    ],
+    "Hann8n/Atom-for-Firefox": [
+        "Other"
+    ],
     "HenryRLee/PokerHandEvaluator": [
         "Other"
     ],
     "HoMeCracKeR/awesome-mac": [
+        "Other"
+    ],
+    "HoldemPokerTools/RangeAssistant": [
         "Other"
     ],
     "Homebrew/brew": [
@@ -485,6 +614,9 @@
     "HorlogeSkynet/thunderbird-user.js": [
         "Other"
     ],
+    "Hussseinkizz/FiraCodeiScript": [
+        "Other"
+    ],
     "IanLunn/Hover": [
         "Other"
     ],
@@ -497,7 +629,13 @@
     "Igglybuff/awesome-piracy": [
         "Other"
     ],
+    "ImageOptim/ImageOptim": [
+        "Other"
+    ],
     "Infocatcher/Custom_Buttons": [
+        "Other"
+    ],
+    "Infocatcher/Private_Tab": [
         "Other"
     ],
     "Infocatcher/Right_Links": [
@@ -507,6 +645,9 @@
         "Other"
     ],
     "Infocatcher/UserScripts": [
+        "Other"
+    ],
+    "Innei/zshrc": [
         "Other"
     ],
     "Ipetar69/Gmail-creator": [
@@ -521,10 +662,22 @@
     "JFtechOfficial/mac-automation-scripts": [
         "Other"
     ],
+    "JMARyA/YoutubeDownload": [
+        "Other"
+    ],
     "JT5D/AppleTree": [
         "Other"
     ],
     "JYLD/User-CSS-For-Firefox-And-Thunderbird": [
+        "Other"
+    ],
+    "JackGruber/Joplin-Tools": [
+        "Other"
+    ],
+    "JackGruber/joplin-plugin-backup": [
+        "Other"
+    ],
+    "JackGruber/joplin-plugin-hotfolder": [
         "Other"
     ],
     "JackGruber/joplin-plugin-tagging": [
@@ -533,16 +686,22 @@
     "Jackett/Jackett": [
         "Other"
     ],
+    "JamesQuintero/Sports-Odds-Algorithms": [
+        "Other"
+    ],
     "JamieMagee/wayback": [
         "Other"
     ],
     "JanDeDobbeleer/oh-my-posh": [
         "Other"
     ],
-    "JasnaJovic/jjs-first-dawn-shop": [
+    "JasonkayZK/sync-onetab": [
         "Other"
     ],
     "Javojav/Multi-engine-search": [
+        "Other"
+    ],
+    "JayBrown/imgurAU": [
         "Other"
     ],
     "JeanDavidDaviet/Pocket-Export": [
@@ -554,10 +713,19 @@
     "Jeidoban/Launchpad-Customizer": [
         "Other"
     ],
+    "JetBrains/JetBrainsMono": [
+        "Other"
+    ],
     "Ji4n1ng/OpenInTerminal": [
         "Other"
     ],
     "JimmyLaurent/torrent-search-api": [
+        "Other"
+    ],
+    "JitouchApp/Jitouch": [
+        "Other"
+    ],
+    "JitouchApp/Jitouch-project": [
         "Other"
     ],
     "Jmuccigr/AppleScripts": [
@@ -566,7 +734,7 @@
     "Joolee/userchrome-toggle": [
         "Other"
     ],
-    "JoshCode94/Firefox-History-Combiner": [
+    "Jorengarenar/UserScripts": [
         "Other"
     ],
     "JoshTag/shopify-2.0-dev-course": [
@@ -575,13 +743,25 @@
     "Josua996/AutoTag": [
         "Other"
     ],
+    "JuanJakobo/Pocketbook-Read-offline": [
+        "Other"
+    ],
     "JustAnotherArchivist/snscrape": [
         "Other"
     ],
     "JustOff/ublock0-updater": [
         "Other"
     ],
+    "KURANADO2/hammerspoon-kuranado": [
+        "Other"
+    ],
+    "Karchensky/nhl_api_modeling": [
+        "Other"
+    ],
     "Karna98/Save-Tabs": [
+        "Other"
+    ],
+    "Kavakuo/Dict.cc-Alfred-Workflow": [
         "Other"
     ],
     "Kayno0o/vibrant-glass-theme": [
@@ -593,10 +773,16 @@
     "KhashayarKhm/export-tabs-urls": [
         "Other"
     ],
+    "Kiuryy/Bookmark_Sidebar": [
+        "Other"
+    ],
     "Kocal/vue-web-extension": [
         "Other"
     ],
     "Kungfoowiz/cssSuggestionsVSCode": [
+        "Other"
+    ],
+    "L11R/go-autoconfig": [
         "Other"
     ],
     "LANDrop/LANDrop": [
@@ -626,6 +812,12 @@
     "LeeluPradhan/Service-accounts-seperator-AutoRclone": [
         "Other"
     ],
+    "LekoArts/gatsby-starter-portfolio-cara": [
+        "Other"
+    ],
+    "LekoArts/gatsby-themes": [
+        "Other"
+    ],
     "Leonetienne/Tubio": [
         "Other"
     ],
@@ -641,10 +833,19 @@
     "Liscum/Joplin-Dark-Theme": [
         "Other"
     ],
+    "LoneWanderer-GH/RaspiVWS": [
+        "Other"
+    ],
     "LongBay/Joplin-Light-Theme": [
         "Other"
     ],
+    "Lucksi/Mr.Holmes": [
+        "Other"
+    ],
     "Luzifer/browser-privacy": [
+        "Other"
+    ],
+    "MAKIO135/OneTab2Pocket": [
         "Other"
     ],
     "MDP43140/NoTrash-PureClean-YT": [
@@ -653,19 +854,34 @@
     "MacEnhance/MacForge": [
         "Other"
     ],
+    "MacGesture/MacGesture": [
+        "Other"
+    ],
     "MacPass/MacPass": [
         "Other"
     ],
     "Magisk-Modules-Repo/MagiskHidePropsConf": [
         "Other"
     ],
+    "Mandrenkov/FreshView": [
+        "Other"
+    ],
     "MaorS/macOS-PasswordManager": [
+        "Other"
+    ],
+    "Marginal/QLVideo": [
         "Other"
     ],
     "Margiris/ytmdesktop": [
         "Other"
     ],
     "MarkAntipin/image-search-engine": [
+        "Other"
+    ],
+    "MarufAlAslam/html-email-signature": [
+        "Other"
+    ],
+    "MatthewCash/firefox-mods": [
         "Other"
     ],
     "Maxvien/bootstrap-shopify-theme": [
@@ -677,22 +893,28 @@
     "Maxvien/shopify-theme-customizer": [
         "Other"
     ],
-    "Mennaruuk/twayback": [
+    "MenkeTechnologies/zsh-more-completions": [
         "Other"
     ],
     "Merci-chao/userChrome.js": [
         "Other"
     ],
+    "MiRO92/uYou-for-YouTube": [
+        "Other"
+    ],
+    "MichaelCurrin/url-manager": [
+        "Other"
+    ],
+    "Micky1979/Clover-Configurator-Pro": [
+        "Other"
+    ],
     "Midnight-Lizard/Midnight-Lizard": [
         "Other"
     ],
-    "MikeC0xl0ng/Color-variants-collection": [
-        "Other"
-    ],
-    "Minibus93/my-firefox-setup": [
-        "Other"
-    ],
     "MohamedYoussouf/Design-Resources": [
+        "Other"
+    ],
+    "Molay/LaunchPadder": [
         "Other"
     ],
     "MonitorControl/MonitorControl": [
@@ -708,6 +930,9 @@
         "Other"
     ],
     "Mottie/GitHub-userscripts": [
+        "Other"
+    ],
+    "Moustachauve/cookie-editor": [
         "Other"
     ],
     "MozillaSecurity/prefpicker": [
@@ -746,13 +971,13 @@
     "Mrbigdog99/Firefox-compact": [
         "Other"
     ],
-    "Nacandev/Ohmine-Dark-Theme-For-Joplin": [
-        "Other"
-    ],
     "NathanPJF/shopify-json-responses": [
         "Other"
     ],
     "Neil-Lal/California-Lotto-Scratchers-EV": [
+        "Other"
+    ],
+    "Nerdmaster/poker": [
         "Other"
     ],
     "NiBa97/firefox-css-custom": [
@@ -761,19 +986,31 @@
     "Nick-Gottschlich/Social-Amnesia": [
         "Other"
     ],
+    "NickBodliev/Color-variants-collection": [
+        "Other"
+    ],
     "NicolaeNMV/BehindTheOverlay": [
         "Other"
     ],
     "Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR": [
         "Other"
     ],
-    "Noisy96/my-email-signature": [
+    "NoName-exe/revanced-extended": [
         "Other"
     ],
     "Noitidart/Chrome-Store-Foxified": [
         "Other"
     ],
-    "Not-Cyrus/Login-Stealer": [
+    "NumeriusNegidius/Context-Search": [
+        "Other"
+    ],
+    "Nuzza/OneTab-Reborn": [
+        "Other"
+    ],
+    "Nyx0uf/qlImageSize": [
+        "Other"
+    ],
+    "OhMyGuus/I-Still-Dont-Care-About-Cookies": [
         "Other"
     ],
     "OlegPoljakov/TinderPeopleFinder_Yandex_Images": [
@@ -782,7 +1019,13 @@
     "OpenEmu/OpenEmu": [
         "Other"
     ],
-    "OsborneSystems/Columbia": [
+    "OpenHoldem/openholdembot": [
+        "Other"
+    ],
+    "OsaSoft/youtube-better-subscriptions": [
+        "Other"
+    ],
+    "OsborneLabs/Columbia": [
         "Other"
     ],
     "PHLAK/CloudDrop": [
@@ -818,6 +1061,9 @@
     "PaulSteelway/shopify-terrelique": [
         "Other"
     ],
+    "PeerGroupSoftware/Youtube-To-Mac": [
+        "Other"
+    ],
     "Pepitortue/FirefoxCSS-Safari-theme": [
         "Other"
     ],
@@ -827,13 +1073,31 @@
     "Peuj/duplicate-tabs-closer": [
         "Other"
     ],
+    "Phantas0s/gocket": [
+        "Other"
+    ],
     "PhilippMatthes/neural-greenscreen": [
+        "Other"
+    ],
+    "Phisteven/scraping-bets": [
         "Other"
     ],
     "PierreLebedel/ThunderbirdLargerMessageList": [
         "Other"
     ],
+    "Pilaton/MacSync": [
+        "Other"
+    ],
+    "Pitmairen/selection-search": [
+        "Other"
+    ],
     "Pocket/extension-save-to-pocket": [
+        "Other"
+    ],
+    "PokerDashboard/poker": [
+        "Other"
+    ],
+    "Porco-Rosso/PorcoSpoon": [
         "Other"
     ],
     "Powerlevel9k/powerlevel9k": [
@@ -854,13 +1118,22 @@
     "Protovision/calottery-scratchers": [
         "Other"
     ],
-    "ProvenanceLabs/image-match": [
+    "Prowlarr/Prowlarr": [
         "Other"
     ],
     "PrsPrsBK/tbext-manifest-schema": [
         "Other"
     ],
+    "Purfview/IMDb-Scout-Mod": [
+        "Other"
+    ],
     "QNetITQ/WaveFox": [
+        "Other"
+    ],
+    "RJ-Infinity/UserChromeScriptLoader": [
+        "Other"
+    ],
+    "RONNCC/onetab-syncer": [
         "Other"
     ],
     "RaKeerS/Gif-Finder": [
@@ -879,6 +1152,21 @@
         "Other"
     ],
     "ReDEnergy/SessionSync": [
+        "Other"
+    ],
+    "ReVanced/revanced-documentation": [
+        "Other"
+    ],
+    "ReVanced/revanced-integrations": [
+        "Other"
+    ],
+    "ReVanced/revanced-manager": [
+        "Other"
+    ],
+    "ReVanced/revanced-patcher": [
+        "Other"
+    ],
+    "ReVanced/revanced-patches": [
         "Other"
     ],
     "RealRaven2000/FiltaQuilla": [
@@ -917,6 +1205,9 @@
     "RikkaApps/Shizuku": [
         "Other"
     ],
+    "RoadToDream/SzContext": [
+        "Other"
+    ],
     "Rob--W/bookmark-container-tab": [
         "Other"
     ],
@@ -935,12 +1226,6 @@
     "RobinLinus/snapdrop": [
         "Other"
     ],
-    "RoboMx/WebIDHunt": [
-        "Other"
-    ],
-    "Roman2K/youtube-dl-ios": [
-        "Other"
-    ],
     "RooneyMcNibNug/pihole-stuff": [
         "Other"
     ],
@@ -948,6 +1233,12 @@
         "Other"
     ],
     "SamR1/rdltr-addon": [
+        "Other"
+    ],
+    "Samyak-Bumb/Samyak-Bumb-Theme": [
+        "Other"
+    ],
+    "Sankra/OpenFolderInVSCode": [
         "Other"
     ],
     "Sav22999/emoji": [
@@ -1019,10 +1310,22 @@
     "Shopify/web-configs": [
         "Other"
     ],
+    "Shymoney/Sports-betting-web-app": [
+        "Other"
+    ],
+    "Shywim/github-repo-size": [
+        "Other"
+    ],
     "SichangHe/BetterTouchTool-SLite-Preset": [
         "Other"
     ],
     "SimonSiefke/vscode-html-missing-features": [
+        "Other"
+    ],
+    "SinTan1729/ReVancedBuilder": [
+        "Other"
+    ],
+    "Sinacs/Joplin.Plugin.ReMoods.Theme": [
         "Other"
     ],
     "Smile4ever/firefoxaddons": [
@@ -1043,16 +1346,34 @@
     "Sonarr/Sonarr": [
         "Other"
     ],
+    "SophieFitz/Firefox-History-Combiner": [
+        "Other"
+    ],
+    "SortableJS/Sortable": [
+        "Other"
+    ],
+    "SoslyLW/SportsOdds": [
+        "Other"
+    ],
     "Sparab16/Google-Drive-Upload": [
         "Other"
     ],
+    "SpitFire-666/Firefox-Stuff": [
+        "Other"
+    ],
     "StarPlayrX/bigmac": [
+        "Other"
+    ],
+    "Stephen-Lon/Alfred-workflow-open-macos-settings-panes": [
         "Other"
     ],
     "StevenBlack/hosts": [
         "Other"
     ],
     "StigNygaard/xIFr": [
+        "Other"
+    ],
+    "StylishThemes/GitHub-Dark": [
         "Other"
     ],
     "StylishThemes/GitHub-Dark-Script": [
@@ -1070,13 +1391,16 @@
     "TB-throwback/LookOut-fix-version": [
         "Other"
     ],
+    "TCB13/LoFloccus": [
+        "Other"
+    ],
     "TDenisM/widevinedump": [
         "Other"
     ],
     "TGIFelix/liquid_flex": [
         "Other"
     ],
-    "Taiga74164/ChecksumBypass-GenshinImpact": [
+    "TKOxff/ASAP": [
         "Other"
     ],
     "Tampermonkey/tamperdav": [
@@ -1085,10 +1409,19 @@
     "Tampermonkey/tampermonkey": [
         "Other"
     ],
+    "TarekJor/bookmark-archiver": [
+        "Other"
+    ],
     "Tatsh/youtube-unofficial": [
         "Other"
     ],
+    "Team-xManager/xManager": [
+        "Other"
+    ],
     "TeamNewPipe/NewPipe": [
+        "Other"
+    ],
+    "TeamVanced/VancedMicroG": [
         "Other"
     ],
     "TechnicalWebAnalytics/dataLayer-shopify": [
@@ -1115,6 +1448,12 @@
     "TheGITofTeo997/quietfoxReborn": [
         "Other"
     ],
+    "TheKevJames/homebrew-youtube-viewer": [
+        "Other"
+    ],
+    "TheNightmanCodeth/open-in-code": [
+        "Other"
+    ],
     "TheUmslopogaas/shipping_bar-shopify": [
         "Other"
     ],
@@ -1139,13 +1478,19 @@
     "ToTheMax/Snapchat-All-Memories-Downloader": [
         "Other"
     ],
+    "Toxblh/MTMR": [
+        "Other"
+    ],
+    "Toxblh/MTMR-presets": [
+        "Other"
+    ],
     "Trinovantes/userscript-youtube-playlist-organizer": [
         "Other"
     ],
     "TrollSkull/uScanner": [
         "Other"
     ],
-    "Turpster/Edge-FrFox": [
+    "Tuhinshubhra/ExtAnalysis": [
         "Other"
     ],
     "Tusko/vimeo-private-downloader": [
@@ -1154,19 +1499,37 @@
     "TwisterMc/moz-mac": [
         "Other"
     ],
+    "Tyrrrz/YoutubeExplode": [
+        "Other"
+    ],
     "Tzahi12345/YoutubeDL-Material": [
         "Other"
     ],
     "Ulf3000/highlight-tabs": [
         "Other"
     ],
+    "UncannyOwl/Uncanny-Automator": [
+        "Other"
+    ],
     "UrielAbergel/Follow_The_Image--ComputerVision": [
+        "Other"
+    ],
+    "VMpc/Login-Stealer": [
+        "Other"
+    ],
+    "Vagr9K/gatsby-advanced-starter": [
+        "Other"
+    ],
+    "Vagr9K/gatsby-material-starter": [
         "Other"
     ],
     "Vallek/vallek-firefox-custom-css": [
         "Other"
     ],
     "Van-Code/email-signature-generator": [
+        "Other"
+    ],
+    "Vendicated/Vencord": [
         "Other"
     ],
     "VerifiedJoseph/Save-to-the-Wayback-Machine": [
@@ -1176,9 +1539,6 @@
         "Other"
     ],
     "VigoKrumins/folder-icons": [
-        "Other"
-    ],
-    "VolgemutNik/username-generator": [
         "Other"
     ],
     "Vonng/Capslock": [
@@ -1220,16 +1580,22 @@
     "WynStaXxx/SWBH-Impulse": [
         "Other"
     ],
-    "WynStaXxx/awesome-stars": [
-        "Other"
-    ],
     "WynStaXxx/dawn": [
         "Other"
     ],
     "WynStaXxx/dev-new": [
         "Other"
     ],
+    "WynStaXxx/gh-bookmarks": [
+        "Other"
+    ],
     "WynStaXxx/list-of-my-starred-repos": [
+        "Other"
+    ],
+    "WynStaXxx/my-awesome-starred": [
+        "Other"
+    ],
+    "WynStaXxx/my-awesome-stars": [
         "Other"
     ],
     "WynStaXxx/mytheme": [
@@ -1253,13 +1619,16 @@
     "WynStaXxx/wokiee": [
         "Other"
     ],
+    "XDream8/revanced-creator": [
+        "Other"
+    ],
     "XcrossD/read-later-bookmarks": [
         "Other"
     ],
     "Xinkai/TreeStyleTabCompanion.uc.js": [
         "Other"
     ],
-    "YS-Wong/Adaptive-Tab-Bar-Color": [
+    "Yash220402/firefox_css_ui": [
         "Other"
     ],
     "YoshifumiFuyuno/Search-from-Popup-or-ContextMenu": [
@@ -1268,10 +1637,19 @@
     "YousufSSyed/Firefox-Skin": [
         "Other"
     ],
+    "Yuhanawa/UserScript": [
+        "Other"
+    ],
     "Yuki2718/adblock": [
         "Other"
     ],
+    "YukisCoffee/phroton": [
+        "Other"
+    ],
     "Zabakes/export-tabs-urls": [
+        "Other"
+    ],
+    "ZachSaucier/Just-Read": [
         "Other"
     ],
     "Zegnat/browserext-window-merger": [
@@ -1281,6 +1659,9 @@
         "Other"
     ],
     "Zonnev/elementaryos5-firefox-theme": [
+        "Other"
+    ],
+    "ZzzM/HostsX": [
         "Other"
     ],
     "a-bentofreire/bracketstoix": [
@@ -1307,7 +1688,13 @@
     "aayush210789/Deception-Detection-on-Amazon-reviews-dataset": [
         "Other"
     ],
+    "abaj8494/bettertouchtools": [
+        "Other"
+    ],
     "abbeycode/AppleScripts": [
+        "Other"
+    ],
+    "abdel7ak96/my-email-signature": [
         "Other"
     ],
     "abhijithvijayan/awesome-stars": [
@@ -1316,7 +1703,25 @@
     "abhijithvijayan/stargazed": [
         "Other"
     ],
+    "abhijithvijayan/web-extension-starter": [
+        "Other"
+    ],
+    "abp-filters/abp-filters-anti-cv": [
+        "Other"
+    ],
+    "achembarpu/pockyt": [
+        "Other"
+    ],
     "actions/checkout": [
+        "Other"
+    ],
+    "actions/starter-workflows": [
+        "Other"
+    ],
+    "actions/upload-artifact": [
+        "Other"
+    ],
+    "adam-p/markdown-here": [
         "Other"
     ],
     "adamschwartz/chrome-desaturate-favicons": [
@@ -1349,13 +1754,28 @@
     "adsbypasser/adsbypasser.github.io": [
         "Other"
     ],
-    "aemi-dev/Fonts": [
+    "aecreations/clippings": [
+        "Other"
+    ],
+    "aecreations/clippings-tb": [
+        "Other"
+    ],
+    "aecreations/readnext": [
+        "Other"
+    ],
+    "aerobless/bookmarks": [
+        "Other"
+    ],
+    "aerobless/static-marks-raycast": [
         "Other"
     ],
     "agalwood/Motrix": [
         "Other"
     ],
     "ageitgey/face_recognition": [
+        "Other"
+    ],
+    "agkozak/zsh-z": [
         "Other"
     ],
     "agneevX/home-assistant": [
@@ -1409,7 +1829,10 @@
     "alex-phillips/node-clouddrive": [
         "Other"
     ],
-    "alexanderbast/vscode-snazzy": [
+    "alexander-ladygin/illustrator-scripts": [
+        "Other"
+    ],
+    "alexmdodge/github-diff-explorer": [
         "Other"
     ],
     "alexmercerind/youtube-search-python": [
@@ -1424,10 +1847,16 @@
     "alextidalrise/bysofie-shipping-message": [
         "Other"
     ],
+    "alextwothousand/snapdrop-desktop": [
+        "Other"
+    ],
     "alexyz/poker": [
         "Other"
     ],
     "alfred-workflows/awesome-alfred-workflows": [
+        "Other"
+    ],
+    "alfredapp/automation-tasks": [
         "Other"
     ],
     "alfredapp/google-drive-workflow": [
@@ -1440,6 +1869,9 @@
         "Other"
     ],
     "alfredapp/shortcuts-workflow": [
+        "Other"
+    ],
+    "alfredapp/update-automation-tasks-workflow": [
         "Other"
     ],
     "alfredapp/updated-third-party-python2-workflows": [
@@ -1463,13 +1895,28 @@
     "allen505/save-for-later": [
         "Other"
     ],
+    "alxshelepenok/gatsby-starter-lumen": [
+        "Other"
+    ],
+    "alyssaxuu/omni": [
+        "Other"
+    ],
     "alyssaxuu/screenity": [
+        "Other"
+    ],
+    "aman-d-1-n-only/joplin-exports-to-ssg": [
         "Other"
     ],
     "amandamcg/joplin-new-theme-sandbox": [
         "Other"
     ],
     "amarsyla/hidutil-key-remapping-generator": [
+        "Other"
+    ],
+    "amebalabs/Esse": [
+        "Other"
+    ],
+    "amebalabs/TRex": [
         "Other"
     ],
     "amelandri/NotableUtilities": [
@@ -1487,13 +1934,19 @@
     "amirgamil/apollo": [
         "Other"
     ],
-    "amym321/am-studio-site": [
+    "amitness/cutcode": [
         "Other"
     ],
-    "andreafortuna/SocialRecon": [
+    "amix/vimrc": [
+        "Other"
+    ],
+    "amugofjava/anytime_podcast_player": [
         "Other"
     ],
     "andrejilderda/joplin-macos-native-theme": [
+        "Other"
+    ],
+    "andrejsharapov/vue-box-shadows": [
         "Other"
     ],
     "andrepolischuk/keep": [
@@ -1505,10 +1958,22 @@
     "andrewchidden/btt-presets": [
         "Other"
     ],
+    "andrewprock/pokerstove": [
+        "Other"
+    ],
+    "andreyvit/env": [
+        "Other"
+    ],
     "andy-portmen/external-application-button": [
         "Other"
     ],
+    "andyw8/pocket-ruby": [
+        "Other"
+    ],
     "anewuser/firefox-clean-dark-theme": [
+        "Other"
+    ],
+    "anishathalye/dotbot": [
         "Other"
     ],
     "annoyatron255/Userchrome": [
@@ -1520,19 +1985,40 @@
     "anselm94/googlekeepclone": [
         "Other"
     ],
+    "antipalindrome/Photoshop-Export-Layers-to-Files-Fast": [
+        "Other"
+    ],
     "antonreshetov/mysigmail": [
+        "Other"
+    ],
+    "anudeepND/blacklist": [
         "Other"
     ],
     "anuejn/swipe-back": [
         "Other"
     ],
+    "apehex/awesome-poker": [
+        "Other"
+    ],
     "apilayer/numverify-API": [
+        "Other"
+    ],
+    "apiraino/link_cleaner": [
         "Other"
     ],
     "aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork": [
         "Other"
     ],
+    "aptonic/dropzone4-actions": [
+        "Other"
+    ],
+    "aptonic/dropzone4-actions-zipped": [
+        "Other"
+    ],
     "ardiman/userChrome.js": [
+        "Other"
+    ],
+    "arguablykomodo/shadowfox-updater": [
         "Other"
     ],
     "argyleink/conic.css": [
@@ -1544,13 +2030,19 @@
     "arkenfox/user.js": [
         "Other"
     ],
+    "armanozak/open-in-vscode": [
+        "Other"
+    ],
     "arp242/MartinFox": [
         "Other"
     ],
     "arsenetar/dupeguru": [
         "Other"
     ],
-    "artginzburg/MiddleClick-BigSur": [
+    "artginzburg/MiddleClick-Ventura": [
+        "Other"
+    ],
+    "artginzburg/sudo-touchid": [
         "Other"
     ],
     "arthurdecloedt/BTT-scripts": [
@@ -1562,10 +2054,22 @@
     "ashwinishet/Image-Web-Scraper": [
         "Other"
     ],
+    "astrit/css.gg": [
+        "Other"
+    ],
+    "athityakumar/colorls": [
+        "Other"
+    ],
     "atom/atom": [
         "Other"
     ],
+    "atomantic/dotfiles": [
+        "Other"
+    ],
     "austintraver/merge": [
+        "Other"
+    ],
+    "aviaryan/alfred-last2imgur": [
         "Other"
     ],
     "avindra/fndr": [
@@ -1580,6 +2084,9 @@
     "awesome-css-group/awesome-css": [
         "Other"
     ],
+    "awesome-scripts/awesome-userscripts": [
+        "Other"
+    ],
     "axcore/tartube": [
         "Other"
     ],
@@ -1590,6 +2097,9 @@
         "Other"
     ],
     "azai91/alfred-drive-workflow": [
+        "Other"
+    ],
+    "b4b4r07/enhancd": [
         "Other"
     ],
     "babldev/camera-cli": [
@@ -1607,6 +2117,9 @@
     "balvin-perrie/mp3-converter": [
         "Other"
     ],
+    "balvin-perrie/the-pirate-bay-torrent-search": [
+        "Other"
+    ],
     "bantunagarjuna/Real-time-data-storing-in-google-drive": [
         "Other"
     ],
@@ -1619,10 +2132,16 @@
     "barrykn/big-sur-micropatcher": [
         "Other"
     ],
+    "bartoszj/acextract": [
+        "Other"
+    ],
     "basharovV/Modos-BTT": [
         "Other"
     ],
     "basnijholt/home-assistant-macbook-touch-bar": [
+        "Other"
+    ],
+    "bbusschots/macos-quickaction-text": [
         "Other"
     ],
     "bcat95/Facebook-Video-Downloader": [
@@ -1634,7 +2153,19 @@
     "beardedspice/beardedspice": [
         "Other"
     ],
+    "beichensky/Font": [
+        "Other"
+    ],
+    "benbalter/github_records_archiver": [
+        "Other"
+    ],
+    "benbasson/contextsearch": [
+        "Other"
+    ],
     "benfaerber/one-monokai-firefox-devtools": [
+        "Other"
+    ],
+    "benhcai/VSCode-Theme-Snazzy": [
         "Other"
     ],
     "benibela/xidel": [
@@ -1652,6 +2183,9 @@
     "benji300/joplin-persistent-layout": [
         "Other"
     ],
+    "benknight/hue-alfred-workflow": [
+        "Other"
+    ],
     "benman604/userChrome.css": [
         "Other"
     ],
@@ -1659,6 +2193,9 @@
         "Other"
     ],
     "benr0th/PlaylistSearch": [
+        "Other"
+    ],
+    "benwiggy/PDFsuite": [
         "Other"
     ],
     "benzBrake/FirefoxCustomize": [
@@ -1673,19 +2210,25 @@
     "bhavsec/reconspider": [
         "Other"
     ],
+    "bigxixi/ffmpeg-mp4-and-gif-mac-automator": [
+        "Other"
+    ],
     "bijij/ViewImage": [
         "Other"
     ],
     "bilde2910/Hauk": [
         "Other"
     ],
-    "bit-tinker/Window-Saver": [
+    "billpalombi/pocket_parse": [
         "Other"
     ],
     "bitgapp/eqMac": [
         "Other"
     ],
     "bitwarden/clients": [
+        "Other"
+    ],
+    "bitwarden/self-host": [
         "Other"
     ],
     "bkuhlmann/mac_os-config": [
@@ -1697,7 +2240,10 @@
     "black7375/Firefox-UI-Fix": [
         "Other"
     ],
-    "blanklob/skeleton": [
+    "blanklob/helium": [
+        "Other"
+    ],
+    "blenderskool/untab": [
         "Other"
     ],
     "bltavares/pickpocket": [
@@ -1736,10 +2282,16 @@
     "bravetheskies/themekit-download-action": [
         "Other"
     ],
+    "brcontainer/prevent-duplicate-tabs": [
+        "Other"
+    ],
     "brian-girko/bookmarks-commander": [
         "Other"
     ],
     "briangershon/retrieve-pocket-bookmarks": [
+        "Other"
+    ],
+    "briankendall/forceFullDesktopBar": [
         "Other"
     ],
     "brohlson/themekit-webpack-tailwind": [
@@ -1766,10 +2318,19 @@
     "byeolbit/translucent": [
         "Other"
     ],
+    "caballerofelipe/osx-automator-services": [
+        "Other"
+    ],
     "cadeyrn/bookmarks-organizer": [
         "Other"
     ],
     "caiogondim/bullet-train.zsh": [
+        "Other"
+    ],
+    "caius/zshrc": [
+        "Other"
+    ],
+    "calibr/node-bookmarks-parser": [
         "Other"
     ],
     "calzoneman/sync": [
@@ -1778,13 +2339,19 @@
     "canalnoises/AirDrop-Shortcut": [
         "Other"
     ],
+    "cardrank/cardrank": [
+        "Other"
+    ],
     "cassidoo/shopify-next-netlify": [
         "Other"
     ],
     "catppuccin/joplin": [
         "Other"
     ],
-    "cbrooker/home-assistant-cync": [
+    "catppuccin/thunderbird": [
+        "Other"
+    ],
+    "cbuijs/oisd": [
         "Other"
     ],
     "cc-archive/ccsearch-browser-extension": [
@@ -1805,6 +2372,18 @@
     "chaance/vscode-setup": [
         "Other"
     ],
+    "chamburr/glance": [
+        "Other"
+    ],
+    "changyuheng/fz.sh": [
+        "Other"
+    ],
+    "changyuheng/zsh-interactive-cd": [
+        "Other"
+    ],
+    "charlieMonroe/DownieCustomIntegrations": [
+        "Other"
+    ],
     "charlieMonroe/DownieExtensions": [
         "Other"
     ],
@@ -1812,9 +2391,6 @@
         "Other"
     ],
     "cheap-glitch/warpgate": [
-        "Other"
-    ],
-    "cheems/transfer-between-drives": [
         "Other"
     ],
     "cheshire137/dotfiles": [
@@ -1850,7 +2426,13 @@
     "cj1128/alfred-qrcode-workflow": [
         "Other"
     ],
+    "ckeditor/github-writer": [
+        "Other"
+    ],
     "cl3m/MiddleClick": [
+        "Other"
+    ],
+    "clarityglobal/shopify-gtm-ga": [
         "Other"
     ],
     "claustromaniac/Compare-UserJS": [
@@ -1889,10 +2471,13 @@
     "cnwangjie/better-onetab-sync-server": [
         "Other"
     ],
-    "code-for-charity/YouTube-Extension": [
+    "cobiwave/gatsby-simplefolio": [
         "Other"
     ],
-    "code0312/VSCode-Theme-Snazzy": [
+    "code-charity/ToDo": [
+        "Other"
+    ],
+    "code-charity/youtube": [
         "Other"
     ],
     "codebox/reading-list-mover": [
@@ -1901,10 +2486,10 @@
     "coder-chenzhi/EasyTabURL-ChromeExtension": [
         "Other"
     ],
-    "codeverland/bookmarks": [
+    "codewizard13/ehw-app-scrape-onetab-links": [
         "Other"
     ],
-    "codeverland/codever": [
+    "codfish/dotfiles": [
         "Other"
     ],
     "conema/monterail-dark": [
@@ -1919,19 +2504,37 @@
     "coolaj86/dropshare": [
         "Other"
     ],
+    "cormiertyshawn895/Retroactive": [
+        "Other"
+    ],
     "corpnewt/ProperTree": [
+        "Other"
+    ],
+    "cotes2020/jekyll-theme-chirpy": [
         "Other"
     ],
     "cpeterso/open-page-in-private-window": [
         "Other"
     ],
+    "craftsmandigital/hugo-get-pocket": [
+        "Other"
+    ],
     "craigerm/shopify-theme-dev": [
+        "Other"
+    ],
+    "craser/KeyboardMaestroMacros": [
+        "Other"
+    ],
+    "create-dmg/create-dmg": [
         "Other"
     ],
     "crestonbunch/ff-ctrl-e": [
         "Other"
     ],
     "criblio/js2bin": [
+        "Other"
+    ],
+    "crimx/ext-saladict": [
         "Other"
     ],
     "crittermike/shortkeys": [
@@ -1946,13 +2549,37 @@
     "ctrlxc/copyaddrs": [
         "Other"
     ],
+    "cuynu/ytvanced": [
+        "Other"
+    ],
     "cweirup/JoplinSafariWebClipper": [
         "Other"
     ],
     "d2phap/fluent-reveal-effect": [
         "Other"
     ],
+    "d3ward/floatly": [
+        "Other"
+    ],
+    "d3ward/scriptz": [
+        "Other"
+    ],
+    "d6o/TinderOnline": [
+        "Other"
+    ],
+    "daattali/beautiful-jekyll": [
+        "Other"
+    ],
+    "dabaisuv/Tampermonkey-Script": [
+        "Other"
+    ],
+    "dagware/DanThomas": [
+        "Other"
+    ],
     "daliansky/Hackintosh": [
+        "Other"
+    ],
+    "dan-and/KeepToText": [
         "Other"
     ],
     "danielmiessler/GeoHarvest": [
@@ -1979,10 +2606,16 @@
     "danmindru/responsive-html-email-signature": [
         "Other"
     ],
+    "dannycandle/FluidFox": [
+        "Other"
+    ],
     "dannycolin/fx-compact-mode": [
         "Other"
     ],
     "dantebarba/gdrive-migrator": [
+        "Other"
+    ],
+    "daprofiler/DaProfiler": [
         "Other"
     ],
     "darekkay/static-marks": [
@@ -2000,16 +2633,34 @@
     "darkred/Userscripts": [
         "Other"
     ],
+    "darktrojan/openwith": [
+        "Other"
+    ],
+    "dashee87/betScrapeR": [
+        "Other"
+    ],
+    "datamllab/rlcard": [
+        "Other"
+    ],
     "datguypiko/Firefox-Mod-Blur": [
         "Other"
     ],
     "datttran/Firefox-mod": [
         "Other"
     ],
-    "david-hoicka/OneTab-backup": [
+    "david-littlefield/SingleFileMac": [
         "Other"
     ],
-    "david-littlefield/SingleFileMac": [
+    "davidmhammond/contextlets": [
+        "Other"
+    ],
+    "davidmytton/dotfiles": [
+        "Other"
+    ],
+    "dawiidio/o-menu": [
+        "Other"
+    ],
+    "dazecoop/firefox-theme-macos-vibrant": [
         "Other"
     ],
     "ddawson/Link-Tools": [
@@ -2027,10 +2678,25 @@
     "deanishe/alfred-workflow": [
         "Other"
     ],
+    "deathau/markdownload": [
+        "Other"
+    ],
+    "decipher3114/Revancify": [
+        "Other"
+    ],
+    "deepjyoti30/ytmdl": [
+        "Other"
+    ],
     "defunkt/gist": [
         "Other"
     ],
+    "deinsoftware/dot-files": [
+        "Other"
+    ],
     "demtario/hes-gallery": [
+        "Other"
+    ],
+    "denesberta/firefox_compact_style": [
         "Other"
     ],
     "denis-g/firefox-user.js": [
@@ -2039,7 +2705,16 @@
     "deniszanin/tabs2text": [
         "Other"
     ],
+    "denizjcan/Firefox-Safari-15-Theme": [
+        "Other"
+    ],
+    "derickfay/tag-services": [
+        "Other"
+    ],
     "dermesser/photosync": [
+        "Other"
+    ],
+    "deseven/iCanHazShortcut": [
         "Other"
     ],
     "desktop/desktop": [
@@ -2060,6 +2735,9 @@
     "devmount/third-stats": [
         "Other"
     ],
+    "deweller/switchaudio-osx": [
+        "Other"
+    ],
     "dexiota/replacefirefoxicon": [
         "Other"
     ],
@@ -2072,19 +2750,43 @@
     "dgurkaynak/Penc": [
         "Other"
     ],
+    "diatoming/Drop2Download": [
+        "Other"
+    ],
+    "dickreuter/Poker": [
+        "Other"
+    ],
     "diditforlulz273/PokerRL-Omaha": [
         "Other"
     ],
     "diegov/searchbox": [
         "Other"
     ],
+    "djsudduth/keep-it-markdown": [
+        "Other"
+    ],
     "djui/alias-tips": [
+        "Other"
+    ],
+    "dkarter/alfred-switch-audio": [
+        "Other"
+    ],
+    "dkthehuman/extension-starter-kit": [
         "Other"
     ],
     "dmhacker/facebook-message-analysis": [
         "Other"
     ],
+    "dnnsmnstrr/HydroTouch": [
+        "Other"
+    ],
+    "dnomd343/alltube-docker": [
+        "Other"
+    ],
     "dognotdog/ptpwebcam": [
+        "Other"
+    ],
+    "dogsheep/pocket-to-sqlite": [
         "Other"
     ],
     "dokterdok/Continuity-Activation-Tool": [
@@ -2111,6 +2813,12 @@
     "download-directory/download-directory.github.io": [
         "Other"
     ],
+    "downthemall/downthemall": [
+        "Other"
+    ],
+    "dpschen/onetab-export-script": [
+        "Other"
+    ],
     "dracula/thunderbird": [
         "Other"
     ],
@@ -2129,6 +2837,9 @@
     "dreadnaut/bordercolors-d": [
         "Other"
     ],
+    "driesvints/dotfiles": [
+        "Other"
+    ],
     "drsjb80/thematic": [
         "Other"
     ],
@@ -2138,10 +2849,16 @@
     "dumbmatter/fakeIndexedDB": [
         "Other"
     ],
+    "duolingo/metasearch": [
+        "Other"
+    ],
     "dupontjoy/userChrome.js-Collections-": [
         "Other"
     ],
     "dustindmiller/QLab-Touchbar": [
+        "Other"
+    ],
+    "duyquoc/ScreenToLayers": [
         "Other"
     ],
     "dwarvesf/blurred": [
@@ -2150,7 +2867,22 @@
     "dwarvesf/hidden": [
         "Other"
     ],
+    "dylanaraps/fff": [
+        "Other"
+    ],
     "dylanaraps/neofetch": [
+        "Other"
+    ],
+    "dynle/btt-simple-airpods-battery-widget": [
+        "Other"
+    ],
+    "dynobo/normcap": [
+        "Other"
+    ],
+    "dyu/bookmarks": [
+        "Other"
+    ],
+    "e-alizadeh/PyPocket": [
         "Other"
     ],
     "eaaasun/CCStopper": [
@@ -2159,10 +2891,16 @@
     "earthlng/aboutconfig": [
         "Other"
     ],
-    "easylist/easylist": [
+    "easonwong-de/Adaptive-Tab-Bar-Color": [
         "Other"
     ],
-    "eclipsesource/megit": [
+    "easonwong-de/Tab-Preview-On-Hover": [
+        "Other"
+    ],
+    "easonwong-de/White-Sur-Firefox-Theme-MacOS": [
+        "Other"
+    ],
+    "easylist/easylist": [
         "Other"
     ],
     "ede1998/autoarchive": [
@@ -2219,7 +2957,13 @@
     "elliotlepers/Amazon-Killer": [
         "Other"
     ],
+    "elrumo/icon-brew": [
+        "Other"
+    ],
     "elrumo/macOS_Big_Sur_icons_replacements": [
+        "Other"
+    ],
+    "eludadev/ui-buttons": [
         "Other"
     ],
     "elv1n/btt-window-manager-preset": [
@@ -2231,13 +2975,13 @@
     "emin/WebPQuickLook": [
         "Other"
     ],
+    "endcloud/onetab_restore_tauri": [
+        "Other"
+    ],
     "enokmadrid/deafink": [
         "Other"
     ],
     "entepe85/userChrome.css": [
-        "Other"
-    ],
-    "eramdam/dotfiles": [
         "Other"
     ],
     "erdidogan/username-scanner": [
@@ -2249,16 +2993,28 @@
     "erickok/transdroid-search": [
         "Other"
     ],
+    "erikkaashoek/Comskip": [
+        "Other"
+    ],
     "erosman/support": [
         "Other"
     ],
     "es-kumagai/OpenTerminal": [
         "Other"
     ],
+    "essandess/etv-comskip": [
+        "Other"
+    ],
     "estelle/CSS3Gradients": [
         "Other"
     ],
     "eszdman/PhotonCamera": [
+        "Other"
+    ],
+    "eth-p/mac-icons": [
+        "Other"
+    ],
+    "evanca/quick-portfolio": [
         "Other"
     ],
     "evanjd/python-logi-circle": [
@@ -2270,7 +3026,13 @@
     "evilpie/add-custom-search-engine": [
         "Other"
     ],
+    "evolutionsoftswiss/poker-calculator-webapp": [
+        "Other"
+    ],
     "ewen-lbh/ffcss": [
+        "Other"
+    ],
+    "ewpratten/youtube_ad_blocklist": [
         "Other"
     ],
     "execut/yii2-people-finder": [
@@ -2288,6 +3050,9 @@
     "facebookresearch/faiss": [
         "Other"
     ],
+    "fajarjulyana/circular-nav-html-css-only": [
+        "Other"
+    ],
     "fanfare/googleimagesrestored": [
         "Other"
     ],
@@ -2295,6 +3060,9 @@
         "Other"
     ],
     "farnots/iCloudDownloader": [
+        "Other"
+    ],
+    "fasilofficial/box-shadow-generator": [
         "Other"
     ],
     "fastaddons/Darko": [
@@ -2312,13 +3080,13 @@
     "feracommerce/shopify_app_detector": [
         "Other"
     ],
-    "feren-OS/Firefox-Ice-Prototyping": [
-        "Other"
-    ],
     "fharper/macsetup": [
         "Other"
     ],
     "fikovnik/ShiftIt": [
+        "Other"
+    ],
+    "filips123/PWAsForFirefox": [
         "Other"
     ],
     "finia2NA/getter": [
@@ -2328,6 +3096,9 @@
         "Other"
     ],
     "floccusaddon/floccus": [
+        "Other"
+    ],
+    "fm-sys/snapdrop-android": [
         "Other"
     ],
     "fmeyertoens/MaterialFox": [
@@ -2360,6 +3131,12 @@
     "fredjoseph/dns-blocker": [
         "Other"
     ],
+    "fregante/Awesome-WebExtensions": [
+        "Other"
+    ],
+    "fregante/browser-extension-template": [
+        "Other"
+    ],
     "fregante/list-github-dir-content": [
         "Other"
     ],
@@ -2378,10 +3155,25 @@
     "ftassy/GCalTab": [
         "Other"
     ],
+    "fuyu0425/firefox-tweaks": [
+        "Other"
+    ],
+    "g-cqd/Fonts": [
+        "Other"
+    ],
+    "g13nn/Email-Framework": [
+        "Other"
+    ],
     "gabeweb/Firefox-Browser-Proton-Custom": [
         "Other"
     ],
     "gaerfield/static-marks-docker": [
+        "Other"
+    ],
+    "gaerfield/static-marks-github-pages": [
+        "Other"
+    ],
+    "ganapativs/bttn.css": [
         "Other"
     ],
     "ganeshrvel/openmtp": [
@@ -2394,6 +3186,9 @@
         "Other"
     ],
     "garywill/BigSearch": [
+        "Other"
+    ],
+    "garywill/FirefoxTaskMonitor": [
         "Other"
     ],
     "garywill/aboutconfig-menu": [
@@ -2414,10 +3209,25 @@
     "garywill/sidebar-switch": [
         "Other"
     ],
-    "gauti123456/AdvancedVideoSearch": [
+    "gatsbyjs/gatsby": [
+        "Other"
+    ],
+    "gatsbyjs/gatsby-starter-blog": [
+        "Other"
+    ],
+    "gdepourtales/custom-tab-title-favicon": [
+        "Other"
+    ],
+    "geerlingguy/mac-dev-playbook": [
+        "Other"
+    ],
+    "genesy/karabiner-complex-rules-generator": [
         "Other"
     ],
     "geoai777/joplin_styles": [
+        "Other"
+    ],
+    "georgedouzas/sports-betting": [
         "Other"
     ],
     "getpelican/pelican": [
@@ -2432,7 +3242,7 @@
     "gglukmann/use-google-sheets": [
         "Other"
     ],
-    "ghostx31/joplin-old": [
+    "gharlan/alfred-github-workflow": [
         "Other"
     ],
     "gietema/bookmarks": [
@@ -2441,10 +3251,37 @@
     "gildas-lormeau/LazyLoadify": [
         "Other"
     ],
+    "gildas-lormeau/Scrapbook-for-SingleFile": [
+        "Other"
+    ],
     "gildas-lormeau/SingleFile": [
         "Other"
     ],
+    "gildas-lormeau/SingleFile-Archives": [
+        "Other"
+    ],
+    "gildas-lormeau/SingleFile-Lite": [
+        "Other"
+    ],
+    "gildas-lormeau/SingleFile-Safari-Extension": [
+        "Other"
+    ],
     "gildas-lormeau/SingleFileZ": [
+        "Other"
+    ],
+    "gildas-lormeau/single-file-cli": [
+        "Other"
+    ],
+    "gildas-lormeau/single-file-companion": [
+        "Other"
+    ],
+    "gildas-lormeau/single-file-companion-lite": [
+        "Other"
+    ],
+    "gildas-lormeau/single-file-core": [
+        "Other"
+    ],
+    "gildas-lormeau/single-filez-core": [
         "Other"
     ],
     "git/git": [
@@ -2471,7 +3308,13 @@
     "gluons/download-directory-helper": [
         "Other"
     ],
-    "gmes78/tab_move": [
+    "gmardom/firefox-mods": [
+        "Other"
+    ],
+    "go-shiori/shiori": [
+        "Other"
+    ],
+    "go-shiori/shiori-web-ext": [
         "Other"
     ],
     "goabstract/Awesome-Design-Tools": [
@@ -2486,7 +3329,19 @@
     "gohugoio/hugo": [
         "Other"
     ],
+    "gokulkrishh/dotfiles": [
+        "Other"
+    ],
+    "goldfire/pokersolver": [
+        "Other"
+    ],
+    "gomita/firegestures": [
+        "Other"
+    ],
     "gonzalovsilva/joplin-dark-theme": [
+        "Other"
+    ],
+    "google/mediapipe": [
         "Other"
     ],
     "google/python-laurel": [
@@ -2496,6 +3351,9 @@
         "Other"
     ],
     "gorhill/uMatrix": [
+        "Other"
+    ],
+    "gorse-io/gitrec": [
         "Other"
     ],
     "gphoto/gphoto2": [
@@ -2513,7 +3371,13 @@
     "guardianproject/haven": [
         "Other"
     ],
+    "guarinogabriel/Mac-CLI": [
+        "Other"
+    ],
     "guidoevers/firefoxcss": [
+        "Other"
+    ],
+    "gullitmiranda/pocket-to-raindrop": [
         "Other"
     ],
     "gztchan/awesome-design": [
@@ -2522,10 +3386,16 @@
     "h0se69/Shopify-Variant-Scraper": [
         "Other"
     ],
+    "hackjutsu/Lepton": [
+        "Other"
+    ],
     "halfhelix/shopify-guide": [
         "Other"
     ],
     "hanacchi/RestoreFirefoxJS": [
+        "Other"
+    ],
+    "haoict/reddit-no-ads": [
         "Other"
     ],
     "haokaiyang/Mac-QuickLook": [
@@ -2546,6 +3416,9 @@
     "hazcod/maclaunch": [
         "Other"
     ],
+    "heartshapedbox/macOS-shortcuts": [
+        "Other"
+    ],
     "hendrikbgr/YandexMail-Account-Creator": [
         "Other"
     ],
@@ -2564,13 +3437,16 @@
     "hiroshil/save-tabs": [
         "Other"
     ],
+    "hoffstadt/DearPyGui": [
+        "Other"
+    ],
     "home-assistant/core": [
         "Other"
     ],
     "home-assistant/home-assistant.io": [
         "Other"
     ],
-    "honestbleeps/Reddit-Enhancement-Suite": [
+    "homerchen19/github-file-icons": [
         "Other"
     ],
     "hongde88/firefox-workspace-manager": [
@@ -2580,6 +3456,9 @@
         "Other"
     ],
     "hoothin/SearchJumper": [
+        "Other"
+    ],
+    "hoothin/snapdrop": [
         "Other"
     ],
     "horahoradev/horahora": [
@@ -2600,10 +3479,16 @@
     "htrinter/Open-Multiple-URLs": [
         "Other"
     ],
+    "hughrun/pocketsnack": [
+        "Other"
+    ],
     "huginn/huginn": [
         "Other"
     ],
     "huhu/rust-search-extension": [
+        "Other"
+    ],
+    "humandecoded/twayback": [
         "Other"
     ],
     "humanetech-community/awesome-humane-tech": [
@@ -2639,6 +3524,15 @@
     "iam-py-test/my_filters_001": [
         "Other"
     ],
+    "iam4x/bobarr": [
+        "Other"
+    ],
+    "iamadamdev/bypass-paywalls-chrome": [
+        "Other"
+    ],
+    "iamadamdev/bypass-paywalls-firefox": [
+        "Other"
+    ],
     "iampueroo/rComments": [
         "Other"
     ],
@@ -2649,6 +3543,9 @@
         "Other"
     ],
     "ianyh/Amethyst": [
+        "Other"
+    ],
+    "iconify/iconify": [
         "Other"
     ],
     "iconoir-icons/iconoir": [
@@ -2663,13 +3560,16 @@
     "idbartosz/vscode-darkpp-italic": [
         "Other"
     ],
+    "idealo/imagededup": [
+        "Other"
+    ],
     "ideaweb/firefox-safari-style": [
         "Other"
     ],
-    "igorlogius/load-background-tabs-on-select": [
+    "igdownloader/InstagramDownloader": [
         "Other"
     ],
-    "iina-plus/iina": [
+    "igorlogius/load-background-tabs-on-select": [
         "Other"
     ],
     "iina/iina": [
@@ -2678,10 +3578,16 @@
     "ikedaosushi/alfred-wf-music-dl": [
         "Other"
     ],
+    "ikki4/OneTab-Backup-Automation": [
+        "Other"
+    ],
     "ildella/pocket-cli": [
         "Other"
     ],
     "illarionvk/shopify-email-templates": [
+        "Other"
+    ],
+    "illixion/vscode-vibrancy-continued": [
         "Other"
     ],
     "ineat/signature": [
@@ -2690,7 +3596,28 @@
     "infokiller/web-search-navigator": [
         "Other"
     ],
+    "inotia00/ReVanced_Extended": [
+        "Other"
+    ],
+    "inotia00/VancedMicroG": [
+        "Other"
+    ],
+    "inotia00/revanced-documentation": [
+        "Other"
+    ],
+    "inotia00/revanced-manager": [
+        "Other"
+    ],
+    "inotia00/revanced-patches": [
+        "Other"
+    ],
     "insidegui/CustomStatusBarWindow": [
+        "Other"
+    ],
+    "insin/control-panel-for-twitter": [
+        "Other"
+    ],
+    "instaatze/vscode-snazzy": [
         "Other"
     ],
     "instantusername/instant-username-search": [
@@ -2699,25 +3626,34 @@
     "internetarchive/wayback-machine-webextension": [
         "Other"
     ],
-    "intrnl/firefox-revert-proton": [
+    "iocave/customize-ui": [
         "Other"
     ],
-    "iocave/customize-ui": [
+    "iorate/ublacklist": [
+        "Other"
+    ],
+    "iposho/boxshadowru": [
         "Other"
     ],
     "isheeze/rawalpindis": [
         "Other"
     ],
-    "itsjoshthedeveloper/backupOneTab": [
+    "iv-org/invidious": [
         "Other"
     ],
-    "iv-org/invidious": [
+    "ixartz/Astro-boilerplate": [
         "Other"
     ],
     "ixnewton/thunderbird-monterail": [
         "Other"
     ],
     "j-Riv/shopify-tools-cli": [
+        "Other"
+    ],
+    "j-hc/revanced-magisk-module": [
+        "Other"
+    ],
+    "jaakkopasanen/AutoEq": [
         "Other"
     ],
     "jabiddle/GlobalPokerExt": [
@@ -2732,7 +3668,16 @@
     "jacklukem/USBOpenCoreAPFSloader": [
         "Other"
     ],
+    "jairo-aguirre/product-comparison": [
+        "Other"
+    ],
     "jakob/TableTool": [
+        "Other"
+    ],
+    "jamesbrindle/YTMusicUploader": [
+        "Other"
+    ],
+    "jameshealyio/bang-bookmarks": [
         "Other"
     ],
     "jamesqquick/Web-Development-Essentials-Extension-Pack": [
@@ -2741,10 +3686,16 @@
     "janraasch/tab-ahead": [
         "Other"
     ],
+    "jarmo/backpocket": [
+        "Other"
+    ],
+    "jarun/buku": [
+        "Other"
+    ],
     "jasewarner/gulp-shopify": [
         "Other"
     ],
-    "jayesh-bhoot/pin-unpin-tab": [
+    "jasonrudolph/keyboard": [
         "Other"
     ],
     "jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify": [
@@ -2753,10 +3704,16 @@
     "jaywcjlove/awesome-mac": [
         "Other"
     ],
-    "jballmann/safelink": [
+    "jbtule/cdto": [
         "Other"
     ],
-    "jbtule/cdto": [
+    "jcz530/shadows": [
+        "Other"
+    ],
+    "jdberry/tag": [
+        "Other"
+    ],
+    "jeanslack/Videomass": [
         "Other"
     ],
     "jeeliz/jeelizFaceFilter": [
@@ -2766,6 +3723,9 @@
         "Other"
     ],
     "jeffreytram/UniDrive": [
+        "Other"
+    ],
+    "jekyllt/sustain": [
         "Other"
     ],
     "jely2002/youtube-dl-gui": [
@@ -2789,10 +3749,22 @@
     "jeremyperkin/uBlockdark": [
         "Other"
     ],
+    "jeromelachaud/freelancer-theme": [
+        "Other"
+    ],
+    "jerone/UserScripts": [
+        "Other"
+    ],
     "jerrylususu/joplin-vacuum": [
         "Other"
     ],
     "jerryn70/GoodbyeAds": [
+        "Other"
+    ],
+    "jesseduffield/lazygit": [
+        "Other"
+    ],
+    "jgressmann/harbour-vodman": [
         "Other"
     ],
     "jhonatasrm/print-preview": [
@@ -2801,7 +3773,16 @@
     "jianbingfang/vscode-dup-checker": [
         "Other"
     ],
+    "jianyuan/onetab-export-to-json": [
+        "Other"
+    ],
     "jikamens/userChromeJS": [
+        "Other"
+    ],
+    "jim60105/docker-youtube-dl": [
+        "Other"
+    ],
+    "jim60105/youtube-dl-server": [
         "Other"
     ],
     "jimmyxu/circle": [
@@ -2819,7 +3800,7 @@
     "jmlntw/google-search-sidebar": [
         "Other"
     ],
-    "jnozsc/mpv-nightly-build": [
+    "jmonteiro64/tab_move": [
         "Other"
     ],
     "jnsdrtlf/bitwarden-menubar": [
@@ -2840,9 +3821,6 @@
     "jofpin/trape": [
         "Other"
     ],
-    "johnatasjmo/google-sheets-hugo-bookmarks": [
-        "Other"
-    ],
     "johncoryk/coastal-shopify-theme": [
         "Other"
     ],
@@ -2859,6 +3837,9 @@
         "Other"
     ],
     "jonbeebe/MacDynamicWallpaper": [
+        "Other"
+    ],
+    "jonhac/Window-Saver": [
         "Other"
     ],
     "jonschlinkert/sublime-monokai-extended": [
@@ -2885,6 +3866,12 @@
     "joshuacant/undo_closed_tabs_menu": [
         "Other"
     ],
+    "joshuachough/backupOneTab": [
+        "Other"
+    ],
+    "jotyGill/ezsh": [
+        "Other"
+    ],
     "jscher2000/change-maximized-to-resizable": [
         "Other"
     ],
@@ -2900,7 +3887,16 @@
     "juanboro/cync2mqtt": [
         "Other"
     ],
+    "julianandrews/flopferret": [
+        "Other"
+    ],
     "julionc/awesome-shopify": [
+        "Other"
+    ],
+    "junegunn/fzf": [
+        "Other"
+    ],
+    "junguler/firefox-dark-userContent.css": [
         "Other"
     ],
     "junocomp/firefox-phosh-theme": [
@@ -2912,7 +3908,19 @@
     "jwilk/userscripts": [
         "Other"
     ],
+    "jyssh/pin-unpin-tab": [
+        "Other"
+    ],
+    "k-amryn/quietfox": [
+        "Other"
+    ],
     "k08045kk/CopyTabTitleUrl": [
+        "Other"
+    ],
+    "k08045kk/userChrome.js": [
+        "Other"
+    ],
+    "k5md/Pocket-Editor-webextension": [
         "Other"
     ],
     "kailasachse/Shopify-notifications": [
@@ -2924,10 +3932,13 @@
     "kaktuspalme/LogiCircleDownloader": [
         "Other"
     ],
-    "kamrynsite/quietfox": [
+    "kal247/App-bookmarks": [
         "Other"
     ],
     "karimelgazar/youtube-downloader": [
+        "Other"
+    ],
+    "karlhorky/dotfiles": [
         "Other"
     ],
     "karlicoss/pockexport": [
@@ -2936,10 +3947,19 @@
     "kasper/phoenix": [
         "Other"
     ],
+    "katrinleinweber/oh-my-zsh-youtube-dl-aliases": [
+        "Other"
+    ],
     "kayspiegel/shopify-notification-templates-l10n": [
         "Other"
     ],
+    "kdeldycke/dotfiles": [
+        "Other"
+    ],
     "keepassxreboot/keepassxc": [
+        "Other"
+    ],
+    "keepassxreboot/keepassxc-browser": [
         "Other"
     ],
     "keiichi4e/paper-app": [
@@ -2954,7 +3974,13 @@
     "kencrocken/FiraCodeiScript": [
         "Other"
     ],
+    "kenhowardpdx/vscode-gist": [
+        "Other"
+    ],
     "kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance": [
+        "Other"
+    ],
+    "kerichdev/themes-for-ytmdesktop-player": [
         "Other"
     ],
     "kevalpatel2106/android-ringtone-picker": [
@@ -2963,10 +3989,22 @@
     "kevin-funderburg/AppleScripts": [
         "Other"
     ],
+    "kevin-funderburg/alfred-bettertouchtool-gestures": [
+        "Other"
+    ],
+    "kevinSuttle/macOS-Defaults": [
+        "Other"
+    ],
+    "kevinpollet/pocket-deduper": [
+        "Other"
+    ],
     "kevinrefvik/shopify-notifications": [
         "Other"
     ],
     "kevinschaich/py-imessage-shortcuts": [
+        "Other"
+    ],
+    "keyding/Operator-Mono": [
         "Other"
     ],
     "kgraefe/thunderbird-autotag": [
@@ -2978,7 +4016,13 @@
     "killalau/vscode-liquid-snippets": [
         "Other"
     ],
+    "kimlimjustin/google-keep-clone": [
+        "Other"
+    ],
     "kiteco/vscode-plugin": [
+        "Other"
+    ],
+    "kiwiz/gkeepapi": [
         "Other"
     ],
     "kkanzelmeyer/alfred": [
@@ -2993,10 +4037,16 @@
     "kmillionary/order-printer-templates": [
         "Other"
     ],
+    "knilling/pocket2csv": [
+        "Other"
+    ],
     "knowfox/pocket": [
         "Other"
     ],
     "knyar/theoldreader-chrome": [
+        "Other"
+    ],
+    "koalaman/shellcheck": [
         "Other"
     ],
     "koekeishiya/skhd": [
@@ -3006,6 +4056,9 @@
         "Other"
     ],
     "kondasoft/ks-bootshop": [
+        "Other"
+    ],
+    "kostyafarber/alfred-notable-workflow": [
         "Other"
     ],
     "kot-behemoth/awesome-joplin": [
@@ -3023,7 +4076,13 @@
     "krestaino/macos-folder-icons": [
         "Other"
     ],
+    "krisu5/userstyles": [
+        "Other"
+    ],
     "krjo/shopify-webpack-dev-workflow": [
+        "Other"
+    ],
+    "ksclarke/static-marks-action": [
         "Other"
     ],
     "kucherenko/jscpd": [
@@ -3042,6 +4101,12 @@
         "Other"
     ],
     "kveberg/joplin-theme": [
+        "Other"
+    ],
+    "kyleskom/NBA-Machine-Learning-Sports-Betting": [
+        "Other"
+    ],
+    "kyuucr/open-link-in-other-window": [
         "Other"
     ],
     "l10nelw/winger": [
@@ -3068,10 +4133,19 @@
     "laurent22/joplin-android": [
         "Other"
     ],
+    "lauriro/json-lite": [
+        "Other"
+    ],
+    "lauthieb/code-notes": [
+        "Other"
+    ],
     "lawrencehook/remove-youtube-suggestions": [
         "Other"
     ],
     "lawrenceting/Automator-Services-and-Workflows": [
+        "Other"
+    ],
+    "lazarnarcis/box-shadow-generator": [
         "Other"
     ],
     "lbragile/TabMerger": [
@@ -3083,7 +4157,13 @@
     "learn-anything/alfred-workflows": [
         "Other"
     ],
+    "leemunroe/responsive-html-email-template": [
+        "Other"
+    ],
     "leemunroe/shopify-email-templates": [
+        "Other"
+    ],
+    "leohu1/My-UserChrome": [
         "Other"
     ],
     "letsblockit/letsblockit": [
@@ -3092,7 +4172,19 @@
     "leungwensen/svg-icon": [
         "Other"
     ],
+    "lgarron/folderify": [
+        "Other"
+    ],
+    "lhaeger/AutoRaise": [
+        "Other"
+    ],
     "li-zyang/zScripts": [
+        "Other"
+    ],
+    "liamengland1/miscfilters": [
+        "Other"
+    ],
+    "libreddit/libreddit": [
         "Other"
     ],
     "librespeed/speedtest": [
@@ -3104,22 +4196,25 @@
     "linearmouse/linearmouse": [
         "Other"
     ],
+    "linkwarden/linkwarden": [
+        "Other"
+    ],
     "liqing1993/Find-The-Person-You-Want-in-videos": [
         "Other"
     ],
     "littledata/shopify-tracker": [
         "Other"
     ],
-    "lixonic/Shopify": [
-        "Other"
-    ],
     "lkrjangid1/Awesome-Warez": [
         "Other"
     ],
-    "llacb47/miscfilters": [
+    "lliurex/lliurex-gdrive": [
         "Other"
     ],
-    "lliurex/lliurex-gdrive": [
+    "lloydi/Keyboard-Maestro-Web-Dev-Macros": [
+        "Other"
+    ],
+    "lmichelin/open-github-links-in-ide": [
         "Other"
     ],
     "lobre/pocket2notion": [
@@ -3134,10 +4229,16 @@
     "lorey/social-media-profiles-regexs": [
         "Other"
     ],
-    "loveshopify/orium": [
+    "lostintangent/gistpad": [
         "Other"
     ],
-    "lr-tech/OnelineProton": [
+    "lough-city/css-smart": [
+        "Other"
+    ],
+    "loup-brun/buttons": [
+        "Other"
+    ],
+    "loveshopify/orium": [
         "Other"
     ],
     "lra/mackup": [
@@ -3149,13 +4250,19 @@
     "lukassr/keep-desktop": [
         "Other"
     ],
+    "lukechilds/zsh-nvm": [
+        "Other"
+    ],
+    "lunu-bounir/allow-right-click": [
+        "Other"
+    ],
+    "luxysiv/revanced-nonroot": [
+        "Other"
+    ],
     "lwouis/alt-tab-macos": [
         "Other"
     ],
     "m-khvoinitsky/dark-background-light-text-extension": [
-        "Other"
-    ],
-    "m3tro1d/firefox-config": [
         "Other"
     ],
     "mBilG/macOS-Dynamic-Wallpaper": [
@@ -3173,7 +4280,13 @@
     "macports/macports-base": [
         "Other"
     ],
+    "macvim-dev/macvim": [
+        "Other"
+    ],
     "madeas/box-shadows.css": [
+        "Other"
+    ],
+    "madlymad/mac-scrcpy-app": [
         "Other"
     ],
     "maguowei/awesome-stars": [
@@ -3191,6 +4304,9 @@
     "maizzle/starter-gradients": [
         "Other"
     ],
+    "maizzle/starter-markdown": [
+        "Other"
+    ],
     "makiisthenes/socialScanner": [
         "Other"
     ],
@@ -3201,9 +4317,6 @@
         "Other"
     ],
     "mandrigin/AlfredSwitchWindows": [
-        "Other"
-    ],
-    "manesspl/janus-for-alfred": [
         "Other"
     ],
     "mangtronix/MangTouchBar": [
@@ -3218,19 +4331,16 @@
     "manojVivek/medium-unlimited": [
         "Other"
     ],
+    "manuelernestog/astrofy": [
+        "Other"
+    ],
     "marcel-judth/Web_Shopify-Buy-Button-Demo": [
         "Other"
     ],
-    "marcel-kraatz/alpenglow-thunderbird": [
+    "marcel8121/alpenglow-thunderbird": [
         "Other"
     ],
     "marchyman/GeoTag": [
-        "Other"
-    ],
-    "mariia-nam/collection-tabs": [
-        "Other"
-    ],
-    "mariia-nam/reviews-collage": [
         "Other"
     ],
     "marioortizmanero/reddit-search-on-google": [
@@ -3240,6 +4350,18 @@
         "Other"
     ],
     "marktext/marktext": [
+        "Other"
+    ],
+    "marlonrichert/.config": [
+        "Other"
+    ],
+    "marlonrichert/zcolors": [
+        "Other"
+    ],
+    "marlonrichert/zsh-launchpad": [
+        "Other"
+    ],
+    "marph91/joppy": [
         "Other"
     ],
     "marph91/thunderbird-joplin-export": [
@@ -3254,6 +4376,9 @@
     "mas-cli/mas": [
         "Other"
     ],
+    "massCodeIO/massCode": [
+        "Other"
+    ],
     "material-components/material-components-web": [
         "Other"
     ],
@@ -3266,6 +4391,9 @@
     "matryer/xbar-plugins": [
         "Other"
     ],
+    "mattDavo/Yippy": [
+        "Other"
+    ],
     "matthewfallshaw/chrome-window-management-scripts": [
         "Other"
     ],
@@ -3273,6 +4401,9 @@
         "Other"
     ],
     "mattlag/California-Gothic": [
+        "Other"
+    ],
+    "mattmc3/zdotdir": [
         "Other"
     ],
     "mattsbennett/joplin-Nord2": [
@@ -3284,10 +4415,19 @@
     "maximbilan/Mac-OS-X-App-Menu-Bar-Popup": [
         "Other"
     ],
+    "mbadolato/iTerm2-Color-Schemes": [
+        "Other"
+    ],
     "mcosta3tc/FFCSS": [
         "Other"
     ],
     "mczachurski/wallpapper": [
+        "Other"
+    ],
+    "mdawsondev/github-advanced": [
+        "Other"
+    ],
+    "mdn/webextensions-examples": [
         "Other"
     ],
     "mdreier/savetabs": [
@@ -3296,16 +4436,25 @@
     "meanii/Search4": [
         "Other"
     ],
+    "mechagomizilla/Prism-FirefoxPhotonRecolored": [
+        "Other"
+    ],
     "meeb/tubesync": [
         "Other"
     ],
     "megasnippets/shopify-snippets": [
         "Other"
     ],
+    "mems/bookmarklets-context-menu": [
+        "Other"
+    ],
     "mendel5/thunderbird-how-to": [
         "Other"
     ],
     "menhera-org/TabArray": [
+        "Other"
+    ],
+    "menukaonline/transfer-between-drives": [
         "Other"
     ],
     "metux/thunderbird": [
@@ -3317,13 +4466,22 @@
     "mganss/EmojiAddIn": [
         "Other"
     ],
+    "mgunyho/tere": [
+        "Other"
+    ],
     "mhogomchungu/media-downloader": [
         "Other"
     ],
     "mi-g/vdhcoapp": [
         "Other"
     ],
+    "mi-g/weh": [
+        "Other"
+    ],
     "michaelcukier/Poker-Hand-Tracker": [
+        "Other"
+    ],
+    "michaelschwobe/mac-dev-setup": [
         "Other"
     ],
     "microsoft/theme-converter-for-vs": [
@@ -3332,7 +4490,13 @@
     "microsoft/vscode": [
         "Other"
     ],
+    "microsoft/vscode-extension-samples": [
+        "Other"
+    ],
     "micz/ColumnsWizard": [
+        "Other"
+    ],
+    "miguelmartin75/imgur-automator": [
         "Other"
     ],
     "migueravila/SimpleFox": [
@@ -3342,6 +4506,12 @@
         "Other"
     ],
     "mikemadden42/fuji": [
+        "Other"
+    ],
+    "mikeroyal/Google-Cloud-Guide": [
+        "Other"
+    ],
+    "mikeroyal/Self-Hosting-Guide": [
         "Other"
     ],
     "milosbunijevac/GoogleDownloader": [
@@ -3365,13 +4535,22 @@
     "mitchuman/danshari": [
         "Other"
     ],
+    "miziomon/awesome-wordpress": [
+        "Other"
+    ],
     "mjdescy/TodoTxtMac": [
         "Other"
     ],
     "mjmlio/mjml": [
         "Other"
     ],
+    "mjmlio/mjml-app": [
+        "Other"
+    ],
     "mjmlio/vscode-mjml": [
+        "Other"
+    ],
+    "mjolnirapp/AppGrid": [
         "Other"
     ],
     "mjshofy/glass-morphism-ui-card-design": [
@@ -3389,10 +4568,19 @@
     "mkoryak/address-validator": [
         "Other"
     ],
+    "mkozjak/bettertouchtool": [
+        "Other"
+    ],
     "mmagnus/Pocket-Plus-Calibre-Plugin": [
         "Other"
     ],
     "mmagnus/PocketX-Calibre-Plugin": [
+        "Other"
+    ],
+    "mmistakes/minimal-mistakes": [
+        "Other"
+    ],
+    "mmistakes/mm-github-pages-starter": [
         "Other"
     ],
     "mnba/save-tabs": [
@@ -3404,7 +4592,16 @@
     "moosethegoose2213/automator-for-barrykn-micropatcher": [
         "Other"
     ],
+    "moritz-h/urls-list": [
+        "Other"
+    ],
     "mortenjust/androidtool-mac": [
+        "Other"
+    ],
+    "motioneye-project/motioneyeos": [
+        "Other"
+    ],
+    "mozilla/addons-linter": [
         "Other"
     ],
     "mozilla/gecko-dev": [
@@ -3416,7 +4613,13 @@
     "mozilla/releases-comm-central": [
         "Other"
     ],
+    "mozilla/sign-addon": [
+        "Other"
+    ],
     "mozilla/web-ext": [
+        "Other"
+    ],
+    "mozilla/webextension-polyfill": [
         "Other"
     ],
     "mpdf/mpdf": [
@@ -3443,25 +4646,43 @@
     "mrlt8/docker-wyze-bridge": [
         "Other"
     ],
+    "msikma/osx-folder-icons": [
+        "Other"
+    ],
     "msk4862/Copyright-free-image-search": [
         "Other"
     ],
     "msoedov/Alfred-collection": [
         "Other"
     ],
+    "mswell/dotfiles": [
+        "Other"
+    ],
     "mtxadmin/ublock": [
         "Other"
     ],
-    "muckSponge/MaterialFox": [
+    "mufeedvh/gisture": [
         "Other"
     ],
     "muhamaddarulhadi/Hotspot": [
         "Other"
     ],
+    "muhummadPatel/vLoader": [
+        "Other"
+    ],
     "murrty/youtube-dl-gui": [
         "Other"
     ],
+    "musically-ut/lovely-forks": [
+        "Other"
+    ],
     "mut-ex/minimal-functional-fox": [
+        "Other"
+    ],
+    "mxpv/podsync": [
+        "Other"
+    ],
+    "mxvish/mac-auto-setup": [
         "Other"
     ],
     "myfreeer/userChromeJS": [
@@ -3473,19 +4694,40 @@
     "mzama/ShopifyInventoryChecker": [
         "Other"
     ],
+    "n0k0m3/revanced-build-template": [
+        "Other"
+    ],
     "n3cr0cr0w/userscripts": [
+        "Other"
+    ],
+    "na-ji/dotfiles": [
         "Other"
     ],
     "naiemofficial/FUIX": [
         "Other"
     ],
+    "nanocortex/metube-firefox-addon": [
+        "Other"
+    ],
     "napsternxg/ReadLater": [
+        "Other"
+    ],
+    "natelandau/dotfiles": [
         "Other"
     ],
     "nathan-artist/AppleScripts": [
         "Other"
     ],
     "nathanbuchar/atom-one-dark-terminal": [
+        "Other"
+    ],
+    "nathanchapman/bash-functions": [
+        "Other"
+    ],
+    "nathandaven/firefox-paradise-theme": [
+        "Other"
+    ],
+    "navchandar/Share-Less": [
         "Other"
     ],
     "naveendnagendran/Contact-Search": [
@@ -3506,10 +4748,22 @@
     "ncyhere/test-shopify-bloomandgrow": [
         "Other"
     ],
+    "ndbeals/keep-exporter": [
+        "Other"
+    ],
     "neilalexander/seaglass": [
         "Other"
     ],
-    "net-ref/launchd-package-creator": [
+    "neilsardesai/Manila": [
+        "Other"
+    ],
+    "net00-1/SW-DLT": [
+        "Other"
+    ],
+    "netlify-templates/astro-quickstart": [
+        "Other"
+    ],
+    "networkException/thundersort": [
         "Other"
     ],
     "newTendermint/awesome-analytics": [
@@ -3530,7 +4784,13 @@
     "nicolesaidy/awesome-web-design": [
         "Other"
     ],
-    "nikshriv/cbyge": [
+    "nicolodiamante/icloud-nosync": [
+        "Other"
+    ],
+    "nightnoryu/firefox-config": [
+        "Other"
+    ],
+    "nikitavoloboev/alfred-my-mind": [
         "Other"
     ],
     "nikshriv/cync_lights": [
@@ -3540,6 +4800,9 @@
         "Other"
     ],
     "njnmco/odinochka": [
+        "Other"
+    ],
+    "nlbao/pocket_stats": [
         "Other"
     ],
     "noah-nuebling/mac-mouse-fix": [
@@ -3557,10 +4820,16 @@
     "nonoroazoro/firefox": [
         "Other"
     ],
-    "noonchen/BTT_MacUsage": [
+    "noonchen/BTT_AppleWirelessHeadphone": [
         "Other"
     ],
     "noonchen/BTT_NightShiftSlider": [
+        "Other"
+    ],
+    "notable/dumper": [
+        "Other"
+    ],
+    "notable/html2markdown": [
         "Other"
     ],
     "notable/notable": [
@@ -3575,16 +4844,19 @@
     "notlmn/awesome-icons": [
         "Other"
     ],
+    "npmhub/npmhub": [
+        "Other"
+    ],
     "nt0g/firefox-profile-stuff": [
         "Other"
     ],
     "nt1m/livemarks": [
         "Other"
     ],
-    "nuchi/firefox-quantum-userchromejs": [
+    "nukeop/nuclear": [
         "Other"
     ],
-    "nukeop/nuclear": [
+    "numist/Switch": [
         "Other"
     ],
     "nuttyartist/notes": [
@@ -3605,6 +4877,9 @@
     "objective-see/Netiquette": [
         "Other"
     ],
+    "odeke-em/drive": [
+        "Other"
+    ],
     "ohmybahgosh/FONTS_DOT_COM_RIPPER": [
         "Other"
     ],
@@ -3620,13 +4895,28 @@
     "ohmyzsh/ohmyzsh": [
         "Other"
     ],
+    "olafhartong/osx-defaults": [
+        "Other"
+    ],
     "oleksis/youtube-dl-gui": [
+        "Other"
+    ],
+    "olivierodo/MBP-BTT-spotify-touchbar": [
+        "Other"
+    ],
+    "ololx/create-symlink": [
         "Other"
     ],
     "omnixent/omnixent": [
         "Other"
     ],
     "onaralili/SplitUp": [
+        "Other"
+    ],
+    "one-aalam/awesome-astro": [
+        "Other"
+    ],
+    "one-tab-group/onetab.group": [
         "Other"
     ],
     "onekiloparsec/KPCTabsControl": [
@@ -3653,6 +4943,12 @@
     "onury/alfred-video-downloader": [
         "Other"
     ],
+    "open-pocket/open-pocket": [
+        "Other"
+    ],
+    "opengaming/osgameclones": [
+        "Other"
+    ],
     "openstyles/stylus": [
         "Other"
     ],
@@ -3665,6 +4961,12 @@
     "otherguy/alfred-passwords-workflow": [
         "Other"
     ],
+    "othyn/github-folder-icon-macOS": [
+        "Other"
+    ],
+    "ourresearch/unpaywall-extension": [
+        "Other"
+    ],
     "overdodactyl/ShadowBird": [
         "Other"
     ],
@@ -3674,7 +4976,16 @@
     "p0deje/Maccy": [
         "Other"
     ],
+    "p1ngul1n0/blackbird": [
+        "Other"
+    ],
     "p1usminus/undoclosetabreplacement": [
+        "Other"
+    ],
+    "p333ter/youtube-dl-gui": [
+        "Other"
+    ],
+    "p9n/userchrome": [
         "Other"
     ],
     "pandrey2003/social-media-profiler": [
@@ -3704,10 +5015,16 @@
     "paulhoughton/vscode-jscpd": [
         "Other"
     ],
+    "pawelgrzybek/alfred-text-manipulation": [
+        "Other"
+    ],
     "pbek/QOwnNotes": [
         "Other"
     ],
     "pdtxie/firefox-css": [
+        "Other"
+    ],
+    "peaceiris/actions-gh-pages": [
         "Other"
     ],
     "peci1/mailing-list-filter": [
@@ -3719,13 +5036,28 @@
     "pedritobata/dawn-clone-shopify": [
         "Other"
     ],
+    "pellaeon/SingleFileZ": [
+        "Other"
+    ],
     "pellaeon/firefox-91plus-photon-userchrome": [
         "Other"
     ],
     "penance316/hyper-dark-vibrancy": [
         "Other"
     ],
+    "perXautomatik/GAS-OneTabExportOrganizer": [
+        "Other"
+    ],
+    "persepolisdm/persepolis": [
+        "Other"
+    ],
+    "pesc101/SortRobot": [
+        "Other"
+    ],
     "peter-sk/photosdup": [
+        "Other"
+    ],
+    "peterklijn/hammerspoon-shiftit": [
         "Other"
     ],
     "pgrimaud/action-shopify": [
@@ -3749,7 +5081,7 @@
     "phoihos/vscode-translate-it": [
         "Other"
     ],
-    "phosphor-icons/phosphor-android": [
+    "phosphor-icons/android": [
         "Other"
     ],
     "photodiode/panorama-view": [
@@ -3782,6 +5114,15 @@
     "pjialin/TranslucentFox": [
         "Other"
     ],
+    "plasmicapp/plasmic": [
+        "Other"
+    ],
+    "plibither8/refined-hacker-news": [
+        "Other"
+    ],
+    "pluja/awesome-privacy": [
+        "Other"
+    ],
     "plwt/View-Pocket-List": [
         "Other"
     ],
@@ -3791,7 +5132,16 @@
     "pointu-l/finder-basic-visor": [
         "Other"
     ],
+    "polymorphicshade/NewPipe": [
+        "Other"
+    ],
     "polywock/advanced-image-search": [
+        "Other"
+    ],
+    "pomber/git-history": [
+        "Other"
+    ],
+    "poochinski9/libgen-calibre-store-plugin": [
         "Other"
     ],
     "pooja-v-dev/php-drive-s3": [
@@ -3821,10 +5171,16 @@
     "praveenravi77/prime-video-adblock": [
         "Other"
     ],
+    "prayash/awesome-gatsby": [
+        "Other"
+    ],
     "preetmodh/PeopleConnect": [
         "Other"
     ],
     "presuku/exteditor-mailext": [
+        "Other"
+    ],
+    "pretrehr/Sports-betting": [
         "Other"
     ],
     "prettier/eslint-config-prettier": [
@@ -3839,10 +5195,19 @@
     "privacy-tech-lab/gpc-optmeowt": [
         "Other"
     ],
+    "priyankchheda/chrome_password_grabber": [
+        "Other"
+    ],
     "progit/progit2": [
         "Other"
     ],
     "projectdelphai/panorama-tab-groups": [
+        "Other"
+    ],
+    "psd-tools/psd-tools": [
+        "Other"
+    ],
+    "psequel/psequel": [
         "Other"
     ],
     "public-apis/public-apis": [
@@ -3863,7 +5228,19 @@
     "pyllyukko/user.js": [
         "Other"
     ],
+    "pystardust/ytfzf": [
+        "Other"
+    ],
+    "qbittorrent/qBittorrent": [
+        "Other"
+    ],
+    "qbittorrent/search-plugins": [
+        "Other"
+    ],
     "qeeqbox/social-analyzer": [
+        "Other"
+    ],
+    "qnblackcat/uYouPlus": [
         "Other"
     ],
     "qsniyg/maxurl": [
@@ -3887,10 +5264,22 @@
     "quiteconfused/CatImageInfo": [
         "Other"
     ],
+    "qzz0518/remove-HyperSwitch-expired-dialog": [
+        "Other"
+    ],
+    "rNeomy/auto-tab-discard": [
+        "Other"
+    ],
     "rNeomy/reader-view": [
         "Other"
     ],
+    "rShetty/awesome-podcasts": [
+        "Other"
+    ],
     "rafaelmardojai/firefox-gnome-theme": [
+        "Other"
+    ],
+    "rahuldkjain/github-profile-readme-generator": [
         "Other"
     ],
     "rak3n/SecuritySttream": [
@@ -3899,16 +5288,34 @@
     "raleycs/alfred-ytsuggest": [
         "Other"
     ],
+    "ram-on/imgurbash2": [
+        "Other"
+    ],
     "ranmaru22/firefox-vertical-tabs": [
         "Other"
     ],
     "raphaelhanneken/iconizer": [
         "Other"
     ],
+    "ravindUwU/firefox-refined-findbar": [
+        "Other"
+    ],
     "ravindranag/glassmorphism-in-firefox": [
         "Other"
     ],
     "ray-lothian/Layout-Resizer": [
+        "Other"
+    ],
+    "raycast/extensions": [
+        "Other"
+    ],
+    "raycast/script-commands": [
+        "Other"
+    ],
+    "rbenv/rbenv": [
+        "Other"
+    ],
+    "rchern/StackExchangeScripts": [
         "Other"
     ],
     "rclone/rclone": [
@@ -3920,6 +5327,9 @@
     "rebhu-open-source-foundation/gecko-b2g": [
         "Other"
     ],
+    "refined-bitbucket/refined-bitbucket": [
+        "Other"
+    ],
     "refined-github/refined-github": [
         "Other"
     ],
@@ -3929,13 +5339,10 @@
     "reisxd/revanced-builder": [
         "Other"
     ],
-    "revanced/revanced-manager": [
+    "renatorib/github-blog": [
         "Other"
     ],
-    "revanced/revanced-patcher": [
-        "Other"
-    ],
-    "revanced/revanced-patches": [
+    "revanced-apks/build-apps": [
         "Other"
     ],
     "revblaze/AppleMusicUltra": [
@@ -3944,13 +5351,28 @@
     "rgcr/m-cli": [
         "Other"
     ],
+    "rhsimplex/image-match": [
+        "Other"
+    ],
     "rickkas7/TowerInfo": [
         "Other"
     ],
-    "riddlesio/poker-engine-java": [
+    "rinsuki/dotfiles": [
         "Other"
     ],
-    "rinsuki/dotfiles": [
+    "ris58h/Touch-Tab": [
+        "Other"
+    ],
+    "rishavanand/github-profilinator": [
+        "Other"
+    ],
+    "rkalis/dotfiles": [
+        "Other"
+    ],
+    "rkanter/Open-iTerm-or-Terminal-Here...": [
+        "Other"
+    ],
+    "rknightuk/alfred-workflows": [
         "Other"
     ],
     "rkokkelk/todo.txt-ext": [
@@ -3968,7 +5390,16 @@
     "robaston9/cbyge": [
         "Other"
     ],
+    "robertocaldas/AdbInstallService": [
+        "Other"
+    ],
     "robin/LYTabView": [
+        "Other"
+    ],
+    "robomx/WebIDHunt": [
+        "Other"
+    ],
+    "robotcorner/joplin-theme-dark-gruvbox": [
         "Other"
     ],
     "robrop/FullScreen-FirefoxMac": [
@@ -3998,13 +5429,25 @@
     "romkatv/powerlevel10k": [
         "Other"
     ],
+    "romkatv/zsh4humans": [
+        "Other"
+    ],
     "ronfybish/Signature-Generator": [
+        "Other"
+    ],
+    "rossmoody/svg-gobbler": [
         "Other"
     ],
     "rsapkf/42": [
         "Other"
     ],
+    "rscottyy/Edge-FrFox": [
+        "Other"
+    ],
     "rshev/MoveTabToNextWindow": [
+        "Other"
+    ],
+    "rtfcv/worse-onetab": [
         "Other"
     ],
     "rubjo/victor-mono": [
@@ -4016,7 +5459,13 @@
     "runoshun/onetab-sync": [
         "Other"
     ],
-    "rxhanson/ModMove": [
+    "rupa/z": [
+        "Other"
+    ],
+    "rux616/karabiner-windows-mode": [
+        "Other"
+    ],
+    "rvm/rvm": [
         "Other"
     ],
     "rxhanson/Multitouch-Community": [
@@ -4034,16 +5483,25 @@
     "ryangball/launchd-package-creator": [
         "Other"
     ],
+    "ryankrumenacker/sports-betting-arbitrage-project": [
+        "Other"
+    ],
     "ryanoasis/email-signature": [
         "Other"
     ],
     "ryanoasis/nerd-fonts": [
         "Other"
     ],
+    "ryanoasis/powerline-extra-symbols": [
+        "Other"
+    ],
     "ryanpcmcquen/amatron": [
         "Other"
     ],
     "ryosama/mbox_spliter": [
+        "Other"
+    ],
+    "saadeghi/theme-change": [
         "Other"
     ],
     "sabaatworld/batch-media-compressor": [
@@ -4064,6 +5522,9 @@
     "sagiegurari/userscripts-ads-dom-remover": [
         "Other"
     ],
+    "sainnhe/icursive-nerd-font": [
+        "Other"
+    ],
     "sakuyaa/readLater": [
         "Other"
     ],
@@ -4079,10 +5540,52 @@
     "samiyuru/custom-finder-right-click-menu": [
         "Other"
     ],
+    "samschott/maestral": [
+        "Other"
+    ],
+    "samueldobbie/remarkable-extension": [
+        "Other"
+    ],
     "sanderdebr/visited-places-api": [
         "Other"
     ],
+    "sanghviharshit/pocket-tagger": [
+        "Other"
+    ],
+    "sass/sass": [
+        "Other"
+    ],
+    "sballin/alfred-search-notes-app": [
+        "Other"
+    ],
+    "sbarex/MediaInfo": [
+        "Other"
+    ],
+    "sbarex/QLMarkdown": [
+        "Other"
+    ],
+    "sbarex/SourceCodeSyntaxHighlight": [
+        "Other"
+    ],
     "sblask/webextension-skip-redirect": [
+        "Other"
+    ],
+    "sblask/webextension-tab-deque": [
+        "Other"
+    ],
+    "sbmpost/AutoRaise": [
+        "Other"
+    ],
+    "schappim/macOCR": [
+        "Other"
+    ],
+    "schollz/croc": [
+        "Other"
+    ],
+    "scott0123/Tesseract-macOS": [
+        "Other"
+    ],
+    "scraggo/bookmarks-markdown-utils": [
         "Other"
     ],
     "scrapewalrus/Google-Shopping-Scraper": [
@@ -4097,16 +5600,31 @@
     "sdavidg/firefoxChromeScripts": [
         "Other"
     ],
+    "sdeep27/poker-simulator": [
+        "Other"
+    ],
     "sdras/awesome-actions": [
         "Other"
     ],
+    "seanpquig/betting-odds-analyzer": [
+        "Other"
+    ],
     "searx/searx": [
+        "Other"
+    ],
+    "searxng/searxng": [
         "Other"
     ],
     "seatedSinger/Firefox-CSS": [
         "Other"
     ],
     "section83/MacYTDL": [
+        "Other"
+    ],
+    "sedemmler/WagerBrain": [
+        "Other"
+    ],
+    "seekr-osint/seekr": [
         "Other"
     ],
     "seemoo-lab/opendrop": [
@@ -4127,16 +5645,34 @@
     "serj-kzv/mozlz4-edit": [
         "Other"
     ],
+    "servitola/dotfiles": [
+        "Other"
+    ],
+    "sevagas/macro_pack": [
+        "Other"
+    ],
     "seven-io/thunderbird": [
         "Other"
     ],
+    "sevenc-nanashi/github-snippets": [
+        "Other"
+    ],
     "shahasad78/shahdevthemecourse2-0": [
+        "Other"
+    ],
+    "shailshouryya/yt-videos-list": [
         "Other"
     ],
     "sham00n/buster": [
         "Other"
     ],
     "shariati/OS-Folder-Icons": [
+        "Other"
+    ],
+    "sharkdp/bat": [
+        "Other"
+    ],
+    "sharkdp/fd": [
         "Other"
     ],
     "shash007/People-Search-on-Social-Networks-using-Face-Recognition": [
@@ -4166,16 +5702,28 @@
     "sienori/Tab-Session-Manager": [
         "Other"
     ],
+    "sighingnow/jekyll-gitbook": [
+        "Other"
+    ],
     "sigma67/ytmusicapi": [
         "Other"
     ],
     "simonbs/alfred-youtube-workflow": [
         "Other"
     ],
+    "simov/markdown-viewer": [
+        "Other"
+    ],
     "simurai/one-vibrancy": [
         "Other"
     ],
+    "sindresorhus/Actions": [
+        "Other"
+    ],
     "sindresorhus/KeyboardShortcuts": [
+        "Other"
+    ],
+    "sindresorhus/Pasteboard-Viewer": [
         "Other"
     ],
     "sindresorhus/alfy": [
@@ -4217,16 +5765,13 @@
     "skhzhang/time-based-themes": [
         "Other"
     ],
+    "skills/github-pages": [
+        "Other"
+    ],
     "skratchdot/infinite-gradients": [
         "Other"
     ],
-    "skydiver/btt-helper": [
-        "Other"
-    ],
-    "sliggums/global-poker-hud": [
-        "Other"
-    ],
-    "slow-but-steady/yt_videos_list": [
+    "skylineone044/blurclean-firefox-theme": [
         "Other"
     ],
     "slysherz/vscode-comment-box": [
@@ -4241,16 +5786,28 @@
     "snchong/thunderthings": [
         "Other"
     ],
+    "snlned/sci-hub-scholar": [
+        "Other"
+    ],
     "snthcy/snazzy-vscode": [
         "Other"
     ],
+    "so-fancy/diff-so-fancy": [
+        "Other"
+    ],
     "soffes/HotKey": [
+        "Other"
+    ],
+    "soimort/you-get": [
         "Other"
     ],
     "solodev/email-signature": [
         "Other"
     ],
     "songhao/BetterAndBetter": [
+        "Other"
+    ],
+    "soscripted/sox": [
         "Other"
     ],
     "sourcegraph/sourcegraph": [
@@ -4266,6 +5823,9 @@
         "Other"
     ],
     "soxoj/osint-namecheckers-list": [
+        "Other"
+    ],
+    "sozercan/OpenInCode": [
         "Other"
     ],
     "spaceship-prompt/spaceship-prompt": [
@@ -4286,22 +5846,40 @@
     "speedball2001/nompsort-mx": [
         "Other"
     ],
+    "spicetify/spicetify-cli": [
+        "Other"
+    ],
     "spidergears/import_chrome_bookmarks_to_pocket": [
         "Other"
     ],
     "spieglt/FlyingCarpet": [
         "Other"
     ],
-    "spikecodes/libreddit": [
+    "spiral/shopify-starter-kit": [
         "Other"
     ],
-    "spiral/shopify-starter-kit": [
+    "spmbt/googleSearchExtraButtons": [
         "Other"
     ],
     "spotlightishere/launchcontrol": [
         "Other"
     ],
     "spymastermatt/thunderbird-monterail": [
+        "Other"
+    ],
+    "square/maximum-awesome": [
+        "Other"
+    ],
+    "srirangav/qlZipInfo": [
+        "Other"
+    ],
+    "srvaroa/repocket": [
+        "Other"
+    ],
+    "ssborbis/ContextSearch-Native-App": [
+        "Other"
+    ],
+    "ssborbis/ContextSearch-web-ext": [
         "Other"
     ],
     "steccas/ProtonClient": [
@@ -4322,7 +5900,25 @@
     "steve228uk/YouTube-Music": [
         "Other"
     ],
+    "steventheworker/DockAltTab": [
+        "Other"
+    ],
+    "steventheworker/DockAltTab-home": [
+        "Other"
+    ],
+    "steventheworker/alt-tab-macos": [
+        "Other"
+    ],
+    "steventheworker/applescripts": [
+        "Other"
+    ],
+    "steventheworker/screenhook": [
+        "Other"
+    ],
     "stobor827/firefoxPrefs": [
+        "Other"
+    ],
+    "stoically/temporary-containers": [
         "Other"
     ],
     "streamlink/streamlink": [
@@ -4334,6 +5930,15 @@
     "stuyam/laravel-phone-validator": [
         "Other"
     ],
+    "sueszli/oneTabScraper": [
+        "Other"
+    ],
+    "sujaykundu777/devlopr-jekyll": [
+        "Other"
+    ],
+    "sukolsak/jitouch": [
+        "Other"
+    ],
     "suliveevil/Capslock": [
         "Other"
     ],
@@ -4343,10 +5948,25 @@
     "sunlightworks/gosun_dev": [
         "Other"
     ],
+    "sunshinev/markdown-image-upload-github": [
+        "Other"
+    ],
+    "surbhitrao/poker-odds-omaha5": [
+        "Other"
+    ],
+    "surjithctly/astroship": [
+        "Other"
+    ],
+    "surrealroad/alfred-reminders": [
+        "Other"
+    ],
     "sveinbjornt/Platypus": [
         "Other"
     ],
     "sveinbjornt/osxiconutils": [
+        "Other"
+    ],
+    "svetlyak40wt/dotfiler": [
         "Other"
     ],
     "sw-uci/cdto": [
@@ -4361,16 +5981,31 @@
     "syanle/ts-commercials-remover": [
         "Other"
     ],
+    "syedibrahim/IntruderDetectionCamera": [
+        "Other"
+    ],
+    "synappser/AutoFocus": [
+        "Other"
+    ],
+    "synappser/FinderFix": [
+        "Other"
+    ],
     "syphon-org/syphon": [
         "Other"
     ],
     "t-mart/kill-sticky": [
         "Other"
     ],
+    "t0xk/username-generator": [
+        "Other"
+    ],
     "tabler/tabler-icons": [
         "Other"
     ],
     "tadeussenf/pocket-wiki": [
+        "Other"
+    ],
+    "tadwohlrapp/reddit-search-on-google": [
         "Other"
     ],
     "tagler/Firefox_Bookmark_Toolbar_Dark_Theme": [
@@ -4382,13 +6017,25 @@
     "tale/iconset": [
         "Other"
     ],
+    "tamcore/autoupdate-oh-my-zsh-plugins": [
+        "Other"
+    ],
     "taminob/shortcuts": [
         "Other"
     ],
     "tangledhelix/toggleAirport": [
         "Other"
     ],
+    "tangphillip/Imgur-Uploader": [
+        "Other"
+    ],
     "tanrax/maza-ad-blocking": [
+        "Other"
+    ],
+    "tansawit/my-mac-setup": [
+        "Other"
+    ],
+    "tapanpandita/pocket": [
         "Other"
     ],
     "tapans/DIY-Surveillance-with-Smartphones": [
@@ -4400,10 +6047,22 @@
     "taroontyagi/email-signature": [
         "Other"
     ],
+    "tasks/tasks": [
+        "Other"
+    ],
+    "tauri-apps/tauri": [
+        "Other"
+    ],
+    "tcellerier/automator": [
+        "Other"
+    ],
     "te6-in/MaterialFox-BigSur": [
         "Other"
     ],
     "te6-in/lepton-custom": [
+        "Other"
+    ],
+    "teamniteo/work-hours-mac": [
         "Other"
     ],
     "techgaun/active-forks": [
@@ -4415,6 +6074,18 @@
     "temochka/macos-automation": [
         "Other"
     ],
+    "terkelg/foldersstructure": [
+        "Other"
+    ],
+    "tesseract-ocr/tessdata_best": [
+        "Other"
+    ],
+    "tesseract-ocr/tessdoc": [
+        "Other"
+    ],
+    "tesseract-ocr/tesseract": [
+        "Other"
+    ],
     "tessus/joplin-custom-css": [
         "Other"
     ],
@@ -4424,10 +6095,19 @@
     "th-ch/youtube-music": [
         "Other"
     ],
+    "th-schmidt/janus-for-alfred": [
+        "Other"
+    ],
+    "thatisuday/curved-menu": [
+        "Other"
+    ],
     "thePaulV/Most-Recent-Tab": [
         "Other"
     ],
     "theachoem/btt-mac": [
+        "Other"
+    ],
+    "thebaer/MMRA": [
         "Other"
     ],
     "thehappydinoa/TruePeopleSearch": [
@@ -4445,16 +6125,28 @@
     "thepante/SAL-Firefox": [
         "Other"
     ],
+    "thepante/alfs-firefox": [
+        "Other"
+    ],
     "thesephist/monocle": [
         "Other"
     ],
     "thewhiteh4t/nexfil": [
         "Other"
     ],
+    "thirdinsight/AutoMarkFolderRead": [
+        "Other"
+    ],
+    "thlorenz/phe": [
+        "Other"
+    ],
     "thsmi/sieve": [
         "Other"
     ],
     "thunderbird-conversations/thunderbird-conversations": [
+        "Other"
+    ],
+    "thundernest/autoconfig": [
         "Other"
     ],
     "thundernest/developer-docs": [
@@ -4466,10 +6158,19 @@
     "thundernest/tb-web-ext-experiments": [
         "Other"
     ],
+    "tiansh/simple-context-search": [
+        "Other"
+    ],
+    "tiged/tiged": [
+        "Other"
+    ],
     "tiiiecherle/osx_install_config": [
         "Other"
     ],
     "tillig/mediacenter": [
+        "Other"
+    ],
+    "tilmanginzel/alfred-bluetooth-workflow": [
         "Other"
     ],
     "tim-we/tabs-aside": [
@@ -4487,13 +6188,28 @@
     "timleland/ReadLaterCE": [
         "Other"
     ],
+    "timlrx/tailwind-nextjs-starter-blog": [
+        "Other"
+    ],
     "timmybytes/dotfiles": [
         "Other"
     ],
     "timonus/Rhea": [
         "Other"
     ],
+    "tj/n": [
+        "Other"
+    ],
     "tkhquang/userChrome.js": [
+        "Other"
+    ],
+    "tmcinerney/keep": [
+        "Other"
+    ],
+    "tmcknight/Movie-and-TV-Show-Search-Alfred-Workflow": [
+        "Other"
+    ],
+    "to-ie/gitswitch": [
         "Other"
     ],
     "tom-james-watson/old-reddit-redirect": [
@@ -4508,10 +6224,16 @@
     "tombowditch/scripts": [
         "Other"
     ],
+    "tomhaydn/BetArbit": [
+        "Other"
+    ],
     "tonsky/FiraCode": [
         "Other"
     ],
     "topjohnwu/Magisk": [
+        "Other"
+    ],
+    "tortious/2019Firefox": [
         "Other"
     ],
     "tortious/2021_Firefox": [
@@ -4538,10 +6260,22 @@
     "trambarhq/mark-gor": [
         "Other"
     ],
+    "tremby/imgur.sh": [
+        "Other"
+    ],
+    "trietsch/alfred-bluetooth-connector": [
+        "Other"
+    ],
     "trizen/youtube-viewer": [
         "Other"
     ],
+    "trmckay/article-export": [
+        "Other"
+    ],
     "trockerapp/trocker": [
+        "Other"
+    ],
+    "trybick/dotfiles": [
         "Other"
     ],
     "tsanaung/firefox-safari-style": [
@@ -4556,13 +6290,13 @@
     "tumpio/gmscripts": [
         "Other"
     ],
-    "turadg/pocket-ruby": [
-        "Other"
-    ],
     "tusharahmmed/search-image": [
         "Other"
     ],
     "typeling1578/MaterialFox-Plus": [
+        "Other"
+    ],
+    "typeling1578/userChrome.js": [
         "Other"
     ],
     "typkrft/Poison-Firefox-Theme": [
@@ -4575,6 +6309,9 @@
         "Other"
     ],
     "uBlockOrigin/uAssets": [
+        "Other"
+    ],
+    "ueen/SnapdropFirefoxAddon": [
         "Other"
     ],
     "uicrooks/shopify-foundation-theme": [
@@ -4601,16 +6338,46 @@
     "universalbyte/Superfox": [
         "Other"
     ],
+    "unixorn/Bash-Snippets": [
+        "Other"
+    ],
+    "unixorn/awesome-zsh-plugins": [
+        "Other"
+    ],
+    "unixorn/tumult.plugin.zsh": [
+        "Other"
+    ],
+    "unixorn/zsh-quickstart-kit": [
+        "Other"
+    ],
     "unixpickle/cbyge": [
         "Other"
     ],
     "unode/firefox_decrypt": [
         "Other"
     ],
+    "uoftcprg/pokerkit": [
+        "Other"
+    ],
+    "uroybd/JoplinScratchPad": [
+        "Other"
+    ],
     "useful-forks/useful-forks.github.io": [
         "Other"
     ],
+    "uselibrary/KeepMyGoogleVoice": [
+        "Other"
+    ],
+    "uso-archive/data": [
+        "Other"
+    ],
     "utkarshsingh99/Workspace-Manager": [
+        "Other"
+    ],
+    "uuware/icons-font-desktop": [
+        "Other"
+    ],
+    "vHanda/google-keep-exporter": [
         "Other"
     ],
     "vaeth/bookmarkdupes": [
@@ -4623,9 +6390,6 @@
         "Other"
     ],
     "vallovic/firefox-colorize-container-toolbar": [
-        "Other"
-    ],
-    "vandergit/product-comparison": [
         "Other"
     ],
     "vas3k/btt-touchbar-presets": [
@@ -4646,10 +6410,13 @@
     "vexorian/dizquetv": [
         "Other"
     ],
-    "victor-savinov/todo": [
+    "vict0rsch/PaperMemory": [
         "Other"
     ],
     "viesual/Firefox-CSS-for-MacOS": [
+        "Other"
+    ],
+    "vihanggodbole/reddit-pocket-sync": [
         "Other"
     ],
     "vikas5914/Facebook-Video-Downloader": [
@@ -4664,10 +6431,19 @@
     "vinaywadhwa/Google-Account-Switcher---Alfred": [
         "Other"
     ],
+    "vinceliuice/WhiteSur-firefox-theme": [
+        "Other"
+    ],
+    "vinitshahdeo/Cookie-Manager": [
+        "Other"
+    ],
     "vinitshahdeo/Email-Signature-Template": [
         "Other"
     ],
     "vintagesucks/awesome-stars": [
+        "Other"
+    ],
+    "violentmonkey/violentmonkey": [
         "Other"
     ],
     "vipintom/gpm2spotify": [
@@ -4679,10 +6455,16 @@
     "visini/timebox": [
         "Other"
     ],
+    "vitalif/grive2": [
+        "Other"
+    ],
     "vitorgalvao/alfred-workflows": [
         "Other"
     ],
     "vitorgalvao/custom-alfred-iterm-scripts": [
+        "Other"
+    ],
+    "vitorgalvao/notificator": [
         "Other"
     ],
     "vitorgalvao/tiny-scripts": [
@@ -4697,10 +6479,16 @@
     "vord1080/FFTweaks": [
         "Other"
     ],
+    "vord1080/clipboard2file": [
+        "Other"
+    ],
     "vuestorefront/shopify": [
         "Other"
     ],
     "vufly/dotfiles": [
+        "Other"
+    ],
+    "vytal-io/vytal-extension": [
         "Other"
     ],
     "w0lfschild/cDock": [
@@ -4715,7 +6503,13 @@
     "w0lfschild/spotifyPlus": [
         "Other"
     ],
+    "wafflesnatcha/AppleScripts": [
+        "Other"
+    ],
     "wallabag/wallabag": [
+        "Other"
+    ],
+    "wallabag/wallabagger": [
         "Other"
     ],
     "wantora/multiple-paste-and-go-button": [
@@ -4727,13 +6521,25 @@
     "wateroverdose/vibrantfox": [
         "Other"
     ],
+    "waydabber/BetterDisplay": [
+        "Other"
+    ],
     "weakish/gister": [
+        "Other"
+    ],
+    "web-ext-labs/ui-tool": [
         "Other"
     ],
     "webclipper/web-clipper": [
         "Other"
     ],
     "webcomponents/webcomponentsjs": [
+        "Other"
+    ],
+    "webextension-toolbox/generator-web-extension": [
+        "Other"
+    ],
+    "webextension-toolbox/webextension-toolbox": [
         "Other"
     ],
     "webextensions/close-tab-by-double-right-click": [
@@ -4766,7 +6572,22 @@
     "willofindie/vscode-cssvar": [
         "Other"
     ],
+    "witalihirsch/Mono-firefox-theme": [
+        "Other"
+    ],
+    "withastro/astro": [
+        "Other"
+    ],
     "withfig/autocomplete": [
+        "Other"
+    ],
+    "withfig/autocomplete-tools": [
+        "Other"
+    ],
+    "withfig/config": [
+        "Other"
+    ],
+    "withfig/fig": [
         "Other"
     ],
     "withfig/plugins": [
@@ -4778,6 +6599,9 @@
     "wlor0623/better-onetab": [
         "Other"
     ],
+    "wonism/gatsby-advanced-blog": [
+        "Other"
+    ],
     "wonjoonSeol/BTT-Aqua-modification": [
         "Other"
     ],
@@ -4785,6 +6609,12 @@
         "Other"
     ],
     "wshanks/tbkeys": [
+        "Other"
+    ],
+    "wsmadsen/Merge-NHL-Odds": [
+        "Other"
+    ],
+    "wting/autojump": [
         "Other"
     ],
     "wulkano/Aperture": [
@@ -4811,16 +6641,22 @@
     "xarantolus/userchrome.css": [
         "Other"
     ],
-    "xcv58/Tab-Manager-v2": [
+    "xatier/tab-manager": [
         "Other"
     ],
-    "xenosf/youtube-dl-alfred": [
+    "xbrowsersync/app": [
+        "Other"
+    ],
+    "xcv58/Tab-Manager-v2": [
         "Other"
     ],
     "xhico/YoutubeDownloader": [
         "Other"
     ],
     "xia4zhi3yun2/remove_commercial": [
+        "Other"
+    ],
+    "xiaohk/clip2imgur": [
         "Other"
     ],
     "xiaoxiaoflood/firefox-scripts": [
@@ -4838,6 +6674,9 @@
     "xpmn/firefox-reading-list": [
         "Other"
     ],
+    "xtract64/tabsaver": [
+        "Other"
+    ],
     "xwmx/airport": [
         "Other"
     ],
@@ -4850,6 +6689,9 @@
     "yannbertrand/macos-defaults": [
         "Other"
     ],
+    "yegor-pelykh/OnHand": [
+        "Other"
+    ],
     "yeutterg/automator-workflows": [
         "Other"
     ],
@@ -4859,13 +6701,25 @@
     "yiisoft/yii2-app-basic": [
         "Other"
     ],
+    "yinthewind/GPHud": [
+        "Other"
+    ],
     "yinthewind/GlobalPokerHandTracker": [
+        "Other"
+    ],
+    "yjmp14/wulingate": [
+        "Other"
+    ],
+    "yjose/awesome-new": [
         "Other"
     ],
     "ylon/onetab-merge": [
         "Other"
     ],
-    "yokoffing/Better-Fox": [
+    "yokoffing/Betterfox": [
+        "Other"
+    ],
+    "yokoffing/filterlists": [
         "Other"
     ],
     "yourduskquibbles/webannoyances": [
@@ -4874,7 +6728,16 @@
     "yousseb/meld": [
         "Other"
     ],
+    "yozdas/PdfCombiner": [
+        "Other"
+    ],
+    "yqrashawn/GokuRakuJoudo": [
+        "Other"
+    ],
     "ysard/cookie-quick-manager": [
+        "Other"
+    ],
+    "yssefunc/sport_analytics": [
         "Other"
     ],
     "yt-dlp/SponSkrub": [
@@ -4898,10 +6761,10 @@
     "yuanqing/macos-keyboard-shortcuts": [
         "Other"
     ],
-    "yuuiko/AquaTouch": [
+    "yuliskov/SmartTubeNext": [
         "Other"
     ],
-    "z0ccc/Vytal": [
+    "yuuiko/AquaTouch": [
         "Other"
     ],
     "zanetu/direct_google_images": [
@@ -4910,13 +6773,46 @@
     "zanonmark/Google-4-TbSync": [
         "Other"
     ],
+    "zaproxy/zaproxy": [
+        "Other"
+    ],
     "zbrateam/Zebra": [
+        "Other"
+    ],
+    "zeitlings/alfred-workflows": [
+        "Other"
+    ],
+    "zenangst/Gray": [
         "Other"
     ],
     "zephyrer/userChromeJS": [
         "Other"
     ],
+    "zhekazuev/.mac-dotfiles": [
+        "Other"
+    ],
     "zhuochun/mac-keyboard": [
+        "Other"
+    ],
+    "zimocode/smartup": [
+        "Other"
+    ],
+    "zoonderkins/dbl-oisd-nl": [
+        "Other"
+    ],
+    "zotero/zotero-connectors": [
+        "Other"
+    ],
+    "zsh-users/zsh": [
+        "Other"
+    ],
+    "zsh-users/zsh-completions": [
+        "Other"
+    ],
+    "zsh-users/zsh-history-substring-search": [
+        "Other"
+    ],
+    "zvizvi/GitHub-Web-IDE": [
         "Other"
     ],
     "zvuc/firefox-macos-native-tabbar": [
@@ -4926,6 +6822,9 @@
         "Other"
     ],
     "zx1262111739/DynamicWallpaper": [
+        "Other"
+    ],
+    "zzamboni/dot-hammerspoon": [
         "Other"
     ]
 }
