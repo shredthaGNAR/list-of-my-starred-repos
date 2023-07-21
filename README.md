@@ -1908,7 +1908,7 @@
 * [jmonteiro64/tab_move](https://github.com/jmonteiro64/tab_move): Firefox addon that lets you move a tab to the start or the end of the tab bar
 * [menhera-org/TabArray](https://github.com/menhera-org/TabArray): Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 * [Bill13579/tabby](https://github.com/Bill13579/tabby): A web extension for managing great amounts of windows and tabs at ease.
-* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 4300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 4500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * [jakob/TableTool](https://github.com/jakob/TableTool): A simple CSV editor for the Mac
 * [lbragile/TabMerger](https://github.com/lbragile/TabMerger): TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
 * [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
@@ -2270,7 +2270,7 @@
 * [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi): Unofficial API for YouTube Music
 * [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader): Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
 * [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm): Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
-* [cuynu/ytvanced](https://github.com/cuynu/ytvanced): YouTube Vanced+ & YouTube Music Vanced+ project [IN DEVELOPMENT]
+* [cuynu/ytvancedx](https://github.com/cuynu/ytvancedx): YouTube Vanced+ & YouTube Music Vanced+ project [IN DEVELOPMENT]
 * [rupa/z](https://github.com/rupa/z): z - jump around
 * [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The OWASP ZAP core project
 * [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors): 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
