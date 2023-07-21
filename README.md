@@ -2270,7 +2270,7 @@
 * [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi): Unofficial API for YouTube Music
 * [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader): Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
 * [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm): Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
-* [cuynu/ytvanced](https://github.com/cuynu/ytvanced): YouTube Vanced & YouTube Music Vanced Unofficial project (non-profit)
+* [cuynu/ytvanced](https://github.com/cuynu/ytvanced): YouTube Vanced+ & YouTube Music Vanced+ project [IN DEVELOPMENT]
 * [rupa/z](https://github.com/rupa/z): z - jump around
 * [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The OWASP ZAP core project
 * [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors): 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
