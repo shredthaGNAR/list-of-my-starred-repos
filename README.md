@@ -1905,7 +1905,7 @@
 * [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover): Adds on-hover tab preview to Firefox (requires CSS theme)
 * [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager): WebExtensions for restoring and saving window / tab states
 * [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash): Firefox extension to save and restore tabs as bookmarks
-* [jmonteiro64/tab_move](https://github.com/jmonteiro64/tab_move): Firefox addon that lets you move a tab to the start or the end of the tab bar
+* [MonterraByte/tab_move](https://github.com/MonterraByte/tab_move): Firefox addon that lets you move a tab to the start or the end of the tab bar
 * [menhera-org/TabArray](https://github.com/menhera-org/TabArray): Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 * [Bill13579/tabby](https://github.com/Bill13579/tabby): A web extension for managing great amounts of windows and tabs at ease.
 * [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 4500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
