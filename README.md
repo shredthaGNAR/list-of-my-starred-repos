@@ -1779,7 +1779,7 @@
 * [gildas-lormeau/single-file-companion-lite](https://github.com/gildas-lormeau/single-file-companion-lite): SingleFile Companion Lite
 * [gildas-lormeau/single-file-core](https://github.com/gildas-lormeau/single-file-core): None
 * [gildas-lormeau/single-filez-core](https://github.com/gildas-lormeau/single-filez-core): None
-* [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile): Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
+* [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile): Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
 * [gildas-lormeau/SingleFile-Archives](https://github.com/gildas-lormeau/SingleFile-Archives): Pages saved with SingleFile
 * [screenbreak/SingleFile-dockerized](https://github.com/screenbreak/SingleFile-dockerized): SingleFile docker implementation providing access via CLI and WEB service
 * [gildas-lormeau/SingleFile-Lite](https://github.com/gildas-lormeau/SingleFile-Lite): Feel the power of the Manifest V3. The future, right now!
