@@ -34,7 +34,7 @@
 * [sindresorhus/Actions](https://github.com/sindresorhus/Actions): ⚙️ Supercharge your shortcuts
 * [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 * [techgaun/active-forks](https://github.com/techgaun/active-forks): Find active github forks of a repo https://git.io/vSnrC
-* [easonwong-de/Adaptive-Tab-Bar-Color](https://github.com/easonwong-de/Adaptive-Tab-Bar-Color): Changes the color of Firefox tab bar to match the website theme
+* [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour): Changes the colour of Firefox tab bar to match the website theme
 * [AdAway/AdAway](https://github.com/AdAway/AdAway): AdAway is a free and open source ad blocker for Android. 
 * [robertocaldas/AdbInstallService](https://github.com/robertocaldas/AdbInstallService): Simple adb install APK Automator Service for Mac with Notification
 * [Yuki2718/adblock](https://github.com/Yuki2718/adblock): Personal filters and rules for AdGuard/uBlock Origin
