@@ -170,7 +170,7 @@
 * [wting/autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line
 * [thirdinsight/AutoMarkFolderRead](https://github.com/thirdinsight/AutoMarkFolderRead): Thunderbird Addon to automatically mark folders (like junk) as read.
 * [alfredapp/automation-tasks](https://github.com/alfredapp/automation-tasks): Official Alfred Automation Tasks
-* [PrinceBalabis/Automator](https://github.com/PrinceBalabis/Automator): Various Automator and AppleScript workflow and scripts for simplifying life
+* [PrinceLundgren/Automator](https://github.com/PrinceLundgren/Automator): Various Automator and AppleScript workflow and scripts for simplifying life
 * [tcellerier/automator](https://github.com/tcellerier/automator): Mac OS Automator quick actions
 * [moosethegoose2213/automator-for-barrykn-micropatcher](https://github.com/moosethegoose2213/automator-for-barrykn-micropatcher): Automator for the BarryKN Micropatcher
 * [lawrenceting/Automator-Services-and-Workflows](https://github.com/lawrenceting/Automator-Services-and-Workflows): Automator Services and Workflows
