@@ -1113,7 +1113,7 @@
 * [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
 * [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
 * [cloux/LinkSanitizer](https://github.com/cloux/LinkSanitizer): Browser userscript to clean up hyperlink redirections and link shims
-* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): An open-source collaborative bookmark manager.
+* [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.
 * [Shopify/liquid](https://github.com/Shopify/liquid): Liquid markup language. Safe, customer facing template language for flexible web apps. 
 * [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart): Ajaxifies Shopify cart sections and product forms like a boss  :dark_sunglasses:
 * [harttle/liquidjs](https://github.com/harttle/liquidjs): A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
