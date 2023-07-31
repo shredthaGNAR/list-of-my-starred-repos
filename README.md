@@ -323,7 +323,7 @@
 * [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener): Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 * [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh): :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 * [huynhr36/bundle-builder](https://github.com/huynhr36/bundle-builder): Looking to use the bundle builder on your Shopify site? Here's a sample code to utilize the app if you are looking to break down product variants as individual products.
-* [dessant/buster](https://github.com/dessant/buster): Captcha solver extension for humans
+* [dessant/buster](https://github.com/dessant/buster): Captcha solver extension for humans, available for Chrome, Edge and Firefox
 * [sham00n/buster](https://github.com/sham00n/buster): An advanced tool for email reconnaissance
 * [loup-brun/buttons](https://github.com/loup-brun/buttons): A collection of CSS buttons.
 * [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome): Bypass Paywalls web browser extension for Chrome and Firefox.
