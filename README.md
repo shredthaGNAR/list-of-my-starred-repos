@@ -111,6 +111,7 @@
 * [marcel8121/alpenglow-thunderbird](https://github.com/marcel8121/alpenglow-thunderbird): The Firefox "Alpenglow" Theme for Thunderbird.
 * [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS 
 * [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos): AltTab - scriptable branch
+* [altstoreio/AltStore](https://github.com/altstoreio/AltStore): AltStore is an alternative app store for non-jailbroken iOS devices.
 * [ryanpcmcquen/amatron](https://github.com/ryanpcmcquen/amatron): A cross-platform electron Amazon Cloud Drive app.
 * [BoolenBread/Amazon-Drive-Video-Stream-API](https://github.com/BoolenBread/Amazon-Drive-Video-Stream-API): Grabs direct mp4 link from amazon drive with filename and picture.
 * [elliotlepers/Amazon-Killer](https://github.com/elliotlepers/Amazon-Killer): Extension Chrome et Firefox pour chercher un livre sur Amazon et l'acheter dans une vraie librairie.
@@ -2109,6 +2110,7 @@
 * [krisu5/userstyles](https://github.com/krisu5/userstyles): UserCSS for Stylus (for AniList, DuckDuckGo, Imgur, Twitter & more)
 * [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube): The best tweak for the YouTube app
 * [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus): uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
+* [arichorn/uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra): uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 * [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css): Custom Firefox UI styles based on https://github.com/Aris-t2/CustomCSSforFx
 * [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG): MicroG tweaked to work for applications such as Vanced.
 * [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG): MicroG tweaked to work for applications such as Vanced.
