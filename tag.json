@@ -1112,9 +1112,6 @@
     "Pravpro/Vibn-Central": [
         "Other"
     ],
-    "PrinceLundgren/Automator": [
-        "Other"
-    ],
     "ProgrammingFonts/ProgrammingFonts": [
         "Other"
     ],
@@ -5199,6 +5196,9 @@
         "Other"
     ],
     "prettier/prettier-vscode": [
+        "Other"
+    ],
+    "princelundgren/automator-collection": [
         "Other"
     ],
     "privacy-tech-lab/gpc-optmeowt": [
