@@ -1709,6 +1709,12 @@
     "achembarpu/pockyt": [
         "Other"
     ],
+    "aclap-dev/vdhcoapp": [
+        "Other"
+    ],
+    "aclap-dev/weh": [
+        "Other"
+    ],
     "actions/checkout": [
         "Other"
     ],
@@ -4476,12 +4482,6 @@
         "Other"
     ],
     "mhogomchungu/media-downloader": [
-        "Other"
-    ],
-    "mi-g/vdhcoapp": [
-        "Other"
-    ],
-    "mi-g/weh": [
         "Other"
     ],
     "michaelcukier/Poker-Hand-Tracker": [
