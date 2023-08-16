@@ -2471,9 +2471,6 @@
     "cli/cli": [
         "Other"
     ],
-    "clipboard2file/FFTweaks": [
-        "Other"
-    ],
     "clipboard2file/clipboard2file": [
         "Other"
     ],
@@ -3450,6 +3447,9 @@
         "Other"
     ],
     "hiroshil/save-tabs": [
+        "Other"
+    ],
+    "hnhx/librex": [
         "Other"
     ],
     "hoffstadt/DearPyGui": [

@@ -629,7 +629,6 @@
 * [mcosta3tc/FFCSS](https://github.com/mcosta3tc/FFCSS): Custom FireFox CSS
 * [dylanaraps/fff](https://github.com/dylanaraps/fff): 📁 A simple file manager written in bash.
 * [bigxixi/ffmpeg-mp4-and-gif-mac-automator](https://github.com/bigxixi/ffmpeg-mp4-and-gif-mac-automator): None
-* [clipboard2file/FFTweaks](https://github.com/clipboard2file/FFTweaks): smol tweaks for firefox proton redesign
 * [withfig/fig](https://github.com/withfig/fig): Public issue tracker for Fig.
 * [mklement0/fileicon](https://github.com/mklement0/fileicon): macOS CLI for managing custom icons for files and folders
 * [RealRaven2000/FiltaQuilla](https://github.com/RealRaven2000/FiltaQuilla): Adds many new mail filter actions to Thunderbird
@@ -678,7 +677,7 @@
 * [jeremyperkin/Firefox-macOS-setup](https://github.com/jeremyperkin/Firefox-macOS-setup): userChrome.css and userContent.css files.
 * [nchlscs/firefox-macos-style](https://github.com/nchlscs/firefox-macos-style): Firefox CSS theme inspired by Safari
 * [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod): None
-* [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox Proton - Blur Mod / For dark theme lovers / More compact / Modular
+* [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox Theme - For dark theme lovers / More compact / Modular / Blur
 * [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods): Firefox CSS and JS Mods
 * [gmardom/firefox-mods](https://github.com/gmardom/firefox-mods): None
 * [SebastianSimon/firefox-omni-tweaks](https://github.com/SebastianSimon/firefox-omni-tweaks): A script that disables the clickSelectsAll behavior of Firefox, and more.
@@ -1106,6 +1105,7 @@
 * [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2): The libgphoto2 camera access and control library.
 * [libreddit/libreddit](https://github.com/libreddit/libreddit): Private front-end for Reddit
 * [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube): An alternative frontend for YouTube, for Android.
+* [hnhx/librex](https://github.com/hnhx/librex): Framework and javascript free privacy respecting meta search engine
 * [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
 * [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The mouse and trackpad utility for Mac.
 * [ddawson/Link-Tools](https://github.com/ddawson/Link-Tools): Configurable copy and visit operations for links in Firefox
