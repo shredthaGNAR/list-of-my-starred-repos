@@ -377,7 +377,7 @@
 * [Wilbird/clickToPrivate](https://github.com/Wilbird/clickToPrivate): Firefox add-on to open links or current page in private mode
 * [bitwarden/clients](https://github.com/bitwarden/clients): Bitwarden client applications (web, browser extension, desktop, and cli)
 * [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur): A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
-* [vord1080/clipboard2file](https://github.com/vord1080/clipboard2file): WebExtension for using images on the clipboard as files
+* [clipboard2file/clipboard2file](https://github.com/clipboard2file/clipboard2file): WebExtension for using images on the clipboard as files
 * [aecreations/clippings](https://github.com/aecreations/clippings): Clippings: an extension for Mozilla Firefox
 * [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Clippings for Thunderbird
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
@@ -629,7 +629,7 @@
 * [mcosta3tc/FFCSS](https://github.com/mcosta3tc/FFCSS): Custom FireFox CSS
 * [dylanaraps/fff](https://github.com/dylanaraps/fff): 📁 A simple file manager written in bash.
 * [bigxixi/ffmpeg-mp4-and-gif-mac-automator](https://github.com/bigxixi/ffmpeg-mp4-and-gif-mac-automator): None
-* [vord1080/FFTweaks](https://github.com/vord1080/FFTweaks): smol tweaks for firefox proton redesign
+* [clipboard2file/FFTweaks](https://github.com/clipboard2file/FFTweaks): smol tweaks for firefox proton redesign
 * [withfig/fig](https://github.com/withfig/fig): Public issue tracker for Fig.
 * [mklement0/fileicon](https://github.com/mklement0/fileicon): macOS CLI for managing custom icons for files and folders
 * [RealRaven2000/FiltaQuilla](https://github.com/RealRaven2000/FiltaQuilla): Adds many new mail filter actions to Thunderbird

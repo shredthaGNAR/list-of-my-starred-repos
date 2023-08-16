@@ -2471,6 +2471,12 @@
     "cli/cli": [
         "Other"
     ],
+    "clipboard2file/FFTweaks": [
+        "Other"
+    ],
+    "clipboard2file/clipboard2file": [
+        "Other"
+    ],
     "cloux/LinkSanitizer": [
         "Other"
     ],
@@ -6492,12 +6498,6 @@
         "Other"
     ],
     "vladimiry/ElectronMail": [
-        "Other"
-    ],
-    "vord1080/FFTweaks": [
-        "Other"
-    ],
-    "vord1080/clipboard2file": [
         "Other"
     ],
     "vuestorefront/shopify": [
