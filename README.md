@@ -757,6 +757,7 @@
 * [fontsource/fontsource](https://github.com/fontsource/fontsource): Self-host Open Source fonts in neatly bundled NPM packages.
 * [briankendall/forceFullDesktopBar](https://github.com/briankendall/forceFullDesktopBar): Utility for macOS that modifies the Dock process so that the desktop bar in Mission Control is always full size and showing previews
 * [AveYo/fox](https://github.com/AveYo/fox): Firefox stuff
+* [Neikon/Fox11](https://github.com/Neikon/Fox11): None
 * [bnpoirier/foxify](https://github.com/bnpoirier/foxify): Converts Chrome extensions to Firefox
 * [marklieberman/foxygestures](https://github.com/marklieberman/foxygestures): Mouse gestures for Firefox
 * [prabunagrajan/free-design-resources](https://github.com/prabunagrajan/free-design-resources): A collection of websites for free UI design materials for Sketch, Adobe XD, Figma, and other design tools.
@@ -2134,6 +2135,7 @@
 * [amix/vimrc](https://github.com/amix/vimrc): The ultimate Vim configuration (vimrc)
 * [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey): Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 * [sanderdebr/visited-places-api](https://github.com/sanderdebr/visited-places-api): Full-stack App - user generated map of visited places. Where have you been to?
+* [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox): An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
 * [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader): An extremely simple, no frills, GUI-based video downloader
 * [AdamCaviness/vs-code-theme-monokai-dark-soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda): A VS Code theme
 * [microsoft/vscode](https://github.com/microsoft/vscode): Visual Studio Code
