@@ -19,7 +19,6 @@
 
 # Other
 
-* [marlonrichert/.config](https://github.com/marlonrichert/.config): ⚙️ Bootstrappable user environment for macOS & Ubuntu
 * [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles): My configs for prompt and terminal
 * [badmojr/1Hosts](https://github.com/badmojr/1Hosts): World's most advanced  DNS filter-/blocklists!
 * [tortious/2019Firefox](https://github.com/tortious/2019Firefox): None
