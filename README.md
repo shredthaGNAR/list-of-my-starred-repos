@@ -1929,7 +1929,6 @@
 * [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog): This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
 * [Tampermonkey/tamperdav](https://github.com/Tampermonkey/tamperdav): A WebDAV-like server to sync Tampermonkey scripts and edit them with an external editor
 * [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey): Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox. 
-* [dabaisuv/Tampermonkey-Script](https://github.com/dabaisuv/Tampermonkey-Script): Some useful Tampermonkey scripts.
 * [axcore/tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 * [tasks/tasks](https://github.com/tasks/tasks): Bringing Astrid Tasks back from the dead
 * [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
