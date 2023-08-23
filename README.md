@@ -918,6 +918,7 @@
 * [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts): 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
 * [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade): A command line tool for upgrading every outdated app installed by Homebrew Cask
 * [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): 🍻 Default formulae for the missing package manager for macOS (or Linux)
+* [algertc/homebrew-kleopatra4mac](https://github.com/algertc/homebrew-kleopatra4mac): Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS. 
 * [Shopify/homebrew-shopify](https://github.com/Shopify/homebrew-shopify): None
 * [TheKevJames/homebrew-youtube-viewer](https://github.com/TheKevJames/homebrew-youtube-viewer): youtube-viewer Formula for Homebrew
 * [klanchman/homebridge-logi-circle-controls](https://github.com/klanchman/homebridge-logi-circle-controls): Homebridge plugin for extended Logitech Circle camera controls
