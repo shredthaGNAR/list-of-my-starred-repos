@@ -2186,6 +2186,7 @@
 * [internetarchive/wayback-machine-webextension](https://github.com/internetarchive/wayback-machine-webextension): A web browser extension for Chrome, Firefox, Edge, and Safari 14.
 * [deyanvelichkov/waybackmachine](https://github.com/deyanvelichkov/waybackmachine): A simple wayback machine
 * [jsvine/waybackpack](https://github.com/jsvine/waybackpack): Download the entire Wayback Machine archive for a given URL.
+* [zhuowei/WDBRemoveThreeAppLimit](https://github.com/zhuowei/WDBRemoveThreeAppLimit): None
 * [dessant/web-archives](https://github.com/dessant/web-archives): Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 * [webclipper/web-clipper](https://github.com/webclipper/web-clipper): For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 * [Shopify/web-configs](https://github.com/Shopify/web-configs): Common configurations for building web apps at Shopify
