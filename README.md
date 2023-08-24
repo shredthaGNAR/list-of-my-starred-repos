@@ -476,6 +476,7 @@
 * [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 * [desktop/desktop](https://github.com/desktop/desktop): Focus on what matters instead of fighting with Git.
 * [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App): Windscribe 2.0 desktop client for Windows, Mac and Linux
+* [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App): Windscribe 2.0 desktop client for Windows, Mac and Linux
 * [chriskol/Desktop-Google-Keep-OSX](https://github.com/chriskol/Desktop-Google-Keep-OSX): A Super Simple Desktop Client for Mac OSX Built in Javascript and MacGap
 * [scriptingosx/desktoppr](https://github.com/scriptingosx/desktoppr): Simple command line tool to set the desktop picture on macOS
 * [TASEmulators/desmume](https://github.com/TASEmulators/desmume): DeSmuME is a Nintendo DS emulator
@@ -1490,6 +1491,7 @@
 * [sdeep27/poker-simulator](https://github.com/sdeep27/poker-simulator): simulates starting hands and flop, turn, river for tournies and cash games in omaha and hold'em poker
 * [400yk/PokerBotMac](https://github.com/400yk/PokerBotMac): Mac version of pokerbot project by Dick Neutral
 * [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator): Poker-Hand-Evaluator: An efficient poker hand evaluation algorithm and its implementation, supporting 7-card poker and Omaha poker evaluation
+* [forestturner/PokerHandRangeCalc](https://github.com/forestturner/PokerHandRangeCalc): Poker Hand Range Calculator
 * [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit): An open-source Python library for poker simulations and hand evaluations
 * [johnsoong216/PokerOddsCalc](https://github.com/johnsoong216/PokerOddsCalc): A simple tool to calculate poker hand odds (Omaha/Hold'em)
 * [EricSteinberger/PokerRL](https://github.com/EricSteinberger/PokerRL): Framework for Multi-Agent Deep Reinforcement Learning in Poker
