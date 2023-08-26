@@ -587,7 +587,7 @@
 * [Sav22999/emoji](https://github.com/Sav22999/emoji): "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 * [mganss/EmojiAddIn](https://github.com/mganss/EmojiAddIn): Emoji for Outlook and Thunderbird
 * [hrai/english-popup-thesaurus](https://github.com/hrai/english-popup-thesaurus): Thesaurus firefox add-on.
-* [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd): :rocket: A next-generation cd command with your interactive filter
+* [babarot/enhancd](https://github.com/babarot/enhancd): :rocket: A next-generation cd command with your interactive filter
 * [andreyvit/env](https://github.com/andreyvit/env): None
 * [bitgapp/eqMac](https://github.com/bitgapp/eqMac): macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 * [rlxone/Equinox](https://github.com/rlxone/Equinox): 🌇 🌃  Create dynamic wallpapers for macOS.
