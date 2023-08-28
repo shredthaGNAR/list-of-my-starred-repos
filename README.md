@@ -117,6 +117,7 @@
 * [Finickyflame/amazon-unsponsored](https://github.com/Finickyflame/amazon-unsponsored): Source for the browser extension to remove all sponsored links in amazon
 * [ianyh/Amethyst](https://github.com/ianyh/Amethyst): Automatic tiling window manager for macOS à la xmonad.
 * [amethyst/amethyst-starter-2d](https://github.com/amethyst/amethyst-starter-2d): Seed project for 2D games
+* [tlouth19/analyze.golf](https://github.com/tlouth19/analyze.golf): Browser based golf swing analyzer built with React, Redux, Tailwind and Konva.js. ⛳️🔥
 * [phosphor-icons/android](https://github.com/phosphor-icons/android): An elegant and sophisticated line icon pack to declutter your home screen.
 * [kevalpatel2106/android-ringtone-picker](https://github.com/kevalpatel2106/android-ringtone-picker): Simple Ringtone Picker dialog which allows you to pick different sounds from ringtone, alarm tone, notification tone and music from external storage.
 * [mrfaptastic/Android-WebCam](https://github.com/mrfaptastic/Android-WebCam): Reuse an old crap Android phone for a basic streaming webcam, or periodic photo capture and upload to an external webserver. Best for devices on really old Android versions: 4.0.4 etc.
