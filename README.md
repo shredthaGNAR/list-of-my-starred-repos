@@ -1625,7 +1625,7 @@
 * [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module): Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 * [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager): 💊 Application to use ReVanced on Android 
 * [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager): 💊 Application to use ReVanced on Android 
-* [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot): Auto check and build apk non-root from revanced/inotia00
+* [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot): Auto check and patch YouTube Revanced 
 * [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher): 💉 ReVanced Patcher used to patch Android applications
 * [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches): 🧩 Patches for ReVanced
 * [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches): 🧩 Patches for ReVanced
@@ -1847,6 +1847,7 @@
 * [librespeed/speedtest](https://github.com/librespeed/speedtest): Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 * [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli): Command line interface for testing internet bandwidth using speedtest.net
 * [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli): Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+* [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions): extensions for spotify  i'm creating
 * [onaralili/SplitUp](https://github.com/onaralili/SplitUp): ✨ SplitUp! is a browser extension allows a user to split tabs into a different window, save session, export tabs, supports multiple screens, dark mode etc. ✨
 * [yt-dlp/SponSkrub](https://github.com/yt-dlp/SponSkrub): Strip advertisements from downloaded YouTube videos
 * [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip YouTube video sponsors (browser extension)
@@ -1859,6 +1860,7 @@
 * [JamesQuintero/Sports-Odds-Algorithms](https://github.com/JamesQuintero/Sports-Odds-Algorithms): System that calculates and uses algorithms to predict the outcome of NBA, NHL, and MLB sports games.
 * [SoslyLW/SportsOdds](https://github.com/SoslyLW/SportsOdds): A Pythagorean win expectation-based Monte Carlo simulator to determine the odds of NHL teams making the playoffs.
 * [w0lfschild/spotifyPlus](https://github.com/w0lfschild/spotifyPlus): 🎵 MacForge plugin to enhance the Spotify Desktop player on macOS
+* [Nuzair46/SpotX-Mac](https://github.com/Nuzair46/SpotX-Mac): Spotify Ad blocker based on SpotX for MacOS
 * [boygaggoo/spynet-camera](https://github.com/boygaggoo/spynet-camera): Allows to use your mobile device as an IP camera
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
 * [rchern/StackExchangeScripts](https://github.com/rchern/StackExchangeScripts): A collection of user scripts for StackExchange sites 
