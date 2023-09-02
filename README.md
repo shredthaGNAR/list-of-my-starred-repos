@@ -1105,7 +1105,7 @@
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 * [gildas-lormeau/LazyLoadify](https://github.com/gildas-lormeau/LazyLoadify): Web Extension to force the lazy loading of non-displayed resources (i.e. image, frame, video and audio contents)
 * [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton): 💻     Democratizing Snippet Management (macOS/Win/Linux)
-* [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom): A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
+* [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom): 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 * [AlexisDrain/Less-Addictive-YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube): Cross-browser plugin to remove addictive features on YT like thumbnails, comments, & previews
 * [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit): Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 * [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin): Calibre plugin for Library Genesis
@@ -1214,7 +1214,7 @@
 * [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free and open source code snippets manager for developers
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
 * [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
-* [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur): A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
+* [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur): 🦊 A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
 * [typeling1578/MaterialFox-Plus](https://github.com/typeling1578/MaterialFox-Plus): A Material Design-inspired userChrome.css theme for Firefox. This repository is a Fork of muckSponge/MaterialFox.
 * [square/maximum-awesome](https://github.com/square/maximum-awesome): Config files for vim and tmux.
 * [qsniyg/maxurl](https://github.com/qsniyg/maxurl): Finds larger/original versions of images and videos
