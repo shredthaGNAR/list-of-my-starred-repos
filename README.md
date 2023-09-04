@@ -1647,7 +1647,6 @@
 * [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox): Sidebar Always Loaded for Firefox
 * [thundernest/sample-extensions](https://github.com/thundernest/sample-extensions): Example extensions for Thunderbird WebExtensions APIs
 * [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820): Unified kernel tree for S10 and Note10 devices
-* [Samyak-Bumb/Samyak-Bumb-Theme](https://github.com/Samyak-Bumb/Samyak-Bumb-Theme): None
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [Erisa/save-all-tab-urls](https://github.com/Erisa/save-all-tab-urls): Save all the open tabs as a list of URLs to go back to!
 * [allen505/save-for-later](https://github.com/allen505/save-for-later): A web extension for Chrome/Firefox which saves the tabs in current window for later use.
