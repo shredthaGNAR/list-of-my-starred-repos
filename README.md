@@ -507,7 +507,6 @@
 * [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge): WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 * [jim60105/docker-youtube-dl](https://github.com/jim60105/docker-youtube-dl): Youtube錄影伺服器 (Docker Compose) https://blog.maki0419.com/2020/11/docker-youtube-dl-auto-recording-live-dl.html
 * [DeromirNeves/DockSeparator](https://github.com/DeromirNeves/DockSeparator): macOS utility to add multiple separators to Dock
-* [deinsoftware/dot-files](https://github.com/deinsoftware/dot-files): dot Files: ZSH setup and productivity tools for development
 * [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon): My personal Hammerspoon configuration - mirrored from GitLab
 * [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
 * [svetlyak40wt/dotfiler](https://github.com/svetlyak40wt/dotfiler): Shell agnostic git based dotfiles package manager, written in Python.
@@ -518,6 +517,7 @@
 * [cheshire137/dotfiles](https://github.com/cheshire137/dotfiles): All my handy configuration files, including for stuff like Skyrim. ⚔️
 * [codfish/dotfiles](https://github.com/codfish/dotfiles): My macOS dotfiles: Oh My Zsh, git, brew, node, mac settings, mac apps, and more.
 * [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles): Personal dotfiles for macOS and Linux.
+* [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles): dot Files: ZSH setup and productivity tools for development
 * [driesvints/dotfiles](https://github.com/driesvints/dotfiles): Get started with your own dotfiles.
 * [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles): 🤌🏻 Setup your MacOS for web development in few minutes.
 * [karlhorky/dotfiles](https://github.com/karlhorky/dotfiles): macOS dotfiles
