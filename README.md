@@ -267,7 +267,7 @@
 * [skylineone044/blurclean-firefox-theme](https://github.com/skylineone044/blurclean-firefox-theme): Clean, transparent firefox theme
 * [TheBi11iona1re/BlurFox-CSS-for-Mac](https://github.com/TheBi11iona1re/BlurFox-CSS-for-Mac): Update  to manilarome's Blur Fox for mac only
 * [dwarvesf/blurred](https://github.com/dwarvesf/blurred): A macOS utility that helps reduce distraction by dimming your inactive noise
-* [manilarome/blurredfox](https://github.com/manilarome/blurredfox): A sleek, modern and elegant Firefox CSS theme
+* [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox): A sleek, modern and elegant Firefox CSS theme
 * [iam4x/bobarr](https://github.com/iam4x/bobarr): 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 * [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver): 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
 * [MrOtherGuy/bookmark-batch-updater](https://github.com/MrOtherGuy/bookmark-batch-updater): A webextension tool to update multiple bookmarks at once
@@ -2000,7 +2000,7 @@
 * [PapirusDevelopmentTeam/thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus): Papirus icons for Thunderbird
 * [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js): Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening 
 * [PierreLebedel/ThunderbirdLargerMessageList](https://github.com/PierreLebedel/ThunderbirdLargerMessageList): Thunderbird extension that enlarges the display of the message list, and the folder tree view too
-* [manilarome/thunderblurred](https://github.com/manilarome/thunderblurred): A theme for Thunderbird
+* [eromatiya/thunderblurred](https://github.com/eromatiya/thunderblurred): A theme for Thunderbird
 * [cleidigh/ThunderKdB](https://github.com/cleidigh/ThunderKdB): Thunderbird Addon Code Knowledge Base
 * [networkException/thundersort](https://github.com/networkException/thundersort): Sort incoming mails based on recipient slug
 * [cleidigh/ThunderStorm](https://github.com/cleidigh/ThunderStorm): Tips, Tricks & Examples for Thunderbird E-mail New Add-On Development
