@@ -1607,7 +1607,7 @@
 * [xia4zhi3yun2/remove_commercial](https://github.com/xia4zhi3yun2/remove_commercial): remove commercial and detect logo in video
 * [eyalroz/removedupes](https://github.com/eyalroz/removedupes): Remove Duplicate Messages
 * [dexiota/replacefirefoxicon](https://github.com/dexiota/replacefirefoxicon): A collection of CSS tweaks to only change Firefox's icon throughout the UI.
-* [jeevatkm/ReplyWithHeaderMozilla](https://github.com/jeevatkm/ReplyWithHeaderMozilla): Outlook style headers and few goodies for Thunderbird & Postbox.
+* [jeevatkm/ReplyWithHeaderMozilla](https://github.com/jeevatkm/ReplyWithHeaderMozilla): Outlook style headers and few goodies for Thunderbird
 * [srvaroa/repocket](https://github.com/srvaroa/repocket): Manage a local copy of articles saved in Pocket
 * [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature): ✨ Template generator for (responsive) emails & email signatures 
 * [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template): A free simple responsive HTML email template
