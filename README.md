@@ -533,6 +533,7 @@
 * [timmybytes/dotfiles](https://github.com/timmybytes/dotfiles): My personal (.)dotfiles and configurations for various programs and environments. 
 * [trybick/dotfiles](https://github.com/trybick/dotfiles): Config files and new Mac setup guide
 * [vufly/dotfiles](https://github.com/vufly/dotfiles): This is the place where I keep my configuration.
+* [garywill/doubleclick-new-tab](https://github.com/garywill/doubleclick-new-tab): Firefox open new tab by double clicking on tab bar , userchrome script. (Never need it since ff 68
 * [charlieMonroe/DownieCustomIntegrations](https://github.com/charlieMonroe/DownieCustomIntegrations): None
 * [charlieMonroe/DownieExtensions](https://github.com/charlieMonroe/DownieExtensions): Browser Extensions used in Downie (https://software.charliemonroe.net/downie/).
 * [stefnotch/downline](https://github.com/stefnotch/downline): Free cross-platform desktop application for downloading video and audio from YouTube and many other sites
@@ -2080,6 +2081,7 @@
 * [TrollSkull/uScanner](https://github.com/TrollSkull/uScanner): uScanner is a tool to find usernames on various pages throughout the entire internet.
 * [gglukmann/use-google-sheets](https://github.com/gglukmann/use-google-sheets): 📝 A React Hook for getting data from Google Sheets API v4
 * [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io): Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
+* [jingyu9575/user-chrome-js](https://github.com/jingyu9575/user-chrome-js): Firefox extension (privileged) to enable userChrome.js support
 * [JYLD/User-CSS-For-Firefox-And-Thunderbird](https://github.com/JYLD/User-CSS-For-Firefox-And-Thunderbird): User CSS Contributions For CustomizeMyBird and Custom CSS For FX
 * [taitems/user-email-enrichment](https://github.com/taitems/user-email-enrichment): A free, open source tool to lookup user identities by email address
 * [arkenfox/user.js](https://github.com/arkenfox/user.js): Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
