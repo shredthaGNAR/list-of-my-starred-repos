@@ -415,6 +415,7 @@
 * [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor): A powerful browser extension to create, edit and delete cookies
 * [vinitshahdeo/Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager): A chrome extension to manage browser cookies.
 * [ysard/cookie-quick-manager](https://github.com/ysard/cookie-quick-manager): An addon to manage (view, search, create, edit, remove, backup, restore) cookies on Firefox.
+* [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets): Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 * [webkul/coolhue](https://github.com/webkul/coolhue): Coolest Gradient Hues and Swatches
 * [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard): Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
 * [ctrlxc/copyaddrs](https://github.com/ctrlxc/copyaddrs): thunderbird webextentions
