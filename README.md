@@ -1046,7 +1046,7 @@
 * [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils): Joplin-based peripheral community tool
 * [jerrylususu/joplin-vacuum](https://github.com/jerrylususu/joplin-vacuum): Removes attachments (resources) that are not referred in Joplin. 
 * [mahor1221/joplin-vsc-material-theme](https://github.com/mahor1221/joplin-vsc-material-theme): VSCode Community Material Theme for Joplin
-* [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme): ReMoods is an eye-health based theming plugin for the open source note-taking app Joplin.
+* [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme): [NO LONGER MAINTAINED]
 * [geoai777/joplin_styles](https://github.com/geoai777/joplin_styles): CSS tweaks for joplin app
 * [cweirup/JoplinSafariWebClipper](https://github.com/cweirup/JoplinSafariWebClipper): Safari App Extension for Joplin Web Clipper
 * [uroybd/JoplinScratchPad](https://github.com/uroybd/JoplinScratchPad): A Scratchpad for Joplin and MacOS and Linux
