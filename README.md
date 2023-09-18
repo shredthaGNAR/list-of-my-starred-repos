@@ -488,6 +488,8 @@
 * [thundernest/developer-docs](https://github.com/thundernest/developer-docs): Developer documentation for Thunderbird contributors.
 * [matomo-org/device-detector](https://github.com/matomo-org/device-detector): The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. 
 * [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll): (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS)
+* [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
+* [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 * [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app): All-in-one Toolbox for Developers. Native macOS app.
 * [Kavakuo/Dict.cc-Alfred-Workflow](https://github.com/Kavakuo/Dict.cc-Alfred-Workflow): None
 * [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
@@ -1427,6 +1429,7 @@
 * [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect): A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and view other users’ posts & profiles, search users & follow-unfollow them and get notified about activities on their profile.
 * [ChanChunCheong/PeopleSearch](https://github.com/ChanChunCheong/PeopleSearch): DSO Summer Internship-People Search Aggregator web application which use data analytics and artificial intelligence libraries, to simultaneously search social media profiles from various platforms, processes, and then rank the search results based on name, location, keywords and image matching
 * [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis): Persepolis Download Manager is a GUI for aria2.
+* [github/personal-website](https://github.com/github/personal-website): Code that'll help you kickstart a personal website that showcases your work as a software developer.
 * [thlorenz/phe](https://github.com/thlorenz/phe): Poker hand evaluator
 * [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 * [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript
@@ -1509,6 +1512,7 @@
 * [iSapozhnik/Popover](https://github.com/iSapozhnik/Popover): Custom macOS Popover 💬
 * [eight04/popup-tab](https://github.com/eight04/popup-tab): A Firefox addon, easily convert a tab into a popup and vice versa.
 * [Porco-Rosso/PorcoSpoon](https://github.com/Porco-Rosso/PorcoSpoon): My Versatile Hammerspoon Config
+* [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio): My self coded personal website build with React.js
 * [husseyexplores/poshify-utilities](https://github.com/husseyexplores/poshify-utilities): Some posh utilities for Shopify developers and merchants packaged as a browser extension 🎉
 * [fboulnois/positron-ui-firefox](https://github.com/fboulnois/positron-ui-firefox): A simple userChrome for Firefox that restores connected tabs, visual dividers, and the focused tab highlight.
 * [Century300/powerlevel10k](https://github.com/Century300/powerlevel10k): fast install powerlevel10k theme
@@ -2128,10 +2132,12 @@
 * [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube): The best tweak for the YouTube app
 * [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus): uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 * [arichorn/uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra): uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
+* [bchiang7/v4](https://github.com/bchiang7/v4): Fourth iteration of my personal website built with Gatsby
 * [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css): Custom Firefox UI styles based on https://github.com/Aris-t2/CustomCSSforFx
 * [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG): MicroG tweaked to work for applications such as Vanced.
 * [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG): MicroG tweaked to work for applications such as Vanced.
 * [vegetableman/vandal](https://github.com/vegetableman/vandal): Navigator for Web Archive
+* [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio): vCard is a fully responsive personal portfolio website, responsive for all devices.
 * [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp): Companion application for Video DownloadHelper browser add-on
 * [Vendicated/Vencord](https://github.com/Vendicated/Vencord): The cutest Discord client mod
 * [Pravpro/Vibn-Central](https://github.com/Pravpro/Vibn-Central): An app being built with the goal of making Product Uploading exponentially faster for Shopify stores with one-off products.
