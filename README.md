@@ -821,7 +821,6 @@
 * [pomber/git-history](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository
 * [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako): 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 * [DonJayamanne/gitHistoryVSCode](https://github.com/DonJayamanne/gitHistoryVSCode): Git History for Visual Studio Code
-* [mdawsondev/github-advanced](https://github.com/mdawsondev/github-advanced): Adds various enhancements to GitHub.
 * [renatorib/github-blog](https://github.com/renatorib/github-blog): :octopus: Turn your github issues into a CMS for your blog.
 * [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark): :octocat: Dark GitHub style
 * [StylishThemes/GitHub-Dark-Script](https://github.com/StylishThemes/GitHub-Dark-Script): Archived - Please use https://github.com/StylishThemes/GitHub-Dark directly
