@@ -1246,7 +1246,7 @@
 * [alexta69/metube](https://github.com/alexta69/metube): youtube-dl web UI
 * [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
 * [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
-* [artginzburg/MiddleClick-Ventura](https://github.com/artginzburg/MiddleClick-Ventura):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
+* [artginzburg/MiddleClick-Sonoma](https://github.com/artginzburg/MiddleClick-Sonoma):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 * [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard): Сustom color schemes for all websites
 * [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox): A minimal, yet functional Firefox userChrome configuration.
 * [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes): :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
