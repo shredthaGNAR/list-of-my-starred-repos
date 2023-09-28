@@ -359,6 +359,7 @@
 * [Adobe-CEP/CEP-Resources](https://github.com/Adobe-CEP/CEP-Resources): Tools and documentation for building Creative Cloud app extensions with CEP
 * [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty): Adapted "Beautiful" Themes
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
+* [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
 * [adamschwartz/chrome-desaturate-favicons](https://github.com/adamschwartz/chrome-desaturate-favicons): Desaturate the favicons of all inactive tabs.
 * [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader): Chrome manifest loader for webpack
@@ -552,6 +553,7 @@
 * [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions): Add-on actions and API Docs for Dropzone 4
 * [aptonic/dropzone4-actions-zipped](https://github.com/aptonic/dropzone4-actions-zipped): Add-on actions for Dropzone 4
 * [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
+* [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)
 * [notable/dumper](https://github.com/notable/dumper): Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 * [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru): Find duplicate files
 * [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer): Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
@@ -2125,6 +2127,7 @@
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
 * [Infocatcher/UserScripts](https://github.com/Infocatcher/UserScripts): UserScripts for Firefox with Greasemonkey extension and (may be) for other browsers with user.js support
 * [Jorengarenar/UserScripts](https://github.com/Jorengarenar/UserScripts): Collection of all my UserScripts
+* [danydodson/userscripts](https://github.com/danydodson/userscripts):  🪚 Collection of UserScripts.
 * [darkred/Userscripts](https://github.com/darkred/Userscripts): My userscripts
 * [jerone/UserScripts](https://github.com/jerone/UserScripts): 🐵 My UserScripts
 * [jwilk/userscripts](https://github.com/jwilk/userscripts): Jakub's custom CSS and JavaScript (for dotPageMod Firefox extension)
