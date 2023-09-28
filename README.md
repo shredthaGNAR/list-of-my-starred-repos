@@ -1588,7 +1588,7 @@
 * [iampueroo/rComments](https://github.com/iampueroo/rComments): Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
 * [SamR1/rdltr](https://github.com/SamR1/rdltr): a simple read-it later app
 * [SamR1/rdltr-addon](https://github.com/SamR1/rdltr-addon): Firefox add-on for rdltr (read-it-later app)
-* [facebook/react](https://github.com/facebook/react): The library for web and native user interfaces
+* [facebook/react](https://github.com/facebook/react): The library for web and native user interfaces.
 * [XcrossD/read-later-bookmarks](https://github.com/XcrossD/read-later-bookmarks): A chrome extension that add a read later view for chrome bookmarks
 * [rNeomy/reader-view](https://github.com/rNeomy/reader-view): Access Firefox's built in reader view from right click context menu
 * [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list): A Chrome/Firefox extension for saving pages to read later.
