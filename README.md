@@ -1698,7 +1698,6 @@
 * [meanii/Search4](https://github.com/meanii/Search4): Search people on the Internet.
 * [diegov/searchbox](https://github.com/diegov/searchbox): Personal crawling and indexing
 * [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper): Yet another awesome web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and shortcuts. Build with React & Material-UI. (WIP). 搜索酱/搜尋醬/検索ちゃん
-* [joelwembo/searchmediaProfilesLink](https://github.com/joelwembo/searchmediaProfilesLink): Angular CLI Seach All Social Media Profile Using an Email Account
 * [EmySaulIntec/SearchPeople](https://github.com/EmySaulIntec/SearchPeople): Search images in your phone based in three photo of a person
 * [searx/searx](https://github.com/searx/searx): Privacy-respecting metasearch engine
 * [searxng/searxng](https://github.com/searxng/searxng): SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
