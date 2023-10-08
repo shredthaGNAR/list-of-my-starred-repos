@@ -560,7 +560,7 @@
 * [powerwolf543/DuplicateFinder](https://github.com/powerwolf543/DuplicateFinder): Duplicate Finder is a macOS application that is written by Swift. It's a useful tool that would help you find all duplicate files with the same names in the specific folder.
 * [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper): A simple bash script to set wallpapers according to current time, using cron job scheduler.
 * [kush-agra/Dynamic_Walls](https://github.com/kush-agra/Dynamic_Walls): Replicating macOS Mojave's dynamic wallpaper feature
-* [zx1262111739/DynamicWallpaper](https://github.com/zx1262111739/DynamicWallpaper): Mac dynamic wallpaper program
+* [plumk97/DynamicWallpaper](https://github.com/plumk97/DynamicWallpaper): Mac dynamic wallpaper program
 * [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye): Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 * [117649/EasyDragToGoPlus-Redux](https://github.com/117649/EasyDragToGoPlus-Redux): None
 * [easylist/easylist](https://github.com/easylist/easylist): EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
