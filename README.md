@@ -1548,7 +1548,7 @@
 * [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr): None
 * [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools): Python package for reading Adobe Photoshop PSD files
 * [psequel/psequel](https://github.com/psequel/psequel): Free PostgreSQL GUI tool for macOS.
-* [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox): Hides the UI giving maximum space for content and aiding concentration. Unifies UI style, reduces contrast and padding. YouTube is always full screen.
+* [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox): Hides and improves Firefox and YouTube UI, giving maximum space for content and aiding concentration
 * [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam): Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
