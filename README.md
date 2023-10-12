@@ -2097,7 +2097,7 @@
 * [taitems/user-email-enrichment](https://github.com/taitems/user-email-enrichment): A free, open source tool to lookup user identities by email address
 * [arkenfox/user.js](https://github.com/arkenfox/user.js): Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 * [pyllyukko/user.js](https://github.com/pyllyukko/user.js): user.js -- Firefox configuration hardening
-* [BPower0036/UserChrome](https://github.com/BPower0036/UserChrome): userChrome.css for FireFox and Thunderbird
+* [Nomes77/UserChrome](https://github.com/Nomes77/UserChrome): userChrome.css for FireFox and Thunderbird
 * [ago1024/userchrome](https://github.com/ago1024/userchrome): BEcuase F'
 * [annoyatron255/Userchrome](https://github.com/annoyatron255/Userchrome): My Firefox Userchrome Config
 * [p9n/userchrome](https://github.com/p9n/userchrome): userchrome.css/.js for firefox >= 57
