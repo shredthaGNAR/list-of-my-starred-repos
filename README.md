@@ -106,7 +106,7 @@
 * [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app): Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 * [dnomd343/alltube-docker](https://github.com/dnomd343/alltube-docker): Docker of AllTube Download
 * [Godiesc/AlpenBlue](https://github.com/Godiesc/AlpenBlue): Theme to blue lovers
-* [WynStaXxx/AlpenBr0-firefox-theme](https://github.com/WynStaXxx/AlpenBr0-firefox-theme): Alpenfox custom theme eith glowing gradient active tab and gradient to transparent hover plus other mods. Use with firefox alpenglow for look in pics or use default dark/light for transparent theme with cool look.
+* [shredthaGNAR/AlpenBr0-firefox-theme](https://github.com/shredthaGNAR/AlpenBr0-firefox-theme): Alpenfox custom theme eith glowing gradient active tab and gradient to transparent hover plus other mods. Use with firefox alpenglow for look in pics or use default dark/light for transparent theme with cool look.
 * [marcel8121/alpenglow-thunderbird](https://github.com/marcel8121/alpenglow-thunderbird): The Firefox "Alpenglow" Theme for Thunderbird.
 * [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS 
 * [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos): AltTab - scriptable branch
@@ -466,8 +466,8 @@
 * [uso-archive/data](https://github.com/uso-archive/data): Full mirror of UserStyles.org
 * [TechnicalWebAnalytics/dataLayer-shopify](https://github.com/TechnicalWebAnalytics/dataLayer-shopify): A dataLayer integration specific to extracting information from Shopify.
 * [Shopify/dawn](https://github.com/Shopify/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
-* [WynStaXxx/dawn](https://github.com/WynStaXxx/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 * [realoatesman/Dawn](https://github.com/realoatesman/Dawn): Shopify Dawn Dev Theme
+* [shredthaGNAR/dawn](https://github.com/shredthaGNAR/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 * [pedritobata/dawn-clone-shopify](https://github.com/pedritobata/dawn-clone-shopify): None
 * [dougpark/dayone](https://github.com/dougpark/dayone): Better Touch Tool create a DayOne journal entry
 * [zoonderkins/dbl-oisd-nl](https://github.com/zoonderkins/dbl-oisd-nl): abp.oisd.nl | Internet's #1 domain blocklist (Mirror)
@@ -484,7 +484,7 @@
 * [chriskol/Desktop-Google-Keep-OSX](https://github.com/chriskol/Desktop-Google-Keep-OSX): A Super Simple Desktop Client for Mac OSX Built in Javascript and MacGap
 * [scriptingosx/desktoppr](https://github.com/scriptingosx/desktoppr): Simple command line tool to set the desktop picture on macOS
 * [TASEmulators/desmume](https://github.com/TASEmulators/desmume): DeSmuME is a Nintendo DS emulator
-* [WynStaXxx/dev-new](https://github.com/WynStaXxx/dev-new): None
+* [shredthaGNAR/dev-new](https://github.com/shredthaGNAR/dev-new): None
 * [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup): macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 * [0xdevalias/devalias.net](https://github.com/0xdevalias/devalias.net): Source for devalias.net
 * [thundernest/developer-docs](https://github.com/thundernest/developer-docs): Developer documentation for Thunderbird contributors.
@@ -812,7 +812,7 @@
 * [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy): Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
 * [finia2NA/getter](https://github.com/finia2NA/getter): A multi-workflow YouTube downloader
-* [WynStaXxx/gh-bookmarks](https://github.com/WynStaXxx/gh-bookmarks): None
+* [shredthaGNAR/gh-bookmarks](https://github.com/shredthaGNAR/gh-bookmarks): None
 * [RaKeerS/Gif-Finder](https://github.com/RaKeerS/Gif-Finder): This is a web app created to be utilized in order to fetch the Gif Images from the Giphy Images Repository. It offer different categories and also a custom search tool in order to find what you exactly need! 
 * [defunkt/gist](https://github.com/defunkt/gist): Potentially the best command line gister.
 * [weakish/gister](https://github.com/weakish/gister): command line tool to sync github gists
@@ -1293,15 +1293,15 @@
 * [Javojav/Multi-engine-search](https://github.com/Javojav/Multi-engine-search): This Firefox extension allows you to use multiple of your installed search engines at once.
 * [wantora/multiple-paste-and-go-button](https://github.com/wantora/multiple-paste-and-go-button): This add-on provides a button to open multiple URLs from clipboard.
 * [rxhanson/Multitouch-Community](https://github.com/rxhanson/Multitouch-Community): Issue and feature request tracking for the Multitouch app
-* [WynStaXxx/my-awesome-starred](https://github.com/WynStaXxx/my-awesome-starred): None
-* [WynStaXxx/my-awesome-stars](https://github.com/WynStaXxx/my-awesome-stars): my list of github stars fork
+* [shredthaGNAR/my-awesome-starred](https://github.com/shredthaGNAR/my-awesome-starred): None
+* [shredthaGNAR/my-awesome-stars](https://github.com/shredthaGNAR/my-awesome-stars): my list of github stars fork
 * [abdel7ak96/my-email-signature](https://github.com/abdel7ak96/my-email-signature): Email signature
 * [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme): My Joplin App userstyle and userchrome theme style.
 * [tansawit/my-mac-setup](https://github.com/tansawit/my-mac-setup): List of applications and tools that optimize my macOS experience. Inspired by https://github.com/nikitavoloboev/my-mac-os
 * [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome): My UserChrome Css and Script
 * [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001): My filter lists - feel free to add these lists to uBlock Origin
 * [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): UI Email Signature Generator - Make easy to create your email signature
-* [WynStaXxx/mytheme](https://github.com/WynStaXxx/mytheme): firefox userchrome css theme
+* [shredthaGNAR/mytheme](https://github.com/shredthaGNAR/mytheme): firefox userchrome css theme
 * [tj/n](https://github.com/tj/n): Node version management
 * [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl): Use external downloader directly from Firefox's native download asking dialog (Use on your own risk !!) (runs on ff115)
 * [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles): None
@@ -1402,8 +1402,8 @@
 * [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig): Add ligatures to Operator Mono similar to Fira Code
 * [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates): Customize free Shopify Order Printer templates.
 * [loveshopify/orium](https://github.com/loveshopify/orium): None
-* [WynStaXxx/OS-Folder-Icons](https://github.com/WynStaXxx/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [shariati/OS-Folder-Icons](https://github.com/shariati/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
+* [shredthaGNAR/OS-Folder-Icons](https://github.com/shredthaGNAR/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [opengaming/osgameclones](https://github.com/opengaming/osgameclones): Open Source Clones of Popular Games
 * [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list): A list of tools to search accounts by username
 * [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
@@ -1419,8 +1419,8 @@
 * [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer): PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give to the aplication a few pictures of the person of interest
 * [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups):  An add-on for Firefox that implements the old Tab Groups/Panorama functionality
 * [photodiode/panorama-view](https://github.com/photodiode/panorama-view): Add-on for Firefox letting you organize tabs and tab groups visually
-* [WynStaXxx/paper-app](https://github.com/WynStaXxx/paper-app): Unofficial Paper app for Mac
 * [keiichi4e/paper-app](https://github.com/keiichi4e/paper-app): Unofficial Paper app for Mac
+* [shredthaGNAR/paper-app](https://github.com/shredthaGNAR/paper-app): Unofficial Paper app for Mac
 * [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory): Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, direct download and more!
 * [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme): Papirus icon theme for Linux
 * [Paragon-Software-Group/paragon_firewall_ce](https://github.com/Paragon-Software-Group/paragon_firewall_ce): Paragon Firewall for Mac
@@ -1494,12 +1494,12 @@
 * [typkrft/Poison-Firefox-Theme](https://github.com/typkrft/Poison-Firefox-Theme): A Firefox theme with Pywal and macOS in mind. 
 * [Nerdmaster/poker](https://github.com/Nerdmaster/poker): Extremely fast poker hand evaluator: supports 5-7 cards as well as Omaha evaluations
 * [PokerDashboard/poker](https://github.com/PokerDashboard/poker): None
-* [WynStaXxx/poker](https://github.com/WynStaXxx/poker): A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
 * [alexyz/poker](https://github.com/alexyz/poker): A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
 * [dickreuter/Poker](https://github.com/dickreuter/Poker): Fully functional Pokerbot that works on PartyPoker, PokerStars and GGPoker, scraping tables with Open-CV (adaptable via gui) or neural network and making decisions based on a genetic algorithm and montecarlo simulation for poker equity calculation. Binaries can be downloaded with this link:
+* [shredthaGNAR/poker](https://github.com/shredthaGNAR/poker): A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
 * [evolutionsoftswiss/poker-calculator-webapp](https://github.com/evolutionsoftswiss/poker-calculator-webapp): Poker Calculator JSF Webapp for Omaha, Omaha Hi/Lo and Hold'em simulations 
 * [michaelcukier/Poker-Hand-Tracker](https://github.com/michaelcukier/Poker-Hand-Tracker): open-source Poker hand tracker
-* [WynStaXxx/poker-handhist](https://github.com/WynStaXxx/poker-handhist): Hand distributions for Holdem, Omaha and Omaha HiLo/8
+* [shredthaGNAR/poker-handhist](https://github.com/shredthaGNAR/poker-handhist): Hand distributions for Holdem, Omaha and Omaha HiLo/8
 * [siavashg87/poker-odds-calc](https://github.com/siavashg87/poker-odds-calc): Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, Texas Shortdeck/Sixplus and Omaha.
 * [emileindik/poker-odds-machine](https://github.com/emileindik/poker-odds-machine): None
 * [surbhitrao/poker-odds-omaha5](https://github.com/surbhitrao/poker-odds-omaha5): Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, and Omaha 5 card.
@@ -1817,8 +1817,8 @@
 * [pellaeon/SingleFileZ](https://github.com/pellaeon/SingleFileZ): MultiFile is a fork of gildas-lormeau/SingleFileZ that allows you to save a webpage as as one main HTML file plus original resource files (images, fonts, stylesheets and frames) in different folders.
 * [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar): A highly customizable macOS status bar replacement
 * [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
-* [WynStaXxx/skip-prime-video-intro](https://github.com/WynStaXxx/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
 * [jonashellmann/skip-prime-video-intro](https://github.com/jonashellmann/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
+* [shredthaGNAR/skip-prime-video-intro](https://github.com/shredthaGNAR/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
 * [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox): :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
 * [RealRaven2000/SmartTemplates](https://github.com/RealRaven2000/SmartTemplates): Thunderbird Add-on: SmartTemplates
 * [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext): SmartTube - an advanced player for set-top boxes and tv running Android OS
@@ -1889,8 +1889,8 @@
 * [darekkay/static-marks](https://github.com/darekkay/static-marks): Shareable bookmarks
 * [ksclarke/static-marks-action](https://github.com/ksclarke/static-marks-action): A GitHub Action wrapper for the static-marks project
 * [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app): Frontend part of the Static Marks project
-* [WynStaXxx/static-marks-docker](https://github.com/WynStaXxx/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
 * [gaerfield/static-marks-docker](https://github.com/gaerfield/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
+* [shredthaGNAR/static-marks-docker](https://github.com/shredthaGNAR/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
 * [gaerfield/static-marks-github-pages](https://github.com/gaerfield/static-marks-github-pages): static-marks automatically deployed to github-pages
 * [aerobless/static-marks-raycast](https://github.com/aerobless/static-marks-raycast): None
 * [vipintom/stealthFox](https://github.com/vipintom/stealthFox): Clean and minimal set of changes to get Vertical Tabs in Firefox
@@ -1909,7 +1909,7 @@
 * [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon): An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 * [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT): SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl. Repository for code, feature requests and bug reports.
 * [iShopifyExpert/swatches-color-settings-section](https://github.com/iShopifyExpert/swatches-color-settings-section): None
-* [WynStaXxx/SWBH-Impulse](https://github.com/WynStaXxx/SWBH-Impulse): SWBH Theme Export Impluse Theme
+* [shredthaGNAR/SWBH-Impulse](https://github.com/shredthaGNAR/SWBH-Impulse): SWBH Theme Export Impluse Theme
 * [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula): Sweet Dracula — A beautiful, darker - Dracula fork.
 * [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop): Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
 * [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai): 🎨 Sweet Dracula + Monokai syntax highlighting for VS Code
@@ -2247,7 +2247,7 @@
 * [dralletje/Windowed](https://github.com/dralletje/Windowed): Chrome extension to keep fullscreen windows contained
 * [drcheap/WindowSizer](https://github.com/drcheap/WindowSizer): WebExtension to quickly resize the window to one of your favorite sizes
 * [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows and moving tabs between windows
-* [WynStaXxx/wokiee](https://github.com/WynStaXxx/wokiee): None
+* [shredthaGNAR/wokiee](https://github.com/shredthaGNAR/wokiee): None
 * [teamniteo/work-hours-mac](https://github.com/teamniteo/work-hours-mac): Simple app that tracks your work hours from the status bar.
 * [utkarshsingh99/Workspace-Manager](https://github.com/utkarshsingh99/Workspace-Manager): A Firefox extension to save frequently used tabs as Workspaces
 * [rtfcv/worse-onetab](https://github.com/rtfcv/worse-onetab): None
