@@ -1839,7 +1839,6 @@
 * [alextwothousand/snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop): A Snapdrop Desktop app written using Electron.
 * [ueen/SnapdropFirefoxAddon](https://github.com/ueen/SnapdropFirefoxAddon): Snapdrop for Firefox (Addon)
 * [pato/snapsaver](https://github.com/pato/snapsaver): android app that saves snapchats
-* [pato/snapsaver](https://github.com/pato/snapsaver): android app that saves snapchats
 * [akarlsten/snaz](https://github.com/akarlsten/snaz): VS Code color theme
 * [akarlsten/snazzy-plus](https://github.com/akarlsten/snazzy-plus): VS Code color theme
 * [snthcy/snazzy-vscode](https://github.com/snthcy/snazzy-vscode): A snazzy looking theme for Visual Studio Code.
