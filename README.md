@@ -1719,7 +1719,7 @@
 * [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide): Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 * [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 * [aderyabin/ServPane](https://github.com/aderyabin/ServPane): A launchd menu bar app for Mac
-* [navorite/sessionic](https://github.com/navorite/sessionic): A browser extension to save, manage and restore tabs and sessions.
+* [navorite/sessionic](https://github.com/navorite/sessionic): A browser extension to save, manage and restore sessions and tabs.
 * [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync): SessionSync
 * [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird): A universal dark theme for Thunderbird
 * [arguablykomodo/shadowfox-updater](https://github.com/arguablykomodo/shadowfox-updater): An auto-updater for ShadowFox
