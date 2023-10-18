@@ -861,6 +861,7 @@
 * [5starkarma/global-poker-addons](https://github.com/5starkarma/global-poker-addons): Quick Seat/Automated Tiling/Hotkey Tool
 * [mr-feek/global-poker-hand-history-converter](https://github.com/mr-feek/global-poker-hand-history-converter): :spades: :clubs: Convert Global Poker hand histories to PokerStars format :hearts: :diamonds:
 * [mr-feek/global-poker-hand-history-converter-chrome-extension](https://github.com/mr-feek/global-poker-hand-history-converter-chrome-extension): Chrome Extension for fetching Global Poker hand histories and converting them to poker stars format.
+* [dartagnanjacobson/global_poker_scraper](https://github.com/dartagnanjacobson/global_poker_scraper): Global Poker Hand History Scraper
 * [jabiddle/GlobalPokerExt](https://github.com/jabiddle/GlobalPokerExt): A Chrome extension that adds automation and statistic collection to GlobalPoker.
 * [yinthewind/GlobalPokerHandTracker](https://github.com/yinthewind/GlobalPokerHandTracker): None
 * [tomatopickle/Glox](https://github.com/tomatopickle/Glox): A glassmorphistic Firefox skin, also has round elements
