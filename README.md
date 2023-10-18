@@ -1723,6 +1723,7 @@
 * [navorite/sessionic](https://github.com/navorite/sessionic): A browser extension to save, manage and restore sessions and tabs.
 * [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync): SessionSync
 * [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird): A universal dark theme for Thunderbird
+* [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox): A universal dark theme for Firefox
 * [arguablykomodo/shadowfox-updater](https://github.com/arguablykomodo/shadowfox-updater): An auto-updater for ShadowFox
 * [jcz530/shadows](https://github.com/jcz530/shadows): A CSS Box-Shadow generator.It allows multiple shadow layers and preview customization.
 * [shahasad78/shahdevthemecourse2-0](https://github.com/shahasad78/shahdevthemecourse2-0): None
