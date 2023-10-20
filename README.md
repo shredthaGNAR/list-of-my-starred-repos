@@ -1572,7 +1572,6 @@
 * [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox): Dynamic theming of Firefox (and Thunderbird) using your Pywal colors 
 * [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent): qBittorrent BitTorrent client
 * [dustindmiller/QLab-Touchbar](https://github.com/dustindmiller/QLab-Touchbar): Touch Bar BTT config for QLab.
-* [Nyx0uf/qlImageSize](https://github.com/Nyx0uf/qlImageSize): QuickLook and Spotlight plugins to display the dimensions, size and DPI of an image in the title bar instead of the filename. Also preview some unsupported formats like WebP & bpg.
 * [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown): macOS Quick Look extension for Markdown files.
 * [Marginal/QLVideo](https://github.com/Marginal/QLVideo): This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 * [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo): MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip (.gz), lha, BinHex 4.0 (.hqx), ePub (.epub), and Stuffit (.sit) archives, and ISO9660 images
