@@ -718,6 +718,7 @@
 * [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts): Custom tweaks and preferences for Firefox
 * [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts): userChromeJS / autoconfig.js and extensions
 * [onozaty/firefox-shortcutkey2url](https://github.com/onozaty/firefox-shortcutkey2url): ShortcutKey2URL - Firefox Extension
+* [meow-d/firefox-simple-blur](https://github.com/meow-d/firefox-simple-blur): The simplest possible translucent userchrome theme for firefox (tested on linux only)
 * [YousufSSyed/Firefox-Skin](https://github.com/YousufSSyed/Firefox-Skin): A skin for Firefox using custom CSS
 * [zvuc/firefox-sliding-bookmarks-bar](https://github.com/zvuc/firefox-sliding-bookmarks-bar): Sliding bookmarks bar userChrome.css tweak for Firefox (71.0+) on macOS
 * [chronakis/firefox-sticky-window-containers](https://github.com/chronakis/firefox-sticky-window-containers): Firefox extention to make the current container "sticky" when opening a new tab
@@ -2325,6 +2326,7 @@
 * [cuynu/ytvancedx](https://github.com/cuynu/ytvancedx): YouTube Vanced+ & YouTube Music Vanced+ project [WIP]
 * [rupa/z](https://github.com/rupa/z): z - jump around
 * [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP core project
+* [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme): A Firefox Photon theme originally made in early-2022, updated for Firefox 121.0a1
 * [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors): 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
 * [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir): My zsh config
 * [zbrateam/Zebra](https://github.com/zbrateam/Zebra): 🦓 A Useful Package Manager for iOS
