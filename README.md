@@ -2082,7 +2082,7 @@
 * [LanikSJ/ubo-filters](https://github.com/LanikSJ/ubo-filters): uBlock Origin Filters
 * [uBlock-user/uBO-Personal-Filters](https://github.com/uBlock-user/uBO-Personal-Filters): A personal filterlist of mine with additional filters for uBlock Origin to block third-party, tracking, annoyances, anti-adblock, resource-abuse and all other unwarranted resources from loading.
 * [avotoko/ubo-resource](https://github.com/avotoko/ubo-resource): uBlock Origin Experimental Scriptlets Resource
-* [uBlock-user/uBO-Scriptlets](https://github.com/uBlock-user/uBO-Scriptlets): A custom arsenal of scriptlets to be used for injecting userscripts via uBlock Origin.
+* [uBlockO/uBO-Scriptlets](https://github.com/uBlockO/uBO-Scriptlets): A custom arsenal of scriptlets to be used for injecting userscripts via uBlock Origin.
 * [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js): A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, and behaviors and eliminate nuisances. The theme is similar to other userChrome stylesheets, but it's intended for use with an autoconfig loader like fx-autoconfig, since it uses JavaScript to implement its more functional features.
 * [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons): 100 Modern CSS Buttons. Every style that you can imagine.
 * [web-ext-labs/ui-tool](https://github.com/web-ext-labs/ui-tool): UI for create-web-ext
