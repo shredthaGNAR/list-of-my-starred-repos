@@ -558,6 +558,7 @@
 * [downthemall/downthemall](https://github.com/downthemall/downthemall): The DownThemAll! WebExtension
 * [Mortennn/Dozer](https://github.com/Mortennn/Dozer): Hide menu bar icons on macOS
 * [odeke-em/drive](https://github.com/odeke-em/drive): Google Drive client for the commandline
+* [itszechs/DriveStream](https://github.com/itszechs/DriveStream): Stream video files from Google drive
 * [diatoming/Drop2Download](https://github.com/diatoming/Drop2Download): macOS menu bar app for youtube-dl GUI
 * [coolaj86/dropshare](https://github.com/coolaj86/dropshare): A min.us / ge.tt file share clone.
 * [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions): Add-on actions and API Docs for Dropzone 4
@@ -1305,6 +1306,7 @@
 * [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets): 💈 [My TouchBar My rules] Share your preset!
 * [ohmybahgosh/MTV-YTDLP](https://github.com/ohmybahgosh/MTV-YTDLP): Simple script using YT-DLP do download an episode from MTV.com, and then merge the resulting multiple output MP4 files using ffmpeg.  MTV episodes are split in to multiple MP4 files, so resulting output for a single episode can be between 3-11+ MP4 files.  This script is a band-aid for that.
 * [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers): Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+* [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool): The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
 * [Javojav/Multi-engine-search](https://github.com/Javojav/Multi-engine-search): This Firefox extension allows you to use multiple of your installed search engines at once.
 * [wantora/multiple-paste-and-go-button](https://github.com/wantora/multiple-paste-and-go-button): This add-on provides a button to open multiple URLs from clipboard.
 * [rxhanson/Multitouch-Community](https://github.com/rxhanson/Multitouch-Community): Issue and feature request tracking for the Multitouch app
@@ -2054,6 +2056,7 @@
 * [tangledhelix/toggleAirport](https://github.com/tangledhelix/toggleAirport): Toggle Airport power based on presence of wired ethernet
 * [RealRaven2000/ToneQuilla](https://github.com/RealRaven2000/ToneQuilla): ToneQuilla 1.1.1 - Adds a new action to Thunderbird mail filters to allow playing a particular sound when the filter matches. Also includes several sample sound files - original project by R. Kent James
 * [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api): Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
+* [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader): Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
 * [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator): Use the Touch Bar on any Mac
 * [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab): Switch apps with trackpad on macOS.
 * [rickkas7/TowerInfo](https://github.com/rickkas7/TowerInfo): Tool to show the location of nearby cellular towers on a mobile device, tablet, or laptop
