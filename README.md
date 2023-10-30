@@ -1349,7 +1349,6 @@
 * [notable/notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
 * [notable/notable-customizations](https://github.com/notable/notable-customizations): A repository containing a collection of interesting community-created customizations for Notable.
 * [notable/notable-insiders](https://github.com/notable/notable-insiders): A repository containing experimental releases of Notable.
-* [amelandri/NotableUtilities](https://github.com/amelandri/NotableUtilities): A collection of utility scripts for Notable https://notable.app/
 * [nuttyartist/notes](https://github.com/nuttyartist/notes): Fast and beautiful note-taking app written in C++. Write down your thoughts.
 * [adamyi/notes_to_keep](https://github.com/adamyi/notes_to_keep): Export all your Apple iCloud Notes to your Google Keep.
 * [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator): Trigger macOS notifications from Alfred, using the Workflow icon
