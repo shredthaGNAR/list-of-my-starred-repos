@@ -174,6 +174,7 @@
 * [synappser/AutoFocus](https://github.com/synappser/AutoFocus): A focus-follows-mouse implementation on steroids!
 * [wting/autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line
 * [thirdinsight/AutoMarkFolderRead](https://github.com/thirdinsight/AutoMarkFolderRead): Thunderbird Addon to automatically mark folders (like junk) as read.
+* [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan): Browser userscript to automatically send DAN messages to ChatGPT
 * [alfredapp/automation-tasks](https://github.com/alfredapp/automation-tasks): Official Alfred Automation Tasks
 * [tcellerier/automator](https://github.com/tcellerier/automator): Mac OS Automator quick actions
 * [princelundgren/automator-collection](https://github.com/princelundgren/automator-collection): Various Automator and AppleScript workflow and scripts for simplifying life
