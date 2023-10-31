@@ -169,7 +169,7 @@
 * [withfig/autocomplete](https://github.com/withfig/autocomplete): IDE-style autocomplete for your existing terminal & shell
 * [withfig/autocomplete-tools](https://github.com/withfig/autocomplete-tools): Command line tools for working with Fig autocomplete specs
 * [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig): Fork of Auto Config.
-* [thundernest/autoconfig](https://github.com/thundernest/autoconfig): The ISPDB, Thunderbird's database of mail configuration files.
+* [thunderbird/autoconfig](https://github.com/thunderbird/autoconfig): The ISPDB, Thunderbird's database of mail configuration files.
 * [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq): Automatic headphone equalization from frequency responses
 * [synappser/AutoFocus](https://github.com/synappser/AutoFocus): A focus-follows-mouse implementation on steroids!
 * [wting/autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line
@@ -500,7 +500,7 @@
 * [shredthaGNAR/dev-new](https://github.com/shredthaGNAR/dev-new): None
 * [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup): macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 * [0xdevalias/devalias.net](https://github.com/0xdevalias/devalias.net): Source for devalias.net
-* [thundernest/developer-docs](https://github.com/thundernest/developer-docs): Developer documentation for Thunderbird contributors.
+* [thunderbird/developer-docs](https://github.com/thunderbird/developer-docs): Developer documentation for Thunderbird contributors.
 * [matomo-org/device-detector](https://github.com/matomo-org/device-detector): The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. 
 * [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll): (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS)
 * [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
@@ -1680,7 +1680,7 @@
 * [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension): 🦀 The ultimate search extension for Rust
 * [rvm/rvm](https://github.com/rvm/rvm): Ruby enVironment Manager (RVM)
 * [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox): Sidebar Always Loaded for Firefox
-* [thundernest/sample-extensions](https://github.com/thundernest/sample-extensions): Example extensions for Thunderbird WebExtensions APIs
+* [thunderbird/sample-extensions](https://github.com/thunderbird/sample-extensions): Example extensions for Thunderbird WebExtensions APIs
 * [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820): Unified kernel tree for S10 and Note10 devices
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [Erisa/save-all-tab-urls](https://github.com/Erisa/save-all-tab-urls): Save all the open tabs as a list of URLs to go back to!
@@ -1981,7 +1981,7 @@
 * [axcore/tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 * [tasks/tasks](https://github.com/tasks/tasks): Bringing Astrid Tasks back from the dead
 * [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
-* [thundernest/tb-web-ext-experiments](https://github.com/thundernest/tb-web-ext-experiments): WebExtension Experiments for Thunderbird
+* [thunderbird/tb-web-ext-experiments](https://github.com/thunderbird/tb-web-ext-experiments): WebExtension Experiments for Thunderbird
 * [PrsPrsBK/tbext-manifest-schema](https://github.com/PrsPrsBK/tbext-manifest-schema): None
 * [wshanks/tbkeys](https://github.com/wshanks/tbkeys): Custom keybindings for Thunderbird
 * [jobisoft/TbSync](https://github.com/jobisoft/TbSync): [Thunderbird Add-On] Central user interface to manage cloud accounts and to synchronize their contact, task and calendar information with Thunderbird
