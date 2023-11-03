@@ -1265,7 +1265,7 @@
 * [cleidigh/Message-archive-options-TB](https://github.com/cleidigh/Message-archive-options-TB): Thunderbird Add-On Adds the ability to customize the date format of the archive folders created by TB Archive Messages
 * [glaurent/MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser): a macOS/OSX app to comfortably browse and search through your Messages.app history.
 * [duolingo/metasearch](https://github.com/duolingo/metasearch): Search aggregator for Slack, Google Docs, GitHub, and more :mag:
-* [alexta69/metube](https://github.com/alexta69/metube): youtube-dl web UI
+* [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 * [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
 * [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 * [artginzburg/MiddleClick-Sonoma](https://github.com/artginzburg/MiddleClick-Sonoma):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
