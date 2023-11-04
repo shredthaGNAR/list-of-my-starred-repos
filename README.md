@@ -2227,7 +2227,7 @@
 * [wallabag/wallabagger](https://github.com/wallabag/wallabagger): Chrome / Firefox / Opera plugin for wallabag v2.
 * [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper): :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
 * [cheap-glitch/warpgate](https://github.com/cheap-glitch/warpgate): 💫 A lightweight browser extension to jump to various external bookmarks from the address bar.
-* [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox): Flexible theme for manual customization.
+* [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox): Firefox CSS Theme for manual customization
 * [RobinBoers/wavefox-lepton](https://github.com/RobinBoers/wavefox-lepton): :fox_face: Firefox UI fix. A combination of Lepton and Wavefox for Firefox 90-91
 * [JamieMagee/wayback](https://github.com/JamieMagee/wayback): Save pages to the Wayback Machine as part of your CI/CD pipeline
 * [internetarchive/wayback-machine-webextension](https://github.com/internetarchive/wayback-machine-webextension): A web browser extension for Chrome, Firefox, Edge, and Safari 14.
