@@ -3893,12 +3893,6 @@
     "jofpin/trape": [
         "Other"
     ],
-    "johannchangpro/fz.sh": [
-        "Other"
-    ],
-    "johannchangpro/zsh-interactive-cd": [
-        "Other"
-    ],
     "johncoryk/coastal-shopify-theme": [
         "Other"
     ],
@@ -4737,6 +4731,12 @@
         "Other"
     ],
     "mrishab/google-photos-delete-tool": [
+        "Other"
+    ],
+    "mrjohannchang/fz.sh": [
+        "Other"
+    ],
+    "mrjohannchang/zsh-interactive-cd": [
         "Other"
     ],
     "mrlt8/docker-wyze-bridge": [
