@@ -1028,6 +1028,7 @@
 * [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera): A Raspberry Pi based security camera to detect unknown person and raise alarm!
 * [iv-org/invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
 * [devcxm/iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor): A Mac app to decode and extract images from iOS apps, support png/jpg/ipa/Assets.car files.
+* [BlackJack8/iOSAdblockList](https://github.com/BlackJack8/iOSAdblockList): Ultimate Host List for Mobile Adblockers (Focused on iOS)
 * [ShaleenM/IP-Camera](https://github.com/ShaleenM/IP-Camera): Change your android phone to surveillance camera
 * [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu): open-source jailbreaking tool for many iOS devices
 * [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes): Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
