@@ -1088,7 +1088,7 @@
 * [kucherenko/jscpd](https://github.com/kucherenko/jscpd): Copy/paste detector for programming source code.
 * [jsdom/jsdom](https://github.com/jsdom/jsdom): A JavaScript implementation of various web standards, for use with Node.js
 * [1nfiniteloop/json-bookmarks](https://github.com/1nfiniteloop/json-bookmarks): Browser extension for Mozilla Firefox and Chrome for importing and exporting bookmarks with a json file
-* [lauriro/json-lite](https://github.com/lauriro/json-lite): Fast non-blocking JSON viewer for Chrome and Firefox
+* [litejs/json-lite](https://github.com/litejs/json-lite): Fast non-blocking JSON viewer for Chrome and Firefox
 * [Automattic/juice](https://github.com/Automattic/juice): Juice inlines CSS stylesheets into your HTML source.
 * [snark/jumpcut](https://github.com/snark/jumpcut): Minimalist clipboard management for macOS
 * [RealRaven2000/JunQuilla](https://github.com/RealRaven2000/JunQuilla): Adopted Thunderbird Add-on from Kent James - adds column with percent likelihood that a message is spam
