@@ -62,6 +62,7 @@
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
 * [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X.
 * [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush): The all in one AirMessage (iMessage) script you can forget about
+* [pinetum/AirUnlock-for-Mac](https://github.com/pinetum/AirUnlock-for-Mac): Using android phone to establish a connection with your Mac via Bluetooth low-energy (BLE), controlling Mac lock state (Lock or Unlock).
 * [ajrosen/Alfred](https://github.com/ajrosen/Alfred): Alfred workflows
 * [kkanzelmeyer/alfred](https://github.com/kkanzelmeyer/alfred): Raspberry pi webcam and motion sensor project
 * [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures): Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
@@ -2118,6 +2119,7 @@
 * [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit): The easiest way to use git. On any platform. Anywhere.
 * [LAX18/Unichat-Firefox-Extension](https://github.com/LAX18/Unichat-Firefox-Extension): The repo for the firefox port of the Unichat Chrome Extension
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
+* [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender): A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
 * [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension): Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 * [aahung/Unshaky](https://github.com/aahung/Unshaky): A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
 * [UnstoppableSwap/unstoppableswap-gui](https://github.com/UnstoppableSwap/unstoppableswap-gui): XMR<>BTC Atomic Swaps GUI
