@@ -1591,7 +1591,7 @@
 * [e-alizadeh/PyPocket](https://github.com/e-alizadeh/PyPocket): A Python Wrapper (Unofficial) for GetPocket (https://getpocket.com)
 * [newville/pyshortcuts](https://github.com/newville/pyshortcuts): create desktop shortcuts to python scripts on Windows, Mac, or Linux
 * [google/python-laurel](https://github.com/google/python-laurel): Python control of C by GE Bluetooth lightbulbs
-* [evanjd/python-logi-circle](https://github.com/evanjd/python-logi-circle): Python 3.6+ API for Logi Circle cameras
+* [evanjd/python-logi-circle](https://github.com/evanjd/python-logi-circle): Python 3.7+ API for Logi Circle cameras
 * [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox): Dynamic theming of Firefox (and Thunderbird) using your Pywal colors 
 * [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent): qBittorrent BitTorrent client
 * [dustindmiller/QLab-Touchbar](https://github.com/dustindmiller/QLab-Touchbar): Touch Bar BTT config for QLab.
