@@ -994,7 +994,7 @@
 * [elrumo/icon-brew](https://github.com/elrumo/icon-brew): A free and open source icon pack. With hundreds of icons and new ones being added weekly.
 * [jenstornell/icon-flood](https://github.com/jenstornell/icon-flood): Hand picked SVG icon packs with at least 200 icons
 * [onmyway133/IconGenerator](https://github.com/onmyway133/IconGenerator): 🍱 A macOS app to generate app icons
-* [iconify/iconify](https://github.com/iconify/iconify): Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!
+* [iconify/iconify](https://github.com/iconify/iconify): Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components!
 * [raphaelhanneken/iconizer](https://github.com/raphaelhanneken/iconizer): Create Xcode asset catalogs swift and painless. Generate images for macOS and iOS app icons, launch images and image sets.
 * [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir): An open source icons library with 1500+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 * [kreativekorp/iconposeur](https://github.com/kreativekorp/iconposeur): Open-source recreation of the Icon Composer application. Create icons for Mac OS X without Xcode. Also creates Windows ico files.
