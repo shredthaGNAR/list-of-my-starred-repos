@@ -137,6 +137,7 @@
 * [aaronfreimark/Apple-ID-AppleScript](https://github.com/aaronfreimark/Apple-ID-AppleScript): AppleScript to programatically create Apple IDs
 * [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra): Music Client for macOS. Upgrade your music experience with themes, styles, custom scripting and more. Uses WebKit and JavaScript.
 * [unforswearing/applescript](https://github.com/unforswearing/applescript): Applescript applets, snippets, resources, and links
+* [RichardBronosky/AppleScript-droplet](https://github.com/RichardBronosky/AppleScript-droplet): A template for creating Droplets for Mac OS X that will pass dropped files to an embedded script
 * [adriannier/applescript-functions](https://github.com/adriannier/applescript-functions): None
 * [BLXXDING/applescript-snippets](https://github.com/BLXXDING/applescript-snippets): Some Apple Script snippets I made over the years. Maybe it will help you.
 * [ChristoferK/AppleScriptive](https://github.com/ChristoferK/AppleScriptive): Functional AppleScripts operating out of Keyboard Maestro, Alfred and Automator to optimise productivity.
@@ -1116,6 +1117,8 @@
 * [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice): Send SMS regularly through Python to keep Google Voice active
 * [dan-and/KeepToText](https://github.com/dan-and/KeepToText): Convert a Google Takeout zip file containing Google Keep notes to a directory of text files, suitable for import into systems such as Evernote
 * [TheAmalLalgi/KenKai-Theme](https://github.com/TheAmalLalgi/KenKai-Theme): KenKai Theme for Visual Studio Code
+* [acidburn0zzz/Kext-Droplet-Big-Sur](https://github.com/acidburn0zzz/Kext-Droplet-Big-Sur): Fork of archived repository from Kext-Droplet-Big-Sur by chris1111 HMF.
+* [chris1111/Kext-Droplet-Big-Sur](https://github.com/chris1111/Kext-Droplet-Big-Sur): None
 * [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard): ⌨ Toward a more useful keyboard
 * [BlackwinMin/keyboard-maestro-gallery](https://github.com/BlackwinMin/keyboard-maestro-gallery): Original macOS Keyboard Maestro actions by Minja.
 * [mirka/keyboard-maestro-plugin-actions](https://github.com/mirka/keyboard-maestro-plugin-actions): Plugin actions for Keyboard Maestro
