@@ -166,6 +166,7 @@
 * [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal): A Terminal theme that mimics the One Dark theme made by the Atom team.
 * [sagars007/Australis-like-tabs-FF-ProtonUI-changes](https://github.com/sagars007/Australis-like-tabs-FF-ProtonUI-changes): Changes to make the new proton UI redesign in Firefox better; including australis tabs, compact mode, gradient accents in elements and much more
 * [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator): Authenticator generates 2-Step Verification codes in your browser.
+* [eric-bixby/auto-sort-bookmarks-webext](https://github.com/eric-bixby/auto-sort-bookmarks-webext): Firefox add-on to sort bookmarks by multiple criteria
 * [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard): Use native tab discarding method to automatically reduce memory usage of inactive tabs
 * [ede1998/autoarchive](https://github.com/ede1998/autoarchive): Add an archiving button to thunderbird.
 * [withfig/autocomplete](https://github.com/withfig/autocomplete): IDE-style autocomplete for your existing terminal & shell
