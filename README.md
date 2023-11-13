@@ -194,6 +194,7 @@
 * [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics): A curated list of analytics frameworks, software and other tools.
 * [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro): Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 * [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
+* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
 * [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css): :art: A curated contents of amazing CSS :)
 * [gztchan/awesome-design](https://github.com/gztchan/awesome-design): 🌟 Curated design resources from all over the world.
 * [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems): 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
@@ -367,6 +368,7 @@
 * [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty): Adapted "Beautiful" Themes
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
 * [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail): A browser extension to complete your email with the help of ChatGPT
+* [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 * [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps): 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 * [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension): This project is deprecated. Check my new project ChatHub:
@@ -1357,6 +1359,7 @@
 * [alex-phillips/node-clouddrive](https://github.com/alex-phillips/node-clouddrive): Node SDK and CLI for Amazon's Cloud Drive
 * [Bellisario/node-snapdrop](https://github.com/Bellisario/node-snapdrop): Node.js version of the original Snapdrop
 * [nodegui/nodegui](https://github.com/nodegui/nodegui): A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
+* [lencx/nofwl](https://github.com/lencx/nofwl): NoFWL Desktop Application
 * [speedball2001/nompsort-mx](https://github.com/speedball2001/nompsort-mx): A mailextension for Thunderbird that prevents accidental message sorting.
 * [dynobo/normcap](https://github.com/dynobo/normcap): OCR powered screen-capture tool to capture information instead of images
 * [opto/nostalgy-xpi](https://github.com/opto/nostalgy-xpi): nostalgy addon updated for Thunderbird 68 and now Thunderbird 78 - 91. Original code  by Alain Frisch.
