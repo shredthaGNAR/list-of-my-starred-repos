@@ -59,6 +59,12 @@
     "ATechnocratis/widefox": [
         "Other"
     ],
+    "AUTOMATIC1111/stable-diffusion-webui": [
+        "Other"
+    ],
+    "AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients": [
+        "Other"
+    ],
     "Aadil101/cloud": [
         "Other"
     ],
@@ -4220,6 +4226,9 @@
     "ksclarke/static-marks-action": [
         "Other"
     ],
+    "kstenschke/doShell": [
+        "Other"
+    ],
     "kucherenko/jscpd": [
         "Other"
     ],
@@ -4548,6 +4557,9 @@
         "Other"
     ],
     "mattmc3/zdotdir": [
+        "Other"
+    ],
+    "mattrose/AppleNotes2Joplin": [
         "Other"
     ],
     "mattsbennett/joplin-Nord2": [
