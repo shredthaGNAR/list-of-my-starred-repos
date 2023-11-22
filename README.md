@@ -1138,7 +1138,7 @@
 * [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher): A lightweight, pure-Swift library for downloading and caching images from the web.
 * [gnonio/korporize](https://github.com/gnonio/korporize): OCR - Object Character Recognition for any image you browse upon
 * [onekiloparsec/KPCTabsControl](https://github.com/onekiloparsec/KPCTabsControl): A macOS control for tabs with enhanced capabilities, and styles: Safari, Chrome and custom ones.
-* [kondatheme/ks-bootshop](https://github.com/kondatheme/ks-bootshop): Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of coding experience.
+* [kondasoft/ks-bootshop](https://github.com/kondasoft/ks-bootshop): Our Free Shopify Theme focused on simplicity, speed, and user experience. Download it today and finish your Shopify store within days, not months. Powered by Bootstrap v5 framework and 15+ years of coding experience.
 * [lando/lando](https://github.com/lando/lando): A development tool for all your projects that is fast, easy, powerful and liberating
 * [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop): Drop any files to any devices on your LAN.
 * [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool): Style and Grammar Checker for 25+ Languages
