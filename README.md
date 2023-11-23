@@ -1009,7 +1009,6 @@
 * [FirefoxUX/icons](https://github.com/FirefoxUX/icons): SVG icons used in Firefox. View all icons here:
 * [uuware/icons-font-desktop](https://github.com/uuware/icons-font-desktop): Desktop version of free-icons-customization, a collection of over 33,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or business requirements.
 * [tale/iconset](https://github.com/tale/iconset): A nifty command-line tool to customize macOS icons
-* [sainnhe/icursive-nerd-font](https://github.com/sainnhe/icursive-nerd-font): Nerd Fonts with Cursive Italic Styles -- Read-only Mirror of https://git.sainnhe.dev/sainnhe/icursive-nerd-font
 * [Sumeet-R/ID-Lookup](https://github.com/Sumeet-R/ID-Lookup): A search tool that can find exposed email addresses and mobile numbers on Internet.
 * [speedball2001/identitychooser-mx](https://github.com/speedball2001/identitychooser-mx): A thunderbird mailextension for explicitely choosing the correct sender identity before opening an email editor.
 * [CarterLi/iina](https://github.com/CarterLi/iina): The modern video player for macOS with additional features and bug fixes.
