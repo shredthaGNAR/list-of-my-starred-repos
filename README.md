@@ -1323,7 +1323,7 @@
 * [balvin-perrie/mp3-converter](https://github.com/balvin-perrie/mp3-converter): a pure JS mp3 encoder for Chrome and Firefox browser
 * [mpdf/mpdf](https://github.com/mpdf/mpdf): PHP library generating PDF files from UTF-8 encoded HTML
 * [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
-* [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes): :mag: A Complete Osint Tool
+* [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes):  A Complete Osint Tool :mag:
 * [bappygazi/MR.kirof-email-signature](https://github.com/bappygazi/MR.kirof-email-signature): None
 * [Toxblh/MTMR](https://github.com/Toxblh/MTMR): 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 * [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets): 💈 [My TouchBar My rules] Share your preset!
