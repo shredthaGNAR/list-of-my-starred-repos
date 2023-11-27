@@ -1430,7 +1430,7 @@
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
 * [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu): 🕹 Retro video game emulation for macOS
-* [Sankra/OpenFolderInVSCode](https://github.com/Sankra/OpenFolderInVSCode): With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
+* [hjerpbakk/OpenFolderInVSCode](https://github.com/hjerpbakk/OpenFolderInVSCode): With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
 * [evanp/openfollow](https://github.com/evanp/openfollow): Search server to find people on the federated social web
 * [OpenHoldem/openholdembot](https://github.com/OpenHoldem/openholdembot): OpenHoldem Poker Bot (free, open-source poker-bot for Texas Hold'em and Omaha)
 * [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode): :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
