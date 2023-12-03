@@ -38,7 +38,7 @@
 * [robertocaldas/AdbInstallService](https://github.com/robertocaldas/AdbInstallService): Simple adb install APK Automator Service for Mac with Notification
 * [Yuki2718/adblock](https://github.com/Yuki2718/adblock): Personal filters and rules for AdGuard/uBlock Origin
 * [adblockultimate/AdBlocker-Ultimate-for-Browsers](https://github.com/adblockultimate/AdBlocker-Ultimate-for-Browsers): AdBlocker Ultimate for Browsers
-* [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast): Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera.
+* [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast): Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 * [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine): Add a custom search engine to the list of available search engines in Firefox
 * [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title): A Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
 * [mozilla/addons-linter](https://github.com/mozilla/addons-linter): 🔍 Firefox Add-ons linter, written in JavaScript. 👁
