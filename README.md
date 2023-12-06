@@ -550,7 +550,7 @@
 * [davidmytton/dotfiles](https://github.com/davidmytton/dotfiles): Personal dotfiles for macOS and Linux.
 * [deinsoftware/dotfiles](https://github.com/deinsoftware/dotfiles): dot Files: ZSH setup and productivity tools for development
 * [driesvints/dotfiles](https://github.com/driesvints/dotfiles): Get started with your own dotfiles.
-* [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles): 🤌🏻 Setup your MacOS for web development in few minutes.
+* [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles): Setup your MacOS for web development in few minutes.
 * [karlhorky/dotfiles](https://github.com/karlhorky/dotfiles): macOS dotfiles
 * [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles): 🍎 macOS dotfiles for Python developers.
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles): :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
