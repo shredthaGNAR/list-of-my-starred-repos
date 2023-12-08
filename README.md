@@ -1298,6 +1298,7 @@
 * [mjmlio/mjml](https://github.com/mjmlio/mjml): MJML: the only framework that makes responsive-email easy
 * [mjmlio/mjml-app](https://github.com/mjmlio/mjml-app): :email: The desktop app for MJML
 * [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter): Minimal Mistakes GitHub Pages site starter.
+* [inotia00/mMicroG](https://github.com/inotia00/mMicroG): None
 * [thebaer/MMRA](https://github.com/thebaer/MMRA): Make Medium Readable Again — a browser extension
 * [ScanuNicco/Modern-ThunderBird](https://github.com/ScanuNicco/Modern-ThunderBird): A userChrome.css theme to make thunderbird resemble Firefox 89+
 * [keith/ModMove](https://github.com/keith/ModMove): Move/Resize windows using modifiers and the mouse
