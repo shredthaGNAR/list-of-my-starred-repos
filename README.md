@@ -279,6 +279,8 @@
 * [dwarvesf/blurred](https://github.com/dwarvesf/blurred): A macOS utility that helps reduce distraction by dimming your inactive noise
 * [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox): A sleek, modern and elegant Firefox CSS theme
 * [iam4x/bobarr](https://github.com/iam4x/bobarr): 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
+* [Tenica/bookMark](https://github.com/Tenica/bookMark): A bookmark webpage built with javaScript 
+* [MattRuetz/bookmark-app](https://github.com/MattRuetz/bookmark-app): Simple webpage to store bookmarks using localStorage. Flexible and simple UI using CSS variables and animations.
 * [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver): 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
 * [MrOtherGuy/bookmark-batch-updater](https://github.com/MrOtherGuy/bookmark-batch-updater): A webextension tool to update multiple bookmarks at once
 * [Rob--W/bookmark-container-tab](https://github.com/Rob--W/bookmark-container-tab): Firefox add-on to add "Open in Container Tab" menu item to bookmark menus
@@ -293,8 +295,10 @@
 * [dyu/bookmarks](https://github.com/dyu/bookmarks): a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
 * [gietema/bookmarks](https://github.com/gietema/bookmarks): Script that syncs pocket to my bookmarks page
 * [brian-girko/bookmarks-commander](https://github.com/brian-girko/bookmarks-commander): A two-panel bookmarks manager which is similar to the well-known Total Commander.
+* [radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter): Parse db/html/json bookmarks file from (Chrome - Firefox - Custom source) and convert it to db/html/json format.
 * [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils): Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 * [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer): With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
+* [dvdn/bookmarks-reader](https://github.com/dvdn/bookmarks-reader): Display all your bookmarks files on a webpage
 * [mabdelaal86/bookmarks_gkeep](https://github.com/mabdelaal86/bookmarks_gkeep): Copy bookmarks from Google Keep into Pocket/Instapaper
 * [Maxvien/bootstrap-shopify-theme](https://github.com/Maxvien/bootstrap-shopify-theme): 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
 * [dreadnaut/bordercolors-d](https://github.com/dreadnaut/bordercolors-d): A Thunderbird add-on to color-code the compose window based on the selected identity.
@@ -831,6 +835,7 @@
 * [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen): A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
 * [LekoArts/gatsby-starter-portfolio-cara](https://github.com/LekoArts/gatsby-starter-portfolio-cara): Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.
 * [ncyhere/gatsby-starter-shopify](https://github.com/ncyhere/gatsby-starter-shopify): A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
+* [wkocjan/gatsby-theme-intro](https://github.com/wkocjan/gatsby-theme-intro): Personal branding theme for developers
 * [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes): Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
 * [ftassy/GCalTab](https://github.com/ftassy/GCalTab): GCalTab is a Thunderbird add-on that opens Google Calendar website in a Thunderbird tab. It facilitates multiple accounts management. and features a beautiful dark mode thanks to the DarkReader algorithm.
 * [glotlabs/gdrive](https://github.com/glotlabs/gdrive): Google Drive CLI Client
@@ -878,6 +883,7 @@
 * [benbalter/github_records_archiver](https://github.com/benbalter/github_records_archiver): Backs up a GitHub organization's repositories and all their associated information for archival purposes.
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal): Mobile first Note Taking integrated with Git
+* [arifszn/gitprofile](https://github.com/arifszn/gitprofile): 🚀 Create a dynamic portfolio by just providing your GitHub username.
 * [gorse-io/gitrec](https://github.com/gorse-io/gitrec): A recommender system for GitHub repositories based on Gorse
 * [to-ie/gitswitch](https://github.com/to-ie/gitswitch): This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis.  
 * [gitx/gitx](https://github.com/gitx/gitx): The best fork of the best lightweight, visual git client for macOS.
@@ -934,11 +940,13 @@
 * [gphoto/gphoto2](https://github.com/gphoto/gphoto2): The gphoto2 commandline tool for accessing and controlling digital cameras.
 * [yinthewind/GPHud](https://github.com/yinthewind/GPHud): None
 * [vipintom/gpm2spotify](https://github.com/vipintom/gpm2spotify): Google Play Music to Spotify Library Exporter
+* [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio): Creating an automatic portfolio based on Github profile
 * [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
 * [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
 * [tardisx/gropple](https://github.com/tardisx/gropple): Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
 * [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01): Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascript website this boilerplate is for you. 
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
+* [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData): Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
 * [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon): Staggeringly powerful macOS desktop automation with Lua
 * [KURANADO2/hammerspoon-kuranado](https://github.com/KURANADO2/hammerspoon-kuranado): Hammerspoon config（Support custom shortcut keys, emoji search, application shortcut switching, real-time network speed, key echo, etc.）
@@ -989,7 +997,9 @@
 * [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
 * [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [theocjr/hugo-academic-bookmarks](https://github.com/theocjr/hugo-academic-bookmarks): Bookmarks content section for the Academic theme (Hugo framework).
+* [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder): 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 * [craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket): This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
+* [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack): Card-style Hugo theme designed for bloggers
 * [spaghettiwews/hugonews](https://github.com/spaghettiwews/hugonews): hugo theme (based on https://news.ycombinator.com) for https://bookmarks.wews.co.zw
 * [vector-im/hydrogen-web](https://github.com/vector-im/hydrogen-web): Lightweight matrix client with legacy and mobile browser support
 * [dnnsmnstrr/HydroTouch](https://github.com/dnnsmnstrr/HydroTouch): A collection of presets for BetterTouchTool
@@ -1047,10 +1057,12 @@
 * [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes): Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 * [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy): Elegant iTerm2 theme with bright colors
 * [Jackett/Jackett](https://github.com/Jackett/Jackett): API Support for your favorite torrent trackers
+* [jarrekk/Jalpc](https://github.com/jarrekk/Jalpc): 🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website. 
 * [quedayone/jamf-pro-scripts](https://github.com/quedayone/jamf-pro-scripts): Scripts that I use in my JSS.
 * [kumarram1011/Jan22_Q3](https://github.com/kumarram1011/Jan22_Q3): The candidate should ensure the availability of Git, Python and Django on their system as part of the setup exercise.. Preferred IDE is PyCharm to import the project directly. Postman tool to test the REST APIs and git.  Problem Breakdown  To start the development a skeleton repo for the project is provided at the github link – https://github.com/kumarram1011/Jan22_Q2   (master branch)  Then repo can be cloned into their local system through HTTPs or SSH. After cloning the project at your location, follow the below points:  Create Virtual env (ubuntu) 1. sudo apt install python3-venv 2. python3 -m venv relevel_env 3. cd relevel_env/ 4. source bin/activate Now quit this env location and jump to your working location/ Parent directory  Install all dependencies using ‘pip install -r requirements.txt’ Now run your initial migrations with the command as: 1. python manage.py makemigrations 2. python manage.py migrate  Note :-  A. Initially there is no any model in your projects so the 1st command will give you the response has "NO changes" but the 2nd command will configure you all initial settings like DB and all. B. At every stage while developing/implementing the features please use both of the above commands to reflect your changes in the running/development server.  Run ‘python manage.py runserver’ to start the development server. The hosted app can be checked on http://localhost:8000 on the browser.  Submission Instructions  Code Submission: Compress the code on the local system in the form of a *.zip file. Upload the code on your personal google drive in a folder titled - “Name_BD_ Code Base” Don’t forget to change the permissions of the folder to ‘Anyone with the link can edit’.  Loom video submission: Create an account on Loom. Go through the quick tutorial on how to record loom videos. Create a Loom video (while screen sharing) covering the following points: Show the functionality of the app you have created i.e demo of the working APIs through a command line. (1 min) Run through the key parts of your code explaining the core logic and how you organized the code. (2 min) Explain your problem-solving approach (what logic you have used and why). (2 min) Please keep your explanation to under 5 mins only. Avoid too much jargon and explain your app in a simple and clear manner.
 * [th-schmidt/janus-for-alfred](https://github.com/th-schmidt/janus-for-alfred): Create random usernames in Alfred
 * [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter): Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provided (Three.js, Babylon.js, FaceSwap, Canvas2D, CSS3D...). 
+* [jekyll/jekyll](https://github.com/jekyll/jekyll): :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 * [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook): Build Jekyll site with GitBook style!
 * [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy): A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 * [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono): JetBrains Mono – the free and open-source typeface for developers
@@ -1620,6 +1632,7 @@
 * [FrederikRogalski/QR-Reader-Mac](https://github.com/FrederikRogalski/QR-Reader-Mac): This Applescript reads QR Codes from the screen and processes them via zbar. It extracts the urls and automatically opens them in your standard browser.
 * [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy): Android real-time display control software
 * [Izheil/Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme): A customizable full dark theme for Firefox. You can also add extra functions using the CSS and JS files here apart from the theme.
+* [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 * [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins): List of useful Quick Look plugins for developers
 * [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio): Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 * [RealRaven2000/quickFilters](https://github.com/RealRaven2000/quickFilters): Thunderbird Add-on: quickFilters 
@@ -1981,6 +1994,7 @@
 * [calzoneman/sync](https://github.com/calzoneman/sync): Node.JS Server and JavaScript/HTML Client for synchronizing online media
 * [JasonkayZK/sync-onetab](https://github.com/JasonkayZK/sync-onetab): A tool to sync data in onetab plugin.
 * [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab): Firefox Synced JSON of tabs to Onetab format
+* [Cleod9/syncmarx-webext](https://github.com/Cleod9/syncmarx-webext): Web extension to sync bookmarks between browsers to the cloud file host of your choice
 * [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
 * [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext): Add context menu to macOS Finder 
 * [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
@@ -2089,6 +2103,7 @@
 * [mjdescy/TodoTxtMac](https://github.com/mjdescy/TodoTxtMac): TodoTxtMac is a minimalist, keyboard-driven to-do manager for Mac OS X (10.8 Mountain Lion and higher) that conforms to the todo.txt format spec.
 * [Calvin-LL/toggleairport](https://github.com/Calvin-LL/toggleairport): A script for macOS to turn off WiFi when Ethernet is plugged in, and turn on WiFi when Ethernet is unplugged
 * [tangledhelix/toggleAirport](https://github.com/tangledhelix/toggleAirport): Toggle Airport power based on presence of wired ethernet
+* [hugo-toha/toha](https://github.com/hugo-toha/toha): A Hugo theme for personal portfolio
 * [RealRaven2000/ToneQuilla](https://github.com/RealRaven2000/ToneQuilla): ToneQuilla 1.1.1 - Adds a new action to Thunderbird mail filters to allow playing a particular sound when the filter matches. Also includes several sample sound files - original project by R. Kent James
 * [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api): Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
 * [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader): Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
