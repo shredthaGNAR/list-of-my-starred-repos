@@ -1704,8 +1704,8 @@
 * [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager): 💊 Application to use ReVanced on Android 
 * [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot): Auto check and patch YouTube Revanced 
 * [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher): 💉 ReVanced Patcher used to patch Android applications
-* [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches): 🧩 Patches for ReVanced
 * [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches): 🧩 Patches for ReVanced
+* [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template): 👋🧩ReVanced Patches template
 * [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended): ReVanced Extended Issues/Request repo
 * [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A tool to automatically build latest releases of ReVanced apps
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
