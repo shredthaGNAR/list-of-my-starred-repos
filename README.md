@@ -1546,6 +1546,7 @@
 * [JuanJakobo/Pocketbook-Read-offline](https://github.com/JuanJakobo/Pocketbook-Read-offline): A basic client for Pocketbook to read and modify Pocket items
 * [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer): Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 * [ruipgil/pocketmark](https://github.com/ruipgil/pocketmark): From pocket to chrome bookmarks
+* [ikiranis/PocketParser](https://github.com/ikiranis/PocketParser): Parsing pocket bookmarks
 * [hughrun/pocketsnack](https://github.com/hughrun/pocketsnack): KonMari your Pocket tsundoku from the command line
 * [mmagnus/PocketX-Calibre-Plugin](https://github.com/mmagnus/PocketX-Calibre-Plugin): PocketX-Calibre-Plugin is an experimental version of Pocket-Plus-Calibre-Plugin (send articles from Pocket to your e-reader)
 * [karlicoss/pockexport](https://github.com/karlicoss/pockexport): Export/access your Pocket data, including highlights!
