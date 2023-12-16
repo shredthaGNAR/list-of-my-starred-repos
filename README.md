@@ -256,6 +256,7 @@
 * [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox): Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.
 * [AlickH/BetterTouchBar](https://github.com/AlickH/BetterTouchBar): Use BetterTouchTool to make TouchBar better.
 * [mkozjak/bettertouchtool](https://github.com/mkozjak/bettertouchtool): BetterTouchTool configuration
+* [BitRacer/bettertouchtool-crypto](https://github.com/BitRacer/bettertouchtool-crypto): Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
 * [glock47/bettertouchtool-crypto](https://github.com/glock47/bettertouchtool-crypto): Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
 * [krunkosaurus/bettertouchtool-crypto](https://github.com/krunkosaurus/bettertouchtool-crypto): Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum, Litecoin, Neo, and Civic)
 * [shoutcool/bettertouchtool-crypto](https://github.com/shoutcool/bettertouchtool-crypto): Crypto stock market prices for your Macbook Pro touch bar! (Bitcoin, Ethereum and Lamden)
