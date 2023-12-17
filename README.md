@@ -546,6 +546,7 @@
 * [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge): WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 * [jim60105/docker-youtube-dl](https://github.com/jim60105/docker-youtube-dl): Youtube錄影伺服器 (Docker Compose) https://blog.maki0419.com/2020/11/docker-youtube-dl-auto-recording-live-dl.html
 * [DeromirNeves/DockSeparator](https://github.com/DeromirNeves/DockSeparator): macOS utility to add multiple separators to Dock
+* [doctorfree/DoctorFreeScripts](https://github.com/doctorfree/DoctorFreeScripts): Utility Bash shell scripts I've written - typically these will run on Unix, Linux, OS X, and Cygwin
 * [kstenschke/doShell](https://github.com/kstenschke/doShell): Headful automation on Linux and Mac OS
 * [zzamboni/dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon): My personal Hammerspoon configuration - mirrored from GitLab
 * [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
@@ -699,6 +700,7 @@
 * [GitZip/firefox-addons](https://github.com/GitZip/firefox-addons): Firefox addons for GitZip
 * [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha): 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
 * [GrosBourrin/FIREFOX-BLUE-MOON](https://github.com/GrosBourrin/FIREFOX-BLUE-MOON): Firefox blueish & dark theme 
+* [james-cube/firefox-bookmarks-merger](https://github.com/james-cube/firefox-bookmarks-merger): Tool for merging firefox bookmarks backups.
 * [gabeweb/Firefox-Browser-Proton-Custom](https://github.com/gabeweb/Firefox-Browser-Proton-Custom): A custom userChrome.css for Firefox 86+ (February 2021). For personal purpose only. 
 * [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme): Firefox dark theme with a less cluttered UI
 * [vallovic/firefox-colorize-container-toolbar](https://github.com/vallovic/firefox-colorize-container-toolbar): Firefox extension to automatically colorize browser toolbar by matching the color of the active container tab
