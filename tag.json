@@ -548,6 +548,9 @@
     "GSA/asis": [
         "Other"
     ],
+    "GaffaSnobb/touchbar-crypto": [
+        "Other"
+    ],
     "GameXG/keep2joplin": [
         "Other"
     ],
@@ -1694,6 +1697,9 @@
     "Zabakes/export-tabs-urls": [
         "Other"
     ],
+    "ZachAttackMLR/TouchBar-Fun": [
+        "Other"
+    ],
     "ZachSaucier/Just-Read": [
         "Other"
     ],
@@ -1944,6 +1950,9 @@
         "Other"
     ],
     "alice0775/userChrome.js": [
+        "Other"
+    ],
+    "alichtman/Cryptocurrency-TouchBar-Display": [
         "Other"
     ],
     "alienatedsec/yi-hack-v5": [
@@ -4776,9 +4785,6 @@
         "Other"
     ],
     "mjolnirapp/AppGrid": [
-        "Other"
-    ],
-    "mjshofy/glass-morphism-ui-card-design": [
         "Other"
     ],
     "mkaply/extended_color_management": [
