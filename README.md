@@ -1101,7 +1101,7 @@
 * [JackGruber/joplin-plugin-tagging](https://github.com/JackGruber/joplin-plugin-tagging): Plugin to extend the Joplin tagging menu with a copy all tags and tagging dialog with more control.
 * [CalebJohn/joplin-rich-markdown](https://github.com/CalebJohn/joplin-rich-markdown): Helping you ditch the markdown viewer for good.
 * [forcewake/joplin-tags-generator](https://github.com/forcewake/joplin-tags-generator): Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags
-* [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme): My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inklusive a special Bullet Journal css style.
+* [AngelCrawford/joplin-theme](https://github.com/AngelCrawford/joplin-theme): My private style for Joplin. It's build on top of the integrated "Dark" Theme included in Joplin. Inclusive a special Bullet Journal CSS style.
 * [hrqmonteiro/joplin-theme](https://github.com/hrqmonteiro/joplin-theme): My Joplin theme files, including userchrome.css and userstyles.css, as well as some markdown templates for my notes.
 * [kveberg/joplin-theme](https://github.com/kveberg/joplin-theme): A few visual tweaks of stysebae's "joplin-vsc-material-theme"
 * [robotcorner/joplin-theme-dark-gruvbox](https://github.com/robotcorner/joplin-theme-dark-gruvbox): Inspired by "Mayukai Mirage Gruvbox Darktooth Theme" on VSCode
