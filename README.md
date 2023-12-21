@@ -722,6 +722,7 @@
 * [junguler/firefox-dark-userContent.css](https://github.com/junguler/firefox-dark-userContent.css): css to compliment firefox's colors option for dark mode on all websites 
 * [gsomoza/firefox-easy-container-shortcuts](https://github.com/gsomoza/firefox-easy-container-shortcuts): Easy, opinionated, keyboard shortcuts for Firefox 57+ containers.
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
+* [MethodGrab/firefox-google-search-by-image](https://github.com/MethodGrab/firefox-google-search-by-image): A Firefox extension that adds Google’s "search by image" to the browser context menu
 * [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx): Firefox Theme CSS to Opera GX Skin Lovers
 * [SophieFitz/Firefox-History-Combiner](https://github.com/SophieFitz/Firefox-History-Combiner): 🚀 A blazing fast and efficient tool with GUI to combine multiple Firefox history databases together!
 * [pratyushtewari/firefox-like-chrome](https://github.com/pratyushtewari/firefox-like-chrome): This is the userChrome.css that can be used to theme Firfox Quantum 59.0 to look like chrome
