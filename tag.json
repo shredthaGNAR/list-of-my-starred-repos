@@ -833,6 +833,9 @@
     "KudoAI/duckduckgpt": [
         "Other"
     ],
+    "KudoAI/googlegpt": [
+        "Other"
+    ],
     "Kungfoowiz/cssSuggestionsVSCode": [
         "Other"
     ],
@@ -1794,6 +1797,9 @@
         "Other"
     ],
     "adamlui/chatgpt-apps": [
+        "Other"
+    ],
+    "adamlui/chatgpt-auto-continue": [
         "Other"
     ],
     "adamlui/chatgpt-infinity": [
