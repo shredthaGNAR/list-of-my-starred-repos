@@ -1223,7 +1223,7 @@
 * [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup): A macOS setup guide specific to front-end development.
 * [eth-p/mac-icons](https://github.com/eth-p/mac-icons): An assortment of custom MacOS folder icons, editable without Adobe products.
 * [zhuochun/mac-keyboard](https://github.com/zhuochun/mac-keyboard): 🎹 Keyboard Enhancements for Mac
-* [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix): Mac Mouse Fix - A simple way to make your mouse better.
+* [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix): Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 * [maximbilan/Mac-OS-X-App-Menu-Bar-Popup](https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup): Mac OS X Application like a menu bar popup message
 * [anonymousaga/mac-passwords-app](https://github.com/anonymousaga/mac-passwords-app): An app that allows you to view keychain passwords with one click.
 * [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook): QuickLook plugins and packages
