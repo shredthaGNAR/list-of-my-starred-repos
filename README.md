@@ -380,6 +380,7 @@
 * [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty): Adapted "Beautiful" Themes
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
 * [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail): A browser extension to complete your email with the help of ChatGPT
+* [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 * [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 * [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps): 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
@@ -1497,6 +1498,7 @@
 * [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer): 📋 Inspect the system pasteboards on macOS
 * [yozdas/PdfCombiner](https://github.com/yozdas/PdfCombiner): This is Automator app built in Mac
 * [benwiggy/PDFsuite](https://github.com/benwiggy/PDFsuite): Python scripts, Automator Services and Quartz Filters for MacOS (OS X) that create, manipulate, and query PDF files
+* [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner): Open-source mac app cleaner
 * [getpelican/pelican](https://github.com/getpelican/pelican): Static site generator that supports Markdown and reST syntax. Powered by Python.
 * [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc): Trackpad-oriented window manager for macOS
 * [shash007/People-Search-on-Social-Networks-using-Face-Recognition](https://github.com/shash007/People-Search-on-Social-Networks-using-Face-Recognition): Searching people on social networking sites using Face Recognition
