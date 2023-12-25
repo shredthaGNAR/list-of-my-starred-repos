@@ -1683,6 +1683,7 @@
 * [vihanggodbole/reddit-pocket-sync](https://github.com/vihanggodbole/reddit-pocket-sync): None
 * [marioortizmanero/reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google): Button on Google to search only for Reddit posts
 * [tadwohlrapp/reddit-search-on-google](https://github.com/tadwohlrapp/reddit-search-on-google): A browser extension which adds a "Reddit" button to the Google search for only showing search results from reddit.
+* [Jorengarenar/RedditOld_MarkedJS.user.js](https://github.com/Jorengarenar/RedditOld_MarkedJS.user.js): Replace Markdown renderer on Old Reddit with MarkedJS
 * [refined-bitbucket/refined-bitbucket](https://github.com/refined-bitbucket/refined-bitbucket): Chrome and Firefox extension that improves Bitbucket's user experience
 * [refined-github/refined-github](https://github.com/refined-github/refined-github): :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 * [plibither8/refined-hacker-news](https://github.com/plibither8/refined-hacker-news): ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better
@@ -2219,7 +2220,6 @@
 * [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript): 搜索引擎(百度/必应/谷歌)优化美化\快速切换|哔哩哔哩(bilibili)美化\移除评论区关键字搜索蓝字|CSDN 增强\极简化\沉浸式阅读\免登录复制|推特屏蔽过滤器|黄推屏蔽器|我的所有脚本👇
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
 * [Infocatcher/UserScripts](https://github.com/Infocatcher/UserScripts): UserScripts for Firefox with Greasemonkey extension and (may be) for other browsers with user.js support
-* [Jorengarenar/UserScripts](https://github.com/Jorengarenar/UserScripts): An archive of some of my smaller UserScripts
 * [danydodson/userscripts](https://github.com/danydodson/userscripts):  🪚 Collection of UserScripts.
 * [darkred/Userscripts](https://github.com/darkred/Userscripts): My userscripts
 * [jerone/UserScripts](https://github.com/jerone/UserScripts): 🐵 My UserScripts
