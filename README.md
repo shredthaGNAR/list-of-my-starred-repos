@@ -1764,7 +1764,7 @@
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [hotchemi/Scre](https://github.com/hotchemi/Scre): A lightweight screen recorder macOS application written in SwiftUI.
 * [steventheworker/screenhook](https://github.com/steventheworker/screenhook): Background app to make up for BetterTouchTool's limitations. (eg: Run applescript on click (w/o modifier keys) or when connecting a display)
-* [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity): The most powerful screen recorder & annotation tool for Chrome 🎥
+* [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity): The free and privacy-friendly screen recorder with no limits 🎥
 * [duyquoc/ScreenToLayers](https://github.com/duyquoc/ScreenToLayers): macOS app to capture your screen as a layered PSD file
 * [raycast/script-commands](https://github.com/raycast/script-commands): Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 * [tombowditch/scripts](https://github.com/tombowditch/scripts): General Scripts
