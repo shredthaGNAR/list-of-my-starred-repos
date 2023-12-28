@@ -667,7 +667,6 @@
 * [algolia/facebook-search](https://github.com/algolia/facebook-search): Facebook Feed Search powered by Algolia
 * [TheAdnan/facebook-video-download](https://github.com/TheAdnan/facebook-video-download): Facebook video downloader for Firefox
 * [bcat95/Facebook-Video-Downloader](https://github.com/bcat95/Facebook-Video-Downloader): Facebook Video Downloader
-* [sameera-madushan/Facebook-Video-Downloader](https://github.com/sameera-madushan/Facebook-Video-Downloader): Python script to download and save your favorite Facebook videos.
 * [vikas5914/Facebook-Video-Downloader](https://github.com/vikas5914/Facebook-Video-Downloader): Facebook Video Downloader in PHP 
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 * [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension): A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
