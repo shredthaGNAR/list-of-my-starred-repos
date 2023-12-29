@@ -2015,6 +2015,7 @@
 * [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
 * [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext): Add context menu to macOS Finder 
 * [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
+* [Lej77/tab-count-in-window-title](https://github.com/Lej77/tab-count-in-window-title): None
 * [117649/Tab-Groups](https://github.com/117649/Tab-Groups): Reimplementation of Firefox Tab Groups as an add-on.
 * [cdzombak/tab-lists-ext](https://github.com/cdzombak/tab-lists-ext): Send a tab list from the current window to the Things to-do app or to the clipboard.
 * [xatier/tab-manager](https://github.com/xatier/tab-manager): Simple OneTab replacement
