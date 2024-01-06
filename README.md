@@ -417,6 +417,7 @@
 * [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Clippings for Thunderbird
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
 * [ian4hu/Clipy](https://github.com/ian4hu/Clipy): Clipboard extension app for macOS.
+* [spieglt/Cloaker](https://github.com/spieglt/Cloaker): Simple, drag-and-drop, password-based file encryption
 * [webextensions/close-tab-by-double-right-click](https://github.com/webextensions/close-tab-by-double-right-click): Source code for Chrome/Firefox extension "Close Tab by Double Right Click"
 * [Aadil101/cloud](https://github.com/Aadil101/cloud): A clean storage management interface for Google Drive, Dropbox, Box, and OneDrive accounts.
 * [PHLAK/CloudDrop](https://github.com/PHLAK/CloudDrop): Store and retrieve files in cloud storage providers (i.e. Dropbox, Google Drive, Microsoft OneDrive, Amazon Cloud Drive, etc.)
