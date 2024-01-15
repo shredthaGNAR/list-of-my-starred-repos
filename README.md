@@ -1243,6 +1243,7 @@
 * [lra/mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
 * [hazcod/maclaunch](https://github.com/hazcod/maclaunch): Manage your macOS startup items.
 * [schappim/macOCR](https://github.com/schappim/macOCR): Get any text on your screen into your clipboard.
+* [xulihang/macOCR](https://github.com/xulihang/macOCR): Command line OCR tool using macOS's VNRecognizeTextRequest
 * [temochka/macos-automation](https://github.com/temochka/macos-automation): A collection of my macOS automation scripts (Alfred Workflows, AppleScript, and JXA)
 * [dosdude1/macos-catalina-patcher](https://github.com/dosdude1/macos-catalina-patcher): macOS Catalina Patcher (http://dosdude1.com/catalina)
 * [kevinSuttle/macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults): A centralized place for the awesome work started by @mathiasbynens on .macos
