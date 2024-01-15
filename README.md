@@ -644,6 +644,7 @@
 * [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier): Turns off all rules that are unnecessary or might conflict with Prettier.
 * [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier): ESLint plugin for Prettier formatting
 * [amebalabs/Esse](https://github.com/amebalabs/Esse): Swiss army knife of text transformation for iOS and macOS
+* [tg-z/estrellas](https://github.com/tg-z/estrellas): None
 * [essandess/etv-comskip](https://github.com/essandess/etv-comskip): Commercial Marking and Skipping for EyeTV and iTunes Exports
 * [gao-sun/eul](https://github.com/gao-sun/eul): 🖥️ macOS status monitoring app written in SwiftUI.
 * [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui): Every front-end GUI client for ChatGPT
