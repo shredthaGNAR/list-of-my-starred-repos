@@ -2243,7 +2243,6 @@
 * [Vallek/vallek-firefox-custom-css](https://github.com/Vallek/vallek-firefox-custom-css): Custom Firefox UI styles based on https://github.com/Aris-t2/CustomCSSforFx
 * [TeamVanced/VancedMicroG](https://github.com/TeamVanced/VancedMicroG): MicroG tweaked to work for applications such as Vanced.
 * [inotia00/VancedMicroG](https://github.com/inotia00/VancedMicroG): MicroG tweaked to work for applications such as Vanced.
-* [cuynu/vancedx](https://github.com/cuynu/vancedx): YouTube Vanced+ & YouTube Music Vanced+ Official Distribution
 * [vegetableman/vandal](https://github.com/vegetableman/vandal): Navigator for Web Archive
 * [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio): vCard is a fully responsive personal portfolio website, responsive for all devices.
 * [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp): Companion application for Video DownloadHelper browser add-on
