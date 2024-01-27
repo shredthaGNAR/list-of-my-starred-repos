@@ -1069,6 +1069,7 @@
 * [igdownloader/InstagramDownloader](https://github.com/igdownloader/InstagramDownloader): Firefox and Chrome Extention which creates an download button for instagram images and videos and videos
 * [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer): A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 * [instantusername/instant-username-search](https://github.com/instantusername/instant-username-search): ⚡ Instantly search for the availability of your username on more than 100 social media sites.
+* [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts): A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
 * [rsms/inter](https://github.com/rsms/inter): The Inter font family
 * [syedibrahim/IntruderDetectionCamera](https://github.com/syedibrahim/IntruderDetectionCamera): A Raspberry Pi based security camera to detect unknown person and raise alarm!
 * [iv-org/invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube
