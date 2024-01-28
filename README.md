@@ -74,7 +74,7 @@
 * [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow): Alfred workflow to search google drive
 * [deanishe/alfred-firefox](https://github.com/deanishe/alfred-firefox): Search and control Firefox from Alfred
 * [edgarjs/alfred-github-repos](https://github.com/edgarjs/alfred-github-repos): Alfred workflow to easily open Github repositories
-* [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow): GitHub Workflow for Alfred 4
+* [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow): GitHub Workflow for Alfred
 * [aviaryan/alfred-last2imgur](https://github.com/aviaryan/alfred-last2imgur): Alfred workflow to upload the last screenshot taken to Imgur + (delete and minify image)
 * [nikitavoloboev/alfred-my-mind](https://github.com/nikitavoloboev/alfred-my-mind): Alfred workflow to search through my notes and bookmarks
 * [kostyafarber/alfred-notable-workflow](https://github.com/kostyafarber/alfred-notable-workflow): Search, open and make notes from Alfred 5 in Notable 📓
