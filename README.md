@@ -730,6 +730,7 @@
 * [Soft-Bred/Firefox-Customisation](https://github.com/Soft-Bred/Firefox-Customisation): None
 * [whitelightning76/Firefox-dark-theme](https://github.com/whitelightning76/Firefox-dark-theme): Just another dark theme
 * [junguler/firefox-dark-userContent.css](https://github.com/junguler/firefox-dark-userContent.css): css to compliment firefox's colors option for dark mode on all websites 
+* [Madis0/firefox-desaturate-favicons](https://github.com/Madis0/firefox-desaturate-favicons): Desaturate the favicons of all inactive tabs.
 * [gsomoza/firefox-easy-container-shortcuts](https://github.com/gsomoza/firefox-easy-container-shortcuts): Easy, opinionated, keyboard shortcuts for Firefox 57+ containers.
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
 * [MethodGrab/firefox-google-search-by-image](https://github.com/MethodGrab/firefox-google-search-by-image): A Firefox extension that adds Google’s "search by image" to the browser context menu
