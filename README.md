@@ -25,6 +25,7 @@
 * [tortious/2021_Firefox](https://github.com/tortious/2021_Firefox): Updated config settings & possibilities for Firefox. This includes all file types (css; uc.js; js; etc) and other tips and tricks, including about:config tweaks
 * [rsapkf/42](https://github.com/rsapkf/42): @rsapkf's wiki. [Merged into rsapkf/www]
 * [Lexxrt/9xe3](https://github.com/Lexxrt/9xe3): 🔍sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʟᴏᴏᴋᴜᴘ🔍
+* [pfcao/abookmark](https://github.com/pfcao/abookmark): Advanced bookmark & tab manager
 * [earthlng/aboutconfig](https://github.com/earthlng/aboutconfig): None
 * [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu): Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️
 * [abp-filters/abp-filters-anti-cv](https://github.com/abp-filters/abp-filters-anti-cv): None
@@ -1446,6 +1447,7 @@
 * [iansinnott/one-dark-tab](https://github.com/iansinnott/one-dark-tab): Like OneTab, but darker.
 * [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools): A theme for Firefox Devtools
 * [simurai/one-vibrancy](https://github.com/simurai/one-vibrancy): Vibrancy effect for Atom One themes
+* [ikki4/OneTab-Backup](https://github.com/ikki4/OneTab-Backup): Python script to backup your OneTab data. Can be scheduled with Windows' Task Scheduler to run automatically.
 * [busyxiang/OneTab-Backup-Automation](https://github.com/busyxiang/OneTab-Backup-Automation): Automated Python Script to backup your OneTab data
 * [ikki4/OneTab-Backup-Automation](https://github.com/ikki4/OneTab-Backup-Automation): Automated Python Script to backup your OneTab data
 * [dpschen/onetab-export-script](https://github.com/dpschen/onetab-export-script): A simple browser script that helps exporting saved OneTab meta data 
@@ -1459,6 +1461,7 @@
 * [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group): This repo just to collect user feedback.
 * [MAKIO135/OneTab2Pocket](https://github.com/MAKIO135/OneTab2Pocket): Bookmarklet sending OneTab links to Pocket 
 * [lolonao/onetab2sqlite3](https://github.com/lolonao/onetab2sqlite3): Script to import export data from OneTab browser extension into SQLite3. I will add the ability to search by keywords or categories.
+* [alan1world/onetab_data_archiver](https://github.com/alan1world/onetab_data_archiver): A data archiver script for use with OneTab browser extension, and Google Keep as a bonus
 * [endcloud/onetab_restore_tauri](https://github.com/endcloud/onetab_restore_tauri): An App for backing up and better displaying Onetab data Powered by Tauri.
 * [Enan01/OneTabClear](https://github.com/Enan01/OneTabClear): Quickly clear OneTab tag group.
 * [sueszli/oneTabScraper](https://github.com/sueszli/oneTabScraper): oneTab bookmark collection → plaintext
