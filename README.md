@@ -1458,6 +1458,7 @@
 * [Packetslave/onetab-to-bookmarks](https://github.com/Packetslave/onetab-to-bookmarks): Convert a OneTab bookmark export to the standard HTML bookmark export format
 * [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group): This repo just to collect user feedback.
 * [MAKIO135/OneTab2Pocket](https://github.com/MAKIO135/OneTab2Pocket): Bookmarklet sending OneTab links to Pocket 
+* [lolonao/onetab2sqlite3](https://github.com/lolonao/onetab2sqlite3): Script to import export data from OneTab browser extension into SQLite3. I will add the ability to search by keywords or categories.
 * [endcloud/onetab_restore_tauri](https://github.com/endcloud/onetab_restore_tauri): An App for backing up and better displaying Onetab data Powered by Tauri.
 * [Enan01/OneTabClear](https://github.com/Enan01/OneTabClear): Quickly clear OneTab tag group.
 * [sueszli/oneTabScraper](https://github.com/sueszli/oneTabScraper): oneTab bookmark collection → plaintext
