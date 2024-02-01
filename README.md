@@ -668,6 +668,7 @@
 * [namukang/extension-starter-kit](https://github.com/namukang/extension-starter-kit): Starter kit for building Chrome/Firefox extensions
 * [raycast/extensions](https://github.com/raycast/extensions): Everything you need to extend Raycast.
 * [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button): Communicate with external applications of your OS through a toolbar button or context menu item.
+* [researchdepartment/external-application-button-youtube-dl-macos-shortcut](https://github.com/researchdepartment/external-application-button-youtube-dl-macos-shortcut): this was a triumph (i couldn't get the command variant listed in the FAQs to work so i made this)
 * [feller-prj/extractor-project](https://github.com/feller-prj/extractor-project): forked from iaextractor
 * [jotyGill/ezsh](https://github.com/jotyGill/ezsh): quickly install zsh, oh-my-zsh with power-level-9k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search
 * [mifi/ezshare](https://github.com/mifi/ezshare): Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
@@ -1565,6 +1566,7 @@
 * [kevinpollet/pocket-deduper](https://github.com/kevinpollet/pocket-deduper): Remove duplicates from your Pocket list.
 * [k5md/Pocket-Editor-webextension](https://github.com/k5md/Pocket-Editor-webextension): A sidebar text-editing addon for firefox
 * [JeanDavidDaviet/Pocket-Export](https://github.com/JeanDavidDaviet/Pocket-Export): None
+* [rtward/pocket-import](https://github.com/rtward/pocket-import): A small script to upload a list of URLs into pocket
 * [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin): 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
 * [andyw8/pocket-ruby](https://github.com/andyw8/pocket-ruby): Ruby wrapper for the Pocket REST and Search APIs
 * [ShockwaveNN/pocket-sinatra-interface](https://github.com/ShockwaveNN/pocket-sinatra-interface): Sinatra-based web interface for pocket api
@@ -1573,6 +1575,7 @@
 * [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite): Create a SQLite database containing data from your Pocket account
 * [tadeussenf/pocket-wiki](https://github.com/tadeussenf/pocket-wiki): Alternative User Interface for getpocket.com
 * [knilling/pocket2csv](https://github.com/knilling/pocket2csv): None
+* [msoap/pocket2dropbox](https://github.com/msoap/pocket2dropbox): Backup Pocket articles to Dropbox
 * [lobre/pocket2notion](https://github.com/lobre/pocket2notion): Tool for migrating Pocket items to Notion
 * [ryderstorm/pocket_article_exporter](https://github.com/ryderstorm/pocket_article_exporter): None
 * [billpalombi/pocket_parse](https://github.com/billpalombi/pocket_parse): Script to parse the html export from Pocket and write out a csv
@@ -1828,6 +1831,7 @@
 * [szimek/sharedrop](https://github.com/szimek/sharedrop): Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 * [jimmod/ShareToComputer](https://github.com/jimmod/ShareToComputer): None
 * [marcosdiez/shareviahttp](https://github.com/marcosdiez/shareviahttp): Share Via Http - Android
+* [jlord/sheetsee-pocket](https://github.com/jlord/sheetsee-pocket): A website for your Pocket article archive. Fork-n-Go!
 * [koalaman/shellcheck](https://github.com/koalaman/shellcheck): ShellCheck, a static analysis tool for shell scripts
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): 🔎 Hunt down social media accounts by username across social networks
 * [FH-Potsdam/shifted-maps](https://github.com/FH-Potsdam/shifted-maps): Shifted Maps visualizes personal movement data as a network of map extracts showing visited places.
