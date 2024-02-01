@@ -1427,6 +1427,12 @@
     "Sinacs/Joplin.Plugin.ReMoods.Theme": [
         "Other"
     ],
+    "SingularityLabs-ai/ChatGPT-Tool-List": [
+        "Other"
+    ],
+    "SingularityLabs-ai/beyond-bard-mini": [
+        "Other"
+    ],
     "SirAlidadi/HackBar": [
         "Other"
     ],
@@ -3515,9 +3521,6 @@
     "glowinthedark/pylaunchd": [
         "Other"
     ],
-    "gluons/download-directory-helper": [
-        "Other"
-    ],
     "gmardom/firefox-mods": [
         "Other"
     ],
@@ -4548,6 +4551,9 @@
         "Other"
     ],
     "lra/mackup": [
+        "Other"
+    ],
+    "lucasmccabe/emailGPT": [
         "Other"
     ],
     "lukakerr/OpenQuickly": [
