@@ -3521,6 +3521,9 @@
     "glowinthedark/pylaunchd": [
         "Other"
     ],
+    "gluons/download-directory-helper": [
+        "Other"
+    ],
     "gmardom/firefox-mods": [
         "Other"
     ],
@@ -4553,9 +4556,6 @@
     "lra/mackup": [
         "Other"
     ],
-    "lucasmccabe/emailGPT": [
-        "Other"
-    ],
     "lukakerr/OpenQuickly": [
         "Other"
     ],
@@ -4898,6 +4898,9 @@
     "moisseev/rspamd-spamness": [
         "Other"
     ],
+    "molebox/gatsby-theme-pocket": [
+        "Other"
+    ],
     "monero-project/monero": [
         "Other"
     ],
@@ -5115,6 +5118,9 @@
         "Other"
     ],
     "nickysemenza/message-analyzer": [
+        "Other"
+    ],
+    "nicolaballotta/gpt3-wordpress-post-generator": [
         "Other"
     ],
     "nicolesaidy/awesome-web-design": [

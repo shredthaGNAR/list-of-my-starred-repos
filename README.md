@@ -594,6 +594,7 @@
 * [charlieMonroe/DownieCustomIntegrations](https://github.com/charlieMonroe/DownieCustomIntegrations): None
 * [charlieMonroe/DownieExtensions](https://github.com/charlieMonroe/DownieExtensions): Browser Extensions used in Downie (https://software.charliemonroe.net/downie/).
 * [stefnotch/downline](https://github.com/stefnotch/downline): Free cross-platform desktop application for downloading video and audio from YouTube and many other sites
+* [gluons/download-directory-helper](https://github.com/gluons/download-directory-helper): 📁 A Firefox add-on to use download-directory easily.
 * [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io): Web App: Download just a sub directory from a GitHub repo.
 * [edwin170/downr1n](https://github.com/edwin170/downr1n): downgrade tethered checkm8 idevices ios 14, 15.
 * [downthemall/downthemall](https://github.com/downthemall/downthemall): The DownThemAll! WebExtension
@@ -641,7 +642,6 @@
 * [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template): An email signature template made using HTML & CSS - let's make its easier for everyone!
 * [bluginbuhl/email-signatures](https://github.com/bluginbuhl/email-signatures): Custom HTML/CSS e-mail signatures for Gmail
 * [ColorlibHQ/email-templates](https://github.com/ColorlibHQ/email-templates): Free HTML email templates for Mailchimp and other emails services
-* [lucasmccabe/emailGPT](https://github.com/lucasmccabe/emailGPT): a quick and easy interface to generate emails with ChatGPT
 * [maldevel/EmailHarvester](https://github.com/maldevel/EmailHarvester): Email addresses harvester
 * [crowdproperty/EmailSignatureMachine](https://github.com/crowdproperty/EmailSignatureMachine): You here to make some email signatures
 * [Sav22999/emoji](https://github.com/Sav22999/emoji): "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
@@ -865,6 +865,7 @@
 * [LekoArts/gatsby-starter-portfolio-cara](https://github.com/LekoArts/gatsby-starter-portfolio-cara): Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.
 * [ncyhere/gatsby-starter-shopify](https://github.com/ncyhere/gatsby-starter-shopify): A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
 * [wkocjan/gatsby-theme-intro](https://github.com/wkocjan/gatsby-theme-intro): Personal branding theme for developers
+* [molebox/gatsby-theme-pocket](https://github.com/molebox/gatsby-theme-pocket): A Gatsby theme that adds a pocket to your website.
 * [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes): Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
 * [ftassy/GCalTab](https://github.com/ftassy/GCalTab): GCalTab is a Thunderbird add-on that opens Google Calendar website in a Thunderbird tab. It facilitates multiple accounts management. and features a beautiful dark mode thanks to the DarkReader algorithm.
 * [glotlabs/gdrive](https://github.com/glotlabs/gdrive): Google Drive CLI Client
@@ -972,6 +973,7 @@
 * [vipintom/gpm2spotify](https://github.com/vipintom/gpm2spotify): Google Play Music to Spotify Library Exporter
 * [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio): Creating an automatic portfolio based on Github profile
 * [giosilvi/GPT-Prompter](https://github.com/giosilvi/GPT-Prompter): Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
+* [nicolaballotta/gpt3-wordpress-post-generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
 * [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status): This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 * [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
 * [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
