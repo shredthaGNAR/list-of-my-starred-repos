@@ -1824,6 +1824,8 @@
 * [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative): A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
 * [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 * [aderyabin/ServPane](https://github.com/aderyabin/ServPane): A launchd menu bar app for Mac
+* [oxen-io/session-android](https://github.com/oxen-io/session-android): A private messenger for Android.
+* [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop): Session Desktop - Onion routing based messenger
 * [navorite/sessionic](https://github.com/navorite/sessionic): A web extension to save, manage and restore sessions, windows and tabs.
 * [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync): SessionSync
 * [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird): A universal dark theme for Thunderbird
