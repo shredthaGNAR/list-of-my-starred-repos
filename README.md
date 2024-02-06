@@ -817,7 +817,7 @@
 * [julianandrews/flopferret](https://github.com/julianandrews/flopferret): Texas Hold'em board texture analyzer.
 * [d2phap/fluent-reveal-effect](https://github.com/d2phap/fluent-reveal-effect): Fluent Reveal Effect JavaScript library for web
 * [dannycandle/FluidFox](https://github.com/dannycandle/FluidFox): A custom Firefox userChrome for mac OS.
-* [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet): File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+* [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet): Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 * [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox): An opinionated set of configurations for firefox.
 * [avindra/fndr](https://github.com/avindra/fndr): An Internet helper to wrangle multiple search providers, extract social media ids, perform reverse image search and more.
 * [VigoKrumins/folder-icons](https://github.com/VigoKrumins/folder-icons): Custom folder icons for macOS & Windows
