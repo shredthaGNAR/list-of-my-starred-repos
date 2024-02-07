@@ -1537,7 +1537,7 @@
 * [thlorenz/phe](https://github.com/thlorenz/phe): Poker hand evaluator
 * [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 * [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript
-* [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix): Phoenix is a modern open-source IDE for the web, built for the browser. 
+* [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix): Phoenix is a modern open-source Code Editor for the web, built for the browser. 
 * [garrow/phoenix-configurations](https://github.com/garrow/phoenix-configurations): My custom configurations for the Phoenix macOS window Manager, ( https://github.com/kasper/phoenix )
 * [FranklinDM/Phosphor](https://github.com/FranklinDM/Phosphor): Relive the monochrome screens of yesterday.
 * [DhruvRoy247/Photo-Trans](https://github.com/DhruvRoy247/Photo-Trans): Image Search Web Application
