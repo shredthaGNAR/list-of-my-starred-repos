@@ -1913,6 +1913,7 @@
 * [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow): Run installed macOS shortcuts
 * [crittermike/shortkeys](https://github.com/crittermike/shortkeys): A browser extension for custom keyboard shortcuts 
 * [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
+* [shredthaGNAR/shredthagnar.github.io](https://github.com/shredthaGNAR/shredthagnar.github.io): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch): Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff115) 🪟
 * [SideStore/SideStore](https://github.com/SideStore/SideStore): SideStore is a fork of AltStore that doesn't require an AltServer.
 * [thsmi/sieve](https://github.com/thsmi/sieve): Sieve Script Editor
