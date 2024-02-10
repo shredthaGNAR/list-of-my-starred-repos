@@ -2711,6 +2711,9 @@
     "crssi/Firefox": [
         "Other"
     ],
+    "cshtdd/pocket-data-exporter": [
+        "Other"
+    ],
     "ctrlxc/copyaddrs": [
         "Other"
     ],
@@ -4421,6 +4424,9 @@
     "kveberg/joplin-theme": [
         "Other"
     ],
+    "kyhau/google-keep-helper": [
+        "Other"
+    ],
     "kyleskom/NBA-Machine-Learning-Sports-Betting": [
         "Other"
     ],
@@ -4563,6 +4569,9 @@
         "Other"
     ],
     "lostintangent/gistpad": [
+        "Other"
+    ],
+    "lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format": [
         "Other"
     ],
     "lough-city/css-smart": [
@@ -4884,6 +4893,9 @@
         "Other"
     ],
     "mkbabb/btt-scripts": [
+        "Other"
+    ],
+    "mkirchner/pockyll": [
         "Other"
     ],
     "mklement0/fileicon": [
