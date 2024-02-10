@@ -659,6 +659,8 @@
 * [essandess/etv-comskip](https://github.com/essandess/etv-comskip): Commercial Marking and Skipping for EyeTV and iTunes Exports
 * [gao-sun/eul](https://github.com/gao-sun/eul): 🖥️ macOS status monitoring app written in SwiftUI.
 * [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui): Every front-end GUI client for ChatGPT
+* [An0nUD4Y/evilginx2](https://github.com/An0nUD4Y/evilginx2): Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+* [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2): Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 * [SoldierInFaith14/excel_automation](https://github.com/SoldierInFaith14/excel_automation): Python script that modifies Shopify spreadsheet exports of order details.
 * [KhashayarKhm/export-tabs-urls](https://github.com/KhashayarKhm/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 * [Zabakes/export-tabs-urls](https://github.com/Zabakes/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
