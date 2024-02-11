@@ -306,6 +306,7 @@
 * [aerobless/bookmarks](https://github.com/aerobless/bookmarks): Personal browser launch page. Made with static-marks.
 * [dyu/bookmarks](https://github.com/dyu/bookmarks): a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
 * [gietema/bookmarks](https://github.com/gietema/bookmarks): Script that syncs pocket to my bookmarks page
+* [twolfson/bookmarks](https://github.com/twolfson/bookmarks): Webpage representing a collection of bookmarks
 * [brian-girko/bookmarks-commander](https://github.com/brian-girko/bookmarks-commander): A two-panel bookmarks manager which is similar to the well-known Total Commander.
 * [radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter): Parse db/html/json bookmarks file from (Chrome - Firefox - Custom source) and convert it to db/html/json format.
 * [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils): Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
@@ -1516,6 +1517,7 @@
 * [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list): A list of tools to search accounts by username
 * [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
+* [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo): Turn GitHub into a bookmark manager
 * [caballerofelipe/osx-automator-services](https://github.com/caballerofelipe/osx-automator-services): Some services meant to make life a little easier
 * [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults): All my default config stuff for mac
 * [msikma/osx-folder-icons](https://github.com/msikma/osx-folder-icons): Colorful folder icons for macOS to help you organize your projects
