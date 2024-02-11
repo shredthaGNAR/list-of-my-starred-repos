@@ -1297,7 +1297,7 @@
 * [fharper/macsetup](https://github.com/fharper/macsetup): Scripts to setup my mac
 * [Pilaton/MacSync](https://github.com/Pilaton/MacSync): Easy sync for macOS. Dotfiles, folders, configurations, etc.
 * [macvim-dev/macvim](https://github.com/macvim-dev/macvim): Vim - the text editor - for macOS
-* [section83/MacYTDL](https://github.com/section83/MacYTDL): A macOS GUI front-end for the youtube-dl video downloader
+* [section83/MacYTDL](https://github.com/section83/MacYTDL): A macOS GUI front-end for the YT-DLP video downloader
 * [samschott/maestral](https://github.com/samschott/maestral): Open-source Dropbox client for macOS and Linux
 * [alfredapp/magic-8-ball-workflow](https://github.com/alfredapp/magic-8-ball-workflow): A simple workflow that makes use of the Random utility to answer your questions like a classic magic 8-ball
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
