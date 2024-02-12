@@ -1109,6 +1109,9 @@
     "OneKeePass/desktop": [
         "Other"
     ],
+    "OpenAPITools/openapi-generator": [
+        "Other"
+    ],
     "OpenEmu/OpenEmu": [
         "Other"
     ],
@@ -3747,6 +3750,9 @@
         "Other"
     ],
     "humanetech-community/awesome-humane-tech": [
+        "Other"
+    ],
+    "hunspell/hunspell": [
         "Other"
     ],
     "husseyexplores/poshify-utilities": [
