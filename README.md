@@ -1319,6 +1319,7 @@
 * [sunshinev/markdown-image-upload-github](https://github.com/sunshinev/markdown-image-upload-github): 将图片通过Alfred-workflow上传到github，并且返回markdown格式的图片语法
 * [simov/markdown-viewer](https://github.com/simov/markdown-viewer): Markdown Viewer / Browser Extension
 * [deathau/markdownload](https://github.com/deathau/markdownload): A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
+* [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit): Just like TextEdit on Mac but dedicated to Markdown.
 * [marktext/marktext](https://github.com/marktext/marktext): 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 * [soxoj/marple](https://github.com/soxoj/marple): 📖 Collect links to profiles by username through search engines and analyze with various plugins
 * [arp242/MartinFox](https://github.com/arp242/MartinFox): Really simple userChrome.css for Firefox 89 to make the active tab stand out more
