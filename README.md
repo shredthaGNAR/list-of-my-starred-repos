@@ -2292,7 +2292,7 @@
 * [n3cr0cr0w/userscripts](https://github.com/n3cr0cr0w/userscripts): User Scripts for bingeing
 * [sagiegurari/userscripts-ads-dom-remover](https://github.com/sagiegurari/userscripts-ads-dom-remover): Removes Ad Containers from DOM (doesn't replace adblocker extension, but blocks dynamic content which the adblocker fails to block by removing whole sections from the HTML DOM.)
 * [krisu5/userstyles](https://github.com/krisu5/userstyles): UserCSS for Stylus (for AniList, DuckDuckGo, Imgur, Twitter & more)
-* [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube): The best tweak for the YouTube app
+* [MiRO92/uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube): Enhance Your YouTube Experience
 * [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced): uYouEnhanced is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!
 * [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus): uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!
 * [bchiang7/v4](https://github.com/bchiang7/v4): Fourth iteration of my personal website built with Gatsby
