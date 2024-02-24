@@ -1571,6 +1571,7 @@
 * [pooja-v-dev/php-drive-s3](https://github.com/pooja-v-dev/php-drive-s3): Read a Google Drive account, list files in a folder and move selected file to S3.
 * [YukisCoffee/phroton](https://github.com/YukisCoffee/phroton): Firefox Proton userChrome.css for an accurate Photon theme.
 * [bltavares/pickpocket](https://github.com/bltavares/pickpocket): Pocket CLI management tools
+* [ppati000/pickpocket](https://github.com/ppati000/pickpocket): Pickpocket imports Pocket links to Safari reading list. 
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
 * [jyssh/pin-unpin-tab](https://github.com/jyssh/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
@@ -1587,6 +1588,7 @@
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [knowfox/pocket](https://github.com/knowfox/pocket): Knowfox: Retrieve bookmarks from getpocket.com
 * [tapanpandita/pocket](https://github.com/tapanpandita/pocket): A python wrapper for the pocket api.
+* [ChingizAdamov/Pocket-Bot](https://github.com/ChingizAdamov/Pocket-Bot): Pocket bot for saving your favourite links
 * [ildella/pocket-cli](https://github.com/ildella/pocket-cli): Interactive terminal app for Pocket - read it later / bookmark application by @Mozilla - https://getpocket.com/
 * [cshtdd/pocket-data-exporter](https://github.com/cshtdd/pocket-data-exporter): Export your pocket data
 * [kevinpollet/pocket-deduper](https://github.com/kevinpollet/pocket-deduper): Remove duplicates from your Pocket list.
@@ -1594,16 +1596,20 @@
 * [JeanDavidDaviet/Pocket-Export](https://github.com/JeanDavidDaviet/Pocket-Export): None
 * [krewast/pocket-export-chrome-import-converter](https://github.com/krewast/pocket-export-chrome-import-converter): Export bookmarks from Pocket and import them into Chrome
 * [rtward/pocket-import](https://github.com/rtward/pocket-import): A small script to upload a list of URLs into pocket
+* [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter): Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
 * [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin): 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
+* [eebmagic/pocket-pull](https://github.com/eebmagic/pocket-pull): Pull links from your pocket account and save them as text files with links
 * [andyw8/pocket-ruby](https://github.com/andyw8/pocket-ruby): Ruby wrapper for the Pocket REST and Search APIs
 * [ShockwaveNN/pocket-sinatra-interface](https://github.com/ShockwaveNN/pocket-sinatra-interface): Sinatra-based web interface for pocket api
 * [sanghviharshit/pocket-tagger](https://github.com/sanghviharshit/pocket-tagger): 📖👓🏷Tag your getpocket.com articles automatically using natural language processing
 * [gullitmiranda/pocket-to-raindrop](https://github.com/gullitmiranda/pocket-to-raindrop): Script to export bookmarks from https://getpocket.com to https://raindrop.io.
 * [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite): Create a SQLite database containing data from your Pocket account
+* [kevinlebrun/pocket-triage](https://github.com/kevinlebrun/pocket-triage): A simple way to clean up your Pocket links in close to no time.
 * [tadeussenf/pocket-wiki](https://github.com/tadeussenf/pocket-wiki): Alternative User Interface for getpocket.com
 * [knilling/pocket2csv](https://github.com/knilling/pocket2csv): None
 * [msoap/pocket2dropbox](https://github.com/msoap/pocket2dropbox): Backup Pocket articles to Dropbox
 * [lobre/pocket2notion](https://github.com/lobre/pocket2notion): Tool for migrating Pocket items to Notion
+* [andriy-denysenko/pocket2pocket](https://github.com/andriy-denysenko/pocket2pocket): Lets you exchange Pocket links between accounts (console)
 * [ryderstorm/pocket_article_exporter](https://github.com/ryderstorm/pocket_article_exporter): None
 * [billpalombi/pocket_parse](https://github.com/billpalombi/pocket_parse): Script to parse the html export from Pocket and write out a csv
 * [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats): A tool to analyze your Pocket reading list.
