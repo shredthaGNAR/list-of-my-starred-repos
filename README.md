@@ -2390,8 +2390,8 @@
 * [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs): A suite of polyfills supporting the HTML Web Components specs
 * [subins2000/WebDrop](https://github.com/subins2000/WebDrop): Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)
 * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill): A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
-* [sblask/webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect): Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
-* [sblask/webextension-tab-deque](https://github.com/sblask/webextension-tab-deque): A Firefox extension for better tab handling.
+* [sblask-webextensions/webextension-skip-redirect](https://github.com/sblask-webextensions/webextension-skip-redirect): Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
+* [sblask-webextensions/webextension-tab-deque](https://github.com/sblask-webextensions/webextension-tab-deque): A Firefox extension for better tab handling.
 * [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox): Small CLI toolbox for cross-browser WebExtension development
 * [tpamula/webextension-window-titler](https://github.com/tpamula/webextension-window-titler): Label your Firefox windows and profiles by modifying window title
 * [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples): Example Firefox add-ons created using the WebExtensions API
