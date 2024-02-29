@@ -2426,6 +2426,7 @@
 * [Team-xManager/xManager](https://github.com/Team-xManager/xManager): Ad-Free, New Features & Freedom
 * [xnotepp/xnote](https://github.com/xnotepp/xnote): Sources for the XNote++ Thunderbird add-on.
 * [koekeishiya/yabai](https://github.com/koekeishiya/yabai): A tiling window manager for macOS based on binary space partitioning
+* [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT): Locally running, hands-free ChatGPT UI
 * [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator): 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
 * [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2): Custom firmware for Yi 1080p camera based on Allwinner platform
