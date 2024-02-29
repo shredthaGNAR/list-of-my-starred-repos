@@ -1226,6 +1226,7 @@
 * [libreddit/libreddit](https://github.com/libreddit/libreddit): Private front-end for Reddit
 * [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube): An alternative frontend for YouTube, for Android.
 * [hnhx/librex](https://github.com/hnhx/librex): Framework and javascript free privacy respecting meta search engine
+* [Ahwxorg/LibreY](https://github.com/Ahwxorg/LibreY): Framework and JS free privacy respecting meta search engine
 * [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
 * [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The mouse and trackpad utility for Mac.
 * [ddawson/Link-Tools](https://github.com/ddawson/Link-Tools): Configurable copy and visit operations for links in Firefox
