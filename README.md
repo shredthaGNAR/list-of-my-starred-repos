@@ -1436,7 +1436,6 @@
 * [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu): FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. 📋🖱️🔗
 * [garywill/newTabClipboardUrl](https://github.com/garywill/newTabClipboardUrl): Quickly create new tab opening URL from clipboard. Firefox addon 📋🖱️🔗
 * [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil): OSINT tool for finding profiles by username
-* [Karchensky/nhl_api_modeling](https://github.com/Karchensky/nhl_api_modeling): NHL API scraper ++ stats database ++ predictive modeling ++ odds calculator
 * [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc): a blue-ish gray with a purple accent color palette for Visual Studio Code.
 * [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser): Parses Firefox/Chrome HTML bookmarks files
 * [alex-phillips/node-clouddrive](https://github.com/alex-phillips/node-clouddrive): Node SDK and CLI for Amazon's Cloud Drive
