@@ -489,6 +489,7 @@
 * [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer): Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
 * [chrislennon/Crypto-Touchbar-App](https://github.com/chrislennon/Crypto-Touchbar-App): A web app to build Apple touch bar elements for crytpo currencies. Requires BetterTouchTool. Supports wide range of cryptos and converts to a variety of fiat monies.
 * [alichtman/Cryptocurrency-TouchBar-Display](https://github.com/alichtman/Cryptocurrency-TouchBar-Display): Using BetterTouchTool to display cryptocurrency prices on the MacBook Pro Touch Bar
+* [frm/cryptotool](https://github.com/frm/cryptotool): Cryptocurrencies on your Mac touchbar 💸
 * [cedricbeau/css-gradient-generator](https://github.com/cedricbeau/css-gradient-generator): Générateur de gradient css en ligne
 * [lough-city/css-smart](https://github.com/lough-city/css-smart): a smart css helpers.
 * [astrit/css.gg](https://github.com/astrit/css.gg): 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
