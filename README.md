@@ -46,6 +46,7 @@
 * [himanshukumar660/Address-Validation](https://github.com/himanshukumar660/Address-Validation): This is a website where user can perform Address Verification.
 * [mkoryak/address-validator](https://github.com/mkoryak/address-validator): nodejs address validator via google api
 * [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt): The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+* [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters): AdGuard Content Blocking Filters
 * [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari): AdGuard for Safari app extension
 * [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS): A repository dedicated to mirroring some block-lists into 1 file for ease of use
 * [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper): 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
