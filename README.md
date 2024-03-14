@@ -1512,6 +1512,7 @@
 * [lmichelin/open-github-links-in-ide](https://github.com/lmichelin/open-github-links-in-ide): Browser extension allowing to open files in your IDE directly from GitHub, available for Chrome and Firefox.
 * [TheNightmanCodeth/open-in-code](https://github.com/TheNightmanCodeth/open-in-code): Browser extension that adds "Open in Visual Studio Code" button to GitHub repos
 * [kukawski/Open-in-selected-Incognito-window](https://github.com/kukawski/Open-in-selected-Incognito-window): Firefox extension that allows to open link in selected incognito window from context menu
+* [jakshin/open-in-terminal](https://github.com/jakshin/open-in-terminal):  A macOS Finder toolbar app which opens Terminal windows conveniently 
 * [armanozak/open-in-vscode](https://github.com/armanozak/open-in-vscode): Mac OS workflow that adds a quick action to Finder for opening files and folders in VS Code
 * [rkanter/Open-iTerm-or-Terminal-Here...](https://github.com/rkanter/Open-iTerm-or-Terminal-Here...): Generates an Applescript app that you can put in your Finder toolbar which will open an iTerm or Terminal tab at the current directory.
 * [kyuucr/open-link-in-other-window](https://github.com/kyuucr/open-link-in-other-window): Firefox extension for opening links in other window.
