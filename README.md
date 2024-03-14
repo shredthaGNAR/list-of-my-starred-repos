@@ -331,6 +331,7 @@
 * [brackets-cont/brackets](https://github.com/brackets-cont/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
 * [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix): Brackets Utility Belt
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
+* [romankurnovskii/BrewMate](https://github.com/romankurnovskii/BrewMate): Homebrew GUI apps manager
 * [brothersinvines/brothersinvines.github.io](https://github.com/brothersinvines/brothersinvines.github.io): None
 * [hoyang/browse-later](https://github.com/hoyang/browse-later): Browse later, a WebExtensions add-on.
 * [EnderDev/browser-chrome-experiment](https://github.com/EnderDev/browser-chrome-experiment): None
@@ -1030,6 +1031,7 @@
 * [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar): Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
 * [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io): :blue_book: Home Assistant User documentation
 * [Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise): Formula for https://github.com/sbmpost/AutoRaise
+* [romankurnovskii/homebrew-awesome-brew](https://github.com/romankurnovskii/homebrew-awesome-brew): A catalog of Homebrew casks and formulas extending to open-source projects by developers. Simplifies the process of finding and installing apps via Homebrew.
 * [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 * [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts): 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
 * [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade): A command line tool for upgrading every outdated app installed by Homebrew Cask
@@ -2134,6 +2136,7 @@
 * [wshanks/tbkeys](https://github.com/wshanks/tbkeys): Custom keybindings for Thunderbird
 * [jobisoft/TbSync](https://github.com/jobisoft/TbSync): [Thunderbird Add-On] Central user interface to manage cloud accounts and to synchronize their contact, task and calendar information with Thunderbird
 * [eikendev/tbunread](https://github.com/eikendev/tbunread): Helps you to keep an eye on unread emails in Thunderbird 📬:fire:
+* [team-crew/team-crew.github.io](https://github.com/team-crew/team-crew.github.io): None
 * [edo0/Technetium](https://github.com/edo0/Technetium): A focused approach to taming the new Firefox's Proton design
 * [stoically/temporary-containers](https://github.com/stoically/temporary-containers): Firefox Add-on that lets you open automatically managed disposable containers
 * [mgunyho/tere](https://github.com/mgunyho/tere): Terminal file explorer
