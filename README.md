@@ -1476,6 +1476,7 @@
 * [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify): Nx plugin for developing performance-first Shopify themes 🚀
 * [dawiidio/o-menu](https://github.com/dawiidio/o-menu): Simple circular svg menu 
 * [njnmco/odinochka](https://github.com/njnmco/odinochka): featherweight tab manager
+* [snte/odinochka](https://github.com/snte/odinochka): featherweight tab manager
 * [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh): The most customisable and low-latency cross platform/shell prompt renderer
 * [katrinleinweber/oh-my-zsh-youtube-dl-aliases](https://github.com/katrinleinweber/oh-my-zsh-youtube-dl-aliases): Custom plugin for Oh My Zsh with youtube-dl aliases
 * [3ter/Ohmine-Dark-Theme-For-Joplin](https://github.com/3ter/Ohmine-Dark-Theme-For-Joplin): This is a custom CSS theme for the opensource note-taking app Joplin.
