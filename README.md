@@ -298,6 +298,7 @@
 * [TheBi11iona1re/BlurFox-CSS-for-Mac](https://github.com/TheBi11iona1re/BlurFox-CSS-for-Mac): Update  to manilarome's Blur Fox for mac only
 * [dwarvesf/blurred](https://github.com/dwarvesf/blurred): A macOS utility that helps reduce distraction by dimming your inactive noise
 * [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox): A sleek, modern and elegant Firefox CSS theme
+* [khaneliman/blurredfox](https://github.com/khaneliman/blurredfox): A sleek, modern and elegant Firefox CSS theme
 * [iam4x/bobarr](https://github.com/iam4x/bobarr): 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 * [Tenica/bookMark](https://github.com/Tenica/bookMark): A bookmark webpage built with javaScript 
 * [MattRuetz/bookmark-app](https://github.com/MattRuetz/bookmark-app): Simple webpage to store bookmarks using localStorage. Flexible and simple UI using CSS variables and animations.
@@ -779,6 +780,7 @@
 * [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one): Firefox Theme for Opera One skin Lovers 
 * [nathandaven/firefox-paradise-theme](https://github.com/nathandaven/firefox-paradise-theme): My custom Firefox userChrome profile, setup with right handed vertical tabs, compact layout, and MacOS/Paradise theming. Also works on Windows!
 * [junocomp/firefox-phosh-theme](https://github.com/junocomp/firefox-phosh-theme): None
+* [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus): CSS tweaks for Firefox
 * [nt0g/firefox-profile-stuff](https://github.com/nt0g/firefox-profile-stuff): As advertised on TV !
 * [LRDN/firefox-proton-custom](https://github.com/LRDN/firefox-proton-custom): Firefox default theme customization that replaces the floating tabs with a more conventional, cleaner interface.
 * [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square): Makes Firefox Proton UI square again
@@ -899,6 +901,7 @@
 * [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 * [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension): Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [alfaaarex/GentleFox](https://github.com/alfaaarex/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
+* [vincens2005/GentleFox](https://github.com/vincens2005/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
 * [danielmiessler/GeoHarvest](https://github.com/danielmiessler/GeoHarvest): A simple script for translating IP addresses to GeoLocations
 * [danielmiessler/geoip](https://github.com/danielmiessler/geoip): A Ruby script that takes in IPs and returns Country, State, and City
 * [marchyman/GeoTag](https://github.com/marchyman/GeoTag): Image geo location editing for macOS Ventura (13) and later.  Instructions and a .dmg of the current version are on the application home page.
