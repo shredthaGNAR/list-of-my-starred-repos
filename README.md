@@ -294,6 +294,7 @@
 * [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert): Malware, advert and tracking blacklist
 * [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac): Spotify Ad blocker for MacOS
 * [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts): None
+* [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app): A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
 * [Filip-Sutkowy/blurclean-firefox-theme](https://github.com/Filip-Sutkowy/blurclean-firefox-theme): Clean, transparent firefox theme
 * [skylineone044/blurclean-firefox-theme](https://github.com/skylineone044/blurclean-firefox-theme): Clean, transparent firefox theme
 * [TheBi11iona1re/BlurFox-CSS-for-Mac](https://github.com/TheBi11iona1re/BlurFox-CSS-for-Mac): Update  to manilarome's Blur Fox for mac only
