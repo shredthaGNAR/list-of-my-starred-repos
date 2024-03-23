@@ -798,6 +798,7 @@
 * [ideaweb/firefox-safari-style](https://github.com/ideaweb/firefox-safari-style): A macOS compliant theme for Firefox
 * [panjilp-lab/firefox-safari-style](https://github.com/panjilp-lab/firefox-safari-style): put to default:profiles root dir
 * [tsanaung/firefox-safari-style](https://github.com/tsanaung/firefox-safari-style): None
+* [AlexVallat/firefox-scripts](https://github.com/AlexVallat/firefox-scripts): userChromeJS / autoconfig.js and extensions
 * [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts): Custom tweaks and preferences for Firefox
 * [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts): userChromeJS / autoconfig.js and extensions
 * [onozaty/firefox-shortcutkey2url](https://github.com/onozaty/firefox-shortcutkey2url): ShortcutKey2URL - Firefox Extension
