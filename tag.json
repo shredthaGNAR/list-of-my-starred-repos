@@ -461,9 +461,6 @@
     "Enan01/OneTabClear": [
         "Other"
     ],
-    "EnderDev/browser-chrome-experiment": [
-        "Other"
-    ],
     "Endor8/userChrome.js": [
         "Other"
     ],
@@ -4419,6 +4416,9 @@
         "Other"
     ],
     "khzg/ChatGPT": [
+        "Other"
+    ],
+    "kierandrewett/browser-chrome-experiment": [
         "Other"
     ],
     "kiliman/operator-mono-lig": [
