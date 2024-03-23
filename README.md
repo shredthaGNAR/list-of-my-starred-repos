@@ -584,6 +584,7 @@
 * [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn): Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
 * [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge): WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 * [jim60105/docker-youtube-dl](https://github.com/jim60105/docker-youtube-dl): Youtube錄影伺服器 (Docker Compose) https://blog.maki0419.com/2020/11/docker-youtube-dl-auto-recording-live-dl.html
+* [robilic/DockHand](https://github.com/robilic/DockHand): Window preview feature similar to 'Aero Peek' for the Mac OS dock
 * [DeromirNeves/DockSeparator](https://github.com/DeromirNeves/DockSeparator): macOS utility to add multiple separators to Dock
 * [doctorfree/DoctorFreeScripts](https://github.com/doctorfree/DoctorFreeScripts): Utility Bash shell scripts I've written - typically these will run on Unix, Linux, OS X, and Cygwin
 * [kstenschke/doShell](https://github.com/kstenschke/doShell): Headful automation on Linux and Mac OS
