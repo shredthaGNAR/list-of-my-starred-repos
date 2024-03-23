@@ -430,6 +430,7 @@
 * [matthewfallshaw/chrome-window-management-scripts](https://github.com/matthewfallshaw/chrome-window-management-scripts): Chrome window and tab management scripts
 * [priyankchheda/chrome_password_grabber](https://github.com/priyankchheda/chrome_password_grabber): Get unencrypted 'Saved Password' from Google Chrome
 * [jimmyxu/circle](https://github.com/jimmyxu/circle): Logi Circle video downloader
+* [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
 * [fajarjulyana/circular-nav-html-css-only](https://github.com/fajarjulyana/circular-nav-html-css-only): This is simple circular menu html CSS js
 * [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
 * [cli/cli](https://github.com/cli/cli): GitHub’s official command line tool
@@ -1024,6 +1025,7 @@
 * [jgressmann/harbour-vodman](https://github.com/jgressmann/harbour-vodman): Vodman lets you download videos (VODs) from the internet to your SailfishOS device
 * [claytonjn/hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting): Circadian Lighting custom component for Home Assistant
 * [yangqian/hass-gelight](https://github.com/yangqian/hass-gelight): Home assistant custom component to control C by GE smart light bulb locally via Bluetooth
+* [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle): Logi Circle Home Assistant component
 * [nikshriv/hassio-addons](https://github.com/nikshriv/hassio-addons): None
 * [FrenchGithubUser/Hatt](https://github.com/FrenchGithubUser/Hatt): DDL/Streaming meta search engine
 * [bilde2910/Hauk](https://github.com/bilde2910/Hauk): Open-source realtime location sharing
