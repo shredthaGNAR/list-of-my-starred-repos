@@ -1667,7 +1667,7 @@
 * [400yk/PokerBotMac](https://github.com/400yk/PokerBotMac): Mac version of pokerbot project by Dick Neutral
 * [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator): Poker-Hand-Evaluator: An efficient poker hand evaluation algorithm and its implementation, supporting 7-card poker and Omaha poker evaluation
 * [forestturner/PokerHandRangeCalc](https://github.com/forestturner/PokerHandRangeCalc): Poker Hand Range Calculator
-* [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit): [IEEE ToG] An open-source Python library for poker simulations and hand evaluations
+* [uoftcprg/pokerkit](https://github.com/uoftcprg/pokerkit): An open-source Python library for poker simulations and hand evaluations
 * [johnsoong216/PokerOddsCalc](https://github.com/johnsoong216/PokerOddsCalc): A simple tool to calculate poker hand odds (Omaha/Hold'em)
 * [EricSteinberger/PokerRL](https://github.com/EricSteinberger/PokerRL): Framework for Multi-Agent Deep Reinforcement Learning in Poker
 * [diditforlulz273/PokerRL-Omaha](https://github.com/diditforlulz273/PokerRL-Omaha): Omaha Poker functionality+some features for PokerRL Reinforcement Learning card framwork
