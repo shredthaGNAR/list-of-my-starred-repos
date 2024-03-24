@@ -1297,6 +1297,7 @@
 * [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager for macOS
 * [jonbeebe/MacDynamicWallpaper](https://github.com/jonbeebe/MacDynamicWallpaper): Mojave-style dynamic wallpapers for macOS.
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
+* [d0sse/macFox-theme](https://github.com/d0sse/macFox-theme): Safari like minimalistic theme
 * [maccman/macgap-rb](https://github.com/maccman/macgap-rb): Generator for MacGap
 * [darkbrow/macgap2_google_keep](https://github.com/darkbrow/macgap2_google_keep): None
 * [MacGesture/MacGesture](https://github.com/MacGesture/MacGesture): Global mouse gestures for macOS
