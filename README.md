@@ -170,6 +170,7 @@
 * [phguo/AskGPT](https://github.com/phguo/AskGPT): AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
 * [withastro/astro](https://github.com/withastro/astro): The web framework for content-driven websites. ⭐️ Star to support our work!
 * [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate): 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode
+* [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme): CV theme for Astro 🚀
 * [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio): This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the developer's skills, projects, and contact information. The website is responsive, accessible, and SEO-friendly.
 * [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
