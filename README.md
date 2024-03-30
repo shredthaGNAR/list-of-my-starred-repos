@@ -411,10 +411,8 @@
 * [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT): OpenAI API Free Reverse Proxy
 * [khzg/ChatGPT](https://github.com/khzg/ChatGPT): Ai Chat everywhere (firefox addons)
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-* [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 * [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps): 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 * [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue): ⏩ Automatically continue generating multiple ChatGPT responses
-* [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension): This project is deprecated. Check my new project ChatHub:
 * [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 * [swyxio/chatgpt-mac](https://github.com/swyxio/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 * [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
@@ -543,6 +541,7 @@
 * [shredthaGNAR/dawn](https://github.com/shredthaGNAR/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 * [pedritobata/dawn-clone-shopify](https://github.com/pedritobata/dawn-clone-shopify): None
 * [dougpark/dayone](https://github.com/dougpark/dayone): Better Touch Tool create a DayOne journal entry
+* [igorlogius/dbl-click-dict](https://github.com/igorlogius/dbl-click-dict): Double-click any word to view its definition in a pop-up bubble Fork of the "Dictionary Anywhere" addon initally made to make it usable for android but now adds a couple of more features/improvements
 * [zoonderkins/dbl-oisd-nl](https://github.com/zoonderkins/dbl-oisd-nl): abp.oisd.nl | Internet's #1 domain blocklist (Mirror)
 * [enokmadrid/deafink](https://github.com/enokmadrid/deafink): Custom Shopify Theme for Deafink
 * [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui): Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -1505,6 +1504,7 @@
 * [alyssaxuu/omni](https://github.com/alyssaxuu/omni): The all-in-one tool to supercharge your productivity ⌨️
 * [InQuest/omnibus](https://github.com/InQuest/omnibus): The OSINT Omnibus (beta release)
 * [omnixent/omnixent](https://github.com/omnixent/omnixent): 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
+* [songquanpeng/one-api](https://github.com/songquanpeng/one-api): OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
 * [iansinnott/one-dark-tab](https://github.com/iansinnott/one-dark-tab): Like OneTab, but darker.
 * [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools): A theme for Firefox Devtools
 * [simurai/one-vibrancy](https://github.com/simurai/one-vibrancy): Vibrancy effect for Atom One themes
@@ -1614,6 +1614,7 @@
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 * [gocom/pinceau](https://github.com/gocom/pinceau): Personal Firefox userChrome and preference customizations
 * [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic): Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
+* [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo): 🧩 The Browser Extension Framework
 * [aaronhff8/plastic-joplin-theme](https://github.com/aaronhff8/plastic-joplin-theme): Theme for Joplin that utilises the standard dark theme and essentially a restyling of Ohmine-Dark-Theme-For-Joplin. 
 * [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus): Create native Mac applications from command line scripts.
 * [benr0th/PlaylistSearch](https://github.com/benr0th/PlaylistSearch): Search your Youtube™ playlists
