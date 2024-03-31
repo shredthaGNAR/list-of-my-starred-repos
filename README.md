@@ -130,7 +130,6 @@
 * [tlouth19/analyze.golf](https://github.com/tlouth19/analyze.golf): Browser based golf swing analyzer built with React, Redux, Tailwind and Konva.js. ⛳️🔥
 * [phosphor-icons/android](https://github.com/phosphor-icons/android): An elegant and sophisticated line icon pack to declutter your home screen.
 * [kevalpatel2106/android-ringtone-picker](https://github.com/kevalpatel2106/android-ringtone-picker): Simple Ringtone Picker dialog which allows you to pick different sounds from ringtone, alarm tone, notification tone and music from external storage.
-* [mrfaptastic/Android-WebCam](https://github.com/mrfaptastic/Android-WebCam): Reuse an old crap Android phone for a basic streaming webcam, or periodic photo capture and upload to an external webserver. Best for devices on really old Android versions: 4.0.4 etc.
 * [mortenjust/androidtool-mac](https://github.com/mortenjust/androidtool-mac): One-click screenshots, video recordings, app installation for iOS and Android
 * [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod): A podcast manager for Android
 * [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player): Simple, easy to use Podcast player app written in Flutter and Dart.
