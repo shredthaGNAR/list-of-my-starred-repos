@@ -242,6 +242,7 @@
 * [vintagesucks/awesome-stars](https://github.com/vintagesucks/awesome-stars): :star: A curated list of my GitHub stars
 * [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts): 📖  A curated list of Awesome Userscripts.
 * [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez): All your base are belong to us!
+* [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez): All your base are belong to us!
 * [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design): 🎨 A curated list of awesome resources for digital designers.
 * [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions): A curated list of awesome resources for WebExtensions development.
 * [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress): A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. 
@@ -286,6 +287,7 @@
 * [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
 * [StarPlayrX/bigmac](https://github.com/StarPlayrX/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
+* [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches): BiliRoamingX patches powered by revanced.
 * [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources): My starter pack for people new to the bewildering world of bitcoin.
 * [ajmalshahabudeen/Bitwarden-Duplicate-remover](https://github.com/ajmalshahabudeen/Bitwarden-Duplicate-remover): When Importing multiple CSV files Bitwarden creates Duplicate Entries. So this Python script will remove duplicate entries and keep ONE.
 * [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar): Bitwarden in the macOS menu bar
@@ -1813,6 +1815,7 @@
 * [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator): Create Revanced apps easily ☠️
 * [ReVanced/revanced-documentation](https://github.com/ReVanced/revanced-documentation): 🗄 Collection of all ReVanced documentation
 * [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation): 🗄 Documentation and guides for ReVanced Extended
+* [AbakNacchan/revanced-extended](https://github.com/AbakNacchan/revanced-extended): ReVanced eXtended: Enhanced Modules and APKs for YouTube and YouTube Music.
 * [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended): ReVanced eXtended YT and YT-M for both root and non-root users.
 * [ReVanced/revanced-integrations](https://github.com/ReVanced/revanced-integrations): 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
 * [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module): Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
@@ -1824,6 +1827,7 @@
 * [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template): 👋🧩ReVanced Patches template
 * [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended): ReVanced Extended Issues/Request repo
 * [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A tool to automatically build latest releases of ReVanced apps
+* [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT): None
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
 * [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X): Revancify X manager
 * [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches): 🧩 Patches for ReVanced
@@ -1837,6 +1841,7 @@
 * [moisseev/rspamd-spamness](https://github.com/moisseev/rspamd-spamness): Thunderbird add-on for visualizing rspamd spam scores.
 * [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension): 🦀 The ultimate search extension for Rust
 * [rvm/rvm](https://github.com/rvm/rvm): Ruby enVironment Manager (RVM)
+* [kazimmt/RVX-Features](https://github.com/kazimmt/RVX-Features): Organized YouTube ReVanced & ReVanced Extended functionalities along with visual illustrations.
 * [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox): Sidebar Always Loaded for Firefox
 * [thunderbird/sample-extensions](https://github.com/thunderbird/sample-extensions): Example extensions for Thunderbird WebExtensions APIs
 * [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820): Unified kernel tree for S10 and Note10 devices
