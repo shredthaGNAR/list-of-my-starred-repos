@@ -257,6 +257,7 @@
 * [sabaatworld/batch-media-compressor](https://github.com/sabaatworld/batch-media-compressor): Compress your entire photo & video library and take it with you everywhere.
 * [beardedspice/beardedspice](https://github.com/beardedspice/beardedspice): Mac Media Keys for the Masses
 * [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
+* [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox): None
 * [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay): One button to close any overlay on any website
 * [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit): Sports betting arbitrage algorithm
 * [dashee87/betScrapeR](https://github.com/dashee87/betScrapeR): R package to scrape live sports betting odds
