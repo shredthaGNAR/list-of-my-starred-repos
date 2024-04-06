@@ -973,7 +973,7 @@
 * [timche/gmail-desktop](https://github.com/timche/gmail-desktop): :postbox: Nifty Gmail desktop app for macOS, Linux & Windows
 * [skarif2/gmail-signature](https://github.com/skarif2/gmail-signature): :rabbit: Most elegant looking Gmail Signature in the world :metal:
 * [tumpio/gmscripts](https://github.com/tumpio/gmscripts): tumpio's usercripts
-* [L11R/go-autoconfig](https://github.com/L11R/go-autoconfig): IMAP/SMTP autodiscover feature for Thunderbird, Apple Mail and Microsoft Outlook
+* [savely-krasovsky/go-autoconfig](https://github.com/savely-krasovsky/go-autoconfig): IMAP/SMTP autodiscover feature for Thunderbird, Apple Mail and Microsoft Outlook
 * [Phantas0s/gocket](https://github.com/Phantas0s/gocket): 💼 CLI / TUI for Pocket 
 * [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo): config karabiner with ease
 * [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT): The complete Touch Bar UI replacement for BetterTouchTool

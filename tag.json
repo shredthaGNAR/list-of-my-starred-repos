@@ -863,9 +863,6 @@
     "Kungfoowiz/cssSuggestionsVSCode": [
         "Other"
     ],
-    "L11R/go-autoconfig": [
-        "Other"
-    ],
     "LANDrop/LANDrop": [
         "Other"
     ],
@@ -6171,6 +6168,9 @@
         "Other"
     ],
     "saturneric/GpgFrontend": [
+        "Other"
+    ],
+    "savely-krasovsky/go-autoconfig": [
         "Other"
     ],
     "sballin/alfred-search-notes-app": [
