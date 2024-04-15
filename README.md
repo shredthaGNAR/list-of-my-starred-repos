@@ -2003,7 +2003,7 @@
 * [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups): Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 * [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 * [Automattic/simplenote-macos](https://github.com/Automattic/simplenote-macos): Simplenote for macOS
-* [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli): CLI tool for saving a faithful copy of a complete web page in a single HTML file
+* [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli): CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)
 * [gildas-lormeau/single-file-companion](https://github.com/gildas-lormeau/single-file-companion): None
 * [gildas-lormeau/single-file-companion-lite](https://github.com/gildas-lormeau/single-file-companion-lite): SingleFile Companion Lite
 * [gildas-lormeau/single-file-core](https://github.com/gildas-lormeau/single-file-core): None
