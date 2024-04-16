@@ -1252,7 +1252,7 @@
 * [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit): Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 * [poochinski9/libgen-calibre-store-plugin](https://github.com/poochinski9/libgen-calibre-store-plugin): Calibre plugin for Library Genesis
 * [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2): The libgphoto2 camera access and control library.
-* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 * [libreddit/libreddit](https://github.com/libreddit/libreddit): Private front-end for Reddit
 * [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube): An alternative frontend for YouTube, for Android.
 * [hnhx/librex](https://github.com/hnhx/librex): Framework and javascript free privacy respecting meta search engine
