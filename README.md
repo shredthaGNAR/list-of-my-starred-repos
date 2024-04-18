@@ -288,7 +288,7 @@
 * [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
 * [StarPlayrX/bigmac](https://github.com/StarPlayrX/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
-* [BiliRoamingX/BiliRoamingX-patches](https://github.com/BiliRoamingX/BiliRoamingX-patches): BiliRoamingX patches powered by revanced.
+* [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches): BiliRoamingX patches powered by revanced.
 * [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources): My starter pack for people new to the bewildering world of bitcoin.
 * [ajmalshahabudeen/Bitwarden-Duplicate-remover](https://github.com/ajmalshahabudeen/Bitwarden-Duplicate-remover): When Importing multiple CSV files Bitwarden creates Duplicate Entries. So this Python script will remove duplicate entries and keep ONE.
 * [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar): Bitwarden in the macOS menu bar
