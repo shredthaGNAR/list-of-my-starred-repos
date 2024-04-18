@@ -1413,6 +1413,7 @@
 * [keith/ModMove](https://github.com/keith/ModMove): Move/Resize windows using modifiers and the mouse
 * [basharovV/Modos-BTT](https://github.com/basharovV/Modos-BTT): Modos is a BetterTouchTool preset for managing workspaces + windows. 
 * [monero-project/monero](https://github.com/monero-project/monero): Monero: the secure, private, untraceable cryptocurrency
+* [monero-project/monero-gui](https://github.com/monero-project/monero-gui): Monero: the secure, private, untraceable cryptocurrency
 * [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl): 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 * [witalihirsch/Mono-firefox-theme](https://github.com/witalihirsch/Mono-firefox-theme): Mono Firefox Theme for Linux
 * [thesephist/monocle](https://github.com/thesephist/monocle): Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
