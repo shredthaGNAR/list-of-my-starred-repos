@@ -42,6 +42,7 @@
 * [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast): Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 * [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine): Add a custom search engine to the list of available search engines in Firefox
 * [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title): A Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
+* [ClearURLs/Addon](https://github.com/ClearURLs/Addon): ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 * [mozilla/addons-linter](https://github.com/mozilla/addons-linter): 🔍 Firefox Add-ons linter, written in JavaScript. 👁
 * [himanshukumar660/Address-Validation](https://github.com/himanshukumar660/Address-Validation): This is a website where user can perform Address Verification.
 * [mkoryak/address-validator](https://github.com/mkoryak/address-validator): nodejs address validator via google api
@@ -1833,7 +1834,7 @@
 * [inotia00/revanced-patches](https://github.com/inotia00/revanced-patches): 🧩 Patches for ReVanced
 * [ReVanced/revanced-patches-template](https://github.com/ReVanced/revanced-patches-template): 👋🧩ReVanced Patches template
 * [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended): ReVanced Extended Issues/Request repo
-* [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A tool to automatically build latest releases of ReVanced apps
+* [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A script to automatically build latest releases of ReVanced apps
 * [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT): None
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
 * [kastentop2005/Revancify-X](https://github.com/kastentop2005/Revancify-X): Revancify X manager
