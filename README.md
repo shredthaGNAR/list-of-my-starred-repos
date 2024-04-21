@@ -1593,7 +1593,7 @@
 * [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer): 📋 Inspect the system pasteboards on macOS
 * [yozdas/PdfCombiner](https://github.com/yozdas/PdfCombiner): This is Automator app built in Mac
 * [benwiggy/PDFsuite](https://github.com/benwiggy/PDFsuite): Python scripts, Automator Services and Quartz Filters for MacOS (OS X) that create, manipulate, and query PDF files
-* [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner): Open-source mac app cleaner
+* [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner): A free, source-available and fair-code licensed mac app cleaner
 * [getpelican/pelican](https://github.com/getpelican/pelican): Static site generator that supports Markdown and reST syntax. Powered by Python.
 * [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc): Trackpad-oriented window manager for macOS
 * [shash007/People-Search-on-Social-Networks-using-Face-Recognition](https://github.com/shash007/People-Search-on-Social-Networks-using-Face-Recognition): Searching people on social networking sites using Face Recognition
