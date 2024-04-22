@@ -412,6 +412,7 @@
 * [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty): Adapted "Beautiful" Themes
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
 * [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail): A browser extension to complete your email with the help of ChatGPT
+* [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama): Chatbot Ollama is an open source chat UI for Ollama.
 * [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 * [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT): OpenAI API Free Reverse Proxy
 * [khzg/ChatGPT](https://github.com/khzg/ChatGPT): Ai Chat everywhere (firefox addons)
@@ -459,6 +460,7 @@
 * [PHLAK/CloudDrop](https://github.com/PHLAK/CloudDrop): Store and retrieve files in cloud storage providers (i.e. Dropbox, Google Drive, Microsoft OneDrive, Amazon Cloud Drive, etc.)
 * [Micky1979/Clover-Configurator-Pro](https://github.com/Micky1979/Clover-Configurator-Pro): A free Plist Editor with some optional facilities for Clover UEFI boot loader
 * [johncoryk/coastal-shopify-theme](https://github.com/johncoryk/coastal-shopify-theme): Shopify theme for Low Coast Coffee
+* [davila7/code-gpt-docs](https://github.com/davila7/code-gpt-docs): Docusaurus page
 * [lauthieb/code-notes](https://github.com/lauthieb/code-notes): (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 * [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks, Snippets and Notes Manager for Developers & Co (website)
@@ -916,6 +918,7 @@
 * [ShanukJ/gDrive-Multiple-File-Upload](https://github.com/ShanukJ/gDrive-Multiple-File-Upload): This is a simple script to upload Multiple files into google drive using google drive API and Nodejs.
 * [rebhu-open-source-foundation/gecko-b2g](https://github.com/rebhu-open-source-foundation/gecko-b2g): This is a mirror of https://gitlab.com/rebhu/rosf/thenexus-codes/gecko-b2g
 * [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+* [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim): Neovim plugin to generate text using LLMs with customizable prompts
 * [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension): Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [alfaaarex/GentleFox](https://github.com/alfaaarex/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
 * [vincens2005/GentleFox](https://github.com/vincens2005/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
@@ -1250,6 +1253,7 @@
 * [Jeidoban/Launchpad-Customizer](https://github.com/Jeidoban/Launchpad-Customizer): A small macOS app that lets you customize the number of rows and columns in launchpad
 * [Molay/LaunchPadder](https://github.com/Molay/LaunchPadder): LaunchPadder is a free macOS LaunchPad tool that organizes and sorts apps and folders on LaunchPad according to certain rules.
 * [ray-lothian/Layout-Resizer](https://github.com/ray-lothian/Layout-Resizer): A simple powerful extension to adjust layout size of the current browser window
+* [folke/lazy.nvim](https://github.com/folke/lazy.nvim): 💤 A modern plugin manager for Neovim
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 * [gildas-lormeau/LazyLoadify](https://github.com/gildas-lormeau/LazyLoadify): Web Extension to force the lazy loading of non-displayed resources (i.e. image, frame, video and audio contents)
 * [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton): 💻     Democratizing Snippet Management (macOS/Win/Linux)
@@ -1493,6 +1497,7 @@
 * [notable/notable-insiders](https://github.com/notable/notable-insiders): A repository containing experimental releases of Notable.
 * [nuttyartist/notes](https://github.com/nuttyartist/notes): Fast and beautiful note-taking app written in C++. Write down your thoughts.
 * [adamyi/notes_to_keep](https://github.com/adamyi/notes_to_keep): Export all your Apple iCloud Notes to your Google Keep.
+* [andersrex/notesollama](https://github.com/andersrex/notesollama): Use Ollama to talk to local LLMs in Apple Notes
 * [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator): Trigger macOS notifications from Alfred, using the Workflow icon
 * [MDP43140/NoTrash-PureClean-YT](https://github.com/MDP43140/NoTrash-PureClean-YT): Makes YouTube Less trashy by removing distracting features, and trash videos
 * [npmhub/npmhub](https://github.com/npmhub/npmhub): 🔎 A browser extension to explore npm dependencies on GitHub repos
@@ -1503,6 +1508,7 @@
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 * [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify): Nx plugin for developing performance-first Shopify themes 🚀
 * [dawiidio/o-menu](https://github.com/dawiidio/o-menu): Simple circular svg menu 
+* [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal): Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 * [njnmco/odinochka](https://github.com/njnmco/odinochka): featherweight tab manager
 * [snte/odinochka](https://github.com/snte/odinochka): featherweight tab manager
 * [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh): The most customisable and low-latency cross platform/shell prompt renderer
@@ -1584,6 +1590,7 @@
 * [bgebhardt/osx_scripts_folder](https://github.com/bgebhardt/osx_scripts_folder): My repository of miscellaneous AppleScripts I've written for OS X
 * [sveinbjornt/osxiconutils](https://github.com/sveinbjornt/osxiconutils): A suite of command line utilities for working with Mac icons
 * [vasi/osxutils](https://github.com/vasi/osxutils): Mac-specific command line utilities (UPDATES)
+* [ggozad/oterm](https://github.com/ggozad/oterm): a text-based terminal client for Ollama
 * [CptFoobar/Owl](https://github.com/CptFoobar/Owl): A Mozilla Firefox add-on to make online reading comfortable.
 * [seemoo-lab/owl](https://github.com/seemoo-lab/owl): An open Apple Wireless Direct Link (AWDL) implementation written in C
 * [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer): PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give to the aplication a few pictures of the person of interest

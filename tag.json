@@ -401,6 +401,9 @@
     "DarrinTisdale/zsh-aliases-exa": [
         "Other"
     ],
+    "David-Kunz/gen.nvim": [
+        "Other"
+    ],
     "DebianArch64/DebProvision": [
         "Other"
     ],
@@ -2147,6 +2150,9 @@
     "anddea/revanced-patches": [
         "Other"
     ],
+    "andersrex/notesollama": [
+        "Other"
+    ],
     "andrejilderda/joplin-macos-native-theme": [
         "Other"
     ],
@@ -2930,6 +2936,9 @@
     "davidmytton/dotfiles": [
         "Other"
     ],
+    "davila7/code-gpt-docs": [
+        "Other"
+    ],
     "dawiidio/o-menu": [
         "Other"
     ],
@@ -3147,6 +3156,9 @@
         "Other"
     ],
     "dupontjoy/userChrome.js-Collections-": [
+        "Other"
+    ],
+    "dustinblackman/oatmeal": [
         "Other"
     ],
     "dustindmiller/QLab-Touchbar": [
@@ -3449,6 +3461,9 @@
     "folivoraAI/BetterTouchToolPlugins": [
         "Other"
     ],
+    "folke/lazy.nvim": [
+        "Other"
+    ],
     "fontsource/fontsource": [
         "Other"
     ],
@@ -3588,6 +3603,9 @@
         "Other"
     ],
     "gglukmann/use-google-sheets": [
+        "Other"
+    ],
+    "ggozad/oterm": [
         "Other"
     ],
     "gharlan/alfred-github-workflow": [
@@ -4062,6 +4080,9 @@
         "Other"
     ],
     "iv-org/invidious": [
+        "Other"
+    ],
+    "ivanfioravanti/chatbot-ollama": [
         "Other"
     ],
     "ixartz/Astro-boilerplate": [
