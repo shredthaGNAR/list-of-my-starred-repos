@@ -3965,6 +3965,9 @@
     "igorlogius/bookmark-tabs": [
         "Other"
     ],
+    "igorlogius/copy-tabs": [
+        "Other"
+    ],
     "igorlogius/dbl-click-dict": [
         "Other"
     ],
@@ -4881,6 +4884,9 @@
         "Other"
     ],
     "material-components/material-components-web": [
+        "Other"
+    ],
+    "material-theme/vsc-material-theme": [
         "Other"
     ],
     "mathiasbynens/dotfiles": [
@@ -6648,6 +6654,9 @@
         "Other"
     ],
     "stuyam/laravel-phone-validator": [
+        "Other"
+    ],
+    "stysebae/joplin-vsc-material-theme": [
         "Other"
     ],
     "subins2000/WebDrop": [
