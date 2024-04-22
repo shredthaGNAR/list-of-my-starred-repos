@@ -881,7 +881,6 @@
 * [jeromelachaud/freelancer-theme](https://github.com/jeromelachaud/freelancer-theme): Jekyll theme based on Freelancer Start Bootstrap theme
 * [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube): An Open Source YouTube app for privacy
 * [Mandrenkov/FreshView](https://github.com/Mandrenkov/FreshView): Browser extension that hides watched YouTube™ videos.
-* [Mandrenkov/FreshView](https://github.com/Mandrenkov/FreshView): Browser extension that hides watched YouTube™ videos.
 * [tortious/FrozenFox](https://github.com/tortious/FrozenFox): A personal hodgepodge of css and js hacks to firefox that I personally enjoy. Strong emphasis on a blend of minimalism and functionality.
 * [bogachenko/fuckfuckadblock](https://github.com/bogachenko/fuckfuckadblock): Filters for blocking mining, pop-ups and anti-adblock bypass.
 * [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX): A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
@@ -1872,6 +1871,7 @@
 * [nbeaver/save-tabs-as-html](https://github.com/nbeaver/save-tabs-as-html): Webextension to save the title and URLs of open tabs as an HTML file.
 * [Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc](https://github.com/Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc): Browser addon for FireFox & Chrome to save active tabs as Markdown
 * [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine): Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
+* [igorlogius/save-website-as-image](https://github.com/igorlogius/save-website-as-image): Simple addon, to save the full website of one or more tab as a png image either via a click on the toolbar icon or via a custom shotcut
 * [117649/SavedPasswordEditorRedux](https://github.com/117649/SavedPasswordEditorRedux): Not Gecko, application to allow creating and editing saved passwords 
 * [mdreier/savetabs](https://github.com/mdreier/savetabs): Save current tabs extension for Firefox
 * [pvpscript/savetabs](https://github.com/pvpscript/savetabs): A web browser extension that allows the user to save every tab's url to a file
@@ -2002,6 +2002,7 @@
 * [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow): Run installed macOS shortcuts
 * [crittermike/shortkeys](https://github.com/crittermike/shortkeys): A browser extension for custom keyboard shortcuts 
 * [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
+* [igorlogius/show-qrcode](https://github.com/igorlogius/show-qrcode): Displays the active url (or any selected link or text) as a qrcode for easy sharing between devices with a qrcode scanner like mobile/smart phones and tablets. Also allows saving and copying to the clipboard pasting in other programms.
 * [shredthaGNAR/shredthagnar.github.io](https://github.com/shredthaGNAR/shredthagnar.github.io): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch): Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff115) 🪟
 * [SideStore/SideStore](https://github.com/SideStore/SideStore): SideStore is a fork of AltStore that doesn't require an AltServer.
@@ -2308,6 +2309,7 @@
 * [LAX18/Unichat-Firefox-Extension](https://github.com/LAX18/Unichat-Firefox-Extension): The repo for the firefox port of the Unichat Chrome Extension
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
 * [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender): A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
+* [igorlogius/unlisted](https://github.com/igorlogius/unlisted): Addons not listed on AMO
 * [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension): Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 * [aahung/Unshaky](https://github.com/aahung/Unshaky): A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
 * [UnstoppableSwap/unstoppableswap-gui](https://github.com/UnstoppableSwap/unstoppableswap-gui): XMR<>BTC Atomic Swaps GUI
