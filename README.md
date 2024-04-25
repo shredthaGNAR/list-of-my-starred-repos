@@ -822,6 +822,7 @@
 * [chronakis/firefox-sticky-window-containers](https://github.com/chronakis/firefox-sticky-window-containers): Firefox extention to make the current container "sticky" when opening a new tab
 * [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff): Firefox info, addons, extensions, themes, customisation and stuff
 * [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme): :candy: A dark and modern theme for firefox with vibrant colors
+* [UserNombre/firefox-tag-search](https://github.com/UserNombre/firefox-tag-search): Add a bookmark tag search sidebar to Firefox
 * [BloodyHell619/Firefox-Theme-DarkMatter](https://github.com/BloodyHell619/Firefox-Theme-DarkMatter): None
 * [dazecoop/firefox-theme-macos-vibrant](https://github.com/dazecoop/firefox-theme-macos-vibrant): None
 * [LDK-iii/firefox-transparent-theme-mac](https://github.com/LDK-iii/firefox-transparent-theme-mac): One-line theme
