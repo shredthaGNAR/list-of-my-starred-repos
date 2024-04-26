@@ -1986,7 +1986,6 @@
 * [wlcr/shopify-product-previews](https://github.com/wlcr/shopify-product-previews): Shopify Product Previews that work with Theme Previews
 * [bravetheskies/shopify-rapid-deploy-action](https://github.com/bravetheskies/shopify-rapid-deploy-action): A GitHub action for rapid deployment of Shopify themes.
 * [uicrooks/shopify-settings-control](https://github.com/uicrooks/shopify-settings-control): Automatic Git version control for Shopify settings_data.json via CI/CD
-* [uicrooks/shopify-settings-control](https://github.com/uicrooks/shopify-settings-control): Automatic Git version control for Shopify settings_data.json via CI/CD
 * [megasnippets/shopify-snippets](https://github.com/megasnippets/shopify-snippets): None
 * [patrickbolle/shopify-snippets](https://github.com/patrickbolle/shopify-snippets): Random code snippets for Shopify. Sections, snippets, templates.
 * [pgrimaud/shopify-snippets](https://github.com/pgrimaud/shopify-snippets): Useful .liquid snippets for Shopify themes
@@ -2103,6 +2102,7 @@
 * [SoslyLW/SportsOdds](https://github.com/SoslyLW/SportsOdds): A Pythagorean win expectation-based Monte Carlo simulator to determine the odds of NHL teams making the playoffs.
 * [w0lfschild/spotifyPlus](https://github.com/w0lfschild/spotifyPlus): 🎵 MacForge plugin to enhance the Spotify Desktop player on macOS
 * [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX): SpotX patcher used for patching the desktop version of Spotify
+* [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash): SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 * [ziacto/spynet-camera](https://github.com/ziacto/spynet-camera): Allows to use your mobile device as an IP camera
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh): Make images smaller using best-in-class codecs, right in the browser.
 * [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
