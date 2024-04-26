@@ -1986,6 +1986,7 @@
 * [wlcr/shopify-product-previews](https://github.com/wlcr/shopify-product-previews): Shopify Product Previews that work with Theme Previews
 * [bravetheskies/shopify-rapid-deploy-action](https://github.com/bravetheskies/shopify-rapid-deploy-action): A GitHub action for rapid deployment of Shopify themes.
 * [uicrooks/shopify-settings-control](https://github.com/uicrooks/shopify-settings-control): Automatic Git version control for Shopify settings_data.json via CI/CD
+* [uicrooks/shopify-settings-control](https://github.com/uicrooks/shopify-settings-control): Automatic Git version control for Shopify settings_data.json via CI/CD
 * [megasnippets/shopify-snippets](https://github.com/megasnippets/shopify-snippets): None
 * [patrickbolle/shopify-snippets](https://github.com/patrickbolle/shopify-snippets): Random code snippets for Shopify. Sections, snippets, templates.
 * [pgrimaud/shopify-snippets](https://github.com/pgrimaud/shopify-snippets): Useful .liquid snippets for Shopify themes
