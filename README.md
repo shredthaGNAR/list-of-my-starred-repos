@@ -1213,7 +1213,7 @@
 * [ZachSaucier/Just-Read](https://github.com/ZachSaucier/Just-Read): A customizable read mode web extension.
 * [EragonJ/Kaku](https://github.com/EragonJ/Kaku): 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
 * [wulkano/Kap](https://github.com/wulkano/Kap): An open-source screen recorder built with web technology
-* [tekezo/Karabiner](https://github.com/tekezo/Karabiner): Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
+* [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived): Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 * [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator): Simple web app to help generate Karabiner Elements Complex Rules
 * [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements): Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 * [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode): Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
