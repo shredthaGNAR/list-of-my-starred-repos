@@ -366,7 +366,7 @@
 * [dynle/btt-simple-airpods-battery-widget](https://github.com/dynle/btt-simple-airpods-battery-widget): Simple AirPods battery btt widget for macOS Ventura
 * [vas3k/btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets): BetterTouchTool Touch Bar Presets
 * [Zidious/BTT-TouchBarScript](https://github.com/Zidious/BTT-TouchBarScript): BetterTouchTool(BTT) Cryptocurrency Python Scripts Powered by CoinGecko API
-* [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset): BetterTouchTool Window Manager Preset
+* [elv1n/btt-window-manager-preset](https://github.com/elv1n/btt-window-manager-preset): Simple and powerful BetterTouchTool Window Manager Preset
 * [noonchen/BTT_AppleWirelessHeadphone](https://github.com/noonchen/BTT_AppleWirelessHeadphone): Toggle and display battery info of apple wireless headphones on the touch bar
 * [noonchen/BTT_NightShiftSlider](https://github.com/noonchen/BTT_NightShiftSlider): A BetterTouchTool widget to control Night Shift strength
 * [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css): Awesome buttons for awesome projects!
