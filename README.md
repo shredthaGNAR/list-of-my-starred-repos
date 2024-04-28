@@ -1617,6 +1617,7 @@
 * [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis): Persepolis Download Manager is a GUI for aria2.
 * [github/personal-website](https://github.com/github/personal-website): Code that'll help you kickstart a personal website that showcases your work as a software developer.
 * [nimit95/Personal-Website](https://github.com/nimit95/Personal-Website): My Personal Website in React, Material UI, React Spring. Contents can be modified via single JSON.
+* [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website): It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 * [thlorenz/phe](https://github.com/thlorenz/phe): Poker hand evaluator
 * [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 * [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript
@@ -2035,6 +2036,7 @@
 * [gildas-lormeau/single-file-companion-lite](https://github.com/gildas-lormeau/single-file-companion-lite): SingleFile Companion Lite
 * [gildas-lormeau/single-file-core](https://github.com/gildas-lormeau/single-file-core): None
 * [gildas-lormeau/single-filez-core](https://github.com/gildas-lormeau/single-filez-core): None
+* [odeyemitobi/Single-page-personal-website](https://github.com/odeyemitobi/Single-page-personal-website): None
 * [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile): Web Extension for saving a faithful copy of a complete web page in a single HTML file
 * [gildas-lormeau/SingleFile-Archives](https://github.com/gildas-lormeau/SingleFile-Archives): Pages saved with SingleFile
 * [screenbreak/SingleFile-dockerized](https://github.com/screenbreak/SingleFile-dockerized): SingleFile docker implementation providing access via CLI and WEB service
