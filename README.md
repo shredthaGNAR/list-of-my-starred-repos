@@ -1158,6 +1158,7 @@
 * [jekyll/jekyll](https://github.com/jekyll/jekyll): :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 * [sighingnow/jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook): Build Jekyll site with GitBook style!
 * [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy): A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+* [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer): A Jekyll theme for serial programmers (-.-)
 * [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono): JetBrains Mono – the free and open-source typeface for developers
 * [JitouchApp/Jitouch](https://github.com/JitouchApp/Jitouch): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 * [sukolsak/jitouch](https://github.com/sukolsak/jitouch): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
