@@ -358,6 +358,7 @@
 * [Worie/btt](https://github.com/Worie/btt): Low level MacOS management in JavaScript via BetterTouchTool
 * [wonjoonSeol/BTT-Aqua-modification](https://github.com/wonjoonSeol/BTT-Aqua-modification): Better Touch Tool AquaTouch Preset Modification
 * [andrewchidden/btt-controllers](https://github.com/andrewchidden/btt-controllers): Small controller scripts and utilities designed to work with BetterTouchTool.
+* [leegeunhyeok/btt-ghp](https://github.com/leegeunhyeok/btt-ghp): ✨ My BTT(Better Touch Tool) preset.
 * [jlehrer1/BTT-Practical](https://github.com/jlehrer1/BTT-Practical): A BetterTouchTool preset focused on a clean, minimalistic design for those interested in hardware stats and essential developer tools. 
 * [PINPAL/btt-preset](https://github.com/PINPAL/btt-preset): BetterTouchTool Preset
 * [andrewchidden/btt-presets](https://github.com/andrewchidden/btt-presets): A robust BetterTouchTool preset for developer power users.
