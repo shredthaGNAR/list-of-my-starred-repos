@@ -207,7 +207,7 @@
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows): A curated list of awesome alfred workflows
-* [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics): A curated list of analytics frameworks, software and other tools.
+* [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics): A curated list of analytics frameworks, software and other tools.
 * [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro): Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 * [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
 * [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt): A curated list of awesome ChatGPT related projects.

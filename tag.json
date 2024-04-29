@@ -5381,9 +5381,6 @@
     "networkException/thundersort": [
         "Other"
     ],
-    "newTendermint/awesome-analytics": [
-        "Other"
-    ],
     "newville/pyshortcuts": [
         "Other"
     ],
@@ -5634,6 +5631,9 @@
         "Other"
     ],
     "oxen-io/session-desktop": [
+        "Other"
+    ],
+    "oxnr/awesome-analytics": [
         "Other"
     ],
     "p0deje/Maccy": [
