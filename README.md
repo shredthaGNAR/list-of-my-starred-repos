@@ -261,6 +261,7 @@
 * [beardedspice/beardedspice](https://github.com/beardedspice/beardedspice): Mac Media Keys for the Masses
 * [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox): Beautiful design for firefox new tab
+* [shredthaGNAR/beautiiful-jekyl](https://github.com/shredthaGNAR/beautiiful-jekyl): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay): One button to close any overlay on any website
 * [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit): Sports betting arbitrage algorithm
 * [dashee87/betScrapeR](https://github.com/dashee87/betScrapeR): R package to scrape live sports betting odds
@@ -2024,7 +2025,6 @@
 * [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
 * [igorlogius/show-qrcode](https://github.com/igorlogius/show-qrcode): Displays the active url (or any selected link or text) as a qrcode for easy sharing between devices with a qrcode scanner like mobile/smart phones and tablets. Also allows saving and copying to the clipboard pasting in other programms.
 * [apvarun/showfolio-hugo-theme](https://github.com/apvarun/showfolio-hugo-theme): Modern portfolio theme for your Hugo site
-* [shredthaGNAR/shredthagnar.github.io](https://github.com/shredthaGNAR/shredthagnar.github.io): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch): Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff115) 🪟
 * [SideStore/SideStore](https://github.com/SideStore/SideStore): SideStore is a fork of AltStore that doesn't require an AltServer.
 * [thsmi/sieve](https://github.com/thsmi/sieve): Sieve Script Editor
