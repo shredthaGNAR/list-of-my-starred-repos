@@ -339,7 +339,6 @@
 * [mabdelaal86/bookmarks_gkeep](https://github.com/mabdelaal86/bookmarks_gkeep): Copy bookmarks from Google Keep into Pocket/Instapaper
 * [Maxvien/bootstrap-shopify-theme](https://github.com/Maxvien/bootstrap-shopify-theme): 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
 * [dreadnaut/bordercolors-d](https://github.com/dreadnaut/bordercolors-d): A Thunderbird add-on to color-code the compose window based on the selected identity.
-* [fasilofficial/box-shadow-generator](https://github.com/fasilofficial/box-shadow-generator): This is a simple JavaScript project. Using this webpage, you can generate stylish box shadows for your webpages.
 * [lazarnarcis/box-shadow-generator](https://github.com/lazarnarcis/box-shadow-generator): You can use this web application to more easily generate Box Shadow CSS!
 * [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css):  :pisces: A cross-browser collection of CSS box-shadows
 * [iposho/boxshadowru](https://github.com/iposho/boxshadowru): A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website. Preview the result and copy the generated code to your website. No coding required!
