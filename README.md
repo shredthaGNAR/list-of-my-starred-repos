@@ -1890,6 +1890,7 @@
 * [mnba/save-tabs](https://github.com/mnba/save-tabs): Firefox Add-on to Save, copy and reload later Tab URLs along with titles. WebExtension-format Addon. Install it from here: https://addons.mozilla.org/en-US/firefox/addon/save-tab-urls/
 * [nbeaver/save-tabs-as-html](https://github.com/nbeaver/save-tabs-as-html): Webextension to save the title and URLs of open tabs as an HTML file.
 * [Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc](https://github.com/Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc): Browser addon for FireFox & Chrome to save active tabs as Markdown
+* [bobbyrne01/save-text-to-file-firefox](https://github.com/bobbyrne01/save-text-to-file-firefox): Firefox addon that saves highlighted text to a file.
 * [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine): Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
 * [igorlogius/save-website-as-image](https://github.com/igorlogius/save-website-as-image): Simple addon, to save the full website of one or more tab as a png image either via a click on the toolbar icon or via a custom shotcut
 * [117649/SavedPasswordEditorRedux](https://github.com/117649/SavedPasswordEditorRedux): Not Gecko, application to allow creating and editing saved passwords 
