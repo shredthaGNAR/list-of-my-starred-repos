@@ -1290,6 +1290,7 @@
 * [fregante/list-github-dir-content](https://github.com/fregante/list-github-dir-content): List all the files in a GitHub repo’s directory
 * [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 * [nt1m/livemarks](https://github.com/nt1m/livemarks): Extension that restores RSS Feed Livemarks in Firefox. 
+* [tuan3w/llama-raycast](https://github.com/tuan3w/llama-raycast): Chat with LLaMa in Raycast
 * [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile): Distribute and run LLMs with a single file.
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
 * [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select): Prevents tabs which are opend in the background from loading until they have been manually activated
