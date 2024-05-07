@@ -1540,6 +1540,7 @@
 * [ikki4/OneTab-Backup-Automation](https://github.com/ikki4/OneTab-Backup-Automation): Automated Python Script to backup your OneTab data
 * [dpschen/onetab-export-script](https://github.com/dpschen/onetab-export-script): A simple browser script that helps exporting saved OneTab meta data 
 * [jianyuan/onetab-export-to-json](https://github.com/jianyuan/onetab-export-to-json): 🔖 Export URLs directly from OneTab's LevelDB database to JSON
+* [gittyupcowboy/Onetab-Extractor](https://github.com/gittyupcowboy/Onetab-Extractor): None
 * [ylon/onetab-merge](https://github.com/ylon/onetab-merge): Merge util for OneTab browser extension
 * [pullup/OneTab-Night-Mode](https://github.com/pullup/OneTab-Night-Mode): Little theme for the onetab page to make it less eye raping.
 * [Nuzza/OneTab-Reborn](https://github.com/Nuzza/OneTab-Reborn): OneTab Reborn is a remake of the original OneTab extension to have a more modern appearance.
