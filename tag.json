@@ -5555,6 +5555,9 @@
     "ollama-ui/ollama-ui": [
         "Other"
     ],
+    "ollama/ollama": [
+        "Other"
+    ],
     "ololx/create-symlink": [
         "Other"
     ],
@@ -5909,6 +5912,9 @@
     "projectdelphai/panorama-tab-groups": [
         "Other"
     ],
+    "promptslab/Awesome-Prompt-Engineering": [
+        "Other"
+    ],
     "psd-tools/psd-tools": [
         "Other"
     ],
@@ -6186,6 +6192,12 @@
         "Other"
     ],
     "ruipgil/pocketmark": [
+        "Other"
+    ],
+    "run-llama/llama-lab": [
+        "Other"
+    ],
+    "run-llama/llama_index": [
         "Other"
     ],
     "runoshun/onetab-sync": [
@@ -6999,6 +7011,9 @@
         "Other"
     ],
     "thunderbird/tb-web-ext-experiments": [
+        "Other"
+    ],
+    "thunlp/OpenPrompt": [
         "Other"
     ],
     "tiansh/simple-context-search": [
