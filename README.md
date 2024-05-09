@@ -338,7 +338,7 @@
 * [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer): With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 * [dvdn/bookmarks-reader](https://github.com/dvdn/bookmarks-reader): Display all your bookmarks files on a webpage
 * [mabdelaal86/bookmarks_gkeep](https://github.com/mabdelaal86/bookmarks_gkeep): Copy bookmarks from Google Keep into Pocket/Instapaper
-* [Maxvien/bootstrap-shopify-theme](https://github.com/Maxvien/bootstrap-shopify-theme): 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
+* [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme): 🛍 A free Shopify Theme built with Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, ... and Webpack.
 * [dreadnaut/bordercolors-d](https://github.com/dreadnaut/bordercolors-d): A Thunderbird add-on to color-code the compose window based on the selected identity.
 * [lazarnarcis/box-shadow-generator](https://github.com/lazarnarcis/box-shadow-generator): You can use this web application to more easily generate Box Shadow CSS!
 * [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css):  :pisces: A cross-browser collection of CSS box-shadows
@@ -1979,7 +1979,7 @@
 * [maazRepo/shopify-code-snippets](https://github.com/maazRepo/shopify-code-snippets): collection of useful code snippets
 * [vikrantnegi/shopify-code-snippets](https://github.com/vikrantnegi/shopify-code-snippets): A compilation of code snippets for Shopify developers.
 * [Shopify/shopify-css-import](https://github.com/Shopify/shopify-css-import): Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js
-* [Maxvien/shopify-data-faker](https://github.com/Maxvien/shopify-data-faker): 🛍 A Shopify development tool for generating dummy store data.
+* [VienDinhCom/shopify-data-faker](https://github.com/VienDinhCom/shopify-data-faker): 🛍 A Shopify development tool for generating dummy store data.
 * [illarionvk/shopify-email-templates](https://github.com/illarionvk/shopify-email-templates): A collection of Shopify e-mail templates. Uses Gulp.js, Sass and Zurb Ink framework, inlines CSS
 * [leemunroe/shopify-email-templates](https://github.com/leemunroe/shopify-email-templates): Shopify HTML email notification templates for quick reference
 * [edgars21/shopify-flex-theme-section-with-vue](https://github.com/edgars21/shopify-flex-theme-section-with-vue): None
@@ -2008,7 +2008,7 @@
 * [spiral/shopify-starter-kit](https://github.com/spiral/shopify-starter-kit): Starter theme and environment for the largest Shopify stores.
 * [PaulSteelway/shopify-terrelique](https://github.com/PaulSteelway/shopify-terrelique): None
 * [wyugen/shopify-theme-action](https://github.com/wyugen/shopify-theme-action): Deploy Previews for Shopify themes
-* [Maxvien/shopify-theme-customizer](https://github.com/Maxvien/shopify-theme-customizer): 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
+* [VienDinhCom/shopify-theme-customizer](https://github.com/VienDinhCom/shopify-theme-customizer): 🛍  An effective development tool for customizing existing Shopify themes. It's built with Gulp, Theme Kit, Theme Check, LiveReload, ... and Passion.
 * [craigerm/shopify-theme-dev](https://github.com/craigerm/shopify-theme-dev): None
 * [Shopify/shopify-theme-inspector](https://github.com/Shopify/shopify-theme-inspector): A Chrome DevTools plugin that visualizes Shopify Liquid render profiling data so you can triage long-running code and reduce server response times!
 * [uicrooks/shopify-theme-lab](https://github.com/uicrooks/shopify-theme-lab): Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI 🧪
