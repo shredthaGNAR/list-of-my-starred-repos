@@ -191,6 +191,7 @@
 * [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq): Automatic headphone equalization from frequency responses
 * [synappser/AutoFocus](https://github.com/synappser/AutoFocus): A focus-follows-mouse implementation on steroids!
 * [wting/autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line
+* [tsaost/autoload-temporary-addon](https://github.com/tsaost/autoload-temporary-addon): Automatically load temporary addons from a local directory when Firefox starts
 * [thirdinsight/AutoMarkFolderRead](https://github.com/thirdinsight/AutoMarkFolderRead): Thunderbird Addon to automatically mark folders (like junk) as read.
 * [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan): Browser userscript to automatically send DAN messages to ChatGPT
 * [alfredapp/automation-tasks](https://github.com/alfredapp/automation-tasks): Official Alfred Automation Tasks
@@ -813,6 +814,7 @@
 * [LRDN/firefox-proton-custom](https://github.com/LRDN/firefox-proton-custom): Firefox default theme customization that replaces the floating tabs with a more conventional, cleaner interface.
 * [leadweedy/Firefox-Proton-Square](https://github.com/leadweedy/Firefox-Proton-Square): Makes Firefox Proton UI square again
 * [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
+* [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
 * [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (100–125) find bar by repositioning it, adjusting spacing & styling internal elements.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
