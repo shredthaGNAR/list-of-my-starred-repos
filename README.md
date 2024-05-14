@@ -2538,7 +2538,7 @@
 * [Wingtwz/Window-Title-Hider](https://github.com/Wingtwz/Window-Title-Hider): Webextension that hides the current tab title from the window shown on the task bar (shows browser name first)
 * [dralletje/Windowed](https://github.com/dralletje/Windowed): Chrome extension to keep fullscreen windows contained
 * [drcheap/WindowSizer](https://github.com/drcheap/WindowSizer): WebExtension to quickly resize the window to one of your favorite sizes
-* [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows and moving tabs between windows
+* [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows, moving tabs between windows, and more
 * [shredthaGNAR/wokiee](https://github.com/shredthaGNAR/wokiee): None
 * [teamniteo/work-hours-mac](https://github.com/teamniteo/work-hours-mac): Simple app that tracks your work hours from the status bar.
 * [utkarshsingh99/Workspace-Manager](https://github.com/utkarshsingh99/Workspace-Manager): A Firefox extension to save frequently used tabs as Workspaces
