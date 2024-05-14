@@ -1181,9 +1181,6 @@
     "Packetslave/onetab-to-bookmarks": [
         "Other"
     ],
-    "PaperProton-Redux/PaperProton-Redux": [
-        "Other"
-    ],
     "PapirusDevelopmentTeam/papirus-icon-theme": [
         "Other"
     ],
@@ -3791,7 +3788,7 @@
     "gonzalovsilva/joplin-dark-theme": [
         "Other"
     ],
-    "google/mediapipe": [
+    "google-ai-edge/mediapipe": [
         "Other"
     ],
     "google/python-laurel": [
