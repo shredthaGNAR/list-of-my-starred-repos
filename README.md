@@ -1072,7 +1072,7 @@
 * [Dimentium/homebrew-autoraise](https://github.com/Dimentium/homebrew-autoraise): Formula and cask for https://github.com/sbmpost/AutoRaise
 * [romankurnovskii/homebrew-awesome-brew](https://github.com/romankurnovskii/homebrew-awesome-brew): A catalog of Homebrew casks and formulas extending to open-source projects by developers. Simplifies the process of finding and installing apps via Homebrew.
 * [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-* [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts): 🖋 Casks of Ｆ🅾𝓝𝐓𝚂
+* [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts): 💀 Casks of Ｆ🅾𝓝𝐓𝚂 (deprecated)
 * [buo/homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade): A command line tool for upgrading every outdated app installed by Homebrew Cask
 * [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): 🍻 Default formulae for the missing package manager for macOS (or Linux)
 * [algertc/homebrew-kleopatra4mac](https://github.com/algertc/homebrew-kleopatra4mac): Kleopatra4Mac is an all-in-one prebuilt port of KDE's GPG utility for use on MacOS. 
