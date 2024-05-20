@@ -450,6 +450,7 @@
 * [fajarjulyana/circular-nav-html-css-only](https://github.com/fajarjulyana/circular-nav-html-css-only): This is simple circular menu html CSS js
 * [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
 * [cli/cli](https://github.com/cli/cli): GitHub’s official command line tool
+* [spicetify/cli](https://github.com/spicetify/cli): Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 * [PKxk8J/click-tab-move](https://github.com/PKxk8J/click-tab-move): タブ右クリックからタブを別のウインドウに送る Firefox アドオン 
 * [DevNurAlam/ClickableEmailSignatureDesign-2](https://github.com/DevNurAlam/ClickableEmailSignatureDesign-2): None
 * [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube): Replaces thumbnails and modifies titles of videos on youtube.com
@@ -2125,7 +2126,6 @@
 * [nightmare-space/speed_share](https://github.com/nightmare-space/speed_share): Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
 * [librespeed/speedtest](https://github.com/librespeed/speedtest): Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 * [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli): Command line interface for testing internet bandwidth using speedtest.net
-* [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli): Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 * [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions): extensions for spotify  i'm creating
 * [onaralili/SplitUp](https://github.com/onaralili/SplitUp): ✨ SplitUp! is a browser extension allows a user to split tabs into a different window, save session, export tabs, supports multiple screens, dark mode etc. ✨
 * [yt-dlp/SponSkrub](https://github.com/yt-dlp/SponSkrub): Strip advertisements from downloaded YouTube videos
