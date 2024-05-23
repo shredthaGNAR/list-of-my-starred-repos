@@ -2687,6 +2687,9 @@
     "cerpow/catapult": [
         "Other"
     ],
+    "cezaraugusto/extension.js": [
+        "Other"
+    ],
     "chaance/vscode-setup": [
         "Other"
     ],
@@ -4733,6 +4736,9 @@
     "lando/lando": [
         "Other"
     ],
+    "langchain-ai/langchain": [
+        "Other"
+    ],
     "langgptai/awesome-claude-prompts": [
         "Other"
     ],
@@ -5667,6 +5673,9 @@
         "Other"
     ],
     "open-pocket/open-pocket": [
+        "Other"
+    ],
+    "open-webui/open-webui": [
         "Other"
     ],
     "openai/openai-cookbook": [
