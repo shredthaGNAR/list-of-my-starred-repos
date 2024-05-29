@@ -849,7 +849,6 @@
 * [icpantsparti/firefox-user.js-tool](https://github.com/icpantsparti/firefox-user.js-tool): Interactive view, compare, and more for Firefox user.js (eg arkenfox/user.js) + about:config functions
 * [icpantsparti2/firefox-user.js-tool](https://github.com/icpantsparti2/firefox-user.js-tool): Interactive view, compare, and more for Firefox user.js (eg arkenfox/user.js) + about:config functions
 * [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style): Sun Valley + MDL2 Theme for Firefox
-* [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs): This repo is a read-only mirror of https://codeberg.org/ranmaru22/firefox-vertical-tabs
 * [sagars007/Firefox-vertical-tabs-customUI](https://github.com/sagars007/Firefox-vertical-tabs-customUI): Custom userChrome and userContent.css for Firefox. Including vertical tabs(tree_style_tabs), full dark mode, thin title-bar text in nav-bar and much more.
 * [CaptainEureka/firefox-vibrancy](https://github.com/CaptainEureka/firefox-vibrancy): None
 * [hongde88/firefox-workspace-manager](https://github.com/hongde88/firefox-workspace-manager): A Firefox extension that groups tabs into workspaces through the hide and show tab APIs.
