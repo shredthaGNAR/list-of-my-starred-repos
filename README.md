@@ -1209,7 +1209,7 @@
 * [kveberg/joplin-theme](https://github.com/kveberg/joplin-theme): A few visual tweaks of stysebae's "joplin-vsc-material-theme"
 * [robotcorner/joplin-theme-dark-gruvbox](https://github.com/robotcorner/joplin-theme-dark-gruvbox): Inspired by "Mayukai Mirage Gruvbox Darktooth Theme" on VSCode
 * [JackGruber/Joplin-Tools](https://github.com/JackGruber/Joplin-Tools): Various Python tools for Joplin (Hotfolder, PDF Previews, ToDo List) and AutoIt (JoplinWinBackup) for Backups under Windows. 
-* [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils): Joplin-based peripheral community tool
+* [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils): Joplin-based community tool
 * [jerrylususu/joplin-vacuum](https://github.com/jerrylususu/joplin-vacuum): Removes attachments (resources) that are not referred in Joplin. 
 * [mahor1221/joplin-vsc-material-theme](https://github.com/mahor1221/joplin-vsc-material-theme): VSCode Community Material Theme for Joplin
 * [stysebae/joplin-vsc-material-theme](https://github.com/stysebae/joplin-vsc-material-theme): VSCode Community Material Theme for Joplin
