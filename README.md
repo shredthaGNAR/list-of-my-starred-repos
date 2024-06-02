@@ -1603,7 +1603,7 @@
 * [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu): 🕹 Retro video game emulation for macOS
 * [hjerpbakk/OpenFolderInVSCode](https://github.com/hjerpbakk/OpenFolderInVSCode): With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
 * [evanp/openfollow](https://github.com/evanp/openfollow): Search server to find people on the federated social web
-* [OpenHoldem/openholdembot](https://github.com/OpenHoldem/openholdembot): OpenHoldem Poker Bot (free, open-source poker-bot for Texas Hold'em and Omaha)
+* [OpenHoldem/openholdembot](https://github.com/OpenHoldem/openholdembot): OpenHoldem Poker Bot (free, open-source poker-bot for Texas Hold'em and Omaha)   Please click the link below or Forum news.
 * [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode): :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 * [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 * [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp): OpenMTP  - Advanced Android File Transfer Application for macOS
