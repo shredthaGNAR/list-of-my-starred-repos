@@ -1114,7 +1114,7 @@
 * [potsky/iajai-email-signature](https://github.com/potsky/iajai-email-signature): None
 * [deseven/iCanHazShortcut](https://github.com/deseven/iCanHazShortcut): simple shortcut manager for macOS
 * [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension): Enjoy iCloud's Hide My Email service in your favourite browser
-* [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync): Take control of your iCloud Drive files with iCloud NoSync - the ultimate utility for effortless sync and management! Get the edge you need to stay organized and up-to-date.
+* [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync): Take control of your iCloud Drive files with iCloud NoSync—the ultimate utility for effortless sync and management! Get the edge you need to stay organised and up–to–date.
 * [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox): Firefox extension which lets you use your passwords stored on iCloud Keychain®.
 * [farnots/iCloudDownloader](https://github.com/farnots/iCloudDownloader): CLI for downloading iCloud file
 * [elrumo/icon-brew](https://github.com/elrumo/icon-brew): A free and open source icon pack. With hundreds of icons and new ones being added weekly.
