@@ -406,6 +406,7 @@
 * [cardrank/cardrank](https://github.com/cardrank/cardrank): Go types, funcs, and utilities for working with cards, decks, and evaluating poker hands (Holdem, Omaha, Stud, more)
 * [jacklukem/CatalinaOTAswufix](https://github.com/jacklukem/CatalinaOTAswufix): None
 * [cerpow/catapult](https://github.com/cerpow/catapult): Access your workspace on the fly.
+* [marekbrze/categorized-raycast-extensions](https://github.com/marekbrze/categorized-raycast-extensions): Easily find Raycast Extensions!🚀
 * [quiteconfused/CatImageInfo](https://github.com/quiteconfused/CatImageInfo): Image Recognition through known Social Media also known as "Search by Image or Google Goggles". Tools to dynamically identify and rename images based on image content in a directory or in a tcpdump'ish fashion
 * [CaptainN/cbyge](https://github.com/CaptainN/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
 * [robaston9/cbyge](https://github.com/robaston9/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
