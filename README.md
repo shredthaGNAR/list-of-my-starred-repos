@@ -2586,7 +2586,7 @@
 * [p333ter/youtube-dl-gui](https://github.com/p333ter/youtube-dl-gui): A cross-platform GUI for youtube-dl made in Electron and node.js
 * [jim60105/youtube-dl-server](https://github.com/jim60105/youtube-dl-server): [Fork for CI docker build] 
 * [longpdo/youtube-dl-watch-later-playlist](https://github.com/longpdo/youtube-dl-watch-later-playlist): Python script to download all YouTube videos from your Watch Later Playlist automatically.
-* [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web): A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
+* [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web): A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 * [TheYellowArchitect/youtube-dlp-bash](https://github.com/TheYellowArchitect/youtube-dlp-bash): Bash script which opens youtube-dlp on the dmenu, and optionally pastes the clipboard
 * [karimelgazar/youtube-downloader](https://github.com/karimelgazar/youtube-downloader): Youtube Downloader for the blind 👨‍🦯 and the sighted 🚶
 * [DenBeke/YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS): Simple menu bar app to download YouTube movies on your Mac
