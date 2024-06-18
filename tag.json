@@ -2693,9 +2693,6 @@
     "cerpow/catapult": [
         "Other"
     ],
-    "cezaraugusto/extension.js": [
-        "Other"
-    ],
     "chaance/vscode-setup": [
         "Other"
     ],
@@ -3459,6 +3456,9 @@
         "Other"
     ],
     "execut/yii2-people-finder": [
+        "Other"
+    ],
+    "extension-js/extension.js": [
         "Other"
     ],
     "eyalroz/removedupes": [
