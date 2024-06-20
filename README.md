@@ -457,7 +457,7 @@
 * [DevNurAlam/ClickableEmailSignatureDesign-2](https://github.com/DevNurAlam/ClickableEmailSignatureDesign-2): None
 * [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube): Replaces thumbnails and modifies titles of videos on youtube.com
 * [Wilbird/clickToPrivate](https://github.com/Wilbird/clickToPrivate): Firefox add-on to open links or current page in private mode
-* [bitwarden/clients](https://github.com/bitwarden/clients): Bitwarden client applications (web, browser extension, desktop, and cli)
+* [bitwarden/clients](https://github.com/bitwarden/clients): Bitwarden client apps (web, browser extension, desktop, and cli).
 * [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur): A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
 * [clipboard2file/clipboard2file](https://github.com/clipboard2file/clipboard2file): WebExtension for using images on the clipboard as files
 * [aecreations/clippings](https://github.com/aecreations/clippings): Clippings: an extension for Mozilla Firefox
