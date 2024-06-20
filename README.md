@@ -2473,7 +2473,7 @@
 * [danileao/vscode-css-variables-autocomplete](https://github.com/danileao/vscode-css-variables-autocomplete): None
 * [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar): VSCode extension to support CSS Variables Intellisense
 * [be5invis/vscode-custom-css](https://github.com/be5invis/vscode-custom-css): Custom CSS Plugin for Visual Studio Code. Based on vscode-icon
-* [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic): Enhanced VScode Dark+ theme with support for Fira Code iScript and Fira Code + Operator Mono fonts.
+* [idbartosz/vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic): Enhanced VSCode Dark+ theme with italic support for Fira Code iScript, Fira Code + Operator Mono fonts, and Copilot hints!
 * [jianbingfang/vscode-dup-checker](https://github.com/jianbingfang/vscode-dup-checker): vscode extension to check and dedup duplicate lines
 * [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples): Sample code illustrating the VS Code extension API.
 * [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist): vscode extension for quick gists
