@@ -1507,6 +1507,7 @@
 * [tj/n](https://github.com/tj/n): Node version management
 * [cyanfish/naps2](https://github.com/cyanfish/naps2): Scan documents to PDF and more, as simply as possible.
 * [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl): Use external downloader directly from Firefox's native download asking dialog (Use on your own risk !!) (runs on ff115)
+* [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles): None
 * [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting): NBA sports betting using machine learning
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
