@@ -314,9 +314,6 @@
     "ChristoferK/AppleScriptive": [
         "Other"
     ],
-    "Claudiohbsantos/github-material-icons-extension": [
-        "Other"
-    ],
     "CleanCocoa/FatSidebar": [
         "Other"
     ],
@@ -5040,6 +5037,9 @@
         "Other"
     ],
     "material-components/material-components-web": [
+        "Other"
+    ],
+    "material-extensions/material-icons-browser-extension": [
         "Other"
     ],
     "material-theme/vsc-material-theme": [

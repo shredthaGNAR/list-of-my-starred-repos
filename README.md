@@ -968,7 +968,6 @@
 * [alexmdodge/github-diff-explorer](https://github.com/alexmdodge/github-diff-explorer): The GitHub Diff Explorer is a Chrome/Firefox extension that generates a seamless file explorer with a minimalist focus.
 * [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons): 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 * [othyn/github-folder-icon-macOS](https://github.com/othyn/github-folder-icon-macOS): GitHub folder icon for use in macOS. Made so that it fits nicely alongside all the others inside your home directory. Mac OS X 10.5 (Leopard) through to macOS 13 (Ventura).
-* [Claudiohbsantos/github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension): None
 * [quantleaf/github-natural-advanced-search](https://github.com/quantleaf/github-natural-advanced-search): None
 * [skills/github-pages](https://github.com/skills/github-pages): Create a site or blog from your GitHub repositories with GitHub Pages.
 * [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator): 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -1416,6 +1415,7 @@
 * [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free and open source code snippets manager for developers
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
 * [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated): Firefox theme looks similar to Chrome
+* [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension): None
 * [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
 * [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur): 🦊 A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
 * [typeling1578/MaterialFox-Plus](https://github.com/typeling1578/MaterialFox-Plus): A Material Design-inspired userChrome.css theme for Firefox. This repository is a Fork of muckSponge/MaterialFox.
