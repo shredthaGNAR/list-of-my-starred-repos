@@ -78,6 +78,7 @@
 * [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures): Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
 * [trietsch/alfred-bluetooth-connector](https://github.com/trietsch/alfred-bluetooth-connector): Alfred workflow for listing known Bluetooth devices and (dis)connecting to them -> NOT MAINTAINED ANYMORE, work is merged into https://github.com/tilmanginzel/alfred-bluetooth-workflow
 * [tilmanginzel/alfred-bluetooth-workflow](https://github.com/tilmanginzel/alfred-bluetooth-workflow): Yet another Alfred workflow to connect / disconnect Bluetooth devices
+* [dnnsmnstrr/alfred-btt](https://github.com/dnnsmnstrr/alfred-btt): Alfred workflow to run named triggers and actions in BetterTouchTool
 * [CacherApp/alfred-cacher](https://github.com/CacherApp/alfred-cacher): Alfred workflow for finding a Cacher snippet.
 * [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection): A collection of all known Alfred3 workflows
 * [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert): Convert between different units in Alfred
