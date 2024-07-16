@@ -2010,6 +2010,7 @@
 * [jcz530/shadows](https://github.com/jcz530/shadows): A CSS Box-Shadow generator.It allows multiple shadow layers and preview customization.
 * [shahasad78/shahdevthemecourse2-0](https://github.com/shahasad78/shahdevthemecourse2-0): None
 * [navchandar/Share-Less](https://github.com/navchandar/Share-Less): Share Less - URL tracking remover
+* [reorx/Share-to-ChatGPT-Shortcut](https://github.com/reorx/Share-to-ChatGPT-Shortcut): An Apple Shortcut for sharing text to ChatGPT using personalized prompts
 * [szimek/sharedrop](https://github.com/szimek/sharedrop): Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 * [jimmod/ShareToComputer](https://github.com/jimmod/ShareToComputer): None
 * [marcosdiez/shareviahttp](https://github.com/marcosdiez/shareviahttp): Share Via Http - Android
