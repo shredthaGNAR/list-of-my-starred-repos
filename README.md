@@ -2241,7 +2241,7 @@
 * [MonterraByte/tab_move](https://github.com/MonterraByte/tab_move): Firefox addon that lets you move a tab to the start or the end of the tab bar
 * [menhera-org/TabArray](https://github.com/menhera-org/TabArray): Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 * [Bill13579/tabby](https://github.com/Bill13579/tabby): A web extension for managing great amounts of windows and tabs at ease.
-* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 5300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 5400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * [jakob/TableTool](https://github.com/jakob/TableTool): A simple CSV editor for the Mac
 * [lbragile/TabMerger](https://github.com/lbragile/TabMerger): TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
 * [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
