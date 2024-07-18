@@ -648,7 +648,6 @@
 * [stefanjudis/dotfiles](https://github.com/stefanjudis/dotfiles): The setup I run on every computer
 * [timmybytes/dotfiles](https://github.com/timmybytes/dotfiles): My personal (.)dotfiles and configurations for various programs and environments. 
 * [trybick/dotfiles](https://github.com/trybick/dotfiles): Config files and new Mac setup guide
-* [trybick/dotfiles](https://github.com/trybick/dotfiles): Config files and new Mac setup guide
 * [vufly/dotfiles](https://github.com/vufly/dotfiles): This is the place where I keep my configuration.
 * [garywill/doubleclick-new-tab](https://github.com/garywill/doubleclick-new-tab): Firefox open new tab by double clicking on tab bar , userchrome script. (Never need it since ff 68
 * [charlieMonroe/DownieCustomIntegrations](https://github.com/charlieMonroe/DownieCustomIntegrations): None
@@ -1325,6 +1324,7 @@
 * [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart): Build a Shopify Ajax-cart without JavaScript coding
 * [harttle/liquidjs](https://github.com/harttle/liquidjs): A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 * [fregante/list-github-dir-content](https://github.com/fregante/list-github-dir-content): List all the files in a GitHub repo’s directory
+* [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 * [nt1m/livemarks](https://github.com/nt1m/livemarks): Extension that restores RSS Feed Livemarks in Firefox. 
 * [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder): Replace Copilot local AI
