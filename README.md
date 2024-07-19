@@ -216,6 +216,7 @@
 * [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows): A curated list of awesome alfred workflows
 * [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics): A curated list of analytics frameworks, software and other tools.
 * [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro): Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
+* [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking): 🔖 Everything bookmarking related
 * [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
 * [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt): A curated list of awesome ChatGPT related projects.
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -338,8 +339,10 @@
 * [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu): WebExtension allow to execute bookmarklets as privileged scripts
 * [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks): :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev 
 * [aerobless/bookmarks](https://github.com/aerobless/bookmarks): Personal browser launch page. Made with static-marks.
+* [br4adam/bookmarks](https://github.com/br4adam/bookmarks): Organize your bookmarks with ease.
 * [dyu/bookmarks](https://github.com/dyu/bookmarks): a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
 * [gietema/bookmarks](https://github.com/gietema/bookmarks): Script that syncs pocket to my bookmarks page
+* [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks): 🔖 Bookmark app for Nextcloud
 * [twolfson/bookmarks](https://github.com/twolfson/bookmarks): Webpage representing a collection of bookmarks
 * [brian-girko/bookmarks-commander](https://github.com/brian-girko/bookmarks-commander): A two-panel bookmarks manager which is similar to the well-known Total Commander.
 * [radam9/bookmarks-converter](https://github.com/radam9/bookmarks-converter): Parse db/html/json bookmarks file from (Chrome - Firefox - Custom source) and convert it to db/html/json format.
@@ -362,6 +365,7 @@
 * [brothersinvines/brothersinvines.github.io](https://github.com/brothersinvines/brothersinvines.github.io): None
 * [hoyang/browse-later](https://github.com/hoyang/browse-later): Browse later, a WebExtensions add-on.
 * [kierandrewett/browser-chrome-experiment](https://github.com/kierandrewett/browser-chrome-experiment): None
+* [WebCrateApp/browser-extension](https://github.com/WebCrateApp/browser-extension): Add links to WebCrate via a browser extension
 * [fregante/browser-extension-template](https://github.com/fregante/browser-extension-template): 📕 Barebones boilerplate with Parcel 2, options handler and auto-publishing
 * [adi6409/browser-ff](https://github.com/adi6409/browser-ff): None
 * [Luzifer/browser-privacy](https://github.com/Luzifer/browser-privacy): List of filter rules for uBlock Origin to enhance the browsing privacy and replace Ghostery
