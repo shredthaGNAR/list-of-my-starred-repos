@@ -2435,6 +2435,7 @@
 * [tkhquang/userChrome.js](https://github.com/tkhquang/userChrome.js): userChrome.js for Firefox
 * [typeling1578/userChrome.js](https://github.com/typeling1578/userChrome.js): None
 * [dupontjoy/userChrome.js-Collections-](https://github.com/dupontjoy/userChrome.js-Collections-): UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
+* [benzBrake/userChrome.js-Loader](https://github.com/benzBrake/userChrome.js-Loader): None
 * [tortious/userChrome.js-userChrome.css-Favorites](https://github.com/tortious/userChrome.js-userChrome.css-Favorites): None
 * [k08045kk/userChrome.menus.css](https://github.com/k08045kk/userChrome.menus.css): None
 * [VicDobrov/UserChromeFiles](https://github.com/VicDobrov/UserChromeFiles): UserChromeFiles © Vitaliy V.
