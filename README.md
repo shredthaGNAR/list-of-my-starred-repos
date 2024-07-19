@@ -449,6 +449,7 @@
 * [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
 * [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
+* [olivertzeng/chrome](https://github.com/olivertzeng/chrome): 🦊 I respect proton UI and aim to improve it.
 * [adamschwartz/chrome-desaturate-favicons](https://github.com/adamschwartz/chrome-desaturate-favicons): Desaturate the favicons of all inactive tabs.
 * [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader): Chrome manifest loader for webpack
 * [AmiaaaZ/chrome-read-later](https://github.com/AmiaaaZ/chrome-read-later): A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
@@ -1521,6 +1522,7 @@
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles): None
 * [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting): NBA sports betting using machine learning
+* [feilvan/neatly](https://github.com/feilvan/neatly): None
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 * [aminomancer/Netflix-Marathon-Pausable](https://github.com/aminomancer/Netflix-Marathon-Pausable): Automatically skip recaps, intros, credits, and ads, and click "next episode" prompts on Netflix, Amazon Prime Video, Hulu, HBO Max, Starz, Disney+, and Hotstar
