@@ -1827,6 +1827,7 @@
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
 * [drduh/Purse](https://github.com/drduh/Purse): GnuPG asymmetric password manager
 * [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox): A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
+* [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code and command execution, file upload and download, speech synthesis and recognition, access to Web, memory, prompt presets, plugins, assistants & more. Linux, Windows, Mac.
 * [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts): 💬 Send iMessages using Python through the Shortcuts app.
 * [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd): MacOS launchd/launchctl GUI
 * [e-alizadeh/PyPocket](https://github.com/e-alizadeh/PyPocket): A Python Wrapper (Unofficial) for GetPocket (https://getpocket.com)
@@ -2585,6 +2586,7 @@
 * [dralletje/Windowed](https://github.com/dralletje/Windowed): Chrome extension to keep fullscreen windows contained
 * [drcheap/WindowSizer](https://github.com/drcheap/WindowSizer): WebExtension to quickly resize the window to one of your favorite sizes
 * [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows, moving tabs between windows, and more
+* [curtisgray/wingman](https://github.com/curtisgray/wingman): Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 * [shredthaGNAR/wokiee](https://github.com/shredthaGNAR/wokiee): None
 * [teamniteo/work-hours-mac](https://github.com/teamniteo/work-hours-mac): Simple app that tracks your work hours from the status bar.
 * [utkarshsingh99/Workspace-Manager](https://github.com/utkarshsingh99/Workspace-Manager): A Firefox extension to save frequently used tabs as Workspaces
