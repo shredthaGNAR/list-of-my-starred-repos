@@ -452,6 +452,7 @@
 * [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
 * [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
 * [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
+* [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop): a new desktop app for chatkit.app
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
 * [olivertzeng/chrome](https://github.com/olivertzeng/chrome): 🦊 I respect proton UI and aim to improve it.
 * [adamschwartz/chrome-desaturate-favicons](https://github.com/adamschwartz/chrome-desaturate-favicons): Desaturate the favicons of all inactive tabs.
@@ -915,6 +916,7 @@
 * [marklieberman/foxygestures](https://github.com/marklieberman/foxygestures): Mouse gestures for Firefox
 * [prabunagrajan/free-design-resources](https://github.com/prabunagrajan/free-design-resources): A collection of websites for free UI design materials for Sketch, Adobe XD, Figma, and other design tools.
 * [LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks): Freely bookmark export tool. 自由地书签导出工具。
+* [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api): 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
 * [psugihara/FreeChat](https://github.com/psugihara/FreeChat): llama.cpp based AI chat app for macOS
 * [jeromelachaud/freelancer-theme](https://github.com/jeromelachaud/freelancer-theme): Jekyll theme based on Freelancer Start Bootstrap theme
 * [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube): An Open Source YouTube app for privacy
@@ -1061,6 +1063,7 @@
 * [nicolaballotta/gpt3-wordpress-post-generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
 * [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): GPT4All: Chat with Local LLMs on Any Device
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
+* [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 * [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status): This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 * [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
 * [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
