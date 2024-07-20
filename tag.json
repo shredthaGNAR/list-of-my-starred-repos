@@ -2882,6 +2882,9 @@
     "containers/podman": [
         "Other"
     ],
+    "continuedev/continue": [
+        "Other"
+    ],
     "coolaj86/dropshare": [
         "Other"
     ],
@@ -6792,9 +6795,6 @@
         "Other"
     ],
     "solodev/email-signature": [
-        "Other"
-    ],
-    "songhao/BetterAndBetter": [
         "Other"
     ],
     "songquanpeng/one-api": [
