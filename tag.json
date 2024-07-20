@@ -1496,6 +1496,9 @@
     "SideStore/SideStore": [
         "Other"
     ],
+    "SillyTavern/SillyTavern-Launcher": [
+        "Other"
+    ],
     "SimonSiefke/vscode-html-missing-features": [
         "Other"
     ],
@@ -3726,6 +3729,9 @@
         "Other"
     ],
     "gdepourtales/custom-tab-title-favicon": [
+        "Other"
+    ],
+    "geeker-ai/geek_chat": [
         "Other"
     ],
     "geerlingguy/mac-dev-playbook": [
