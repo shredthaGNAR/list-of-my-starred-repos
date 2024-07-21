@@ -3182,6 +3182,9 @@
     "diegov/searchbox": [
         "Other"
     ],
+    "disposable/disposable-email-domains": [
+        "Other"
+    ],
     "djsudduth/keep-it-markdown": [
         "Other"
     ],
@@ -7656,6 +7659,9 @@
         "Other"
     ],
     "webpack/webpack-dev-server": [
+        "Other"
+    ],
+    "wesbos/burner-email-providers": [
         "Other"
     ],
     "whitelightning76/Firefox-dark-theme": [
