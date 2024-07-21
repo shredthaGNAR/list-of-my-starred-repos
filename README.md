@@ -842,7 +842,6 @@
 * [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (100–128) find bar by repositioning it, adjusting spacing & styling internal elements.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
-* [denizjcan/Firefox-Safari-15-Theme](https://github.com/denizjcan/Firefox-Safari-15-Theme): A Firefox theme that emulates the Safari 15 interface and new tab page
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
 * [ideaweb/firefox-safari-style](https://github.com/ideaweb/firefox-safari-style): A macOS compliant theme for Firefox
 * [panjilp-lab/firefox-safari-style](https://github.com/panjilp-lab/firefox-safari-style): put to default:profiles root dir
