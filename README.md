@@ -243,6 +243,7 @@
 * [yjose/awesome-new](https://github.com/yjose/awesome-new): A list of `.new` domains to perform online actions in one quick action.
 * [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint): :scream: A curated list of amazingly awesome OSINT
+* [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything): OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
 * [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
 * [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts
 * [apehex/awesome-poker](https://github.com/apehex/awesome-poker): :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
@@ -1702,8 +1703,10 @@
 * [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript
 * [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix): Phoenix is a modern open-source Code Editor for the web, built for the browser. 
 * [garrow/phoenix-configurations](https://github.com/garrow/phoenix-configurations): My custom configurations for the Phoenix macOS window Manager, ( https://github.com/kasper/phoenix )
+* [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga): Information gathering framework for phone numbers
 * [FranklinDM/Phosphor](https://github.com/FranklinDM/Phosphor): Relive the monochrome screens of yesterday.
 * [DhruvRoy247/Photo-Trans](https://github.com/DhruvRoy247/Photo-Trans): Image Search Web Application
+* [s0md3v/Photon](https://github.com/s0md3v/Photon): Incredibly fast crawler designed for OSINT.
 * [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis): Bringing sexy curves back to Firefox Photon.
 * [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera): Android Camera that uses Enhanced image processing
 * [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -2312,6 +2315,7 @@
 * [balvin-perrie/the-pirate-bay-torrent-search](https://github.com/balvin-perrie/the-pirate-bay-torrent-search): A browser extension to search for magnet links from The Pirate Bay directly from a popup toolbar
 * [MorganJay/TheBox](https://github.com/MorganJay/TheBox): A responsive, asymmetrical design with HTML & CSS - Firefox!
 * [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection): The ultimate collection of scripts for YouTube-DL.
+* [laramies/theHarvester](https://github.com/laramies/theHarvester): E-mails, subdomains and names Harvester - OSINT 
 * [drsjb80/thematic](https://github.com/drsjb80/thematic): Now the official repo for the FF/TB Thematic extension.
 * [saadeghi/theme-change](https://github.com/saadeghi/theme-change): Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
 * [Shopify/theme-check](https://github.com/Shopify/theme-check): The Ultimate Shopify Theme Linter
