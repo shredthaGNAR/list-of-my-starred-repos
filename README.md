@@ -1445,7 +1445,7 @@
 * [mas-cli/mas](https://github.com/mas-cli/mas): :package: Mac App Store command line interface
 * [massCodeIO/massCode](https://github.com/massCodeIO/massCode): A free and open source code snippets manager for developers
 * [material-components/material-components-web](https://github.com/material-components/material-components-web): Modular and customizable Material Design UI components for the web
-* [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated): Firefox user CSS theme looks similar to Chrome
+* [edelvarden/material-fox-updated](https://github.com/edelvarden/material-fox-updated): 🦊 Firefox user CSS theme looks similar to Chrome
 * [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension): Browser Addon that enhances file browsers of version controls with material icons.
 * [fmeyertoens/MaterialFox](https://github.com/fmeyertoens/MaterialFox): A Material Design-inspired userChrome.css theme for Firefox
 * [te6-in/MaterialFox-BigSur](https://github.com/te6-in/MaterialFox-BigSur): 🦊 A cleaner, more refined userChrome.css theme for Firefox—forked from MaterialFox
