@@ -396,6 +396,7 @@
 * [noonchen/BTT_AppleWirelessHeadphone](https://github.com/noonchen/BTT_AppleWirelessHeadphone): Toggle and display battery info of apple wireless headphones on the touch bar
 * [noonchen/BTT_NightShiftSlider](https://github.com/noonchen/BTT_NightShiftSlider): A BetterTouchTool widget to control Night Shift strength
 * [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css): Awesome buttons for awesome projects!
+* [p-x9/BTTPluginHeadLineNews](https://github.com/p-x9/BTTPluginHeadLineNews): Headline News Widget for Better Touch Tool. You can display the articles fetched by rss.
 * [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps): The ReVanced APKs
 * [jarun/buku](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
 * [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener): Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
@@ -559,6 +560,7 @@
 * [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts): AppleScript for iTerm2 Alfred integration.
 * [samiyuru/custom-finder-right-click-menu](https://github.com/samiyuru/custom-finder-right-click-menu): This project allows macOS users to setup custom right click menu items for MacOS Finder directories.
 * [jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify](https://github.com/jaygandhie2msolutions/Custom-Options-For-Monogram---For-Shopify): Monogram functionality using custom options
+* [vionya/custom-search-engines](https://github.com/vionya/custom-search-engines): None
 * [gdepourtales/custom-tab-title-favicon](https://github.com/gdepourtales/custom-tab-title-favicon): Firefox web extension to change the title and favicon of any tab depending on regular expressions applied to the tab address URL or title
 * [Ahmed-Elswerky/custom-tampermonkey-scripts](https://github.com/Ahmed-Elswerky/custom-tampermonkey-scripts): this is a custom script repository,
 * [Infocatcher/Custom_Buttons](https://github.com/Infocatcher/Custom_Buttons): Buttons for Custom Buttons extension for Firefox (and other Gecko-based applications)
@@ -1498,7 +1500,6 @@
 * [thebaer/MMRA](https://github.com/thebaer/MMRA): Make Medium Readable Again — a browser extension
 * [ScanuNicco/Modern-ThunderBird](https://github.com/ScanuNicco/Modern-ThunderBird): A userChrome.css theme to make thunderbird resemble Firefox 89+
 * [keith/ModMove](https://github.com/keith/ModMove): Move/Resize windows using modifiers and the mouse
-* [basharovV/Modos-BTT](https://github.com/basharovV/Modos-BTT): Modos is a BetterTouchTool preset for managing workspaces + windows. 
 * [monero-project/monero](https://github.com/monero-project/monero): Monero: the secure, private, untraceable cryptocurrency
 * [monero-project/monero-gui](https://github.com/monero-project/monero-gui): Monero: the secure, private, untraceable cryptocurrency
 * [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl): 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
