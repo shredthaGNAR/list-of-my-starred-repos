@@ -1549,6 +1549,7 @@
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles): None
 * [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting): NBA sports betting using machine learning
+* [grishka/NearDrop](https://github.com/grishka/NearDrop): An unofficial Google Nearby Share/Quick Share app for macOS
 * [feilvan/neatly](https://github.com/feilvan/neatly): None
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [yiiyahui/Neptune-Firefox](https://github.com/yiiyahui/Neptune-Firefox): A clean and compact Firefox theme.
@@ -1676,6 +1677,7 @@
 * [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
 * [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo): Turn GitHub into a bookmark manager
+* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome): OSX and iOS related security tools
 * [caballerofelipe/osx-automator-services](https://github.com/caballerofelipe/osx-automator-services): Some services meant to make life a little easier
 * [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults): All my default config stuff for mac
 * [msikma/osx-folder-icons](https://github.com/msikma/osx-folder-icons): Colorful folder icons for macOS to help you organize your projects
