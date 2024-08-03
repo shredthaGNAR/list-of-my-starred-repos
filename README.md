@@ -1546,7 +1546,7 @@
 * [shredthaGNAR/mytheme](https://github.com/shredthaGNAR/mytheme): firefox userchrome css theme
 * [tj/n](https://github.com/tj/n): Node version management
 * [cyanfish/naps2](https://github.com/cyanfish/naps2): Scan documents to PDF and more, as simply as possible.
-* [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl): Use external downloader directly from Firefox's native download asking dialog (Use on your own risk !!) (runs on ff115)
+* [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl): Use external downloader directly from Firefox's native download asking dialog (Use on your own risk !!) 
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles): None
 * [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting): NBA sports betting using machine learning
@@ -2131,7 +2131,7 @@
 * [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
 * [igorlogius/show-qrcode](https://github.com/igorlogius/show-qrcode): Displays the active url (or any selected link or text) as a qrcode for easy sharing between devices with a qrcode scanner like mobile/smart phones and tablets. Also allows saving and copying to the clipboard pasting in other programms.
 * [apvarun/showfolio-hugo-theme](https://github.com/apvarun/showfolio-hugo-theme): Modern portfolio theme for your Hugo site
-* [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch): Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. (runs on ff115) 🪟
+* [garywill/sidebar-switch](https://github.com/garywill/sidebar-switch): Switch for Firefox's native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. 🪟
 * [SideStore/SideStore](https://github.com/SideStore/SideStore): SideStore is a fork of AltStore that doesn't require an AltServer.
 * [thsmi/sieve](https://github.com/thsmi/sieve): Sieve Script Editor
 * [mozilla/sign-addon](https://github.com/mozilla/sign-addon): Sign a Firefox add-on with Mozilla's web service
