@@ -1556,6 +1556,7 @@
 * [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting): NBA sports betting using machine learning
 * [grishka/NearDrop](https://github.com/grishka/NearDrop): An unofficial Google Nearby Share/Quick Share app for macOS
 * [feilvan/neatly](https://github.com/feilvan/neatly): None
+* [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost):  The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 * [yiiyahui/Neptune-Firefox](https://github.com/yiiyahui/Neptune-Firefox): A clean and compact Firefox theme.
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
