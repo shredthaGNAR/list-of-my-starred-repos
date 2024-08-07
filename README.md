@@ -2315,7 +2315,6 @@
 * [axcore/tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 * [tasks/tasks](https://github.com/tasks/tasks): Bringing Astrid Tasks back from the dead
 * [tauri-apps/tauri](https://github.com/tauri-apps/tauri): Build smaller, faster, and more secure desktop applications with a web frontend.
-* [thunderbird/tb-web-ext-experiments](https://github.com/thunderbird/tb-web-ext-experiments): WebExtension Experiments for Thunderbird
 * [PrsPrsBK/tbext-manifest-schema](https://github.com/PrsPrsBK/tbext-manifest-schema): None
 * [wshanks/tbkeys](https://github.com/wshanks/tbkeys): Custom keybindings for Thunderbird
 * [jobisoft/TbSync](https://github.com/jobisoft/TbSync): [Thunderbird Add-On] Central user interface to manage cloud accounts and to synchronize their contact, task and calendar information with Thunderbird
@@ -2603,6 +2602,7 @@
 * [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances): Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
 * [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs): A suite of polyfills supporting the HTML Web Components specs
 * [subins2000/WebDrop](https://github.com/subins2000/WebDrop): Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)
+* [thunderbird/webext-experiments](https://github.com/thunderbird/webext-experiments): WebExtension Experiments for Thunderbird
 * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill): A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 * [sblask-webextensions/webextension-skip-redirect](https://github.com/sblask-webextensions/webextension-skip-redirect): Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 * [sblask-webextensions/webextension-tab-deque](https://github.com/sblask-webextensions/webextension-tab-deque): A Firefox extension for better tab handling.
