@@ -2042,7 +2042,7 @@
 * [larsow/SecurityCamera](https://github.com/larsow/SecurityCamera): Android Security Camera App
 * [rak3n/SecuritySttream](https://github.com/rak3n/SecuritySttream): an Alfred Camera like solution for motion detection and streaming based on react-native
 * [seekr-osint/seekr](https://github.com/seekr-osint/seekr): A multi-purpose OSINT toolkit with a neat web-interface.
-* [igorlogius/select-tabs-extras](https://github.com/igorlogius/select-tabs-extras): Powerful tab selection addon with a bunch of one click options but also allow the user to create custom selection rules
+* [igorlogius/select-tabs-ext](https://github.com/igorlogius/select-tabs-ext): Powerful tab selection addon with a bunch of one click options but also allow the user to create custom selection rules
 * [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search): Search extension for the chrome web browser
 * [emvaized/selecton-extension](https://github.com/emvaized/selecton-extension): Selecton provides popup with actions on text selection in all major browsers
 * [bitwarden/self-host](https://github.com/bitwarden/self-host): Bitwarden's self-hosted release repository
