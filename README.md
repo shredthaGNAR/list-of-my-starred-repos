@@ -858,7 +858,7 @@
 * [wrestlerdude/Firefox-Proton-Square](https://github.com/wrestlerdude/Firefox-Proton-Square): Makes Firefox Proton UI look and feel like Quantum
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (100–128) find bar by repositioning it, adjusting spacing & styling internal elements.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): Refine the Firefox (100–129) find bar by repositioning it, adjusting spacing & styling internal elements.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -2660,7 +2660,7 @@
 * [execut/yii2-people-finder](https://github.com/execut/yii2-people-finder): Library for search peoples via social networks
 * [mattDavo/Yippy](https://github.com/mattDavo/Yippy): macOS open source clipboard manager
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
-* [code-charity/youtube](https://github.com/code-charity/youtube): [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(yet rare&tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
+* [code-charity/youtube](https://github.com/code-charity/youtube): [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
 * [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions): This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 * [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl): Automated yt-dlp Docker image
 * [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
