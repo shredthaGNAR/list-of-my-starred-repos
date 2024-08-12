@@ -2182,7 +2182,7 @@
 * [Snapcept/Snapcept](https://github.com/Snapcept/Snapcept): None
 * [ToTheMax/Snapchat-All-Memories-Downloader](https://github.com/ToTheMax/Snapchat-All-Memories-Downloader): Script to download all your Snapchat memories
 * [Wozzify/Snapchat-Memory-Downloader](https://github.com/Wozzify/Snapchat-Memory-Downloader): Downloads Snapchat Memories Quickly and Efficiently
-* [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop): A Progressive Web App for local file sharing 
+* [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop): A Progressive Web App for local file sharing 
 * [hoothin/snapdrop](https://github.com/hoothin/snapdrop): Modify for ipv6 and WAN. 自用改版，兼容 ipv6 与广域网
 * [fm-sys/snapdrop-android](https://github.com/fm-sys/snapdrop-android): Android client for local file sharing via https://snapdrop.net/ and https://pairdrop.net
 * [alextwothousand/snapdrop-desktop](https://github.com/alextwothousand/snapdrop-desktop): A Snapdrop Desktop app written using Electron.
