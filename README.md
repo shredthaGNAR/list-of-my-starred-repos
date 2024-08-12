@@ -1820,6 +1820,7 @@
 * [iSapozhnik/Popover](https://github.com/iSapozhnik/Popover): Custom macOS Popover 💬
 * [eight04/popup-tab](https://github.com/eight04/popup-tab): A Firefox addon, easily convert a tab into a popup and vice versa.
 * [Porco-Rosso/PorcoSpoon](https://github.com/Porco-Rosso/PorcoSpoon): My Versatile Hammerspoon Config
+* [codewithsadee/portfolio](https://github.com/codewithsadee/portfolio): Fully responsive personal portfolio website
 * [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio): My self coded personal website build with React.js
 * [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas): A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜 
 * [SofiDevO/portfolio-sofidev-garrux](https://github.com/SofiDevO/portfolio-sofidev-garrux): Primer blog con astro
@@ -2260,6 +2261,7 @@
 * [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid):  Permanent TouchID support 👆 for `sudo`.
 * [Suffuse-Team/suffuse-team.github.io](https://github.com/Suffuse-Team/suffuse-team.github.io): Website for Suffuse
 * [NotaInutilis/Super-SEO-Spam-Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor): An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements, malwares, and useless wasteful garbage in general. It is best used with uBlacklist.
+* [yorukot/superfile](https://github.com/yorukot/superfile): Pretty fancy and modern terminal file manager
 * [universalbyte/Superfox](https://github.com/universalbyte/Superfox): Silence Firefox from contacting MOZILLA , GOOGLE and other Servers. 700+ privacy features !
 * [FarisHijazi/SuperGoogleImages](https://github.com/FarisHijazi/SuperGoogleImages): Userscript to Super-charge Google images with rich features, like: download all full-resolution images, replace thumbnails with full-res images, add "view image" and "download" buttons and much more
 * [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
