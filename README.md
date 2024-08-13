@@ -1669,6 +1669,7 @@
 * [Lab0ne/openholdembot](https://github.com/Lab0ne/openholdembot): OpenHoldem Poker Bot (free, open-source poker-bot for Texas Hold'em and Omaha)   Please click the link below or Forum news.
 * [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode): :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 * [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+* [dstark5/Openlib](https://github.com/dstark5/Openlib): An Open source app to download and read books from shadow library (Anna’s Archive)
 * [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
 * [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp): OpenMTP  - Advanced Android File Transfer Application for macOS
 * [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt): An Open-Source Framework for Prompt-Learning.
