@@ -3998,6 +3998,9 @@
     "google-ai-edge/mediapipe": [
         "Other"
     ],
+    "google-gemini/cookbook": [
+        "Other"
+    ],
     "google/python-laurel": [
         "Other"
     ],
