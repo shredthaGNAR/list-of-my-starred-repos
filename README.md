@@ -1345,6 +1345,7 @@
 * [folke/lazy.nvim](https://github.com/folke/lazy.nvim): 💤 A modern plugin manager for Neovim
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
 * [gildas-lormeau/LazyLoadify](https://github.com/gildas-lormeau/LazyLoadify): Web Extension to force the lazy loading of non-displayed resources (i.e. image, frame, video and audio contents)
+* [sourcegraph/legacy-sourcegraph](https://github.com/sourcegraph/legacy-sourcegraph): Code AI platform with Code Search & Cody
 * [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton): 💻     Democratizing Snippet Management (macOS/Win/Linux)
 * [te6-in/lepton-custom](https://github.com/te6-in/lepton-custom): 🦊 A macOS style theme for Firefox—forked from Lepton(Firefox-UI-Fix)
 * [AlexisDrain/Less-Addictive-YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube): Cross-browser plugin to remove addictive features on YT like thumbnails, comments, & previews
@@ -1384,6 +1385,7 @@
 * [lliurex/lliurex-gdrive](https://github.com/lliurex/lliurex-gdrive): App to manage google drive accounts
 * [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 * [igorlogius/load-background-tabs-on-select](https://github.com/igorlogius/load-background-tabs-on-select): Prevents tabs which are opend in the background from loading until they have been manually activated
+* [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
 * [cleidigh/Localfolder-TB](https://github.com/cleidigh/Localfolder-TB): Thunderbird Add-On to add additional local folders to accounts
 * [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus): Sync Floccus' browser bookmarks to a local folder / any cloud.
 * [gkoehler/LogiCircleDownloader](https://github.com/gkoehler/LogiCircleDownloader): Automatically download all your videos from your Logi Circle camera
@@ -2240,7 +2242,6 @@
 * [pesc101/SortRobot](https://github.com/pesc101/SortRobot): Python script to sort the mac download dir automatially
 * [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower): MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
 * [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight): Quick Look extension for highlight source code files on macOS 10.15 and later.
-* [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph): Code AI platform with Code Search & Cody
 * [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io): Facebook search engine that works after the Graph API has been shut down
 * [soscripted/sox](https://github.com/soscripted/sox): Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
 * [cmacrae/spacebar](https://github.com/cmacrae/spacebar): A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
