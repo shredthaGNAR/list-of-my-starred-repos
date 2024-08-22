@@ -1486,7 +1486,7 @@
 * [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome): 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 * [square/maximum-awesome](https://github.com/square/maximum-awesome): Config files for vim and tmux.
 * [qsniyg/maxurl](https://github.com/qsniyg/maxurl): Finds larger/original versions of images and videos
-* [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking): Local ad blocker. Like Pi-hole but local and using your operating system.
+* [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking): Simple, native and efficient local ad blocker. Only Bash.
 * [ryosama/mbox_spliter](https://github.com/ryosama/mbox_spliter): Split large mbox files (from hunderbird) into smaller one, class by year of the message
 * [olivierodo/MBP-BTT-activity-monitor-touchbar](https://github.com/olivierodo/MBP-BTT-activity-monitor-touchbar):  Activity monitor toolbar widget for the Macbook Pro
 * [olivierodo/MBP-BTT-spotify-touchbar](https://github.com/olivierodo/MBP-BTT-spotify-touchbar):  Spotify touchbar widget for Macbook touchbar
