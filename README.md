@@ -371,7 +371,7 @@
 * [iposho/boxshadowru](https://github.com/iposho/boxshadowru): A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website. Preview the result and copy the generated code to your website. No coding required!
 * [adobe/brackets](https://github.com/adobe/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
 * [brackets-cont/brackets](https://github.com/brackets-cont/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
-* [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix): Brackets Utility Belt
+* [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix): Brackets and Phoenix Code Editor extension
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
 * [romankurnovskii/BrewMate](https://github.com/romankurnovskii/BrewMate): Homebrew GUI apps manager
 * [brothersinvines/brothersinvines.github.io](https://github.com/brothersinvines/brothersinvines.github.io): None
