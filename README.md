@@ -1794,6 +1794,7 @@
 * [k5md/Pocket-Editor-webextension](https://github.com/k5md/Pocket-Editor-webextension): A sidebar text-editing addon for firefox
 * [cookie-s/pocket-export](https://github.com/cookie-s/pocket-export): https://qiita.com/cookies/items/db1af01e4a07b89a7e18
 * [krewast/pocket-export-chrome-import-converter](https://github.com/krewast/pocket-export-chrome-import-converter): Export bookmarks from Pocket and import them into Chrome
+* [brpaz/pocket-exporter](https://github.com/brpaz/pocket-exporter): Command line tool that allows to export your Pocket articles in a json file.
 * [rtward/pocket-import](https://github.com/rtward/pocket-import): A small script to upload a list of URLs into pocket
 * [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter): Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
 * [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin): 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
