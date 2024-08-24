@@ -634,6 +634,7 @@
 * [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim): Dim, a media manager fueled by dark forces.
 * [nokeya/direct-links-out](https://github.com/nokeya/direct-links-out): Removes all "You are leaving our site" stuff from links
 * [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images): Direct Google Images
+* [bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3](https://github.com/bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3):  Disable Gatekeeper macOS Sequoia beta 3 
 * [Homebrew/discussions](https://github.com/Homebrew/discussions): 🗣 Public open-ended discussions. Replacement for our Discourse.
 * [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains): Daily updated repository for https://github.com/disposable/disposable
 * [tapans/DIY-Surveillance-with-Smartphones](https://github.com/tapans/DIY-Surveillance-with-Smartphones): DIY hack for a complete CCTV solution using open source software and smartphones. 
