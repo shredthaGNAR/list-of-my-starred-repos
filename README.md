@@ -1663,7 +1663,6 @@
 * [runoshun/onetab-sync](https://github.com/runoshun/onetab-sync): Command line utility for sync and backup OneTab Chrome extension data.
 * [RONNCC/onetab-syncer](https://github.com/RONNCC/onetab-syncer): None
 * [Packetslave/onetab-to-bookmarks](https://github.com/Packetslave/onetab-to-bookmarks): Convert a OneTab bookmark export to the standard HTML bookmark export format
-* [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group): This repo just to collect user feedback.
 * [kaishuu0123/onetab2markdown](https://github.com/kaishuu0123/onetab2markdown): OneTab URL list to markdown
 * [MAKIO135/OneTab2Pocket](https://github.com/MAKIO135/OneTab2Pocket): Bookmarklet sending OneTab links to Pocket 
 * [lolonao/onetab2sqlite3](https://github.com/lolonao/onetab2sqlite3): Script to import export data from OneTab browser extension into SQLite3. I will add the ability to search by keywords or categories.
