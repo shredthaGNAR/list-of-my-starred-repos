@@ -564,7 +564,7 @@
 * [frm/cryptotool](https://github.com/frm/cryptotool): Cryptocurrencies on your Mac touchbar 💸
 * [cedricbeau/css-gradient-generator](https://github.com/cedricbeau/css-gradient-generator): Générateur de gradient css en ligne
 * [lough-city/css-smart](https://github.com/lough-city/css-smart): a smart css helpers.
-* [astrit/css.gg](https://github.com/astrit/css.gg): A comprehensive, open-source CSS icons library. Featuring Vanilla CSS, SVG and Figma UI icons
+* [astrit/css.gg](https://github.com/astrit/css.gg): 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 * [estelle/CSS3Gradients](https://github.com/estelle/CSS3Gradients): Library of CSS3 Gradients
 * [Kungfoowiz/cssSuggestionsVSCode](https://github.com/Kungfoowiz/cssSuggestionsVSCode): Visual Studio Code Extension: CSS suggestions for Properties and Values.
 * [thatisuday/curved-menu](https://github.com/thatisuday/curved-menu): VanillaJS fully configurable curved menu (circular navigation)
