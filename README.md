@@ -577,6 +577,7 @@
 * [Infocatcher/Custom_Buttons](https://github.com/Infocatcher/Custom_Buttons): Buttons for Custom Buttons extension for Firefox (and other Gecko-based applications)
 * [MrOtherGuy/custom_captions_webExt](https://github.com/MrOtherGuy/custom_captions_webExt): None
 * [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx): Custom CSS tweaks for Firefox
+* [EvanKirshenbaum/CustomCSSforFx](https://github.com/EvanKirshenbaum/CustomCSSforFx): Custom CSS tweaks for Firefox Quantum (57+)
 * [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb): Custom user styles for Thunderbird
 * [FrancesCoronel/customize-icons](https://github.com/FrancesCoronel/customize-icons): Customize your icons on macOS 🔧
 * [Aris-t2/CustomizeMyBird](https://github.com/Aris-t2/CustomizeMyBird): Customize Thunderbird 52-60.x (no support for Thunderbird 68+)
@@ -1794,6 +1795,7 @@
 * [cookie-s/pocket-export](https://github.com/cookie-s/pocket-export): https://qiita.com/cookies/items/db1af01e4a07b89a7e18
 * [krewast/pocket-export-chrome-import-converter](https://github.com/krewast/pocket-export-chrome-import-converter): Export bookmarks from Pocket and import them into Chrome
 * [brpaz/pocket-exporter](https://github.com/brpaz/pocket-exporter): Command line tool that allows to export your Pocket articles in a json file.
+* [crhuber/pocket-exporter](https://github.com/crhuber/pocket-exporter): Export your Pocket archive to file
 * [rtward/pocket-import](https://github.com/rtward/pocket-import): A small script to upload a list of URLs into pocket
 * [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter): Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
 * [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin): 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
