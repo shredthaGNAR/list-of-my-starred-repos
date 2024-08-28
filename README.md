@@ -2524,6 +2524,8 @@
 * [annoyatron255/Userchrome](https://github.com/annoyatron255/Userchrome): My Firefox Userchrome Config
 * [p9n/userchrome](https://github.com/p9n/userchrome): userchrome.css/.js for firefox >= 57
 * [Joolee/userchrome-toggle](https://github.com/Joolee/userchrome-toggle): A Firefox extension to allow a user to toggle custom userchrome styles
+* [Naezr/userchrome-toggle-extended](https://github.com/Naezr/userchrome-toggle-extended): A Firefox extension to allow a user to toggle custom userchrome styles
+* [Naezr/userchrome-toggle-extended-2](https://github.com/Naezr/userchrome-toggle-extended-2): This Firefox extension allows you to toggle css styles on the fly
 * [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks): A community maintained repository of userChrome.css tweaks for Firefox
 * [benman604/userChrome.css](https://github.com/benman604/userChrome.css): None
 * [entepe85/userChrome.css](https://github.com/entepe85/userChrome.css): Firefox customizations to make Proton bearable (imho, of course)
