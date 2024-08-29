@@ -231,6 +231,7 @@
 * [gztchan/awesome-design](https://github.com/gztchan/awesome-design): 🌟 Curated design resources from all over the world.
 * [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems): 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools): The best design tools and plugins for everything 👉
+* [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails): ✉️ An awesome list of resources to build better emails.
 * [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby): ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 * [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store): A curated list of awesome GPTs in the GPT Store
 * [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines): A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
