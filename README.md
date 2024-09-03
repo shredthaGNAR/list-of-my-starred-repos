@@ -1253,7 +1253,7 @@
 * [sukolsak/jitouch](https://github.com/sukolsak/jitouch): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 * [JitouchApp/Jitouch-project](https://github.com/JitouchApp/Jitouch-project): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 * [catppuccin/joplin](https://github.com/catppuccin/joplin): 📔️ Soothing pastel theme for Joplin
-* [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+* [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 * [laurent22/joplin-android](https://github.com/laurent22/joplin-android): Android releases for Joplin
 * [tessus/joplin-custom-css](https://github.com/tessus/joplin-custom-css): 📝 My custom styles for Joplin, the open source note taking app
 * [Liscum/Joplin-Dark-Theme](https://github.com/Liscum/Joplin-Dark-Theme): A beautiful Joplin dark theme
