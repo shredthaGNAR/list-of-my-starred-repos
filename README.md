@@ -2241,7 +2241,7 @@
 * [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia): Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
 * [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 * [aaronmeder/social-history](https://github.com/aaronmeder/social-history): A quick look into your history on social media. Drop in the archives you've downloaded from Facebook and Instagram and see some stats about your time on the networks.
-* [pandrey2003/social-media-profiler](https://github.com/pandrey2003/social-media-profiler): Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
+* [andrei-polukhin/social-media-profiler](https://github.com/andrei-polukhin/social-media-profiler): Find information from Twitter, Instagram, LinkedIn and Google Search about a person.
 * [lorey/social-media-profiles-regexs](https://github.com/lorey/social-media-profiles-regexs): :card_index: Extract social media profiles and more with regular expressions
 * [jenzz/social-web-search](https://github.com/jenzz/social-web-search): Search the social web... Find people & posts on Twitter, Facebook and Google+.
 * [Greenwolf/social_mapper](https://github.com/Greenwolf/social_mapper): A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
