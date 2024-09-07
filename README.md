@@ -372,7 +372,6 @@
 * [iposho/boxshadowru](https://github.com/iposho/boxshadowru): A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website. Preview the result and copy the generated code to your website. No coding required!
 * [adobe/brackets](https://github.com/adobe/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
 * [brackets-cont/brackets](https://github.com/brackets-cont/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
-* [a-bentofreire/bracketstoix](https://github.com/a-bentofreire/bracketstoix): Brackets and Phoenix Code Editor extension
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
 * [romankurnovskii/BrewMate](https://github.com/romankurnovskii/BrewMate): Homebrew GUI apps manager
 * [brothersinvines/brothersinvines.github.io](https://github.com/brothersinvines/brothersinvines.github.io): None
@@ -718,6 +717,7 @@
 * [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox): Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
 * [artsyfriedchicken/EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr): Firefox Userchrome and sidebery style
 * [cleidigh/EditEmailSubject-MX](https://github.com/cleidigh/EditEmailSubject-MX): Conversion exercise for Thunderbird MailExtensions
+* [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix): Code Editor Utility Belt
 * [codewizard13/ehw-app-scrape-onetab-links](https://github.com/codewizard13/ehw-app-scrape-onetab-links): Scrape OneTab links and produce HTML that can be saved for backup
 * [G3root/Eisen-Matrix](https://github.com/G3root/Eisen-Matrix): 🎯 Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes.
 * [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder): A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
