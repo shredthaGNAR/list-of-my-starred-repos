@@ -1290,7 +1290,7 @@
 * [geoai777/joplin_styles](https://github.com/geoai777/joplin_styles): CSS tweaks for joplin app
 * [cweirup/JoplinSafariWebClipper](https://github.com/cweirup/JoplinSafariWebClipper): Safari App Extension for Joplin Web Clipper
 * [uroybd/JoplinScratchPad](https://github.com/uroybd/JoplinScratchPad): A Scratchpad for Joplin and MacOS and Linux
-* [marph91/joppy](https://github.com/marph91/joppy): Python interface for the Joplin data API
+* [marph91/joppy](https://github.com/marph91/joppy): Python interface for the Joplin client and server API
 * [gribnoysup/jpng.svg](https://github.com/gribnoysup/jpng.svg): Transparent PNG with JPEG Compression
 * [LaneCommunityCollege/jquery-signature](https://github.com/LaneCommunityCollege/jquery-signature): a jQuery based email signature generator
 * [MrOtherGuy/js-modules](https://github.com/MrOtherGuy/js-modules): None
