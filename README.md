@@ -2217,6 +2217,7 @@
 * [kewld00d/SingleFileZ-Archives](https://github.com/kewld00d/SingleFileZ-Archives): My repo archive of my collection of saved webpages , to read later + etc etc. Archive was created using SingleFile extension, which is able to save and compress webpages in a self-contained and cool self extracting zip file  but is just an easy to use html file  that enables good viewing and archiving of websites  with the added bonus of small file sizes and no folders or other files: just 1  html file per save or zip auto uploaded to this Github repo 
 * [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar): A highly customizable macOS status bar replacement
 * [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
+* [SerpentDrago/skin.auramod](https://github.com/SerpentDrago/skin.auramod): Auramod Skin for Kodi 18 
 * [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic): None
 * [jonashellmann/skip-prime-video-intro](https://github.com/jonashellmann/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
 * [shredthaGNAR/skip-prime-video-intro](https://github.com/shredthaGNAR/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
