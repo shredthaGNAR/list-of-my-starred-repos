@@ -390,7 +390,6 @@
 * [andrewchidden/btt-controllers](https://github.com/andrewchidden/btt-controllers): Small controller scripts and utilities designed to work with BetterTouchTool.
 * [leegeunhyeok/btt-ghp](https://github.com/leegeunhyeok/btt-ghp): ✨ My BTT(Better Touch Tool) preset.
 * [jlehrer1/BTT-Practical](https://github.com/jlehrer1/BTT-Practical): A BetterTouchTool preset focused on a clean, minimalistic design for those interested in hardware stats and essential developer tools. 
-* [PINPAL/btt-preset](https://github.com/PINPAL/btt-preset): BetterTouchTool Preset
 * [andrewchidden/btt-presets](https://github.com/andrewchidden/btt-presets): A robust BetterTouchTool preset for developer power users.
 * [ChrisPenner/btt-quicknav](https://github.com/ChrisPenner/btt-quicknav): HTML overlay for quickly navigating your computer
 * [arthurdecloedt/BTT-scripts](https://github.com/arthurdecloedt/BTT-scripts): scripts used in my BTT config, some of these are adapted from other ones on the folivora community
