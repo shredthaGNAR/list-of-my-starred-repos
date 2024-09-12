@@ -56,7 +56,7 @@
 * [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper): 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
-* [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Hosts file.
+* [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Host file.
 * [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser): Bypass ad counter if possible.
 * [adsbypasser/adsbypasser.github.io](https://github.com/adsbypasser/adsbypasser.github.io): None
 * [polywock/advanced-image-search](https://github.com/polywock/advanced-image-search): An extension to search Google images. 
@@ -533,7 +533,7 @@
 * [dokterdok/Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool): An all-in-one tool to activate and diagnose macOS 10.10-12 Continuity on compatible Mac configurations.
 * [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter): Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 * [lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format](https://github.com/lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format): None
-* [google-gemini/cookbook](https://github.com/google-gemini/cookbook): Examples and guides for using the Gemini API.
+* [google-gemini/cookbook](https://github.com/google-gemini/cookbook): Examples and guides for using the Gemini API
 * [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete): Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
 * [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor): A powerful browser extension to create, edit and delete cookies
 * [vinitshahdeo/Cookie-Manager](https://github.com/vinitshahdeo/Cookie-Manager): A chrome extension to manage browser cookies.
