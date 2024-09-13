@@ -538,6 +538,7 @@
 * [continuedev/continue](https://github.com/continuedev/continue): ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 * [dokterdok/Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool): An all-in-one tool to activate and diagnose macOS 10.10-12 Continuity on compatible Mac configurations.
 * [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter): Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
+* [wilson-tim/convert-pocket-export-to-csv](https://github.com/wilson-tim/convert-pocket-export-to-csv): Extract Pocket exported saves list to CSV (Python)
 * [lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format](https://github.com/lotusshinoaki/converts-html-exported-from-pocket-into-an-importable-format): None
 * [google-gemini/cookbook](https://github.com/google-gemini/cookbook): Examples and guides for using the Gemini API
 * [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete): Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
@@ -1806,6 +1807,7 @@
 * [withfig/plugins](https://github.com/withfig/plugins): Plugin store for zsh, bash & fish.
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [knowfox/pocket](https://github.com/knowfox/pocket): Knowfox: Retrieve bookmarks from getpocket.com
+* [neelr/pocket](https://github.com/neelr/pocket): A pocket for all my links
 * [tapanpandita/pocket](https://github.com/tapanpandita/pocket): A python wrapper for the pocket api.
 * [ChingizAdamov/Pocket-Bot](https://github.com/ChingizAdamov/Pocket-Bot): Pocket bot for saving your favourite links
 * [ildella/pocket-cli](https://github.com/ildella/pocket-cli): Interactive terminal app for Pocket - read it later / bookmark application by @Mozilla - https://getpocket.com/
@@ -1817,12 +1819,14 @@
 * [brpaz/pocket-exporter](https://github.com/brpaz/pocket-exporter): Command line tool that allows to export your Pocket articles in a json file.
 * [crhuber/pocket-exporter](https://github.com/crhuber/pocket-exporter): Export your Pocket archive to file
 * [rtward/pocket-import](https://github.com/rtward/pocket-import): A small script to upload a list of URLs into pocket
+* [aleosd/pocket-manager](https://github.com/aleosd/pocket-manager): Python cli/curses utility to manage getpocket links
 * [haroldo-ok/pocket-platformer-exporter](https://github.com/haroldo-ok/pocket-platformer-exporter): Converts html files exported by pocket-platformer (https://the-l0bster.itch.io/pocket-platformer) into formats that should be more easily exported to other engines.
 * [mmagnus/Pocket-Plus-Calibre-Plugin](https://github.com/mmagnus/Pocket-Plus-Calibre-Plugin): 📚 Modified version of the Calibre plugin for Pocket. Now, you get your articles organized by your Pocket tags, and more!
 * [eebmagic/pocket-pull](https://github.com/eebmagic/pocket-pull): Pull links from your pocket account and save them as text files with links
 * [andyw8/pocket-ruby](https://github.com/andyw8/pocket-ruby): Ruby wrapper for the Pocket REST and Search APIs
 * [ShockwaveNN/pocket-sinatra-interface](https://github.com/ShockwaveNN/pocket-sinatra-interface): Sinatra-based web interface for pocket api
 * [sanghviharshit/pocket-tagger](https://github.com/sanghviharshit/pocket-tagger): 📖👓🏷Tag your getpocket.com articles automatically using natural language processing
+* [mufidu/pocket-to-markdown](https://github.com/mufidu/pocket-to-markdown): Export all Pocket articles to markdown files, including tags and images. Great to use with Obsidian.
 * [gullitmiranda/pocket-to-raindrop](https://github.com/gullitmiranda/pocket-to-raindrop): Script to export bookmarks from https://getpocket.com to https://raindrop.io.
 * [dogsheep/pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite): Create a SQLite database containing data from your Pocket account
 * [kevinlebrun/pocket-triage](https://github.com/kevinlebrun/pocket-triage): A simple way to clean up your Pocket links in close to no time.
@@ -1833,6 +1837,7 @@
 * [andriy-denysenko/pocket2pocket](https://github.com/andriy-denysenko/pocket2pocket): Lets you exchange Pocket links between accounts (console)
 * [ryderstorm/pocket_article_exporter](https://github.com/ryderstorm/pocket_article_exporter): None
 * [billpalombi/pocket_parse](https://github.com/billpalombi/pocket_parse): Script to parse the html export from Pocket and write out a csv
+* [Sveder/pocket_skipper](https://github.com/Sveder/pocket_skipper): A small site that uses Pocket's (formerly "Read it later") API to create a basic "to read" list that links to the URL itself and not into pocket's rendering and thus skips a few mouse clicks.
 * [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats): A tool to analyze your Pocket reading list.
 * [JuanJakobo/Pocketbook-Read-offline](https://github.com/JuanJakobo/Pocketbook-Read-offline): A basic client for Pocketbook to read and modify Pocket items
 * [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer): Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
@@ -2380,6 +2385,7 @@
 * [derickfay/tag-services](https://github.com/derickfay/tag-services): Automator workflows to add tagging services to Mavericks
 * [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces): TagSpaces is an offline, open source, document manager with tagging support
 * [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog): This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
+* [shinshin86/take-out-pocket-csv](https://github.com/shinshin86/take-out-pocket-csv): A tool to convert Pocket export HTML to CSV. For data where the page title is still the URL, the page title is obtained again at the time of conversion.
 * [Tampermonkey/tamperdav](https://github.com/Tampermonkey/tamperdav): A WebDAV-like server to sync Tampermonkey scripts and edit them with an external editor
 * [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey): Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox. 
 * [axcore/tartube](https://github.com/axcore/tartube): A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
