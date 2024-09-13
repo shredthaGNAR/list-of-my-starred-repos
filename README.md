@@ -56,7 +56,9 @@
 * [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper): 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
+* [Korveld/Adobe-URL-Block-List](https://github.com/Korveld/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Hosts file.
 * [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Host file.
+* [YarosMallorca/adobe_deactivation_bypass](https://github.com/YarosMallorca/adobe_deactivation_bypass): A CLI tool to bypass Adobe's deactivation prompt for cracked Adobe software
 * [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser): Bypass ad counter if possible.
 * [adsbypasser/adsbypasser.github.io](https://github.com/adsbypasser/adsbypasser.github.io): None
 * [polywock/advanced-image-search](https://github.com/polywock/advanced-image-search): An extension to search Google images. 
@@ -285,6 +287,7 @@
 * [hachikoharuno/Beautiful-newtab-Firefox](https://github.com/hachikoharuno/Beautiful-newtab-Firefox): Beautiful design for firefox new tab
 * [shredthaGNAR/beautiiful-jekyl](https://github.com/shredthaGNAR/beautiiful-jekyl): ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
 * [NicolaeNMV/BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay): One button to close any overlay on any website
+* [fr0tt/benotes](https://github.com/fr0tt/benotes): An open source self hosted notes and bookmarks taking web app.
 * [apdev95/bento-portfolio-nuxt](https://github.com/apdev95/bento-portfolio-nuxt): Bento-portfolio is a minimal bento-like (almost) single page portfolio website made with Nuxt
 * [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions): A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 * [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit): Sports betting arbitrage algorithm
@@ -1510,6 +1513,8 @@
 * [und3fined/medium-unlocker](https://github.com/und3fined/medium-unlocker): Read Medium content without limit!
 * [yousseb/meld](https://github.com/yousseb/meld): Meld for macOS
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
+* [usememos/memos](https://github.com/usememos/memos): An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+* [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop): Memos client built on electron cross-end framework
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds): Import NHL data from NHL website and merge odds
 * [jonathanKingston/merge-windows](https://github.com/jonathanKingston/merge-windows): A Firefox extension for merging windows
@@ -1574,6 +1579,7 @@
 * [abdel7ak96/my-email-signature](https://github.com/abdel7ak96/my-email-signature): Email signature
 * [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme): My Joplin App userstyle and userchrome theme style.
 * [tansawit/my-mac-setup](https://github.com/tansawit/my-mac-setup): List of applications and tools that optimize my macOS experience. Inspired by https://github.com/nikitavoloboev/my-mac-os
+* [penge/my-notes](https://github.com/penge/my-notes): Simple and fast note-taking in Chrome with Google Drive support.
 * [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome): My UserChrome Css and Script
 * [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001): My filter lists - feel free to add these lists to uBlock Origin
 * [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket): GetPocket but better!
@@ -1637,6 +1643,7 @@
 * [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop): This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 * [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater): None
 * [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings): A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
+* [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template): Starter templates for Obsidian
 * [njnmco/odinochka](https://github.com/njnmco/odinochka): featherweight tab manager
 * [snte/odinochka](https://github.com/snte/odinochka): featherweight tab manager
 * [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh): The most customisable and low-latency cross platform/shell prompt renderer
@@ -1783,6 +1790,7 @@
 * [jbhoot/pin-unpin-tab](https://github.com/jbhoot/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 * [gocom/pinceau](https://github.com/gocom/pinceau): Personal Firefox userChrome and preference customizations
+* [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad): 📓 Plainpad - Self Hosted Note Taking App
 * [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic): Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 * [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo): 🧩 The Browser Extension Framework
 * [aaronhff8/plastic-joplin-theme](https://github.com/aaronhff8/plastic-joplin-theme): Theme for Joplin that utilises the standard dark theme and essentially a restyling of Ohmine-Dark-Theme-For-Joplin. 
