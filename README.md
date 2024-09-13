@@ -1140,6 +1140,7 @@
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
 * [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator): Simple tool to generate HIDUTIL key remapping configurations for MacOS
 * [Ulf3000/highlight-tabs](https://github.com/Ulf3000/highlight-tabs): firefox addon to highlight tabs with colors for easy and fast recognition and fluid workflow
+* [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 * [agneevX/home-assistant](https://github.com/agneevX/home-assistant): Home Assistant lovelace layout and config
 * [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar): Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
 * [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io): :blue_book: Home Assistant User documentation
