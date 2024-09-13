@@ -174,6 +174,7 @@
 * [axross/aqua](https://github.com/axross/aqua):  ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.
 * [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+* [archivy/archivy](https://github.com/archivy/archivy): Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 * [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF): A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 * [aria2/aria2](https://github.com/aria2/aria2): aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 * [trmckay/article-export](https://github.com/trmckay/article-export): Export Pocket list as CSV!
@@ -416,6 +417,7 @@
 * [dessant/buster](https://github.com/dessant/buster): Captcha solver extension for humans, available for Chrome, Edge and Firefox
 * [sham00n/buster](https://github.com/sham00n/buster): An advanced tool for email reconnaissance
 * [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop): :key: Cross-Platform Passwords & Secrets Vault
+* [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly): 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 * [loup-brun/buttons](https://github.com/loup-brun/buttons): A collection of CSS buttons.
 * [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome): Bypass Paywalls web browser extension for Chrome and Firefox.
 * [bpc-clone/bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters): None
@@ -1590,6 +1592,7 @@
 * [garywill/native-extern-dl](https://github.com/garywill/native-extern-dl): Use external downloader directly from Firefox's native download asking dialog (Use on your own risk !!) 
 * [nativefier/nativefier](https://github.com/nativefier/nativefier): Make any web page a desktop application
 * [Federico-Ciuffardi/nay-dotfiles](https://github.com/Federico-Ciuffardi/nay-dotfiles): None
+* [xwmx/nb](https://github.com/xwmx/nb): CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 * [kyleskom/NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting): NBA sports betting using machine learning
 * [grishka/NearDrop](https://github.com/grishka/NearDrop): An unofficial Google Nearby Share/Quick Share app for macOS
 * [feilvan/neatly](https://github.com/feilvan/neatly): None
@@ -2209,6 +2212,7 @@
 * [ineat/signature](https://github.com/ineat/signature): How to have a nice signature for emails
 * [ronfybish/Signature-Generator](https://github.com/ronfybish/Signature-Generator): Email Signature Generator - React & Firebase
 * [SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher): Launcher scripts for SillyTavern and ST-Extras.
+* [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet): The knowledge hacker's notebook
 * [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search): An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be used just out-of-box.
 * [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups): Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 * [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
@@ -2374,6 +2378,7 @@
 * [xtract64/tabsaver](https://github.com/xtract64/tabsaver): Allows you to easily save all of your tabs for later use, reducing clutter
 * [jdberry/tag](https://github.com/jdberry/tag): A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags.
 * [derickfay/tag-services](https://github.com/derickfay/tag-services): Automator workflows to add tagging services to Mavericks
+* [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces): TagSpaces is an offline, open source, document manager with tagging support
 * [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog): This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
 * [Tampermonkey/tamperdav](https://github.com/Tampermonkey/tamperdav): A WebDAV-like server to sync Tampermonkey scripts and edit them with an external editor
 * [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey): Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox. 
@@ -2658,6 +2663,7 @@
 * [zhuowei/WDBRemoveThreeAppLimit](https://github.com/zhuowei/WDBRemoveThreeAppLimit): None
 * [dessant/web-archives](https://github.com/dessant/web-archives): Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 * [webclipper/web-clipper](https://github.com/webclipper/web-clipper): For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
+* [qownnotes/web-companion](https://github.com/qownnotes/web-companion): Browser extension to browse bookmarks and create notes in QOwnNotes
 * [Shopify/web-configs](https://github.com/Shopify/web-configs): Common configurations for building web apps at Shopify
 * [jamesqquick/Web-Development-Essentials-Extension-Pack](https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack): This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
 * [mozilla/web-ext](https://github.com/mozilla/web-ext): A command line tool to help build, run, and test web extensions
