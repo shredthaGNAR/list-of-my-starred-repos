@@ -491,6 +491,7 @@
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
 * [fajarjulyana/circular-nav-html-css-only](https://github.com/fajarjulyana/circular-nav-html-css-only): This is simple circular menu html CSS js
 * [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
+* [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp): Batch Clipboard is a Mac app let's you copy then paste multiple clipboard items at a time, like magic! (Cleepp was its codename during pre-release, I might rename this repo, might not)
 * [cli/cli](https://github.com/cli/cli): GitHub’s official command line tool
 * [spicetify/cli](https://github.com/spicetify/cli): Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 * [PKxk8J/click-tab-move](https://github.com/PKxk8J/click-tab-move): タブ右クリックからタブを別のウインドウに送る Firefox アドオン 
@@ -1805,6 +1806,8 @@
 * [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo): 🧩 The Browser Extension Framework
 * [aaronhff8/plastic-joplin-theme](https://github.com/aaronhff8/plastic-joplin-theme): Theme for Joplin that utilises the standard dark theme and essentially a restyling of Ohmine-Dark-Theme-For-Joplin. 
 * [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus): Create native Mac applications from command line scripts.
+* [alexdevero/playerfm-desktop-app](https://github.com/alexdevero/playerfm-desktop-app): Desktop app for PlayerFM build with electron.
+* [pyrooka/playerfm-downloader](https://github.com/pyrooka/playerfm-downloader): Simple tool written for my colleague. Download list of mp3-s from the given playerfm URL.
 * [benr0th/PlaylistSearch](https://github.com/benr0th/PlaylistSearch): Search your Youtube™ playlists
 * [nicinabox/plistbuddy](https://github.com/nicinabox/plistbuddy): A handy tool to manipulate plist files. Useful for iOS development.
 * [joplin/plugin-templates](https://github.com/joplin/plugin-templates): Create templates in Joplin and use them to create new notes and todos.
