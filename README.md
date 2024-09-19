@@ -2244,7 +2244,7 @@
 * [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile): Web Extension for saving a faithful copy of a complete web page in a single HTML file
 * [gildas-lormeau/SingleFile-Archives](https://github.com/gildas-lormeau/SingleFile-Archives): Pages saved with SingleFile
 * [screenbreak/SingleFile-dockerized](https://github.com/screenbreak/SingleFile-dockerized): SingleFile docker implementation providing access via CLI and WEB service
-* [gildas-lormeau/SingleFile-MV3](https://github.com/gildas-lormeau/SingleFile-MV3): SingleFile version compatible with Manifest V3. The future, right now!
+* [gildas-lormeau/SingleFile-MV3](https://github.com/gildas-lormeau/SingleFile-MV3): SingleFile version compatible with Manifest V3
 * [gildas-lormeau/SingleFile-Safari-Extension](https://github.com/gildas-lormeau/SingleFile-Safari-Extension): Source code of SingleFile for Safari
 * [david-littlefield/SingleFileMac](https://github.com/david-littlefield/SingleFileMac): A Mac application that uses the SingleFile repository.
 * [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ): Web Extension to save a faithful copy of an entire web page in a self-extracting ZIP file 
