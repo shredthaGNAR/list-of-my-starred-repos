@@ -2129,7 +2129,7 @@
 * [seekr-osint/seekr](https://github.com/seekr-osint/seekr): A multi-purpose OSINT toolkit with a neat web-interface.
 * [igorlogius/select-tabs-ext](https://github.com/igorlogius/select-tabs-ext): Powerful tab selection addon with a bunch of one click options but also allow the user to create custom selection rules
 * [Pitmairen/selection-search](https://github.com/Pitmairen/selection-search): Search extension for the chrome web browser
-* [emvaized/selecton-extension](https://github.com/emvaized/selecton-extension): Selecton provides popup with actions on text selection in all major browsers
+* [emvaized/selecton-extension](https://github.com/emvaized/selecton-extension): Selecton browser extension provides popup with actions on text selection in Chrome and Firefox
 * [bitwarden/self-host](https://github.com/bitwarden/self-host): Bitwarden's self-hosted release repository
 * [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide): Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 * [pluja/Selfhosted-Google-Photos-Alternative](https://github.com/pluja/Selfhosted-Google-Photos-Alternative): A complete guide on exiting Google, Amazon or any proprietary service Photos storage with all the features you would want.
