@@ -2800,7 +2800,7 @@
 * [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader): Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
 * [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm): Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
 * [rupa/z](https://github.com/rupa/z): z - jump around
-* [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP core project
+* [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP by Checkmarx Core project
 * [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme): A faithful(ish) Firefox Photon theme.
 * [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors): 🌈 Use your $LS_COLORS to generate a coherent theme for Git & your Zsh prompt, command line and completions.
 * [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir): My zsh config
