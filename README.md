@@ -262,6 +262,7 @@
 * [apehex/awesome-poker](https://github.com/apehex/awesome-poker): :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 * [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering): This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
+* [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts): Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 * [o19s/awesome-search-relevance](https://github.com/o19s/awesome-search-relevance): Tools and other things for people who work on search relevance & information retrieval
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
 * [LeCoupa/awesome-shopify](https://github.com/LeCoupa/awesome-shopify): 👩‍🎓👨‍🎓 Must-read articles, videos and books for store owners, app and theme developers.
