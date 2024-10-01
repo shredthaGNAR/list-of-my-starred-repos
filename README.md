@@ -2573,7 +2573,6 @@
 * [Nomes77/UserChrome](https://github.com/Nomes77/UserChrome): userChrome.css for FireFox and Thunderbird
 * [ago1024/userchrome](https://github.com/ago1024/userchrome): BEcuase F'
 * [annoyatron255/Userchrome](https://github.com/annoyatron255/Userchrome): My Firefox Userchrome Config
-* [p9n/userchrome](https://github.com/p9n/userchrome): userchrome.css/.js for firefox >= 57
 * [Joolee/userchrome-toggle](https://github.com/Joolee/userchrome-toggle): A Firefox extension to allow a user to toggle custom userchrome styles
 * [Naezr/userchrome-toggle-extended](https://github.com/Naezr/userchrome-toggle-extended): A Firefox extension to allow a user to toggle custom userchrome styles
 * [Naezr/userchrome-toggle-extended-2](https://github.com/Naezr/userchrome-toggle-extended-2): This Firefox extension allows you to toggle css styles on the fly
