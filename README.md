@@ -1056,7 +1056,7 @@
 * [gitx/gitx](https://github.com/gitx/gitx): The best fork of the best lightweight, visual git client for macOS.
 * [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi): An unofficial client for the Google Keep API.
 * [chamburr/glance](https://github.com/chamburr/glance): 🔎 All-in-one Quick Look plugin
-* [p3rception/GlassFox](https://github.com/p3rception/GlassFox): // transluscent firefoxcss theme
+* [p3rception/GlassFox](https://github.com/p3rception/GlassFox): // Transluscent FirefoxCSS theme for MacOS
 * [4xx404/GlassFrog](https://github.com/4xx404/GlassFrog): Keyword Search & Information Gathering Tool
 * [ravindranag/glassmorphism-in-firefox](https://github.com/ravindranag/glassmorphism-in-firefox): Create cards with acrylic effect in Firefox
 * [AnhNguyenlost13/GlassyFox](https://github.com/AnhNguyenlost13/GlassyFox): blur overuse lmao
