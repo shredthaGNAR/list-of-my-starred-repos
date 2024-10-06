@@ -638,6 +638,7 @@
 * [0xdevalias/devalias.net](https://github.com/0xdevalias/devalias.net): Source for devalias.net
 * [thunderbird/developer-docs](https://github.com/thunderbird/developer-docs): Developer documentation for Thunderbird contributors.
 * [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio): Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
+* [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio): 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being maintained)
 * [matomo-org/device-detector](https://github.com/matomo-org/device-detector): The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. 
 * [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll): (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
 * [devaradise/devolio](https://github.com/devaradise/devolio): A Simple Astro Portfolio & Blog Template for Developers
