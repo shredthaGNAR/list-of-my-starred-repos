@@ -1036,7 +1036,7 @@
 * [StylishThemes/GitHub-Dark-Script](https://github.com/StylishThemes/GitHub-Dark-Script): Archived - Please use https://github.com/StylishThemes/GitHub-Dark directly
 * [alexmdodge/github-diff-explorer](https://github.com/alexmdodge/github-diff-explorer): The GitHub Diff Explorer is a Chrome/Firefox extension that generates a seamless file explorer with a minimalist focus.
 * [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons): 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
-* [othyn/github-folder-icon-macOS](https://github.com/othyn/github-folder-icon-macOS): GitHub folder icon for use in macOS. Made so that it fits nicely alongside all the others inside your home directory. Mac OS X 10.5 (Leopard) through to macOS 13 (Ventura).
+* [othyn/github-folder-icon-macOS](https://github.com/othyn/github-folder-icon-macOS): GitHub folder icon for use in macOS. Made so that it fits nicely alongside all the others inside your home directory. Mac OS X 10.5 (Leopard) through to macOS 15 (Sequoia).
 * [quantleaf/github-natural-advanced-search](https://github.com/quantleaf/github-natural-advanced-search): None
 * [skills/github-pages](https://github.com/skills/github-pages): Create a site or blog from your GitHub repositories with GitHub Pages.
 * [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator): 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -2341,7 +2341,7 @@
 * [shredthaGNAR/static-marks-docker](https://github.com/shredthaGNAR/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
 * [gaerfield/static-marks-github-pages](https://github.com/gaerfield/static-marks-github-pages): static-marks automatically deployed to github-pages
 * [vipintom/stealthFox](https://github.com/vipintom/stealthFox): Clean and minimal set of changes to get Vertical Tabs in Firefox
-* [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock): Advertising & Malware Blocking Module for Android (Magisk - KernelSU - APatch)
+* [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock): Ad Blocking Module for Android (Magisk - KernelSU - APatch)
 * [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback): The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
 * [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
 * [openstyles/stylus](https://github.com/openstyles/stylus): Stylus - Userstyles Manager
