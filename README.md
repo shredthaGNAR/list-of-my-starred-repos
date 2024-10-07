@@ -457,6 +457,7 @@
 * [jbtule/cdto](https://github.com/jbtule/cdto): Finder Toolbar app to open the current directory in the Terminal
 * [sw-uci/cdto](https://github.com/sw-uci/cdto): Mac script used to open a terminal at the current Finder folder
 * [Adobe-CEP/CEP-Resources](https://github.com/Adobe-CEP/CEP-Resources): Tools and documentation for building Creative Cloud app extensions with CEP
+* [sereneblue/chameleon](https://github.com/sereneblue/chameleon): WebExtension port of Random Agent Spoofer
 * [Godiesc/Chameleons-Beauty](https://github.com/Godiesc/Chameleons-Beauty): Adapted "Beautiful" Themes
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
 * [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail): A browser extension to complete your email with the help of ChatGPT
@@ -1224,6 +1225,7 @@
 * [alexander-ladygin/illustrator-scripts](https://github.com/alexander-ladygin/illustrator-scripts): Adobe Illustrator scripts
 * [rhsimplex/image-match](https://github.com/rhsimplex/image-match): 🎇 Quickly search over billions of images
 * [eight04/image-picka](https://github.com/eight04/image-picka): A Firefox/Chrome extension helping you download images.
+* [The-Osint-Toolbox/Image-Research-OSINT](https://github.com/The-Osint-Toolbox/Image-Research-OSINT): Learn how to research images and the tools, techniques & tradecraft required. 
 * [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension): WebExtension: Adds an option to the context menu to search with an image on various services.
 * [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine): Web app to search similar images
 * [IbrahimMourad/image-search-webapp](https://github.com/IbrahimMourad/image-search-webapp): simple app to search for images by  keyword using unsplash API  
