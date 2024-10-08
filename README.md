@@ -1069,6 +1069,7 @@
 * [dartagnanjacobson/global_poker_scraper](https://github.com/dartagnanjacobson/global_poker_scraper): Global Poker Hand History Scraper
 * [szge/globalpokercalc](https://github.com/szge/globalpokercalc): calculate total playthough for globalpoker.com blackjack
 * [jabiddle/GlobalPokerExt](https://github.com/jabiddle/GlobalPokerExt): A Chrome extension that adds automation and statistic collection to GlobalPoker.
+* [shredthaGNAR/GlobalPokerHandTracker](https://github.com/shredthaGNAR/GlobalPokerHandTracker): None
 * [yinthewind/GlobalPokerHandTracker](https://github.com/yinthewind/GlobalPokerHandTracker): None
 * [tomatopickle/Glox](https://github.com/tomatopickle/Glox): A glassmorphistic Firefox skin, also has round elements
 * [langren1353/GM_script](https://github.com/langren1353/GM_script): 我就是来分享脚本玩玩的
