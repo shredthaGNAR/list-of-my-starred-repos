@@ -1910,6 +1910,7 @@
 * [jigar-sable/Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website): Portfolio Website built using HTML5, CSS3, JavaScript and jQuery
 * [AlpayC/portfolio_site](https://github.com/AlpayC/portfolio_site): My Portfolio website based on react, typescript and tailwind. 
 * [husseyexplores/poshify-utilities](https://github.com/husseyexplores/poshify-utilities): Some posh utilities for Shopify developers and merchants packaged as a browser extension 🎉
+* [manulthanura/Positivus](https://github.com/manulthanura/Positivus): A stunning and versatile Astro theme designed for digital marketing agencies.
 * [fboulnois/positron-ui-firefox](https://github.com/fboulnois/positron-ui-firefox): A simple userChrome for Firefox that restores connected tabs, visual dividers, and the focused tab highlight.
 * [Century300/powerlevel10k](https://github.com/Century300/powerlevel10k): fast install powerlevel10k theme
 * [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k): A Zsh theme
