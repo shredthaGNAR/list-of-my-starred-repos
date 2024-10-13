@@ -247,6 +247,7 @@
 * [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons): A curated list of awesome downloadable SVG/PNG/Font icon projects
 * [vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons): A curated list of awesome Web Font Icons
 * [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv): A curated list of resources related to IPTV
+* [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack): Carefully curated list of awesome Jamstack resources
 * [Cyanhall/awesome-javascript](https://github.com/Cyanhall/awesome-javascript): Better Awesome JavaScript List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
 * [kot-behemoth/awesome-joplin](https://github.com/kot-behemoth/awesome-joplin): 📒 A curated list of awesome Joplin themes and tools.
 * [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
