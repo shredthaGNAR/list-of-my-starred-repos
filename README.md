@@ -184,6 +184,7 @@
 * [GSA/asis](https://github.com/GSA/asis): ASIS (Advanced Social Image Search) indexes Flickr and MRSS images and provides a search API across both indexes.
 * [phguo/AskGPT](https://github.com/phguo/AskGPT): AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
 * [withastro/astro](https://github.com/withastro/astro): The web framework for content-driven websites. ⭐️ Star to support our work!
+* [ccbikai/astro-aria](https://github.com/ccbikai/astro-aria): A personal blog, portfolio, or blog template
 * [Ladvace/astro-bento-portfolio](https://github.com/Ladvace/astro-bento-portfolio): Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro
 * [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate): 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode
 * [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme): CV theme for Astro 🚀
@@ -191,6 +192,7 @@
 * [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
 * [surjithctly/astroship](https://github.com/surjithctly/astroship): Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
+* [onwidget/astrowind](https://github.com/onwidget/astrowind): ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 * [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT): Tool build YouTube revanced mods auto.
 * [atom/atom](https://github.com/atom/atom): :atom: The hackable text editor
 * [Hann8n/Atom-for-Firefox](https://github.com/Hann8n/Atom-for-Firefox): Restores UI to default settings but keeps the translucency effects of FluidFox for MacOS
