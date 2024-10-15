@@ -1493,6 +1493,7 @@
 * [samschott/maestral](https://github.com/samschott/maestral): Open-source Dropbox client for macOS and Linux
 * [alfredapp/magic-8-ball-workflow](https://github.com/alfredapp/magic-8-ball-workflow): A simple workflow that makes use of the Random utility to answer your questions like a classic magic 8-ball
 * [magicdawn/magicdawn](https://github.com/magicdawn/magicdawn): 个人学习 / 代码 / 总结 / 读书笔记
+* [dlemstra/Magick.NET](https://github.com/dlemstra/Magick.NET): The .NET library for ImageMagick
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
 * [Magisk-Modules-Repo/MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf): This tool is now dead...
 * [Clipy/Magnet](https://github.com/Clipy/Magnet): Customize global hotkeys in macOS.
