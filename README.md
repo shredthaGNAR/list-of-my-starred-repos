@@ -2221,7 +2221,7 @@
 * [uicrooks/shopify-theme-lab](https://github.com/uicrooks/shopify-theme-lab): Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI 🧪
 * [uicrooks/shopify-theme-lab-plugins](https://github.com/uicrooks/shopify-theme-lab-plugins): Official Shopify Theme Lab Plugins
 * [johntelforduk/shopify-to-facebook](https://github.com/johntelforduk/shopify-to-facebook): Command line program to convert a Shopify Customer Export file into Facebook Custom Audience List format.
-* [j-Riv/shopify-tools-cli](https://github.com/j-Riv/shopify-tools-cli): CLI to bulk edit Shopify Products / Variants, and Customers. Uses CSV to import and iterate over data.
+* [SuavecitoInc/shopify-tools-cli](https://github.com/SuavecitoInc/shopify-tools-cli): This command-line tool simplifies bulk editing of Shopify store data using the Shopify Admin API. It enables efficient updates to products, product variants, and customer information by importing data from a CSV file. The tool automates the iteration through large datasets, making bulk price adjustments and tag updates much easier.
 * [electricmaybe/shopify-trafo](https://github.com/electricmaybe/shopify-trafo): 🧬 Shopify development environment, ready for Online Store 2.0 and Shopify CLI. Using Tailwind and Webpack.
 * [h0se69/Shopify-Variant-Scraper](https://github.com/h0se69/Shopify-Variant-Scraper): Scrape Shopify Product with variants | Includes Discord Embed
 * [krjo/shopify-webpack-dev-workflow](https://github.com/krjo/shopify-webpack-dev-workflow): None
