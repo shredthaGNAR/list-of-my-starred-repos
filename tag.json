@@ -4409,9 +4409,6 @@
     "igorlogius/bookmark-tabs": [
         "Other"
     ],
-    "igorlogius/copy-link-extras": [
-        "Other"
-    ],
     "igorlogius/copy-tabs": [
         "Other"
     ],
@@ -4422,6 +4419,9 @@
         "Other"
     ],
     "igorlogius/limit-active-tabs": [
+        "Other"
+    ],
+    "igorlogius/link-extras": [
         "Other"
     ],
     "igorlogius/load-background-tabs-on-select": [

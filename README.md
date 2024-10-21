@@ -557,7 +557,6 @@
 * [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff): This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 * [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets): Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 * [webkul/coolhue](https://github.com/webkul/coolhue): Coolest Gradient Hues and Swatches
-* [igorlogius/copy-link-extras](https://github.com/igorlogius/copy-link-extras): Add extra copy functions to links. Works with single or muliple links in a selection. 
 * [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard): Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
 * [igorlogius/copy-tabs](https://github.com/igorlogius/copy-tabs): Copy tabs as hyperlinks or as plaintext URLs, similar to  MS Edge, but better since this addons supports copying mutliple tabs at once
 * [ctrlxc/copyaddrs](https://github.com/ctrlxc/copyaddrs): thunderbird webextentions
@@ -1397,6 +1396,7 @@
 * [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
 * [igorlogius/limit-active-tabs](https://github.com/igorlogius/limit-active-tabs): Limits the number of active tabs by unloading older tabs
 * [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The mouse and trackpad utility for Mac.
+* [igorlogius/link-extras](https://github.com/igorlogius/link-extras): Add extra copy functions to links. Works with single or muliple links in a selection. 
 * [ddawson/Link-Tools](https://github.com/ddawson/Link-Tools): Configurable copy and visit operations for links in Firefox
 * [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner): A Firefox extension to clean urls from tracking and advertisement parameters
 * [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook): Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more. 
