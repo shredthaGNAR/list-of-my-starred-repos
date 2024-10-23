@@ -470,7 +470,7 @@
 * [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT): OpenAI API Free Reverse Proxy
 * [khzg/ChatGPT](https://github.com/khzg/ChatGPT): Ai Chat everywhere (firefox addons)
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-* [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue): ⏩ Automatically continue generating multiple ChatGPT responses
+* [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue): ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
 * [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone): ChatGPT interface with better UI 
 * [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 * [swyxio/chatgpt-mac](https://github.com/swyxio/chatgpt-mac): ChatGPT for Mac, living in your menubar.
