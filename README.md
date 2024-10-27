@@ -1900,6 +1900,7 @@
 * [sdeep27/poker-simulator](https://github.com/sdeep27/poker-simulator): simulates starting hands and flop, turn, river for tournies and cash games in omaha and hold'em poker
 * [Stiff-2904/Poker_Omaha-Hi](https://github.com/Stiff-2904/Poker_Omaha-Hi): Juego de poker Omaha Hi
 * [400yk/PokerBotMac](https://github.com/400yk/PokerBotMac): Mac version of pokerbot project by Dick Neutral
+* [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT): Pokerstars bot that plays real-time poker using GPT4
 * [FranTheHuman/PokerHand](https://github.com/FranTheHuman/PokerHand): Functional exercise in Scala.
 * [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator): Poker-Hand-Evaluator: An efficient poker hand evaluation algorithm and its implementation, supporting 7-card poker and Omaha poker evaluation
 * [forestturner/PokerHandRangeCalc](https://github.com/forestturner/PokerHandRangeCalc): Poker Hand Range Calculator
