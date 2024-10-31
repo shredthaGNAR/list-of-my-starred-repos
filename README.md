@@ -429,6 +429,7 @@
 * [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop): :key: Cross-Platform Passwords & Secrets Vault
 * [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly): 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 * [loup-brun/buttons](https://github.com/loup-brun/buttons): A collection of CSS buttons.
+* [shredthaGNAR/buttons](https://github.com/shredthaGNAR/buttons): A collection of CSS buttons.
 * [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome): Bypass Paywalls web browser extension for Chrome and Firefox.
 * [bpc-clone/bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters): None
 * [iamadamdev/bypass-paywalls-firefox](https://github.com/iamadamdev/bypass-paywalls-firefox): Bypass Paywalls for Firefox
