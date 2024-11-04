@@ -2697,7 +2697,7 @@
 * [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension): Browser extension to spoof timezone, geolocation, locale and user agent.
 * [sedemmler/WagerBrain](https://github.com/sedemmler/WagerBrain): A package containing the essential math required for sports betting and gambling.
 * [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
-* [wallabag/wallabagger](https://github.com/wallabag/wallabagger): Chrome / Firefox / Opera plugin for wallabag v2.
+* [wallabag/wallabagger](https://github.com/wallabag/wallabagger): Chrome-like / Firefox plugin for wallabag v2.
 * [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper): :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
 * [cheap-glitch/warpgate](https://github.com/cheap-glitch/warpgate): 💫 A lightweight browser extension to jump to various external bookmarks from the address bar.
 * [moseoridev/WarpShare](https://github.com/moseoridev/WarpShare): An Open-source AirDrop Alternative
