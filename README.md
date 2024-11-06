@@ -1822,7 +1822,7 @@
 * [YukisCoffee/phroton-legacy](https://github.com/YukisCoffee/phroton-legacy): Firefox Proton userChrome.css for an accurate Photon theme.
 * [uoftcprg/phs-dataset](https://github.com/uoftcprg/phs-dataset): A dataset of poker hand strengths
 * [bltavares/pickpocket](https://github.com/bltavares/pickpocket): Pocket CLI management tools
-* [ppati000/pickpocket](https://github.com/ppati000/pickpocket): Pickpocket imports Pocket links to Safari reading list. 
+* [patrick-petrovic/pickpocket](https://github.com/patrick-petrovic/pickpocket): Pickpocket imports Pocket links to Safari reading list. 
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
 * [jbhoot/pin-unpin-tab](https://github.com/jbhoot/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
