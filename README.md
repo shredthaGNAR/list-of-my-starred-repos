@@ -2030,6 +2030,7 @@
 * [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle): Move and resize windows on macOS with keyboard shortcuts and snap areas
 * [rxhanson/RectanglePro-Community](https://github.com/rxhanson/RectanglePro-Community): Bug reports and discussion for the Rectangle Pro app
 * [arrowtype/recursive](https://github.com/arrowtype/recursive): Recursive Mono & Sans is a variable font family for code & UI
+* [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite): Reddit Enhancement Suite
 * [haoict/reddit-no-ads](https://github.com/haoict/reddit-no-ads): Tweak to remove "Promoted" post on Reddit app for iOS!
 * [vihanggodbole/reddit-pocket-sync](https://github.com/vihanggodbole/reddit-pocket-sync): None
 * [marioortizmanero/reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google): Button on Google to search only for Reddit posts
