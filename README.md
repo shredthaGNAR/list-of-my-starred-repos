@@ -2067,6 +2067,7 @@
 * [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root): Real-time repository build Revanced and Revanced Extended about 5 minutes after patch release
 * [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template): Github Template for building Revanced
 * [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder): A NodeJS ReVanced builder
+* [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli): 💻 Command-line application to use ReVanced
 * [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator): Create Revanced apps easily ☠️
 * [ReVanced/revanced-documentation](https://github.com/ReVanced/revanced-documentation): 🗄 Collection of all ReVanced documentation
 * [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation): 🗄 Documentation and guides for ReVanced Extended
