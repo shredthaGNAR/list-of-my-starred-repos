@@ -2579,7 +2579,7 @@
 * [zhuozhiyongde/Unlocking-Raycast-With-Surge](https://github.com/zhuozhiyongde/Unlocking-Raycast-With-Surge): Utilize Surge's MiTM capability to intercept requests and leverage Docker services to emulate backend operations, enabling the activation of Raycast.
 * [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension): Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 * [aahung/Unshaky](https://github.com/aahung/Unshaky): A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
-* [UnstoppableSwap/unstoppableswap-gui](https://github.com/UnstoppableSwap/unstoppableswap-gui):  Graphical User Interface (GUI) For Trustless Cross-Chain XMR<>BTC Atomic Swaps 
+* [UnstoppableSwap/unstoppableswap-gui](https://github.com/UnstoppableSwap/unstoppableswap-gui):  Graphical User Interface (GUI) For Trustless Cross-Chain XMR<>BTC Atomic Swaps. This repository has been moved to: https://github.com/UnstoppableSwap/core
 * [blenderskool/untab](https://github.com/blenderskool/untab): 🔍 A productivity tool to boost your browser workflow!
 * [TheLoserCoder/unvisited_tabs_indicator](https://github.com/TheLoserCoder/unvisited_tabs_indicator): None
 * [alfredapp/update-automation-tasks-workflow](https://github.com/alfredapp/update-automation-tasks-workflow): Update Automation Tasks During Alfred 5 Early Access
