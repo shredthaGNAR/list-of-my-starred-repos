@@ -976,6 +976,7 @@
 * [vincenzocaputo/FoxyRecon](https://github.com/vincenzocaputo/FoxyRecon): A Firefox add-on for OSINT investigations
 * [prabunagrajan/free-design-resources](https://github.com/prabunagrajan/free-design-resources): A collection of websites for free UI design materials for Sketch, Adobe XD, Figma, and other design tools.
 * [LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks): Freely bookmark export tool. 自由地书签导出工具。
+* [jamesjingyi/free-mac-apps](https://github.com/jamesjingyi/free-mac-apps): A list of apps I use on my MacBook
 * [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api): 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
 * [psugihara/FreeChat](https://github.com/psugihara/FreeChat): llama.cpp based AI chat app for macOS
 * [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel): Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
