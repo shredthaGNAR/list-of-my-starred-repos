@@ -2361,6 +2361,7 @@
 * [maizzle/starter-gradients](https://github.com/maizzle/starter-gradients): Use CSS background gradients in HTML emails, with VML fallback for Outlook.
 * [maizzle/starter-markdown](https://github.com/maizzle/starter-markdown): Generate HTML emails from Markdown files
 * [actions/starter-workflows](https://github.com/actions/starter-workflows): Accelerating new GitHub Actions workflows 
+* [thedevdojo/static](https://github.com/thedevdojo/static): ⚡️ The ultimate static site generator. Tailor-made for killer blogs, sizzling SaaS landings, audacious personal sites, and every web fantasy you dare to dream up.
 * [darekkay/static-marks](https://github.com/darekkay/static-marks): Shareable bookmarks
 * [darekkay/static-marks-app](https://github.com/darekkay/static-marks-app): Frontend part of the Static Marks project
 * [gaerfield/static-marks-docker](https://github.com/gaerfield/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
