@@ -1343,7 +1343,7 @@
 * [wulkano/Kap](https://github.com/wulkano/Kap): An open-source screen recorder built with web technology
 * [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived): Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 * [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator): Simple web app to help generate Karabiner Elements Complex Rules
-* [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements): Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+* [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements): Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 * [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode): Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
 * [kazimmt/kazimmt.github.io](https://github.com/kazimmt/kazimmt.github.io): Organized ReVanced & ReVanced Extended functionalities along with visual illustrations.
 * [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications): Karabiner-Elements complex_modifications rules
