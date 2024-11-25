@@ -2596,6 +2596,7 @@
 * [jacklukem/USBOpenCoreAPFSloader](https://github.com/jacklukem/USBOpenCoreAPFSloader): None
 * [TrollSkull/uScanner](https://github.com/TrollSkull/uScanner): uScanner is a tool to find usernames on various pages throughout the entire internet.
 * [gglukmann/use-google-sheets](https://github.com/gglukmann/use-google-sheets): 📝 A React Hook for getting data from Google Sheets API v4
+* [mraza007/useful-bookmarks](https://github.com/mraza007/useful-bookmarks): Basically my firefox bookmarks with better search
 * [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io): Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 * [jingyu9575/user-chrome-js](https://github.com/jingyu9575/user-chrome-js): Firefox extension (privileged) to enable userChrome.js support
 * [JYLD/User-CSS-For-Firefox-And-Thunderbird](https://github.com/JYLD/User-CSS-For-Firefox-And-Thunderbird): User CSS Contributions For CustomizeMyBird and Custom CSS For FX
