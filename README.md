@@ -1012,7 +1012,7 @@
 * [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter): A high performance skeleton starter for GatsbyJS with an advanced feature set.
 * [Vagr9K/gatsby-material-starter](https://github.com/Vagr9K/gatsby-material-starter): A high performance blog starter with Material design in mind for GatsbyJS.
 * [gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog): Gatsby starter for creating a blog
-* [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen): A constantly evolving and thoughtful architecture for creating static blogs with Gatsby.
+* [alxshelepenok/gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen): A constantly evolving and thoughtful architecture for creating static blogs.
 * [LekoArts/gatsby-starter-portfolio-cara](https://github.com/LekoArts/gatsby-starter-portfolio-cara): Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.
 * [ncyhere/gatsby-starter-shopify](https://github.com/ncyhere/gatsby-starter-shopify): A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
 * [wkocjan/gatsby-theme-intro](https://github.com/wkocjan/gatsby-theme-intro): Personal branding theme for developers
