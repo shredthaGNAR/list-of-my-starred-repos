@@ -333,7 +333,7 @@
 * [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources): My starter pack for people new to the bewildering world of bitcoin.
 * [ajmalshahabudeen/Bitwarden-Duplicate-remover](https://github.com/ajmalshahabudeen/Bitwarden-Duplicate-remover): When Importing multiple CSV files Bitwarden creates Duplicate Entries. So this Python script will remove duplicate entries and keep ONE.
 * [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar): Bitwarden in the macOS menu bar
-* [elias123tre/bitwarden_find_duplicates](https://github.com/elias123tre/bitwarden_find_duplicates): Find duplicate logins based on domain, from Bitwarden export. Open source for your safety.
+* [eliasfloreteng/bitwarden_find_duplicates](https://github.com/eliasfloreteng/bitwarden_find_duplicates): Find duplicate logins based on domain, from Bitwarden export. Open source for your safety.
 * [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh): 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
 * [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username and email in social networks.
 * [danielmiessler/blackhat-arsenal-tools](https://github.com/danielmiessler/blackhat-arsenal-tools): Official Black Hat Arsenal Security Tools Repository
