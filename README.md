@@ -833,6 +833,7 @@
 * [RealRaven2000/FiltaQuilla](https://github.com/RealRaven2000/FiltaQuilla): Adds many new mail filter actions to Thunderbird
 * [itsmejayd/filter-duplicate-lines](https://github.com/itsmejayd/filter-duplicate-lines): A Python tool with a Flask web interface designed to remove duplicate entries from line break delimited lists while maintaining the relative position of blank lines in the input text. Originally created to clean up OneTab exports (maintaining tab groups), it can be used for any text list with similar requirements.
 * [yokoffing/filterlists](https://github.com/yokoffing/filterlists): Collection of blocklists to fill in the gaps
+* [AdguardTeam/FiltersRegistry](https://github.com/AdguardTeam/FiltersRegistry): Known filters subscriptions transformed for better compatibility with AdGuard
 * [iShopifyExpert/find-my-size-shopify](https://github.com/iShopifyExpert/find-my-size-shopify): None
 * [liqing1993/Find-The-Person-You-Want-in-videos](https://github.com/liqing1993/Find-The-Person-You-Want-in-videos): This project is to build a image search system. 
 * [pointu-l/finder-basic-visor](https://github.com/pointu-l/finder-basic-visor): Basic AppleScript visor mode for the finder. Designed for better touch tool
