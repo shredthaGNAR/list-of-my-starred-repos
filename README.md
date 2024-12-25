@@ -513,7 +513,7 @@
 * [bitwarden/clients](https://github.com/bitwarden/clients): Bitwarden client apps (web, browser extension, desktop, and cli).
 * [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur): A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
 * [clipboard2file/clipboard2file](https://github.com/clipboard2file/clipboard2file): WebExtension for using images on the clipboard as files
-* [aecreations/clippings](https://github.com/aecreations/clippings): Clippings: an extension for Mozilla Firefox
+* [aecreations/clippings](https://github.com/aecreations/clippings): Clippings: an extension for Firefox
 * [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Clippings for Thunderbird
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
 * [ian4hu/Clipy](https://github.com/ian4hu/Clipy): Clipboard extension app for macOS.
@@ -670,6 +670,7 @@
 * [vexorian/dizquetv](https://github.com/vexorian/dizquetv): Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
 * [fredjoseph/dns-blocker](https://github.com/fredjoseph/dns-blocker): DNS Blocker for Chrome and Firefox (Web Extension)
 * [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists): DNS-Blocklists: For a better internet - keep the internet clean!
+* [julian-klode/dns66](https://github.com/julian-klode/dns66): DNS-based Host Blocker (and lightweight ad blocker) for Android
 * [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy): dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 * [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest): DNS Performance test
 * [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli): Control the macOS `Do Not Disturb` feature from the command-line
@@ -2033,7 +2034,7 @@
 * [napsternxg/ReadLater](https://github.com/napsternxg/ReadLater): This is a google chrome extension for saving links for later reading.
 * [sakuyaa/readLater](https://github.com/sakuyaa/readLater): A Read-it-later extension for Firefox using WebExtension APIs
 * [timleland/ReadLaterCE](https://github.com/timleland/ReadLaterCE): Read Later Chrome Extension
-* [aecreations/readnext](https://github.com/aecreations/readnext): Read Next: an extension for Mozilla Firefox
+* [aecreations/readnext](https://github.com/aecreations/readnext): Read Next: an extension for Firefox
 * [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire): A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
 * [bhavsec/reconspider](https://github.com/bhavsec/reconspider): 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 * [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle): Move and resize windows on macOS with keyboard shortcuts and snap areas
