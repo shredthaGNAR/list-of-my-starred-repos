@@ -520,7 +520,6 @@
 * [spieglt/Cloaker](https://github.com/spieglt/Cloaker): Simple, drag-and-drop, password-based file encryption
 * [infinitepower18/clone-in-vscode](https://github.com/infinitepower18/clone-in-vscode): Browser extension to clone any GitHub, GitLab or Bitbucket repository in Visual Studio Code
 * [webextensions/close-tab-by-double-right-click](https://github.com/webextensions/close-tab-by-double-right-click): Source code for Chrome/Firefox extension "Close Tab by Double Right Click"
-* [Aadil101/cloud](https://github.com/Aadil101/cloud): A clean storage management interface for Google Drive, Dropbox, Box, and OneDrive accounts.
 * [PHLAK/CloudDrop](https://github.com/PHLAK/CloudDrop): Store and retrieve files in cloud storage providers (i.e. Dropbox, Google Drive, Microsoft OneDrive, Amazon Cloud Drive, etc.)
 * [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler): CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.
 * [Micky1979/Clover-Configurator-Pro](https://github.com/Micky1979/Clover-Configurator-Pro): A free Plist Editor with some optional facilities for Clover UEFI boot loader
