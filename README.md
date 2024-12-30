@@ -524,6 +524,7 @@
 * [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler): CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.
 * [Micky1979/Clover-Configurator-Pro](https://github.com/Micky1979/Clover-Configurator-Pro): A free Plist Editor with some optional facilities for Clover UEFI boot loader
 * [johncoryk/coastal-shopify-theme](https://github.com/johncoryk/coastal-shopify-theme): Shopify theme for Low Coast Coffee
+* [imputnet/cobalt](https://github.com/imputnet/cobalt): best way to save what you love
 * [JudiniLabs/code-gpt-docs](https://github.com/JudiniLabs/code-gpt-docs): Docusaurus page
 * [lauthieb/code-notes](https://github.com/lauthieb/code-notes): (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 * [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
@@ -609,6 +610,7 @@
 * [amitness/cutcode](https://github.com/amitness/cutcode): A browser extension that enables double click to copy code snippet from stack overflow.
 * [juanboro/cync2mqtt](https://github.com/juanboro/cync2mqtt): Bridge Cync bluetooth mesh to mqtt
 * [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights): Home Assistant Integration for controlling Cync switches, plugs, and bulbs
+* [dtankdempse/daddylive-m3u](https://github.com/dtankdempse/daddylive-m3u): Add DaddyLive TV & Sports streams to your IPTV application using the M3U playlists provided in this repository. There are four different playlist formats available, each tailored for specific applications or media players.
 * [DanaMW/DanaMW.github.io](https://github.com/DanaMW/DanaMW.github.io): None
 * [mitchuman/danshari](https://github.com/mitchuman/danshari): A blank slate theme for Shopify 2.0
 * [dagware/DanThomas](https://github.com/dagware/DanThomas): Dan Thomas' stuff
@@ -801,6 +803,7 @@
 * [eza-community/eza](https://github.com/eza-community/eza): A modern alternative to ls
 * [jotyGill/ezsh](https://github.com/jotyGill/ezsh): quickly setup shell environment by installing zsh, oh-my-zsh with power-level-10k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search and more
 * [mifi/ezshare](https://github.com/mifi/ezshare): Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
+* [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl): Advanced electron-based frontend for yt-dlp
 * [Raathigesh/fabulous](https://github.com/Raathigesh/fabulous): 🎨 CSS properties sidebar for VS Code
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition): The world's simplest facial recognition api for Python and the command line
 * [dmhacker/facebook-message-analysis](https://github.com/dmhacker/facebook-message-analysis): Visualizations of Facebook messenger history
@@ -1277,7 +1280,9 @@
 * [BlackJack8/iOSAdblockList](https://github.com/BlackJack8/iOSAdblockList): Ultimate Host List for Mobile Adblockers (Focused on iOS)
 * [ShaleenM/IP-Camera](https://github.com/ShaleenM/IP-Camera): Change your android phone to surveillance camera
 * [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop): An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. 
+* [Free-TV/IPTV](https://github.com/Free-TV/IPTV): M3U Playlist for free TV channels
 * [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world
+* [4gray/iptvnator](https://github.com/4gray/iptvnator): :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 * [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu): open-source jailbreaking tool for many iOS devices
 * [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes): Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more
 * [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy): Elegant iTerm2 theme with bright colors
