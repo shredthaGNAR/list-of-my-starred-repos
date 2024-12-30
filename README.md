@@ -1277,6 +1277,7 @@
 * [BlackJack8/iOSAdblockList](https://github.com/BlackJack8/iOSAdblockList): Ultimate Host List for Mobile Adblockers (Focused on iOS)
 * [ShaleenM/IP-Camera](https://github.com/ShaleenM/IP-Camera): Change your android phone to surveillance camera
 * [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop): An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. 
+* [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world
 * [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu): open-source jailbreaking tool for many iOS devices
 * [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes): Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more
 * [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy): Elegant iTerm2 theme with bright colors
