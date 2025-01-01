@@ -66,7 +66,7 @@
 * [Levi2288/AdvancedBlockList](https://github.com/Levi2288/AdvancedBlockList): Block list for PI hole 
 * [117649/AdvancedLocationbar2](https://github.com/117649/AdvancedLocationbar2): None
 * [Czarto/Adwords-Scripts](https://github.com/Czarto/Adwords-Scripts): Google Ads Bidding scripts
-* [unify-ui-dev/agency-landing-page-Astrojs](https://github.com/unify-ui-dev/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
+* [unoforge/agency-landing-page-Astrojs](https://github.com/unoforge/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to enhance your web experience
