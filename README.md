@@ -2522,7 +2522,6 @@
 * [cleidigh/ThunderStorm](https://github.com/cleidigh/ThunderStorm): Tips, Tricks & Examples for Thunderbird E-mail New Add-On Development
 * [snchong/thunderthings](https://github.com/snchong/thunderthings): Integration between Thunderbird and Cultured Code's Things on macOS
 * [tiged/tiged](https://github.com/tiged/tiged): Community driven fork of degit
-* [Tikipeter/tikipeter.github.io](https://github.com/Tikipeter/tikipeter.github.io): None
 * [chzesa/tiled-tab-groups](https://github.com/chzesa/tiled-tab-groups): None
 * [skhzhang/time-based-themes](https://github.com/skhzhang/time-based-themes): Automatically change Firefox's theme based on the time
 * [visini/timebox](https://github.com/visini/timebox): A Custom Pomodoro macOS Menubar App with Things 3 integration
