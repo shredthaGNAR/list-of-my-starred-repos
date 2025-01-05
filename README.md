@@ -234,7 +234,7 @@
 * [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking): 🔖 Everything bookmarking related
 * [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
 * [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt): A curated list of awesome ChatGPT related projects.
-* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
+* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 * [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css): :art: A curated contents of amazing CSS :)
 * [uhub/awesome-css](https://github.com/uhub/awesome-css): A curated list of awesome CSS frameworks, libraries and software.
@@ -2578,7 +2578,7 @@
 * [avotoko/ubo-resource](https://github.com/avotoko/ubo-resource): uBlock Origin Experimental Scriptlets Resource
 * [uBlockO/uBO-Scriptlets](https://github.com/uBlockO/uBO-Scriptlets): A custom arsenal of scriptlets to be used for injecting userscripts via uBlock Origin.
 * [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js): A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, behaviors and other opinionated features. The theme is similar to other userChrome stylesheets, but it's intended for use with an autoconfig loader like fx-autoconfig, since it uses JavaScript to implement its more functional features.
-* [eludadev/ui-buttons](https://github.com/eludadev/ui-buttons): 100 Modern CSS Buttons. Every style that you can imagine.
+* [youneslaaroussi/ui-buttons](https://github.com/youneslaaroussi/ui-buttons): 100 Modern CSS Buttons. Every style that you can imagine.
 * [web-ext-labs/ui-tool](https://github.com/web-ext-labs/ui-tool): UI for create-web-ext
 * [DeweyReed/UltimateRingtonePicker](https://github.com/DeweyReed/UltimateRingtonePicker): An Android music picker library for picking alarm, notification or ringtones sound using an Activity or a dialog.
 * [Swift-open-source/UltraTabSaver](https://github.com/Swift-open-source/UltraTabSaver): The open source Tab Manager Extension for Safari.
