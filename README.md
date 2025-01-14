@@ -1451,7 +1451,7 @@
 * [gkoehler/LogiCircleDownloader](https://github.com/gkoehler/LogiCircleDownloader): Automatically download all your videos from your Logi Circle camera
 * [kaktuspalme/LogiCircleDownloader](https://github.com/kaktuspalme/LogiCircleDownloader): Automatically download all your videos from your Logi Circle camera
 * [VMpc/Login-Stealer](https://github.com/VMpc/Login-Stealer): what the name says (made for "educational" purposes)
-* [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui): Lord of Large Language Models Web User Interface
+* [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui): Lord of Large Language and Multi modal Systems Web User Interface
 * [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
 * [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
 * [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks): 💚 🍴 Show notable forks of GitHub repositories under their names.
