@@ -102,7 +102,7 @@
 * [fniephaus/alfred-pocket](https://github.com/fniephaus/alfred-pocket): Manage your Pocket list with Alfred
 * [cj1128/alfred-qrcode-workflow](https://github.com/cj1128/alfred-qrcode-workflow): 🎉 Generate/Scan QR Code on the fly
 * [surrealroad/alfred-reminders](https://github.com/surrealroad/alfred-reminders): Manages reminders in Reminders.app
-* [sballin/alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app): Use Alfred to quickly open notes in iCloud/Apple Notes.
+* [sballin/alfred-search-notes-app](https://github.com/sballin/alfred-search-notes-app): Use Alfred to quickly open notes in iCloud/Apple Notes. Written in Go and designed for speed.
 * [deanishe/alfred-smartfolders](https://github.com/deanishe/alfred-smartfolders): Quick access to your Smart Folders (Saved Searches) from Alfred
 * [dkarter/alfred-switch-audio](https://github.com/dkarter/alfred-switch-audio): 🔊 Switch Audio Output/Input with Alfred
 * [pawelgrzybek/alfred-text-manipulation](https://github.com/pawelgrzybek/alfred-text-manipulation): None
