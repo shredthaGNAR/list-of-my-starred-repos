@@ -2752,6 +2752,7 @@
 * [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator): Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
 * [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances): Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
 * [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs): A suite of polyfills supporting the HTML Web Components specs
+* [Frontendland/webcore-astro-portfolio](https://github.com/Frontendland/webcore-astro-portfolio): Free and open-source portfolio template for Astro built using Webcore
 * [subins2000/WebDrop](https://github.com/subins2000/WebDrop): Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)
 * [thunderbird/webext-examples](https://github.com/thunderbird/webext-examples): Example extensions for Thunderbird WebExtensions APIs
 * [thunderbird/webext-experiments](https://github.com/thunderbird/webext-experiments): WebExtension Experiments for Thunderbird
