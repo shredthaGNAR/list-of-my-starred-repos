@@ -1820,6 +1820,7 @@
 * [ChanChunCheong/PeopleSearch](https://github.com/ChanChunCheong/PeopleSearch): DSO Summer Internship-People Search Aggregator web application which use data analytics and artificial intelligence libraries, to simultaneously search social media profiles from various platforms, processes, and then rank the search results based on name, location, keywords and image matching
 * [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 * [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis): Persepolis is a download manager written in Python.
+* [ivansaul/personal-portfolio](https://github.com/ivansaul/personal-portfolio): Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 * [juyomay21/personal-site](https://github.com/juyomay21/personal-site): My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 * [mldangelo/personal-site](https://github.com/mldangelo/personal-site): My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
 * [bjacquemet/personal-web](https://github.com/bjacquemet/personal-web): Hugo Template for Freelancer Portfolio and Blog
