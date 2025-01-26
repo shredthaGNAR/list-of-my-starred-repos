@@ -2452,7 +2452,7 @@
 * [jingyu9575/tabs-to-bookmark-groups](https://github.com/jingyu9575/tabs-to-bookmark-groups): (Work in progress) Firefox extension to save the tabs to a bookmark group and switch between different groups.
 * [deniszanin/tabs2text](https://github.com/deniszanin/tabs2text): Tabs2Text is a Firefox extension to export all your opened tabs to a text file.
 * [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver): WebExtension to manage tabs
-* [xtract64/tabsaver](https://github.com/xtract64/tabsaver): Allows you to easily save all of your tabs for later use, reducing clutter
+* [nekoramuza/tabsaver](https://github.com/nekoramuza/tabsaver): Allows you to easily save all of your tabs for later use, reducing clutter
 * [jdberry/tag](https://github.com/jdberry/tag): A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags.
 * [derickfay/tag-services](https://github.com/derickfay/tag-services): Automator workflows to add tagging services to Mavericks
 * [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces): TagSpaces is an offline, open source, document manager with tagging support
