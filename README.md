@@ -59,7 +59,7 @@
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
 * [Korveld/Adobe-URL-Block-List](https://github.com/Korveld/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Hosts file.
 * [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Host file.
-* [YarosMallorca/adobe_deactivation_bypass](https://github.com/YarosMallorca/adobe_deactivation_bypass): A CLI tool to bypass Adobe's deactivation prompt
+* [YarosMallorca/adobe_dns_filter](https://github.com/YarosMallorca/adobe_dns_filter): A CLI tool to block certain Adobe-related domains in the computer's hosts file
 * [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser): Bypass ad counter if possible.
 * [adsbypasser/adsbypasser.github.io](https://github.com/adsbypasser/adsbypasser.github.io): None
 * [polywock/advanced-image-search](https://github.com/polywock/advanced-image-search): An extension to search Google images. 
