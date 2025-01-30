@@ -613,7 +613,6 @@
 * [amitness/cutcode](https://github.com/amitness/cutcode): A browser extension that enables double click to copy code snippet from stack overflow.
 * [juanboro/cync2mqtt](https://github.com/juanboro/cync2mqtt): Bridge Cync bluetooth mesh to mqtt
 * [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights): Home Assistant Integration for controlling Cync switches, plugs, and bulbs
-* [dtankdempse/daddylive-m3u](https://github.com/dtankdempse/daddylive-m3u): Add DaddyLive TV & Sports streams to your IPTV application using the M3U playlists provided in this repository. There are four different playlist formats available, each tailored for specific applications or media players.
 * [DanaMW/DanaMW.github.io](https://github.com/DanaMW/DanaMW.github.io): None
 * [mitchuman/danshari](https://github.com/mitchuman/danshari): A blank slate theme for Shopify 2.0
 * [dagware/DanThomas](https://github.com/dagware/DanThomas): Dan Thomas' stuff
