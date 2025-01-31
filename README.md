@@ -875,7 +875,6 @@
 * [akisblack/firefox-css](https://github.com/akisblack/firefox-css): My custom CSS for Firefox 
 * [deciare/firefox-css](https://github.com/deciare/firefox-css): Customisations to Firefox via userChrome.css
 * [dexeonify/firefox-css](https://github.com/dexeonify/firefox-css): My CSS configuration to customise Firefox to my liking.
-* [pdtxie/firefox-css](https://github.com/pdtxie/firefox-css): None
 * [seatedSinger/Firefox-CSS](https://github.com/seatedSinger/Firefox-CSS): None
 * [NiBa97/firefox-css-custom](https://github.com/NiBa97/firefox-css-custom): A modified version of Andreas Grafen's "ag-proton" design for firefox
 * [viesual/Firefox-CSS-for-MacOS](https://github.com/viesual/Firefox-CSS-for-MacOS): A custom Firefox CSS that works well with the current MacOS design
