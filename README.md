@@ -886,6 +886,7 @@
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
 * [MethodGrab/firefox-google-search-by-image](https://github.com/MethodGrab/firefox-google-search-by-image): A Firefox extension that adds Google’s "search by image" to the browser context menu
 * [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx): Opera GX Skin for Firefox
+* [Ulf3000/Firefox-Highlight-Tabs](https://github.com/Ulf3000/Firefox-Highlight-Tabs): firefox addon to highlight tabs with colors for easy and fast recognition and fluid workflow
 * [SophieFitz/Firefox-History-Combiner](https://github.com/SophieFitz/Firefox-History-Combiner): 🚀 A blazing fast and efficient tool with GUI to combine multiple Firefox history databases together!
 * [pratyushtewari/firefox-like-chrome](https://github.com/pratyushtewari/firefox-like-chrome): This is the userChrome.css that can be used to theme Firfox Quantum 59.0 to look like chrome
 * [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-): Light theme on Firefox 
@@ -1183,7 +1184,6 @@
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
 * [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator): Simple tool to generate HIDUTIL key remapping configurations for MacOS
 * [annedorko/highlight](https://github.com/annedorko/highlight): Static Site Generator (SSG) for creating multiple targeted portfolios and resumes with one website.
-* [Ulf3000/highlight-tabs](https://github.com/Ulf3000/highlight-tabs): firefox addon to highlight tabs with colors for easy and fast recognition and fluid workflow
 * [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 * [agneevX/home-assistant](https://github.com/agneevX/home-assistant): Home Assistant lovelace layout and config
 * [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar): Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
