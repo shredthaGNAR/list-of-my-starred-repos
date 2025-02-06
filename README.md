@@ -367,6 +367,7 @@
 * [fedragon/bookmarkd](https://github.com/fedragon/bookmarkd): Stores HTML pages as Markdown files in an Obsidian vault
 * [vaeth/bookmarkdupes](https://github.com/vaeth/bookmarkdupes): A WebExtension which can display/remove duplicate bookmarks or empty folders
 * [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub): BookmarkHub , sync bookmarks across different browsers
+* [K2SOsint/Bookmarklets](https://github.com/K2SOsint/Bookmarklets): A small collection of bookmarklets that are useful for OSINT, including ones for e-mail addresses, Facebook, extracting links and WhatsMyName.app.
 * [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu): WebExtension allow to execute bookmarklets as privileged scripts
 * [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks): :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev 
 * [aerobless/bookmarks](https://github.com/aerobless/bookmarks): Personal browser launch page. Made with static-marks.
@@ -2189,6 +2190,7 @@
 * [aderyabin/ServPane](https://github.com/aderyabin/ServPane): A launchd menu bar app for Mac
 * [oxen-io/session-android](https://github.com/oxen-io/session-android): A private messenger for Android.
 * [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop): Session Desktop - Onion routing based messenger
+* [Ulf3000/sessionBuddy](https://github.com/Ulf3000/sessionBuddy): simple session manager for firefox using the internal sessionstore api
 * [navorite/sessionic](https://github.com/navorite/sessionic): A web extension to save, manage and restore sessions, windows and tabs.
 * [AlexPerathoner/Sessions](https://github.com/AlexPerathoner/Sessions): Safari extension to save your working sessions
 * [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync): SessionSync
