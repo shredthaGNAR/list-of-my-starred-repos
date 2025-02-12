@@ -1750,7 +1750,7 @@
 * [armanozak/open-in-vscode](https://github.com/armanozak/open-in-vscode): Mac OS workflow that adds a quick action to Finder for opening files and folders in VS Code
 * [rkanter/Open-iTerm-or-Terminal-Here...](https://github.com/rkanter/Open-iTerm-or-Terminal-Here...): Generates an Applescript app that you can put in your Finder toolbar which will open an iTerm or Terminal tab at the current directory.
 * [kyuucr/open-link-in-other-window](https://github.com/kyuucr/open-link-in-other-window): Firefox extension for opening links in other window.
-* [htrinter/Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs): Browser extension for opening lists of URLs built on top of WebExtension with cross-browser support
+* [htrinter/Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs): Browser extension for opening lists of URLs built with Vue.js on top of WebExtension with cross-browser support
 * [cpeterso/open-page-in-private-window](https://github.com/cpeterso/open-page-in-private-window): 👻 Firefox extension to open a copy of the current page in a new Private Window
 * [open-pocket/open-pocket](https://github.com/open-pocket/open-pocket): Building a 'clean room' open-source implementation of Pocket
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
