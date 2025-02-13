@@ -2028,7 +2028,6 @@
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
 * [ZhouXiaolin/raycast-ai-proxy](https://github.com/ZhouXiaolin/raycast-ai-proxy): a simple raycast ai proxy by rust
 * [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f): Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
-* [blindFS/raycast-google-gemini](https://github.com/blindFS/raycast-google-gemini): google gemini plugin for recast
 * [wibus-wee/raycast-unblock](https://github.com/wibus-wee/raycast-unblock): Unblock all features in Raycast Pro Plan with implementing similar functions in other ways
 * [yufeikang/raycast_api_proxy](https://github.com/yufeikang/raycast_api_proxy): This is a simple Raycast AI API proxy.
 * [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama): Raycast extention for Ollama
