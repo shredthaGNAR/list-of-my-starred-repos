@@ -1414,6 +1414,7 @@
 * [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2): The libgphoto2 camera access and control library.
 * [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
 * [libreddit/libreddit](https://github.com/libreddit/libreddit): Private front-end for Reddit
+* [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack): Private, cross-platform package tracking app
 * [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube): An alternative frontend for YouTube, for Android.
 * [hnhx/librex](https://github.com/hnhx/librex): Framework and javascript free privacy respecting meta search engine
 * [Ahwxorg/LibreY](https://github.com/Ahwxorg/LibreY): Framework and JS free privacy respecting meta search engine
@@ -2313,6 +2314,7 @@
 * [shredthaGNAR/skip-prime-video-intro](https://github.com/shredthaGNAR/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
 * [Skyflash/skyflash.github.io](https://github.com/Skyflash/skyflash.github.io): 🎨 My personal website
 * [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox): :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
+* [smartertechnologist/SmarterBookmarks-Android](https://github.com/smartertechnologist/SmarterBookmarks-Android): Official documentation for the SmarterBookmarks android app
 * [RealRaven2000/SmartTemplates](https://github.com/RealRaven2000/SmartTemplates): Thunderbird Add-on: SmartTemplates
 * [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube): Advanced player for set-top boxes and tvs running Android OS
 * [zimocode/smartup](https://github.com/zimocode/smartup): A customizable web browser mouse gestures extension with a variety of actions.
