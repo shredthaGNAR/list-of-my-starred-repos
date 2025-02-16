@@ -2409,7 +2409,7 @@
 * [jekyllt/sustain](https://github.com/jekyllt/sustain): 🎹 Personal blog powered by Jekyll
 * [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
 * [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon): An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
-* [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT): SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl. Repository for code, feature requests and bug reports.
+* [net00-1/SW-DLT](https://github.com/net00-1/SW-DLT): SW-DLT: a front end iOS Shortcut for yt-dlp & gallery-dl.
 * [iShopifyExpert/swatches-color-settings-section](https://github.com/iShopifyExpert/swatches-color-settings-section): None
 * [shredthaGNAR/SWBH-Impulse](https://github.com/shredthaGNAR/SWBH-Impulse): SWBH Theme Export Impluse Theme
 * [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula): Sweet Dracula — A beautiful, darker - Dracula fork.
