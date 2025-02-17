@@ -1251,7 +1251,7 @@
 * [rhsimplex/image-match](https://github.com/rhsimplex/image-match): 🎇 Quickly search over billions of images
 * [eight04/image-picka](https://github.com/eight04/image-picka): A Firefox/Chrome extension helping you download images.
 * [The-Osint-Toolbox/Image-Research-OSINT](https://github.com/The-Osint-Toolbox/Image-Research-OSINT): Learn how to research images and the tools, techniques & tradecraft required. 
-* [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension): WebExtension: Adds an option to the context menu to search with an image on various services.
+* [Brawl345/Image-Reverse-Search-WebExtension](https://github.com/Brawl345/Image-Reverse-Search-WebExtension): WebExtension: Adds an option to the context menu to search with an image on various services. Made with Svelte.
 * [MarkAntipin/image-search-engine](https://github.com/MarkAntipin/image-search-engine): Web app to search similar images
 * [IbrahimMourad/image-search-webapp](https://github.com/IbrahimMourad/image-search-webapp): simple app to search for images by  keyword using unsplash API  
 * [ashwinishet/Image-Web-Scraper](https://github.com/ashwinishet/Image-Web-Scraper): This application is used for scraping images from google image search
