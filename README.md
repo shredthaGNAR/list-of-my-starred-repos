@@ -1050,7 +1050,7 @@
 * [defunkt/gist](https://github.com/defunkt/gist): Potentially the best command line gister.
 * [weakish/gister](https://github.com/weakish/gister): command line tool to sync github gists
 * [Gisto/Gisto](https://github.com/Gisto/Gisto): Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud sync
-* [lostintangent/gistpad](https://github.com/lostintangent/gistpad): VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
+* [lostintangent/gistpad](https://github.com/lostintangent/gistpad): 📘 VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 * [mufeedvh/gisture](https://github.com/mufeedvh/gisture): A minimal and flexible blog generator based on GitHub Gist.
 * [git/git](https://github.com/git/git): Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 * [pomber/git-history](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository
