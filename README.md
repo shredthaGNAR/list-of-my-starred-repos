@@ -1701,6 +1701,7 @@
 * [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater): None
 * [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings): A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
 * [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template): Starter templates for Obsidian
+* [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin): Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 * [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium): Get Android app updates straight from the source.
 * [njnmco/odinochka](https://github.com/njnmco/odinochka): featherweight tab manager
 * [snte/odinochka](https://github.com/snte/odinochka): featherweight tab manager
