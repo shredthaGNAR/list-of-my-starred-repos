@@ -2144,7 +2144,6 @@
 * [mdreier/savetabs](https://github.com/mdreier/savetabs): Save current tabs extension for Firefox
 * [pvpscript/savetabs](https://github.com/pvpscript/savetabs): A web browser extension that allows the user to save every tab's url to a file
 * [snlned/sci-hub-scholar](https://github.com/snlned/sci-hub-scholar): Add a Sci-Hub link in Google Scholar results.
-* [gildas-lormeau/Scrapbook-for-SingleFile](https://github.com/gildas-lormeau/Scrapbook-for-SingleFile): PageArchiver (previously called "Scrapbook for SingleFile") is a Chrome extension that helps to archive pages for offline reading
 * [shoekla/ScrapeC](https://github.com/shoekla/ScrapeC): ScrapeC is a “mock” search engine, in the fact that it does a lot of what Bing, YouTube, and DuckDuckGo does, but instead of searching its own database it crawls and scrape these search engines and other websites. Along with return links, images, and videos of searches it also return PDFs, Social Media information (Facebook, Twitter, Google+), and Contact Information related to the links that it returns. On top of that ScrapeC also has the same features on a smaller scale for web addresses used as an input. Link: http://scrapec.pythonanywhere.com/
 * [Phisteven/scraping-bets](https://github.com/Phisteven/scraping-bets): Experiments with web srcaping from sports betting websites
 * [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard): Bookmark heavy lifting
@@ -2295,9 +2294,7 @@
 * [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 * [Automattic/simplenote-macos](https://github.com/Automattic/simplenote-macos): Simplenote for macOS
 * [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli): CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)
-* [gildas-lormeau/single-file-companion](https://github.com/gildas-lormeau/single-file-companion): None
 * [gildas-lormeau/single-file-companion-lite](https://github.com/gildas-lormeau/single-file-companion-lite): SingleFile Companion Lite
-* [gildas-lormeau/single-file-core](https://github.com/gildas-lormeau/single-file-core): None
 * [gildas-lormeau/single-filez-core](https://github.com/gildas-lormeau/single-filez-core): None
 * [odeyemitobi/Single-page-personal-website](https://github.com/odeyemitobi/Single-page-personal-website): None
 * [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile): Web Extension for saving a faithful copy of a complete web page in a single HTML file

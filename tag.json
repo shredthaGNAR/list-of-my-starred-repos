@@ -4100,9 +4100,6 @@
     "gildas-lormeau/LazyLoadify": [
         "Other"
     ],
-    "gildas-lormeau/Scrapbook-for-SingleFile": [
-        "Other"
-    ],
     "gildas-lormeau/SingleFile": [
         "Other"
     ],
@@ -4121,13 +4118,7 @@
     "gildas-lormeau/single-file-cli": [
         "Other"
     ],
-    "gildas-lormeau/single-file-companion": [
-        "Other"
-    ],
     "gildas-lormeau/single-file-companion-lite": [
-        "Other"
-    ],
-    "gildas-lormeau/single-file-core": [
         "Other"
     ],
     "gildas-lormeau/single-filez-core": [
