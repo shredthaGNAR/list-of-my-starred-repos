@@ -213,6 +213,7 @@
 * [shedaniel/AutoConfig](https://github.com/shedaniel/AutoConfig): Fork of Auto Config.
 * [thunderbird/autoconfig](https://github.com/thunderbird/autoconfig): The ISPDB, Thunderbird's database of mail configuration files.
 * [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq): Automatic headphone equalization from frequency responses
+* [SirCryptic/autoexif](https://github.com/SirCryptic/autoexif): want to remove sensitive data from photos or even view it? use autoexif to easily help you do that no more remembering syntaxs with this user-friendly tool.
 * [synappser/AutoFocus](https://github.com/synappser/AutoFocus): A focus-follows-mouse implementation on steroids!
 * [wting/autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line
 * [tsaost/autoload-temporary-addon](https://github.com/tsaost/autoload-temporary-addon): Automatically load temporary addons from a local directory when Firefox starts
@@ -1577,6 +1578,7 @@
 * [nickysemenza/message-analyzer](https://github.com/nickysemenza/message-analyzer): 💬 📊 Facebook Messenger history scraper + analyzer
 * [cleidigh/Message-archive-options-TB](https://github.com/cleidigh/Message-archive-options-TB): Thunderbird Add-On Adds the ability to customize the date format of the archive folders created by TB Archive Messages
 * [glaurent/MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser): a macOS/OSX app to comfortably browse and search through your Messages.app history.
+* [slimcandy/MetaCleaner](https://github.com/slimcandy/MetaCleaner): Easily remove metadata from your images with our online tool, MetaCleaner. Preserve your privacy by stripping out EXIF data from your photos in seconds.
 * [duolingo/metasearch](https://github.com/duolingo/metasearch): Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 * [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 * [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
