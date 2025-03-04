@@ -5531,9 +5531,6 @@
     "material-extensions/material-icons-browser-extension": [
         "Other"
     ],
-    "material-theme/material-theme-support": [
-        "Other"
-    ],
     "mathiasbynens/dotfiles": [
         "Other"
     ],
@@ -8148,6 +8145,9 @@
         "Other"
     ],
     "vipintom/stealthFox": [
+        "Other"
+    ],
+    "vira-themes/vira-theme-support": [
         "Other"
     ],
     "visini/timebox": [
