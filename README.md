@@ -2758,6 +2758,7 @@
 * [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter): 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 * [BCIT-DDC/web-extension-ts-starter](https://github.com/BCIT-DDC/web-extension-ts-starter): 🚀 A web extension starter built with React, Typescript, and Tailwind CSS. Build once, and run on multiple browsers: Google Chrome, Mozilla Firefox, Microsoft Edge, Brave, and Opera.
 * [usc-isi-i2/Web-Karma](https://github.com/usc-isi-i2/Web-Karma): Information Integration Tool
+* [MykytaCherniavskyi/web-profile](https://github.com/MykytaCherniavskyi/web-profile): Personal website built with Astro 4.0 and styled using Tailwind CSS
 * [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator): Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
 * [yourduskquibbles/webannoyances](https://github.com/yourduskquibbles/webannoyances): Fix and remove annoying web elements such as sticky headers, floating boxes, floating videos, dickbars, social share bars and other distracting elements.
 * [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs): A suite of polyfills supporting the HTML Web Components specs
