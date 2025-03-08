@@ -1361,7 +1361,6 @@
 * [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode): Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
 * [kazimmt/kazimmt.github.io](https://github.com/kazimmt/kazimmt.github.io): Organized ReVanced & ReVanced Extended functionalities along with visual illustrations.
 * [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications): Karabiner-Elements complex_modifications rules
-* [andrepolischuk/keep](https://github.com/andrepolischuk/keep): Desktop app for Google Keep packaged with Electron
 * [tmcinerney/keep](https://github.com/tmcinerney/keep): Run Google Keep in the menu bar
 * [lukassr/keep-desktop](https://github.com/lukassr/keep-desktop): Google Keep Dark: Desktop application for Windows, Mac and Linux with Dark Theme.
 * [ndbeals/keep-exporter](https://github.com/ndbeals/keep-exporter): A command line utility to export Google Keep notes to markdown.
