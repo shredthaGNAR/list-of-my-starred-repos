@@ -443,9 +443,6 @@
     "DanielDe/TabRearranger": [
         "Other"
     ],
-    "DarrinTisdale/zsh-aliases-exa": [
-        "Other"
-    ],
     "David-Kunz/gen.nvim": [
         "Other"
     ],
@@ -5574,6 +5571,9 @@
         "Other"
     ],
     "mczachurski/wallpapper": [
+        "Other"
+    ],
+    "mdarrint/zsh-aliases-exa": [
         "Other"
     ],
     "mdn/webextensions-examples": [

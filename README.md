@@ -2872,7 +2872,7 @@
 * [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
 * [li-zyang/zScripts](https://github.com/li-zyang/zScripts): Repository of my userscripts
 * [zsh-users/zsh](https://github.com/zsh-users/zsh): Mirror of the Z shell source code repository.
-* [DarrinTisdale/zsh-aliases-exa](https://github.com/DarrinTisdale/zsh-aliases-exa): zsh plugin adding aliases for the exa command-line tool
+* [mdarrint/zsh-aliases-exa](https://github.com/mdarrint/zsh-aliases-exa): zsh plugin adding aliases for the exa command-line tool
 * [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): Fish-like autosuggestions for zsh
 * [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions): Additional completion definitions for Zsh.
 * [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search): 🐠 ZSH port of Fish history search (up arrow)
