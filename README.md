@@ -1148,7 +1148,7 @@
 * [CryptoMonkey21/gpt4free](https://github.com/CryptoMonkey21/gpt4free): The official gpt4free repository | various collection of powerful language models
 * [Linhvjc/gpt4free](https://github.com/Linhvjc/gpt4free): None
 * [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
-* [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+* [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 * [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status): This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 * [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile): Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 * [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal): A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
