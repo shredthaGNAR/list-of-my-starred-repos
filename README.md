@@ -2298,7 +2298,7 @@
 * [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet): The knowledge tinkerer's notebook
 * [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search): An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be used just out-of-box.
 * [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups): Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
-* [migueravila/SimpleFox](https://github.com/migueravila/SimpleFox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
+* [migueravila/simplefox](https://github.com/migueravila/simplefox): 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
 * [Automattic/simplenote-macos](https://github.com/Automattic/simplenote-macos): Simplenote for macOS
 * [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli): CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)
 * [gildas-lormeau/single-file-companion-lite](https://github.com/gildas-lormeau/single-file-companion-lite): SingleFile Companion Lite
