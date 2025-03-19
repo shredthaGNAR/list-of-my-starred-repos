@@ -263,9 +263,6 @@
     "Bill13579/tabby": [
         "Other"
     ],
-    "Bin-Huang/chatbox": [
-        "Other"
-    ],
     "BitRacer/bettertouchtool-crypto": [
         "Other"
     ],
@@ -2570,7 +2567,7 @@
     "arsenetar/dupeguru": [
         "Other"
     ],
-    "artginzburg/MiddleClick-Sonoma": [
+    "artginzburg/MiddleClick": [
         "Other"
     ],
     "artginzburg/sudo-touchid": [
@@ -3015,6 +3012,9 @@
         "Other"
     ],
     "chatanywhere/GPT_API_free": [
+        "Other"
+    ],
+    "chatboxai/chatbox": [
         "Other"
     ],
     "chathub-dev/chathub": [
