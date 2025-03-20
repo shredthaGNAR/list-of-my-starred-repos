@@ -2196,8 +2196,8 @@
 * [d-evil0per/serverless-hosting](https://github.com/d-evil0per/serverless-hosting): How to host websites using free cloud storage
 * [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 * [aderyabin/ServPane](https://github.com/aderyabin/ServPane): A launchd menu bar app for Mac
-* [oxen-io/session-android](https://github.com/oxen-io/session-android): A private messenger for Android.
-* [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop): Session Desktop - Onion routing based messenger
+* [oxen-io/session-android](https://github.com/oxen-io/session-android): Session Android - Onion routing based messenger [DEPRECATED SEE README]
+* [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop): Session Desktop - Onion routing based messenger [DEPRECATED SEE README]
 * [Ulf3000/sessionBuddy](https://github.com/Ulf3000/sessionBuddy): simple session manager for firefox using the internal sessionstore api
 * [navorite/sessionic](https://github.com/navorite/sessionic): A web extension to save, manage and restore sessions, windows and tabs.
 * [AlexPerathoner/Sessions](https://github.com/AlexPerathoner/Sessions): Safari extension to save your working sessions
