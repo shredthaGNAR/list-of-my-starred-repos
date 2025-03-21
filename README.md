@@ -54,6 +54,7 @@
 * [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS): A repository dedicated to mirroring some block-lists into 1 file for ease of use
 * [ethanaicode/Adobe-Block-Hosts-List](https://github.com/ethanaicode/Adobe-Block-Hosts-List): Adobe Block Hosts List to block Adobe activation.
 * [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater): Adobe Deloater
+* [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader): macOS Adobe apps download & installer
 * [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper): 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
