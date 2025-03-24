@@ -1791,7 +1791,7 @@
 * [shariati/OS-Folder-Icons](https://github.com/shariati/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [shredthaGNAR/OS-Folder-Icons](https://github.com/shredthaGNAR/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [opengaming/osgameclones](https://github.com/opengaming/osgameclones): Open Source Clones of Popular Games
-* [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT and OSINT tips. This repository will grow over time, there is research, science and technology, use it wisely.
+* [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT and OSINT tips. This repository will grow every time will research, there is a research, science and technology, use it wisely.
 * [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list): A list of tools to search accounts by username
 * [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
