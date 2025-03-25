@@ -1624,7 +1624,7 @@
 * [serj-kzv/mozlz4-edit](https://github.com/serj-kzv/mozlz4-edit): None
 * [balvin-perrie/mp3-converter](https://github.com/balvin-perrie/mp3-converter): a pure JS mp3 encoder for Chrome and Firefox browser
 * [mpdf/mpdf](https://github.com/mpdf/mpdf): PHP library generating PDF files from UTF-8 encoded HTML
-* [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
+* [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line media player
 * [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes):  A Complete Osint Tool :mag:
 * [bappygazi/MR.kirof-email-signature](https://github.com/bappygazi/MR.kirof-email-signature): None
 * [Toxblh/MTMR](https://github.com/Toxblh/MTMR): 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
