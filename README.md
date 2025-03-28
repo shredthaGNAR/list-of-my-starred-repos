@@ -2325,6 +2325,7 @@
 * [shredthaGNAR/skip-prime-video-intro](https://github.com/shredthaGNAR/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
 * [Skyflash/skyflash.github.io](https://github.com/Skyflash/skyflash.github.io): 🎨 My personal website
 * [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox): :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
+* [dh1011/smart-bookmark](https://github.com/dh1011/smart-bookmark): Smart Bookmark is a simple, AI-powered tool to help you stay organized and make the most of your bookmarks. Features like smart search, automatic summaries, and tagging make it easy to search and organize your bookmarks.
 * [smartertechnologist/SmarterBookmarks-Android](https://github.com/smartertechnologist/SmarterBookmarks-Android): Official documentation for the SmarterBookmarks android app
 * [RealRaven2000/SmartTemplates](https://github.com/RealRaven2000/SmartTemplates): Thunderbird Add-on: SmartTemplates
 * [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube): Advanced player for set-top boxes and tvs running Android OS
