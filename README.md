@@ -245,6 +245,7 @@
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 * [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css): :art: A curated contents of amazing CSS :)
 * [uhub/awesome-css](https://github.com/uhub/awesome-css): A curated list of awesome CSS frameworks, libraries and software.
+* [debridmediamanager/awesome-debrid](https://github.com/debridmediamanager/awesome-debrid): 🆓 Download and stream in an instant
 * [gztchan/awesome-design](https://github.com/gztchan/awesome-design): 🌟 Curated design resources from all over the world.
 * [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems): 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools): The best design tools and plugins for everything 👉
