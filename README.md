@@ -583,6 +583,7 @@
 * [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome): Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 * [ololx/create-symlink](https://github.com/ololx/create-symlink): Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
 * [schollz/croc](https://github.com/schollz/croc): Easily and securely send things from one computer to another :crocodile: :package:
+* [uazo/cromite](https://github.com/uazo/cromite): Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 * [Medformatik/CrossDrop](https://github.com/Medformatik/CrossDrop): CrossDrop is a partial implementation of Google's Quick Share in Flutter for macOS, iOS and Linux. CrossDrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.
 * [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV): website userscript: redirect embedded videos from "tubitv.com" to an external player
 * [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer): Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
@@ -2055,6 +2056,7 @@
 * [iampueroo/rComments](https://github.com/iampueroo/rComments): Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
 * [SamR1/rdltr](https://github.com/SamR1/rdltr): a simple read-it later app
 * [SamR1/rdltr-addon](https://github.com/SamR1/rdltr-addon): Firefox add-on for rdltr (read-it-later app)
+* [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client): Real-Debrid Client Proxy
 * [facebook/react](https://github.com/facebook/react): The library for web and native user interfaces.
 * [XcrossD/read-later-bookmarks](https://github.com/XcrossD/read-later-bookmarks): A chrome extension that add a read later view for chrome bookmarks
 * [rNeomy/reader-view](https://github.com/rNeomy/reader-view): Access Firefox's built in reader view from right click context menu
@@ -2099,6 +2101,7 @@
 * [cerealkella/rest-uploader](https://github.com/cerealkella/rest-uploader): REST API File Uploader
 * [hanacchi/RestoreFirefoxJS](https://github.com/hanacchi/RestoreFirefoxJS): userChromeJS scripts to restore Firefox features that have been removed or changed
 * [izzydoesizzy/resumetemplate](https://github.com/izzydoesizzy/resumetemplate): Creative: Personal website/landing page template.
+* [celzero/rethink-app](https://github.com/celzero/rethink-app): DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 * [briangershon/retrieve-pocket-bookmarks](https://github.com/briangershon/retrieve-pocket-bookmarks): Retrieves your bookmarks and meta data from Pocket API (via https://getpocket.com/developer/docs/v3/retrieve)
 * [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive): Retroactive has been discontinued. You should transition from Retroactive to supported apps such as Music, iTunes for Windows, iMazing, Photos, Darktable, Lightroom Classic, and DaVinci Resolve.
 * [NoName-exe/revanced](https://github.com/NoName-exe/revanced): ReVanced YT and YT-M for both root and non-root users.
@@ -2610,6 +2613,7 @@
 * [gorhill/uMatrix](https://github.com/gorhill/uMatrix): uMatrix: Point and click matrix to filter net requests according to source, destination and type
 * [umbrellaplug/umbrellaplug.github.io](https://github.com/umbrellaplug/umbrellaplug.github.io): Umbrella Kodi Addon Official
 * [UncannyOwl/Uncanny-Automator](https://github.com/UncannyOwl/Uncanny-Automator): Uncanny Automator is the easiest and most powerful way to connect your WordPress plugins, sites and apps together with powerful automations. Build automated workflows in minutes with no code!
+* [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android): App to interact with real-debrid API
 * [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus): unc0ver jailbreak for iOS 11.0 - 12.4
 * [pwn20wndstuff/Undecimus-Resources](https://github.com/pwn20wndstuff/Undecimus-Resources): None
 * [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu): Firefox webextension to add an undo closed tabs menu to tabs.
