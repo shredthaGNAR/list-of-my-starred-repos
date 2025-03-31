@@ -151,7 +151,7 @@
 * [mortenjust/androidtool-mac](https://github.com/mortenjust/androidtool-mac): One-click screenshots, video recordings, app installation for iOS and Android
 * [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod): A podcast manager for Android
 * [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M): App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
-* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
+* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 * [Mintplex-Labs/anythingllm-extension](https://github.com/Mintplex-Labs/anythingllm-extension): Browser extension for AnythingLLM Docker & Desktop application
 * [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player): Simple, easy to use Podcast player app written in Flutter and Dart.
 * [drcika/apc-extension](https://github.com/drcika/apc-extension): None
