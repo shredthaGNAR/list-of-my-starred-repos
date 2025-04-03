@@ -1506,6 +1506,7 @@
 * [hazcod/maclaunch](https://github.com/hazcod/maclaunch): Manage your macOS startup items.
 * [schappim/macOCR](https://github.com/schappim/macOCR): Get any text on your screen into your clipboard.
 * [xulihang/macOCR](https://github.com/xulihang/macOCR): Command line OCR tool using macOS's VNRecognizeTextRequest
+* [shubhambatra3019/macOrganizer](https://github.com/shubhambatra3019/macOrganizer): A macOS app for organizing folders
 * [temochka/macos-automation](https://github.com/temochka/macos-automation): A collection of my macOS automation scripts (Alfred Workflows, AppleScript, and JXA)
 * [SKaplanOfficial/macOS-Automation-Resources](https://github.com/SKaplanOfficial/macOS-Automation-Resources): Resources for MacOS automation languages
 * [dosdude1/macos-catalina-patcher](https://github.com/dosdude1/macos-catalina-patcher): macOS Catalina Patcher (http://dosdude1.com/catalina)
