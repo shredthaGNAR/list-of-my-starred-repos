@@ -1531,7 +1531,6 @@
 * [sindresorhus/macos-wallpaper](https://github.com/sindresorhus/macos-wallpaper): Manage the desktop wallpaper on macOS
 * [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements): Replacement icons for popular apps in the style of macOS Big Sur
 * [Tnings/MacosVibrant](https://github.com/Tnings/MacosVibrant): None
-* [network-alchemist/MacosVibrant](https://github.com/network-alchemist/MacosVibrant): None
 * [MacPass/MacPass](https://github.com/MacPass/MacPass): A native macOS KeePass client 
 * [lodestone/macpaste](https://github.com/lodestone/macpaste): Global middle-mouse-click copy/paste for Mac OSX (C).
 * [w0lfschild/macplugins](https://github.com/w0lfschild/macplugins): :green_book: Community repo for MacForge
