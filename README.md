@@ -744,7 +744,7 @@
 * [coolaj86/dropshare](https://github.com/coolaj86/dropshare): A min.us / ge.tt file share clone.
 * [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions): Add-on actions and API Docs for Dropzone 4
 * [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
-* [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 Adds AI to DuckDuckGo. Ask from any site. Powered by GPT-4o!
+* [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs like GPT-4o!
 * [notable/dumper](https://github.com/notable/dumper): Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 * [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru): Find duplicate files
 * [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer): Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
