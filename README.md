@@ -744,7 +744,7 @@
 * [coolaj86/dropshare](https://github.com/coolaj86/dropshare): A min.us / ge.tt file share clone.
 * [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions): Add-on actions and API Docs for Dropzone 4
 * [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
-* [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs like GPT-4o!
+* [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 Add AI chat & search summaries to DuckDuckGo, powered by the latest LLMs like GPT-4o!
 * [notable/dumper](https://github.com/notable/dumper): Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 * [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru): Find duplicate files
 * [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer): Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
@@ -1144,7 +1144,7 @@
 * [gglukmann/google-sheets-mapper](https://github.com/gglukmann/google-sheets-mapper): 📝  A library for getting data from Google Sheets API v4
 * [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked): Google Unlocked browser extension uncensor google search results
 * [milosbunijevac/GoogleDownloader](https://github.com/milosbunijevac/GoogleDownloader): Python: Opens a google search to get the first 10 4k images of the person you enter. Downloads images to new folder named after search.
-* [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt): 🤖 Adds AI chat and search summaries to Google Search, powered by the latest LLMs like Google Gemma + GPT-4o!
+* [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt): 🤖 Add AI chat & search summaries to Google Search, powered by the latest LLMs like Google Gemma + GPT-4o!
 * [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored): This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 * [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone): A clone of Google Keep with its original Material Design aesthetics
 * [spmbt/googleSearchExtraButtons](https://github.com/spmbt/googleSearchExtraButtons): Google Search Extra Buttons
@@ -2020,7 +2020,7 @@
 * [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam): Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
-* [drduh/Purse](https://github.com/drduh/Purse): GnuPG asymmetric password manager
+* [drduh/Purse](https://github.com/drduh/Purse): GnuPG asymmetric secrets manager
 * [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox): A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 * [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by o1, o3, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execution, file upload/download, speech synthesis and recognition, access to Web, memory, presets, assistants, plugins, and more. Linux, Windows, Mac
 * [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts): 💬 Send iMessages using Python through the Shortcuts app.
