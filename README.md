@@ -2426,7 +2426,7 @@
 * [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
 * [MrMonkey42/stremio-addon-debrid-search](https://github.com/MrMonkey42/stremio-addon-debrid-search): Stremio Addon to search downloads and torrents in your Debrid cloud
 * [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager): Manage your Stremio Addons
-* [Zaarrg/stremio-desktop-v5](https://github.com/Zaarrg/stremio-desktop-v5): 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
+* [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5): 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
 * [openstyles/stylus](https://github.com/openstyles/stylus): Stylus - Userstyles Manager
 * [jonschlinkert/sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended): Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.
 * [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid):  Permanent TouchID support 👆 for `sudo`.
