@@ -2548,7 +2548,6 @@
 * [thunderbird-conversations/thunderbird-conversations](https://github.com/thunderbird-conversations/thunderbird-conversations): An extension for Thunderbird that allows you to view threads as "real" conversations, including your own emails. This extension also adds a bunch of useful UI features in the conversation view.
 * [joax/thunderbird-dark-theme](https://github.com/joax/thunderbird-dark-theme): Dark theme based on Monterail for Thunderbird 78
 * [Era-Dorta/Thunderbird-Google-Keep-Tab](https://github.com/Era-Dorta/Thunderbird-Google-Keep-Tab): Google Keep for Thunderbird
-* [PascaleBeier/thunderbird-ispdb](https://github.com/PascaleBeier/thunderbird-ispdb): Auto-generated ISPDB distribution from Thunderbird for PHP Applications.
 * [marph91/thunderbird-joplin-export](https://github.com/marph91/thunderbird-joplin-export): Easily export your Thunderbird emails to Joplin.
 * [BDeliers/thunderbird-monterail](https://github.com/BDeliers/thunderbird-monterail): A light and red theme for Thunderbird
 * [ixnewton/thunderbird-monterail](https://github.com/ixnewton/thunderbird-monterail): A set of themes for thunderbird inspired by a Monterail blog post
