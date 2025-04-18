@@ -2169,7 +2169,7 @@
 * [Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc](https://github.com/Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc): Browser addon for FireFox & Chrome to save active tabs as Markdown
 * [bobbyrne01/save-text-to-file-firefox](https://github.com/bobbyrne01/save-text-to-file-firefox): Firefox addon that saves highlighted text to a file.
 * [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine): Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
-* [igorlogius/save-website-as-image](https://github.com/igorlogius/save-website-as-image): Simple addon, to save the full website of one or more tab as a png image either via a click on the toolbar icon or via a custom shotcut
+* [igorlogius/save-website-as-image](https://github.com/igorlogius/save-website-as-image): Simple addon, to save a snapshot of a website via a click on the toolbar icon or a custom shortcut
 * [117649/SavedPasswordEditorRedux](https://github.com/117649/SavedPasswordEditorRedux): Not Gecko, application to allow creating and editing saved passwords 
 * [mdreier/savetabs](https://github.com/mdreier/savetabs): Save current tabs extension for Firefox
 * [pvpscript/savetabs](https://github.com/pvpscript/savetabs): A web browser extension that allows the user to save every tab's url to a file
