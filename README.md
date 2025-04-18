@@ -97,7 +97,6 @@
 * [azai91/alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow): Alfred workflow to search google drive
 * [deanishe/alfred-firefox](https://github.com/deanishe/alfred-firefox): Search and control Firefox from Alfred
 * [BenjaminOddou/alfred-folderify](https://github.com/BenjaminOddou/alfred-folderify): 📁 Generate pixel-perfect macOS folder icons
-* [edgarjs/alfred-github-repos](https://github.com/edgarjs/alfred-github-repos): Alfred workflow to easily open Github repositories
 * [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow): GitHub Workflow for Alfred
 * [aviaryan/alfred-last2imgur](https://github.com/aviaryan/alfred-last2imgur): Alfred workflow to upload the last screenshot taken to Imgur + (delete and minify image)
 * [nikitavoloboev/alfred-my-mind](https://github.com/nikitavoloboev/alfred-my-mind): Alfred workflow to search through my notes and bookmarks
@@ -1087,6 +1086,7 @@
 * [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator): 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 * [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator): 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 * [Shywim/github-repo-size](https://github.com/Shywim/github-repo-size): A Firefox addon showing the size of a Github repository.
+* [edgarjs/github-repos-alfred-workflow](https://github.com/edgarjs/github-repos-alfred-workflow): Alfred workflow to easily open Github repositories
 * [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List): Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
 * [sevenc-nanashi/github-snippets](https://github.com/sevenc-nanashi/github-snippets): Adds a section to copy snippet in GitHub repository page.
 * [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts): Userscripts to add functionality to GitHub
