@@ -2306,7 +2306,7 @@
 * [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow): Run installed macOS shortcuts
 * [crittermike/shortkeys](https://github.com/crittermike/shortkeys): A browser extension for custom keyboard shortcuts 
 * [kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically](https://github.com/kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically): Script to Show Payment icons to Shopify Dynamically [add it to footer.liquid]
-* [igorlogius/show-qrcode](https://github.com/igorlogius/show-qrcode): Displays the active url (or any selected link or text) as a qrcode for easy sharing between devices with a qrcode scanner like mobile/smart phones and tablets. Also allows saving and copying to the clipboard pasting in other programms.
+* [igorlogius/show-qrcode](https://github.com/igorlogius/show-qrcode): Displays the active url (or any selected link or text) as a qrcode for easy sharing between devices with a qrcode scanner like mobile/smart phones and tablets. Also allows saving and copying to the clipboard for quick transfer into other applications
 * [apvarun/showfolio-hugo-theme](https://github.com/apvarun/showfolio-hugo-theme): Modern portfolio theme for your Hugo site
 * [shredthaGNAR/shredthaGNAR.github.io](https://github.com/shredthaGNAR/shredthaGNAR.github.io): Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 * [Naezr/ShyFox](https://github.com/Naezr/ShyFox): A very shy little theme that hides the entire browser interface in the window border
