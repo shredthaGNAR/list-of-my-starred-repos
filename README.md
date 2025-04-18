@@ -1283,7 +1283,7 @@
 * [tremby/imgur.sh](https://github.com/tremby/imgur.sh): Bart's Imgur uploader bash script
 * [JayBrown/imgurAU](https://github.com/JayBrown/imgurAU): macOS one-stop shop solution for anonymous uploads to imgur with support for local files, files opened in image editors, pasteboard contents, new screenshots & web images
 * [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2): A bash script that uploads images & videos to IMGUR.  It can also delete previously uploaded images/videos.
-* [igorlogius/import-urls](https://github.com/igorlogius/import-urls): Import URLs from the clipboard or a text file as tabs or bookmarks
+* [igorlogius/import-urls](https://github.com/igorlogius/import-urls): Import URLs from the clipboard or a text file and opens them as loaded or unloaded tabs or save them as bookmarks 
 * [spidergears/import_chrome_bookmarks_to_pocket](https://github.com/spidergears/import_chrome_bookmarks_to_pocket): Simple chrome extension to import all your chrome bookmarks to Pocket.com account
 * [skratchdot/infinite-gradients](https://github.com/skratchdot/infinite-gradients): An HTML experiment for generating randomly created CSS3 gradients (both linear and radial)
 * [tim-we/inspector-extension](https://github.com/tim-we/inspector-extension): Inspect extensions with web-ext-inspector
@@ -1441,7 +1441,7 @@
 * [Shopify/lighthouse-ci-action](https://github.com/Shopify/lighthouse-ci-action): None
 * [igorlogius/limit-active-tabs](https://github.com/igorlogius/limit-active-tabs): Limits the number of active tabs by unloading older tabs
 * [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The mouse and trackpad utility for Mac.
-* [igorlogius/link-extras](https://github.com/igorlogius/link-extras): Add extra copy functions to links. Works with single or muliple links in a selection. 
+* [igorlogius/link-extras](https://github.com/igorlogius/link-extras): Add extra functions to links and links in selections  - Open Links in Tabs (loaded or unloaded), Bookmark Links, Download Links and Copy Links to the Clipboard in Custom Formats
 * [ddawson/Link-Tools](https://github.com/ddawson/Link-Tools): Configurable copy and visit operations for links in Firefox
 * [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner): A Firefox extension to clean urls from tracking and advertisement parameters
 * [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook): Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more. 
