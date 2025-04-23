@@ -1524,7 +1524,7 @@
 * [yuanqing/macos-keyboard-shortcuts](https://github.com/yuanqing/macos-keyboard-shortcuts): :keyboard: A CLI to set application-specific keyboard shortcuts for macOS
 * [MaorS/macOS-PasswordManager](https://github.com/MaorS/macOS-PasswordManager): 🔑👨‍💻macOS Password Manager
 * [bbusschots/macos-quickaction-text](https://github.com/bbusschots/macos-quickaction-text): A collection of Mac OS Quick Actions (Services) for manipulating text.
-* [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide): Guide to securing and improving privacy on macOS
+* [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide): Community guide to securing and improving privacy on macOS.
 * [heartshapedbox/macOS-shortcuts](https://github.com/heartshapedbox/macOS-shortcuts): Custom macOS Shortcuts and Quick Actions.
 * [maustinstar/MacOS-Skin](https://github.com/maustinstar/MacOS-Skin): Custom icon sets for MacOS Apps
 * [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox): Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
@@ -2020,7 +2020,7 @@
 * [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam): Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
-* [drduh/Purse](https://github.com/drduh/Purse): GnuPG asymmetric secrets manager
+* [drduh/Purse](https://github.com/drduh/Purse): GnuPG asymmetric secrets manager - works with YubiKey!
 * [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox): A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 * [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by o1, o3, GPT-4, GPT-4 Vision, Gemini, Claude, Llama 3, DeepSeek, Bielik, DALL-E,  chat, vision, voice control, image generation and analysis, agents, command execution, file upload/download, speech synthesis and recognition, access to Web, memory, presets, assistants, plugins, and more. Linux, Windows, Mac
 * [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts): 💬 Send iMessages using Python through the Shortcuts app.
