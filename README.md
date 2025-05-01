@@ -237,7 +237,7 @@
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents
-* [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search): A list of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
+* [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search): List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 * [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows): A curated list of awesome alfred workflows
 * [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics): A curated list of analytics frameworks, software and other tools.
 * [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro): Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
