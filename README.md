@@ -20,7 +20,7 @@
 # Other
 
 * [zhekazuev/.mac-dotfiles](https://github.com/zhekazuev/.mac-dotfiles): My configs for prompt and terminal
-* [badmojr/1Hosts](https://github.com/badmojr/1Hosts): World's most advanced  DNS filter-/blocklists!
+* [badmojr/1Hosts](https://github.com/badmojr/1Hosts): Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 * [tortious/2019Firefox](https://github.com/tortious/2019Firefox): None
 * [tortious/2021_Firefox](https://github.com/tortious/2021_Firefox): Updated config settings & possibilities for Firefox. This includes all file types (css; uc.js; js; etc) and other tips and tricks, including about:config tweaks
 * [rsapkf/42](https://github.com/rsapkf/42): @rsapkf's wiki. [Merged into rsapkf/www]
