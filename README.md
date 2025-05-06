@@ -457,7 +457,7 @@
 * [Neil-Lal/California-Lotto-Scratchers-EV](https://github.com/Neil-Lal/California-Lotto-Scratchers-EV): This project is to pull data from the California lotto website into a local MSSQL server.  This data is used to calculate and report on the EV of each lotto ticket.  The goal is to make statistically "smart" scratcher purchases.
 * [Protovision/calottery-scratchers](https://github.com/Protovision/calottery-scratchers): Web scraper for california lottery scratchers
 * [babldev/camera-cli](https://github.com/babldev/camera-cli): Configure your webcam via the command line
-* [Itaybre/CameraController](https://github.com/Itaybre/CameraController): 📷 Control USB Cameras from an app
+* [itaybre/CameraController](https://github.com/itaybre/CameraController): 📷 Control USB Cameras from an app
 * [sindresorhus/caprine](https://github.com/sindresorhus/caprine): Elegant Facebook Messenger desktop app
 * [Vonng/Capslock](https://github.com/Vonng/Capslock): Make Capslock Great Again!
 * [suliveevil/Capslock](https://github.com/suliveevil/Capslock): ultimate macOS keyboard re-mapping
