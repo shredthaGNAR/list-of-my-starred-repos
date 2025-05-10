@@ -745,7 +745,7 @@
 * [coolaj86/dropshare](https://github.com/coolaj86/dropshare): A min.us / ge.tt file share clone.
 * [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions): Add-on actions and API Docs for Dropzone 4
 * [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
-* [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 Add AI chat & search summaries to DuckDuckGo powered by the latest LLMs
+* [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 * [notable/dumper](https://github.com/notable/dumper): Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 * [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru): Find duplicate files
 * [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer): Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
@@ -1144,7 +1144,7 @@
 * [gglukmann/google-sheets-mapper](https://github.com/gglukmann/google-sheets-mapper): 📝  A library for getting data from Google Sheets API v4
 * [Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked): Google Unlocked browser extension uncensor google search results
 * [milosbunijevac/GoogleDownloader](https://github.com/milosbunijevac/GoogleDownloader): Python: Opens a google search to get the first 10 4k images of the person you enter. Downloads images to new folder named after search.
-* [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt): 🤖 Add AI chat & search summaries to Google Search powered by the latest LLMs
+* [KudoAI/googlegpt](https://github.com/KudoAI/googlegpt): 🤖 AI chat & search summaries in Google Search, powered by the latest LLMs
 * [fanfare/googleimagesrestored](https://github.com/fanfare/googleimagesrestored): This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th, 2019.
 * [anselm94/googlekeepclone](https://github.com/anselm94/googlekeepclone): A clone of Google Keep with its original Material Design aesthetics
 * [spmbt/googleSearchExtraButtons](https://github.com/spmbt/googleSearchExtraButtons): Google Search Extra Buttons
