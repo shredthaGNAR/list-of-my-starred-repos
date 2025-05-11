@@ -1305,6 +1305,7 @@
 * [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu): open-source jailbreaking tool for many iOS devices
 * [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes): Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 * [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy): Elegant iTerm2 theme with bright colors
+* [ErnaneJ/itwg-apple-automator](https://github.com/ErnaneJ/itwg-apple-automator): AppleScript that uses the Gemini language model API (by Google) to enhance the writing, spelling, and formality of selected text.
 * [Jackett/Jackett](https://github.com/Jackett/Jackett): API Support for your favorite torrent trackers
 * [jarrekk/Jalpc](https://github.com/jarrekk/Jalpc): 🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website. 
 * [menloresearch/jan](https://github.com/menloresearch/jan): Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
