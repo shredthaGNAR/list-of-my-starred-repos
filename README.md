@@ -2471,7 +2471,7 @@
 * [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus): An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager". 
 * [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2): Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
 * [wildskyf/tab-notes](https://github.com/wildskyf/tab-notes): Browser Add-on: Allow you to write anything in new tab
-* [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover): Adds on-hover tab preview to Firefox (requires CSS theme).
+* [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover): Adds on-hover tab preview to Firefox before Mozilla does.
 * [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager): WebExtensions for restoring and saving window / tab states
 * [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash): Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
 * [MonterraByte/tab_move](https://github.com/MonterraByte/tab_move): Firefox addon that lets you move a tab to the start or the end of the tab bar
