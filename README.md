@@ -297,6 +297,7 @@
 * [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions): A curated list of awesome resources for WebExtensions development.
 * [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress): A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. 
 * [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
+* [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting): ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 * [zeitlings/ayai-gpt-nexus](https://github.com/zeitlings/ayai-gpt-nexus): OpenAI, Anthropic, and Gemini integrations with support for local LLMs
 * [jarmo/backpocket](https://github.com/jarmo/backpocket): Backpocket is a command line utility for storing a reading list of articles from the Internet to your local disk for the future. It's an alternative to Pocket offering all the required features without handing over all your private reading materials to any 3rd party.
 * [joshuachough/backupOneTab](https://github.com/joshuachough/backupOneTab): Back up and restore your OneTab Chrome extension data
