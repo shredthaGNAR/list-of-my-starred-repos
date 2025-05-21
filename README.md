@@ -2885,7 +2885,6 @@
 * [PeerGroupSoftware/Youtube-To-Mac](https://github.com/PeerGroupSoftware/Youtube-To-Mac): Cocoa Interface for youtube-dl
 * [Tatsh/youtube-unofficial](https://github.com/Tatsh/youtube-unofficial): Access parts of your account unavailable through normal YouTube API access.
 * [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer): Lightweight YouTube client for Linux
-* [ewpratten/youtube_ad_blocklist](https://github.com/ewpratten/youtube_ad_blocklist): This is an open project to maintain a list of domain names that serve YouTube ads
 * [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material): Self-hosted YouTube downloader built on Material Design
 * [JMARyA/YoutubeDownload](https://github.com/JMARyA/YoutubeDownload): youtube-dl GUI for MacOS
 * [xhico/YoutubeDownloader](https://github.com/xhico/YoutubeDownloader): Download any public Playlist from Youtube
