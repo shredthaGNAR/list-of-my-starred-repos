@@ -1451,6 +1451,7 @@
 * [ddawson/Link-Tools](https://github.com/ddawson/Link-Tools): Configurable copy and visit operations for links in Firefox
 * [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner): A Firefox extension to clean urls from tracking and advertisement parameters
 * [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook): Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more. 
+* [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden): Mirror repository of the LinkDroid for Linkwarden app 
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
 * [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core): A JavaScript library for linkification stuff. Used by linkify-plus-plus.
 * [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora): The only link utility app you need for Android, now available on desktop.
