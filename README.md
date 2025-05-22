@@ -222,6 +222,7 @@
 * [wting/autojump](https://github.com/wting/autojump): A cd command that learns - easily navigate directories from the command line
 * [tsaost/autoload-temporary-addon](https://github.com/tsaost/autoload-temporary-addon): Automatically load temporary addons from a local directory when Firefox starts
 * [thirdinsight/AutoMarkFolderRead](https://github.com/thirdinsight/AutoMarkFolderRead): Thunderbird Addon to automatically mark folders (like junk) as read.
+* [pantharshit007/automatedMails](https://github.com/pantharshit007/automatedMails): An automated email response system powered by Google's Gemini AI that intelligently processes and responds to emails based on their content.
 * [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan): Browser userscript to automatically send DAN messages to ChatGPT
 * [alfredapp/automation-tasks](https://github.com/alfredapp/automation-tasks): Official Alfred Automation Tasks
 * [tcellerier/automator](https://github.com/tcellerier/automator): Mac OS Automator quick actions
@@ -257,6 +258,7 @@
 * [wangbing1416/Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection): An awesome paper list of fake news detection (FND) and rumor detection.
 * [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
 * [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby): ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
+* [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps): A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
 * [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store): A curated list of awesome GPTs in the GPT Store
 * [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines): A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 * [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon): awesome configuration for Hammerspoon.
