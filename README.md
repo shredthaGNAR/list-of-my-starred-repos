@@ -1898,7 +1898,7 @@
 * [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic): Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 * [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo): 🧩 The Browser Extension Framework
 * [aaronhff8/plastic-joplin-theme](https://github.com/aaronhff8/plastic-joplin-theme): Theme for Joplin that utilises the standard dark theme and essentially a restyling of Ohmine-Dark-Theme-For-Joplin. 
-* [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus): Create native Mac applications from command line scripts.
+* [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus): Create native macOS applications from command line scripts.
 * [alexdevero/playerfm-desktop-app](https://github.com/alexdevero/playerfm-desktop-app): Desktop app for PlayerFM build with electron.
 * [pyrooka/playerfm-downloader](https://github.com/pyrooka/playerfm-downloader): Simple tool written for my colleague. Download list of mp3-s from the given playerfm URL.
 * [benr0th/PlaylistSearch](https://github.com/benr0th/PlaylistSearch): Search your Youtube™ playlists
