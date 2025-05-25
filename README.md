@@ -1329,6 +1329,7 @@
 * [josh-jacobson/jj-touchbar](https://github.com/josh-jacobson/jj-touchbar): Simple, elegant preset for BetterTouchTool envisioned as a modern upgrade to the original function keys.
 * [catppuccin/joplin](https://github.com/catppuccin/joplin): 📔️ Soothing pastel theme for Joplin
 * [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+* [ivfrost/joplin-adwaita-theme](https://github.com/ivfrost/joplin-adwaita-theme): GNOME Adwaita theme for Joplin
 * [laurent22/joplin-android](https://github.com/laurent22/joplin-android): Android releases for Joplin
 * [tessus/joplin-custom-css](https://github.com/tessus/joplin-custom-css): 📝 My custom styles for Joplin, the open source note taking app
 * [Liscum/Joplin-Dark-Theme](https://github.com/Liscum/Joplin-Dark-Theme): A beautiful Joplin dark theme
