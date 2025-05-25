@@ -58,6 +58,7 @@
 * [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper): 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
 * [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager): Script that allows to download portable installers of different versions Adobe software for macOS
+* [benstonezhang/adobe-packager](https://github.com/benstonezhang/adobe-packager): Script that allows to download portable installers of different versions Adobe software
 * [Korveld/Adobe-URL-Block-List](https://github.com/Korveld/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Hosts file.
 * [Ruddernation-Designs/Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List): This is the Adobe URL/IP block list for the Host file.
 * [YarosMallorca/adobe_dns_filter](https://github.com/YarosMallorca/adobe_dns_filter): A CLI tool to block certain Adobe-related domains in the computer's hosts file
@@ -1323,6 +1324,7 @@
 * [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy): A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 * [sharadcodes/jekyll-theme-serial-programmer](https://github.com/sharadcodes/jekyll-theme-serial-programmer): A Jekyll theme for serial programmers (-.-)
 * [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono): JetBrains Mono – the free and open-source typeface for developers
+* [marph91/jimmy](https://github.com/marph91/jimmy): Convert your notes to Markdown
 * [JitouchApp/Jitouch](https://github.com/JitouchApp/Jitouch): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 * [sukolsak/jitouch](https://github.com/sukolsak/jitouch): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
 * [JitouchApp/Jitouch-project](https://github.com/JitouchApp/Jitouch-project): A multi-touch extension for MacBook, Magic Mouse, and Magic Trackpad
@@ -1356,6 +1358,7 @@
 * [hrqmonteiro/joplin-theme](https://github.com/hrqmonteiro/joplin-theme): My Joplin theme files, including userchrome.css and userstyles.css, as well as some markdown templates for my notes.
 * [kveberg/joplin-theme](https://github.com/kveberg/joplin-theme): A few visual tweaks of stysebae's "joplin-vsc-material-theme"
 * [robotcorner/joplin-theme-dark-gruvbox](https://github.com/robotcorner/joplin-theme-dark-gruvbox): Inspired by "Mayukai Mirage Gruvbox Darktooth Theme" on VSCode
+* [DinoDevel/Joplin-theme-opensuse-green](https://github.com/DinoDevel/Joplin-theme-opensuse-green): Dark theme for Joplin with green accents. It's build on top of the integrated "Dark" Theme included in Joplin.
 * [JackGruber/Joplin-Tools](https://github.com/JackGruber/Joplin-Tools): Various Python tools for Joplin (Hotfolder, PDF Previews, ToDo List) and AutoIt (JoplinWinBackup) for Backups under Windows. 
 * [rxliuli/joplin-utils](https://github.com/rxliuli/joplin-utils): Joplin-based community tool
 * [jerrylususu/joplin-vacuum](https://github.com/jerrylususu/joplin-vacuum): Removes attachments (resources) that are not referred in Joplin. 
