@@ -2249,6 +2249,7 @@
 * [navorite/sessionic](https://github.com/navorite/sessionic): A web extension to save, manage and restore sessions, windows and tabs.
 * [AlexPerathoner/Sessions](https://github.com/AlexPerathoner/Sessions): Safari extension to save your working sessions
 * [ReDEnergy/SessionSync](https://github.com/ReDEnergy/SessionSync): SessionSync
+* [shaarli/Shaarli](https://github.com/shaarli/Shaarli): The personal, minimalist, super-fast, database free, bookmarking service - community repo
 * [overdodactyl/ShadowBird](https://github.com/overdodactyl/ShadowBird): A universal dark theme for Thunderbird
 * [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox): A universal dark theme for Firefox
 * [arguablykomodo/shadowfox-updater](https://github.com/arguablykomodo/shadowfox-updater): An auto-updater for ShadowFox
