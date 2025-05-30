@@ -661,6 +661,7 @@
 * [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager): Curate an inifinite media library
 * [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison): A concise comparison of pricing and supported hosts for popular debrid services including AllDebrid, Real-Debrid, LinkSnappy, Premiumize, Debrid-Link, TorBox, and Mega-Debrid.
 * [aayush210789/Deception-Detection-on-Amazon-reviews-dataset](https://github.com/aayush210789/Deception-Detection-on-Amazon-reviews-dataset): A SVM model that classifies the reviews as real or fake. Used both the review text and the additional features contained in the data set to build a model that predicted with over 85% accuracy without using any deep learning techniques. 
+* [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat): 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 * [serengil/deepface](https://github.com/serengil/deepface): A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 * [nbennett320/define-firefox](https://github.com/nbennett320/define-firefox): A quick dictionary and thesaurus.
 * [MohamedYoussouf/Design-Resources](https://github.com/MohamedYoussouf/Design-Resources): A curated list of design resources from design templates, stock photos, icons, colors, and much more.
@@ -1767,6 +1768,7 @@
 * [ksoeze/OmahaRangeExplorer](https://github.com/ksoeze/OmahaRangeExplorer): Omaha Range Explorer is a Python-based tool designed to evaluate and analyze Omaha 4-card, 5-card, and HILO poker hands and ranges. The tool allows users to construct in-game ranges over multiple streets using smart syntax, run equity and hand rank calculations, and perform basic EV estimations.
 * [alyssaxuu/omni](https://github.com/alyssaxuu/omni): The all-in-one tool to supercharge your productivity ⌨️
 * [InQuest/omnibus](https://github.com/InQuest/omnibus): The OSINT Omnibus (beta release)
+* [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore): Omnivore is a complete, open source read-it-later solution for people who like reading.
 * [omnixent/omnixent](https://github.com/omnixent/omnixent): 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
 * [songquanpeng/one-api](https://github.com/songquanpeng/one-api): LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 * [iansinnott/one-dark-tab](https://github.com/iansinnott/one-dark-tab): Like OneTab, but darker.
