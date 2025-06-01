@@ -506,7 +506,7 @@
 * [SingularityLabs-ai/ChatGPT-Tool-List](https://github.com/SingularityLabs-ai/ChatGPT-Tool-List): Bots To be added
 * [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js): 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 * [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
-* [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
+* [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
 * [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
 * [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop): a new desktop app for chatkit.app
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
