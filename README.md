@@ -702,7 +702,7 @@
 * [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview): Mac OSX app that displays window previews when hovering over app icon on the Dock. 
 * [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab): Window preview app for MacOS (on the dock) using AltTab.
 * [steventheworker/DockAltTab-home](https://github.com/steventheworker/DockAltTab-home): website for DockAltTab
-* [ejbills/DockDoor](https://github.com/ejbills/DockDoor): Window peeking for macOS
+* [ejbills/DockDoor](https://github.com/ejbills/DockDoor): Window peeking & alt-tab for macOS
 * [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 * [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced): One Click Python util to build all Revanced apps.
 * [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn): Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
