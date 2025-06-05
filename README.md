@@ -2899,7 +2899,7 @@
 * [DenBeke/YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS): Simple menu bar app to download YouTube movies on your Mac
 * [ytb2mp3/youtube-mp3-downloader](https://github.com/ytb2mp3/youtube-mp3-downloader): Extract music from YouTube videos
 * [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music): :musical_note: A Mac app wrapper for music.youtube.com
-* [th-ch/youtube-music](https://github.com/th-ch/youtube-music): YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+* [th-ch/youtube-music](https://github.com/th-ch/youtube-music): YouTube Music Desktop App bundled with custom plugins
 * [pateldevang/Youtube-music-macOS](https://github.com/pateldevang/Youtube-music-macOS): Youtube Music for macOS (Ads free) & Download Music For Free.
 * [organization/youtube-music-next](https://github.com/organization/youtube-music-next): YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 * [soufianesakhi/youtube-playlist-helper](https://github.com/soufianesakhi/youtube-playlist-helper): YouTube playlist editor and generator
