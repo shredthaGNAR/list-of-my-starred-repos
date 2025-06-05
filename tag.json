@@ -3626,6 +3626,9 @@
     "donnemartin/dev-setup": [
         "Other"
     ],
+    "dortania/OpenCore-Legacy-Patcher": [
+        "Other"
+    ],
     "dosdude1/macos-catalina-patcher": [
         "Other"
     ],
@@ -7662,6 +7665,9 @@
         "Other"
     ],
     "steventheworker/applescripts": [
+        "Other"
+    ],
+    "steventheworker/recents-macos": [
         "Other"
     ],
     "steventheworker/screenhook": [

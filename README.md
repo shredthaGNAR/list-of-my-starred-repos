@@ -1811,6 +1811,7 @@
 * [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+* [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher): Experience macOS just like before
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
 * [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu): 🕹 Retro video game emulation for macOS
 * [hjerpbakk/OpenFolderInVSCode](https://github.com/hjerpbakk/OpenFolderInVSCode): With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
@@ -2103,6 +2104,7 @@
 * [timleland/ReadLaterCE](https://github.com/timleland/ReadLaterCE): Read Later Chrome Extension
 * [aecreations/readnext](https://github.com/aecreations/readnext): Read Next: an extension for Firefox
 * [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire): A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
+* [steventheworker/recents-macos](https://github.com/steventheworker/recents-macos): Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher.
 * [bhavsec/reconspider](https://github.com/bhavsec/reconspider): 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 * [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle): Move and resize windows on macOS with keyboard shortcuts and snap areas
 * [rxhanson/RectanglePro-Community](https://github.com/rxhanson/RectanglePro-Community): Bug reports and discussion for the Rectangle Pro app
