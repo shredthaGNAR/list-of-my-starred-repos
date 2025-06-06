@@ -547,6 +547,7 @@
 * [imputnet/cobalt](https://github.com/imputnet/cobalt): best way to save what you love
 * [JudiniLabs/code-gpt-docs](https://github.com/JudiniLabs/code-gpt-docs): Docusaurus page
 * [lauthieb/code-notes](https://github.com/lauthieb/code-notes): (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+* [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks, Snippets and Notes Manager for Developers & Co (website)
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
@@ -1741,6 +1742,8 @@
 * [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri): Advanced modes for Obsidian URI
 * [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe): Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 * [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin): This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
+* [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin): A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons.
+* [Jacobinwwey/obsidian-NotEMD](https://github.com/Jacobinwwey/obsidian-NotEMD): A Easy way to create your own Knowledge-base! Notemd enhances your Obsidian workflow by integrating with various Large Language Models (LLMs) to process your notes, automatically generate wiki-links for key concepts, create corresponding concept notes, perform web research, and more.
 * [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama): None
 * [nybbles/obsidian-pocket](https://github.com/nybbles/obsidian-pocket): Pocket integration for Obsidian
 * [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop): This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
@@ -2395,6 +2398,7 @@
 * [akarlsten/snaz](https://github.com/akarlsten/snaz): VS Code color theme
 * [akarlsten/snazzy-plus](https://github.com/akarlsten/snazzy-plus): VS Code color theme
 * [snthcy/snazzy-vscode](https://github.com/snthcy/snazzy-vscode): A snazzy looking theme for Visual Studio Code.
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): Comfortably monitor your Internet traffic 🕵️‍♂️
 * [gocomet/snippets](https://github.com/gocomet/snippets): A collection of code snippets, generally for use with Shopify
 * [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape): A social networking service scraper in Python
 * [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia): Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
@@ -2668,6 +2672,7 @@
 * [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android): App to interact with real-debrid API
 * [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus): unc0ver jailbreak for iOS 11.0 - 12.4
 * [pwn20wndstuff/Undecimus-Resources](https://github.com/pwn20wndstuff/Undecimus-Resources): None
+* [Seniblue/Underwater](https://github.com/Seniblue/Underwater): An obsidian.md theme
 * [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu): Firefox webextension to add an undo closed tabs menu to tabs.
 * [p1usminus/undoclosetabreplacement](https://github.com/p1usminus/undoclosetabreplacement): Updated for FF78+
 * [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit): The easiest way to use git. On any platform. Anywhere.
