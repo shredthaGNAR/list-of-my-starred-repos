@@ -2027,6 +2027,7 @@
 * [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings): Guide to privacy settings for most major software and services.
 * [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt): Interact with your documents using the power of GPT, 100% privately, no data leaks
 * [Infocatcher/Private_Tab](https://github.com/Infocatcher/Private_Tab): Adds private tabs, restartless extension for Firefox (20.0+) and SeaMonkey (2.17+)
+* [seemoo-lab/privatedrop](https://github.com/seemoo-lab/privatedrop): Practical Privacy-Preserving Authentication for Apple AirDrop
 * [xmansyx/Pro-Fox](https://github.com/xmansyx/Pro-Fox): A custome CSS Theme for firefox
 * [objective-see/ProcessMonitor](https://github.com/objective-see/ProcessMonitor): Process Monitor Library (based on Apple's new Endpoint Security Framework)
 * [jairo-aguirre/product-comparison](https://github.com/jairo-aguirre/product-comparison): App enabling users in a simple and centralized way to compare product features or capabilities across multiple similar products.
