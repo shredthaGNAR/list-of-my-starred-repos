@@ -2903,10 +2903,13 @@
 * [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator): 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
 * [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2): Custom firmware for Yi 1080p camera based on Allwinner platform
+* [npetrovski/yi-hack-easy](https://github.com/npetrovski/yi-hack-easy): Customized firmware for Yi Home Camera 720p
 * [roleoroleo/yi-hack-MStar](https://github.com/roleoroleo/yi-hack-MStar): Custom firmware for Yi 1080p camera based on MStar platform
 * [roleoroleo/yi-hack-MStar.gdrive](https://github.com/roleoroleo/yi-hack-MStar.gdrive): Google drive loader for yi smart ip camera (MStar based)
+* [shadow-1/yi-hack-v3](https://github.com/shadow-1/yi-hack-v3): Alternative Firmware for Xiaomi Cameras based on Hi3518e Chipset
 * [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4): New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
 * [alienatedsec/yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5): Even newer Custom Firmware for Xiaomi Cameras based on Hi3518ev200 Chipset. It includes free RTSP, ONVIF and other improvements based on the work by roleoroleo
+* [roleoroleo/yi-hack_ha_integration](https://github.com/roleoroleo/yi-hack_ha_integration): Home Assistant custom integration for Yi cameras: yi-hack-MStar, yi-hack-Allwinner, yi-hack-Allwinner-v2, yi-hack-v5 and sonoff-hack
 * [yiisoft/yii2-app-basic](https://github.com/yiisoft/yii2-app-basic): Yii 2.0 Basic Application Template
 * [execut/yii2-people-finder](https://github.com/execut/yii2-people-finder): Library for search peoples via social networks
 * [mattDavo/Yippy](https://github.com/mattDavo/Yippy): macOS open source clipboard manager
