@@ -1120,7 +1120,7 @@
 * [p3rception/GlassFox](https://github.com/p3rception/GlassFox): // Transluscent FirefoxCSS theme for MacOS
 * [4xx404/GlassFrog](https://github.com/4xx404/GlassFrog): Keyword Search & Information Gathering Tool
 * [ravindranag/glassmorphism-in-firefox](https://github.com/ravindranag/glassmorphism-in-firefox): Create cards with acrylic effect in Firefox
-* [AnhNguyenlost13/GlassyFox](https://github.com/AnhNguyenlost13/GlassyFox): blur overuse lmao
+* [AnhNguyenlost13/GlassyFox](https://github.com/AnhNguyenlost13/GlassyFox): macos 26 lookin' firefox
 * [5starkarma/global-poker-addons](https://github.com/5starkarma/global-poker-addons): Quick Seat/Automated Tiling/Hotkey Tool
 * [mr-feek/global-poker-hand-history-converter](https://github.com/mr-feek/global-poker-hand-history-converter): :spades: :clubs: Convert Global Poker hand histories to PokerStars format :hearts: :diamonds:
 * [mr-feek/global-poker-hand-history-converter-chrome-extension](https://github.com/mr-feek/global-poker-hand-history-converter-chrome-extension): Chrome Extension for fetching Global Poker hand histories and converting them to poker stars format.
