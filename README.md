@@ -1707,6 +1707,7 @@
 * [feilvan/neatly](https://github.com/feilvan/neatly): None
 * [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost):  The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 * [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
+* [EFEELE/NeonMint](https://github.com/EFEELE/NeonMint): is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic with mint green accents to highlight content without distractions.
 * [yiiyahui/Neptune-Firefox](https://github.com/yiiyahui/Neptune-Firefox): A clean and compact Firefox theme.
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 * [aminomancer/Netflix-Marathon-Pausable](https://github.com/aminomancer/Netflix-Marathon-Pausable): Automatically skip recaps, intros, credits, and ads, and click "next episode" prompts on Netflix, Amazon Prime Video, Hulu, HBO Max, Starz, Disney+, and Hotstar
