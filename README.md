@@ -2840,6 +2840,7 @@
 * [sedemmler/WagerBrain](https://github.com/sedemmler/WagerBrain): A package containing the essential math required for sports betting and gambling.
 * [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 * [wallabag/wallabagger](https://github.com/wallabag/wallabagger): Chrome-like / Firefox plugin for wallabag v2.
+* [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi): Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 * [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper): :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
 * [cheap-glitch/warpgate](https://github.com/cheap-glitch/warpgate): 💫 A lightweight browser extension to jump to various external bookmarks from the address bar.
 * [moseoridev/WarpShare](https://github.com/moseoridev/WarpShare): An Open-source AirDrop Alternative
