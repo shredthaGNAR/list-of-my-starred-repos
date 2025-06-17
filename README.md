@@ -879,6 +879,7 @@
 * [synappser/FinderFix](https://github.com/synappser/FinderFix): FinderFix lets you resize and reposition Finder windows to your liking
 * [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode): Free monospaced font with programming ligatures
+* [Hussseinkizz/FiraCodeiScript](https://github.com/Hussseinkizz/FiraCodeiScript): Mashup Font of FiraCode and Script12
 * [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript): Mashup Font of FiraCode and Script12
 * [kosimst/FiraFlott](https://github.com/kosimst/FiraFlott): Free Operator Mono Alternative based on FiraCode and FlottFlott
 * [bennypowers/fireblocks](https://github.com/bennypowers/fireblocks): Chonky Firefox tabs for square developers
