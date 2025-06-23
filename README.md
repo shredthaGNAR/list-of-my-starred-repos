@@ -1009,7 +1009,6 @@
 * [UrielAbergel/Follow_The_Image--ComputerVision](https://github.com/UrielAbergel/Follow_The_Image--ComputerVision): Search system, the system receives as input a picture of a person, and finds all his pictures in the destination folder or on the computer, the system will emit all the pictures in which the person appeared
 * [beichensky/Font](https://github.com/beichensky/Font): FiraCode 和 Operator Mono 字体
 * [Snilda/Font-Library](https://github.com/Snilda/Font-Library): Check Readme
-* [g-cqd/Fonts](https://github.com/g-cqd/Fonts): A curation of fonts from all over the world.
 * [ohmybahgosh/FONTS_DOT_COM_RIPPER](https://github.com/ohmybahgosh/FONTS_DOT_COM_RIPPER): Script to extract entire font families from Fonts.com, rips them as woff2 and final output includes woff2 and ttf files
 * [fontsource/fontsource](https://github.com/fontsource/fontsource): Self-host Open Source fonts in neatly bundled NPM packages.
 * [briankendall/forceFullDesktopBar](https://github.com/briankendall/forceFullDesktopBar): Utility for macOS that modifies the Dock process so that the desktop bar in Mission Control is always full size and showing previews
