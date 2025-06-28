@@ -2687,7 +2687,7 @@
 * [humandecoded/twayback](https://github.com/humandecoded/twayback): Automate downloading archived deleted Tweets.
 * [RobTrew/txtquery-tools](https://github.com/RobTrew/txtquery-tools): Tools for generating custom perspectives & reports from FoldingText and TaskPaper docs
 * [KarlPiper/typography-shortcuts](https://github.com/KarlPiper/typography-shortcuts): BetterTouchTool actions for typing special characters, and reference for macOS keyboard shortcuts.
-* [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets): Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
+* [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets): Filter lists for uBlock Origin & uBlock Origin Lite
 * [iorate/ublacklist](https://github.com/iorate/ublacklist): Blocks specific sites from appearing in Google search results
 * [gorhill/uBlock](https://github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 * [mtxadmin/ublock](https://github.com/mtxadmin/ublock): Filters for uBlock Origin
