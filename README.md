@@ -1723,6 +1723,7 @@
 * [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu): FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. (runs on Firefox 128) 📋🖱️🔗
 * [garywill/newTabClipboardUrl](https://github.com/garywill/newTabClipboardUrl): Quickly create new tab opening URL from clipboard. Firefox addon 📋🖱️🔗
 * [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil): OSINT tool for finding profiles by username
+* [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab): 浏览器插件：OneTab、Toby、N-Tab、SessionBuddy、KepTab 等扩展的升级替代品，功能丰富易用 | A nice, convenient, powerful tab manager  serving as an upgraded alternative to OneTab, Toby, SessionBuddy, N-Tab，KepTab...
 * [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc): a blue-ish gray with a purple accent color palette for Visual Studio Code.
 * [nixgates/nixgates](https://github.com/nixgates/nixgates): Repository for Kodi Addons
 * [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser): Parses Firefox/Chrome HTML bookmarks files
