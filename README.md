@@ -1670,7 +1670,6 @@
 * [mpdf/mpdf](https://github.com/mpdf/mpdf): PHP library generating PDF files from UTF-8 encoded HTML
 * [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line media player
 * [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes):  A Complete Osint Tool :mag:
-* [bappygazi/MR.kirof-email-signature](https://github.com/bappygazi/MR.kirof-email-signature): None
 * [Toxblh/MTMR](https://github.com/Toxblh/MTMR): 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 * [Toxblh/MTMR-presets](https://github.com/Toxblh/MTMR-presets): 💈 [My TouchBar My rules] Share your preset!
 * [ohmybahgosh/MTV-YTDLP](https://github.com/ohmybahgosh/MTV-YTDLP): Simple script using YT-DLP do download an episode from MTV.com, and then merge the resulting multiple output MP4 files using ffmpeg.  MTV episodes are split in to multiple MP4 files, so resulting output for a single episode can be between 3-11+ MP4 files.  This script is a band-aid for that.
