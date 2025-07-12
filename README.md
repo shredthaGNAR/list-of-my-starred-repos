@@ -2174,6 +2174,7 @@
 * [peternmuller/revanced-builder](https://github.com/peternmuller/revanced-builder): An APK and Magisk/KernelSU module builder for RV/RVX apps. Updated hourly.
 * [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder): A NodeJS ReVanced builder
 * [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli): 💻 Command-line application to use ReVanced
+* [inotia00/revanced-cli](https://github.com/inotia00/revanced-cli): 💻 Command line application as an alternative to the ReVanced Manager
 * [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator): Create Revanced apps easily ☠️
 * [ReVanced/revanced-documentation](https://github.com/ReVanced/revanced-documentation): 🗄 Collection of all ReVanced documentation
 * [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation): 🗄 Documentation and guides for ReVanced Extended
@@ -2210,6 +2211,7 @@
 * [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension): 🦀 The ultimate search extension for Rust
 * [rvm/rvm](https://github.com/rvm/rvm): Ruby enVironment Manager (RVM)
 * [j-hc/rvmm-config-gen](https://github.com/j-hc/rvmm-config-gen): config generator for revanced-magisk-module
+* [inotia00/rvx-builder](https://github.com/inotia00/rvx-builder): A NodeJS ReVanced Extended builder
 * [darshanbaral/sada](https://github.com/darshanbaral/sada): Simple hugo theme for resume created using Tailwind CSS
 * [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox): Sidebar Always Loaded for Firefox
 * [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820): Unified kernel tree for S10 and Note10 devices

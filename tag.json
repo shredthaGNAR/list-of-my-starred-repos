@@ -4697,6 +4697,9 @@
     "inotia00/mMicroG": [
         "Other"
     ],
+    "inotia00/revanced-cli": [
+        "Other"
+    ],
     "inotia00/revanced-documentation": [
         "Other"
     ],
@@ -4704,6 +4707,9 @@
         "Other"
     ],
     "inotia00/revanced-patches": [
+        "Other"
+    ],
+    "inotia00/rvx-builder": [
         "Other"
     ],
     "insidegui/CustomStatusBarWindow": [
