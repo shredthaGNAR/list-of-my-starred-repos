@@ -970,7 +970,6 @@
 * [sagars007/Firefox-vertical-tabs-customUI](https://github.com/sagars007/Firefox-vertical-tabs-customUI): Custom userChrome and userContent.css for Firefox. Including vertical tabs(tree_style_tabs), full dark mode, thin title-bar text in nav-bar and much more.
 * [CaptainEureka/firefox-vibrancy](https://github.com/CaptainEureka/firefox-vibrancy): None
 * [hongde88/firefox-workspace-manager](https://github.com/hongde88/firefox-workspace-manager): A Firefox extension that groups tabs into workspaces through the hide and show tab APIs.
-* [Rasmagoric/Firefox2022](https://github.com/Rasmagoric/Firefox2022): A new look for your Firefox browser.
 * [denesberta/firefox_compact_style](https://github.com/denesberta/firefox_compact_style): Make Firefox compact!
 * [Yash220402/firefox_css_ui](https://github.com/Yash220402/firefox_css_ui): None
 * [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt): Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
