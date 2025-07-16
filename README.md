@@ -1029,6 +1029,7 @@
 * [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX): A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
 * [mikemadden42/fuji](https://github.com/mikemadden42/fuji): AppleScript collection
 * [robrop/FullScreen-FirefoxMac](https://github.com/robrop/FullScreen-FirefoxMac): Firefox / Mac real full screen and hotkey
+* [Futur3Sn0w/futur3f0x](https://github.com/Futur3Sn0w/futur3f0x): My own set of tweaks+customizations applied to Firefox, mainly through userChrome.css
 * [CoocooFroggy/FutureRestore-GUI](https://github.com/CoocooFroggy/FutureRestore-GUI): A modern GUI for FutureRestore, with added features to make the process easier.
 * [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig): Load custom javascript in browser context
 * [dannycolin/fx-compact-mode](https://github.com/dannycolin/fx-compact-mode): A Compact Mode for Firefox Proton
