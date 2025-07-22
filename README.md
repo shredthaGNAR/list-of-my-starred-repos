@@ -352,6 +352,7 @@
 * [SuperBox64/bigmac](https://github.com/SuperBox64/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 * [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches): [Deprecated] Merged into https://github.com/BiliRoamingX/BiliRoamingX.
+* [sebaslogen/bitcoin-price-ticker](https://github.com/sebaslogen/bitcoin-price-ticker): Bitcoin Price Ticker Firefox Addon with multiple price sources and configuration options
 * [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources): My starter pack for people new to the bewildering world of bitcoin.
 * [ajmalshahabudeen/Bitwarden-Duplicate-remover](https://github.com/ajmalshahabudeen/Bitwarden-Duplicate-remover): When Importing multiple CSV files Bitwarden creates Duplicate Entries. So this Python script will remove duplicate entries and keep ONE.
 * [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar): Bitwarden in the macOS menu bar
@@ -834,6 +835,7 @@
 * [Pocket/extension-save-to-pocket](https://github.com/Pocket/extension-save-to-pocket): Save to Pocket is a browser extension that is used to save pages to a connected Pocket account
 * [namukang/extension-starter-kit](https://github.com/namukang/extension-starter-kit): Starter kit for building Chrome/Firefox extensions
 * [extension-js/extension.js](https://github.com/extension-js/extension.js): 🧩 The cross-browser extension framework.
+* [chrismessina/extensions](https://github.com/chrismessina/extensions): Everything you need to extend Raycast.
 * [raycast/extensions](https://github.com/raycast/extensions): Everything you need to extend Raycast.
 * [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button): Communicate with external applications of your OS through a toolbar button or context menu item.
 * [researchdepartment/external-application-button-youtube-dl-macos-shortcut](https://github.com/researchdepartment/external-application-button-youtube-dl-macos-shortcut): this was a triumph (i couldn't get the command variant listed in the FAQs to work so i made this)
