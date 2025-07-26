@@ -691,7 +691,7 @@
 * [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll): (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
 * [devaradise/devolio](https://github.com/devaradise/devolio): A Simple Astro Portfolio & Blog Template for Developers
 * [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
-* [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
+* [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio): A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
 * [Kavakuo/Dict.cc-Alfred-Workflow](https://github.com/Kavakuo/Dict.cc-Alfred-Workflow): None
 * [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 * [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim): Dim, a media manager fueled by dark forces.
