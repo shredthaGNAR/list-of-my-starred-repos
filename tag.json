@@ -842,9 +842,6 @@
     "Infocatcher/Custom_Buttons": [
         "Other"
     ],
-    "Infocatcher/Private_Tab": [
-        "Other"
-    ],
     "Infocatcher/Right_Links": [
         "Other"
     ],
@@ -2592,6 +2589,9 @@
         "Other"
     ],
     "anishathalye/dotbot": [
+        "Other"
+    ],
+    "anlcan/synonyms": [
         "Other"
     ],
     "annedorko/highlight": [
@@ -4461,6 +4461,9 @@
         "Other"
     ],
     "halfhelix/shopify-guide": [
+        "Other"
+    ],
+    "halo/LinkLiar": [
         "Other"
     ],
     "hanacchi/RestoreFirefoxJS": [
@@ -7530,9 +7533,6 @@
         "Other"
     ],
     "shredthaGNAR/shredthaGNAR.github.io": [
-        "Other"
-    ],
-    "shredthaGNAR/skip-prime-video-intro": [
         "Other"
     ],
     "shredthaGNAR/static-marks-docker": [

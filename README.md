@@ -1473,6 +1473,7 @@
 * [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden): Mirror repository of the LinkDroid for Linkwarden app 
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
 * [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core): A JavaScript library for linkification stuff. Used by linkify-plus-plus.
+* [halo/LinkLiar](https://github.com/halo/LinkLiar): :link: Link-Layer MAC spoofing GUI for macOS
 * [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora): Link organizer for Android and desktop with self-hosted sync.
 * [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
 * [koukaku01/LinkQR](https://github.com/koukaku01/LinkQR): A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
@@ -2052,7 +2053,6 @@
 * [mechagomizilla/Prism-FirefoxPhotonRecolored](https://github.com/mechagomizilla/Prism-FirefoxPhotonRecolored): Prism - Firefox Photon Recolored
 * [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings): Guide to privacy settings for most major software and services.
 * [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt): Interact with your documents using the power of GPT, 100% privately, no data leaks
-* [Infocatcher/Private_Tab](https://github.com/Infocatcher/Private_Tab): Adds private tabs, restartless extension for Firefox (20.0+) and SeaMonkey (2.17+)
 * [seemoo-lab/privatedrop](https://github.com/seemoo-lab/privatedrop): Practical Privacy-Preserving Authentication for Apple AirDrop
 * [xmansyx/Pro-Fox](https://github.com/xmansyx/Pro-Fox): A custome CSS Theme for firefox
 * [objective-see/ProcessMonitor](https://github.com/objective-see/ProcessMonitor): Process Monitor Library (based on Apple's new Endpoint Security Framework)
@@ -2414,7 +2414,6 @@
 * [SerpentDrago/skin.auramod](https://github.com/SerpentDrago/skin.auramod): Auramod Skin for Kodi 18 
 * [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic): None
 * [jonashellmann/skip-prime-video-intro](https://github.com/jonashellmann/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
-* [shredthaGNAR/skip-prime-video-intro](https://github.com/shredthaGNAR/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
 * [Skyflash/skyflash.github.io](https://github.com/Skyflash/skyflash.github.io): 🎨 My personal website
 * [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox): :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
 * [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth): Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
@@ -2537,6 +2536,7 @@
 * [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab): Firefox Synced JSON of tabs to Onetab format
 * [Cleod9/syncmarx-webext](https://github.com/Cleod9/syncmarx-webext): Web extension to sync bookmarks between browsers to the cloud file host of your choice
 * [aliyss/syncribullet](https://github.com/aliyss/syncribullet): Allows for syncing currently watched items from Stremio
+* [anlcan/synonyms](https://github.com/anlcan/synonyms): Mac Quick Action for finding synonyms while tracking the history on Firebase
 * [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
 * [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext): Add context menu to macOS Finder 
 * [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
