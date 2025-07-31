@@ -78,6 +78,7 @@
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to augment your web experience
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
 * [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon. 
+* [NeloF4/AIOTools](https://github.com/NeloF4/AIOTools): All In One Tools Hacking 
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
@@ -880,8 +881,11 @@
 * [iShopifyExpert/find-my-size-shopify](https://github.com/iShopifyExpert/find-my-size-shopify): None
 * [liqing1993/Find-The-Person-You-Want-in-videos](https://github.com/liqing1993/Find-The-Person-You-Want-in-videos): This project is to build a image search system. 
 * [pointu-l/finder-basic-visor](https://github.com/pointu-l/finder-basic-visor): Basic AppleScript visor mode for the finder. Designed for better touch tool
+* [kdabir/finder-buttons](https://github.com/kdabir/finder-buttons): MacOS Finder buttons for quick actions
 * [synappser/FinderFix](https://github.com/synappser/FinderFix): FinderFix lets you resize and reposition Finder windows to your liking
 * [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
+* [jlehikoinen/FinderMate](https://github.com/jlehikoinen/FinderMate): macOS Finder extension for creating new text documents with right-click
+* [kotleni/FinderPlus-macOS](https://github.com/kotleni/FinderPlus-macOS): A simple Finder extension for creating files + opening a terminal from the context menu.
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode): Free monospaced font with programming ligatures
 * [Hussseinkizz/FiraCodeiScript](https://github.com/Hussseinkizz/FiraCodeiScript): Mashup Font of FiraCode and Script12
 * [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript): Mashup Font of FiraCode and Script12
@@ -901,6 +905,7 @@
 * [GrosBourrin/FIREFOX-BLUE-MOON](https://github.com/GrosBourrin/FIREFOX-BLUE-MOON): Firefox blueish & dark theme 
 * [tagler/firefox-bookmark-toolbar-dark-theme](https://github.com/tagler/firefox-bookmark-toolbar-dark-theme): Custom CSS file for Firefox bookmark toolbar dark theme, v92+ (mac)
 * [james-cube/firefox-bookmarks-merger](https://github.com/james-cube/firefox-bookmarks-merger): Tool for merging firefox bookmarks backups.
+* [uszie/firefox-breeze-theme](https://github.com/uszie/firefox-breeze-theme): A Breeze theme for Firefox🔥
 * [gabeweb/Firefox-Browser-Proton-Custom](https://github.com/gabeweb/Firefox-Browser-Proton-Custom): A custom userChrome.css for Firefox 86+ (February 2021). For personal purpose only. 
 * [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme): Firefox dark theme with a less cluttered UI
 * [vallovic/firefox-colorize-container-toolbar](https://github.com/vallovic/firefox-colorize-container-toolbar): Firefox extension to automatically colorize browser toolbar by matching the color of the active container tab
@@ -931,7 +936,6 @@
 * [jeremyperkin/Firefox-macOS-setup](https://github.com/jeremyperkin/Firefox-macOS-setup): userChrome.css and userContent.css files.
 * [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod): None
 * [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
-* [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods): Firefox CSS and JS Mods
 * [gmardom/firefox-mods](https://github.com/gmardom/firefox-mods): None
 * [SebastianSimon/firefox-omni-tweaks](https://github.com/SebastianSimon/firefox-omni-tweaks): A script that disables the clickSelectsAll behavior of Firefox, and more.
 * [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one): Firefox Theme for Opera One skin Lovers 
@@ -983,6 +987,7 @@
 * [Smile4ever/firefoxaddons](https://github.com/Smile4ever/firefoxaddons): Extend the functionality of Firefox with cool addons
 * [sdavidg/firefoxChromeScripts](https://github.com/sdavidg/firefoxChromeScripts): None
 * [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor): Theming demo for Firefox Quantum and beyond
+* [AutomaticFailure/FirefoxCSS](https://github.com/AutomaticFailure/FirefoxCSS): None
 * [guidoevers/firefoxcss](https://github.com/guidoevers/firefoxcss): transparancy
 * [Pepitortue/FirefoxCSS-Safari-theme](https://github.com/Pepitortue/FirefoxCSS-Safari-theme): A Safari like them for Firefox 100+
 * [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize): Ryan 收集的 Firefox 个性化相关资源
@@ -996,6 +1001,7 @@
 * [kosimst/Firicico](https://github.com/kosimst/Firicico): Combined programming mono font with italics and font ligatures made from Fira Code and Pacifico for Italics
 * [Mortennn/FiScript](https://github.com/Mortennn/FiScript): Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
 * [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css): A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and gradients for some depth.
+* [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox): A lightweight Firefox theme focused on usability, flexibility, and smooth performance.
 * [d3ward/floatly](https://github.com/d3ward/floatly): An extension that adds a floating button for browser quick actions 
 * [floccusaddon/floccus](https://github.com/floccusaddon/floccus): :cloud: Sync your bookmarks privately across browsers and devices
 * [julianandrews/flopferret](https://github.com/julianandrews/flopferret): Texas Hold'em board texture analyzer.
@@ -1007,6 +1013,7 @@
 * [fmhy/FMHYFilterlist](https://github.com/fmhy/FMHYFilterlist): FMHY Filterlist
 * [avindra/fndr](https://github.com/avindra/fndr): An Internet helper to wrangle multiple search providers, extract social media ids, perform reverse image search and more.
 * [VigoKrumins/folder-icons](https://github.com/VigoKrumins/folder-icons): Custom folder icons for macOS & Windows
+* [bglezseoane/folder-stamp](https://github.com/bglezseoane/folder-stamp): Generate custom Mac OS folder icons with a desired image as stamp
 * [lgarron/folderify](https://github.com/lgarron/folderify): :file_folder: Generate pixel-perfect macOS folder icons in the native style. (Now with support for macOS 26 Tahoe!)
 * [UrielAbergel/Follow_The_Image--ComputerVision](https://github.com/UrielAbergel/Follow_The_Image--ComputerVision): Search system, the system receives as input a picture of a person, and finds all his pictures in the destination folder or on the computer, the system will emit all the pictures in which the person appeared
 * [beichensky/Font](https://github.com/beichensky/Font): FiraCode 和 Operator Mono 字体
@@ -1187,6 +1194,7 @@
 * [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile): Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 * [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal): A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 * [linexjlin/GPTs](https://github.com/linexjlin/GPTs): leaked prompts of GPTs
+* [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript): Build AI assistants that interact with your systems
 * [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
 * [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
 * [tardisx/gropple](https://github.com/tardisx/gropple): Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
@@ -1521,6 +1529,7 @@
 * [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI):  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 * [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook): Mac setup and configuration via Ansible.
 * [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup): A macOS setup guide specific to front-end development.
+* [andrewpetrochenkov/mac-finder](https://github.com/andrewpetrochenkov/mac-finder): :apple: macOS Finder scripts
 * [eth-p/mac-icons](https://github.com/eth-p/mac-icons): An assortment of custom MacOS folder icons, editable without Adobe products.
 * [zhuochun/mac-keyboard](https://github.com/zhuochun/mac-keyboard): 🎹 Keyboard Enhancements for Mac
 * [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix): Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
@@ -1828,6 +1837,7 @@
 * [Enan01/OneTabClear](https://github.com/Enan01/OneTabClear): Quickly clear OneTab tag group.
 * [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand): An open source browser extension to save your favorite bookmarks on a "new tab" page.
 * [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch): ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+* [jonschlinkert/open-finder-dialog](https://github.com/jonschlinkert/open-finder-dialog): Open a finder dialog window (finder prompt) programmatically.
 * [lmichelin/open-github-links-in-ide](https://github.com/lmichelin/open-github-links-in-ide): Browser extension allowing to open files in your IDE directly from GitHub, available for Chrome and Firefox.
 * [TheNightmanCodeth/open-in-code](https://github.com/TheNightmanCodeth/open-in-code): Browser extension that adds "Open in Visual Studio Code" button to GitHub repos
 * [kukawski/Open-in-selected-Incognito-window](https://github.com/kukawski/Open-in-selected-Incognito-window): Firefox extension that allows to open link in selected incognito window from context menu
