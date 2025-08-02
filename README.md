@@ -567,7 +567,7 @@
 * [w0lfschild/colorfulSidebar](https://github.com/w0lfschild/colorfulSidebar): :open_file_folder: MacForge plugin to add color back to the sidebar icons in Finder on macOS
 * [athityakumar/colorls](https://github.com/athityakumar/colorls): A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 * [DigiDNA/ColorSet](https://github.com/DigiDNA/ColorSet): ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
-* [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia): Columbia by Osborne · A comprehensive black hole for ads and analytics
+* [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia): Silence the Web - Blocks ads, analytics, popups, and trackers
 * [micz/ColumnsWizard](https://github.com/micz/ColumnsWizard): This is a Thunderbird addon that adds some magic to the folder list columns. Check the addon website for more info...
 * [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS): PowerShell script for comparing user.js (or prefs.js) files.
 * [timhettler/compass-photoshop-gradient-overlay](https://github.com/timhettler/compass-photoshop-gradient-overlay): A compass extension to translate between Photoshop gradient overlays and CSS linear-gradients
