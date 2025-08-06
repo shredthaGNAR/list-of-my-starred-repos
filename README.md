@@ -1575,6 +1575,7 @@
 * [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox): Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 * [sindresorhus/macos-wallpaper](https://github.com/sindresorhus/macos-wallpaper): Manage the desktop wallpaper on macOS
 * [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements): Replacement icons for popular apps in the style of macOS Big Sur
+* [Tong-Liu-128/macOS_Gemini_overlay](https://github.com/Tong-Liu-128/macOS_Gemini_overlay): A macOS overlay tool for google Gemini
 * [Tnings/MacosVibrant](https://github.com/Tnings/MacosVibrant): None
 * [MacPass/MacPass](https://github.com/MacPass/MacPass): A native macOS KeePass client 
 * [lodestone/macpaste](https://github.com/lodestone/macpaste): Global middle-mouse-click copy/paste for Mac OSX (C).
