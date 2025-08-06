@@ -2630,7 +2630,7 @@
 * [kerichdev/themes-for-ytmdesktop-player](https://github.com/kerichdev/themes-for-ytmdesktop-player): Youtube Music CSS themes to apply with any injector.
 * [knyar/theoldreader-chrome](https://github.com/knyar/theoldreader-chrome): Chrome extension for The Old Reader
 * [alienthief/thesourc](https://github.com/alienthief/thesourc): A curated list of awesome warez and piracy links
-* [devmount/third-stats](https://github.com/devmount/third-stats): Thunderbird add-on turning your emails into beautifully visualized email account stats. Built with Vue.js and Chart.js 
+* [devmount/third-stats](https://github.com/devmount/third-stats): Thunderbird add-on turning your emails into beautifully visualized email account stats.
 * [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
 * [mrdoob/three.js](https://github.com/mrdoob/three.js): JavaScript 3D Library.
 * [micz/ThunderAI](https://github.com/micz/ThunderAI): ThunderAI is a Thunderbird Addon that uses the capabilities of ChatGPT, Gemini, Anthropic or Ollama to enhance email management.
