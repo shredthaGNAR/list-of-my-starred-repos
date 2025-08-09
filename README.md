@@ -2335,6 +2335,7 @@
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): Hunt down social media accounts by username across social networks
 * [FH-Potsdam/shifted-maps](https://github.com/FH-Potsdam/shifted-maps): Shifted Maps visualizes personal movement data as a network of map extracts showing visited places.
 * [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt): Managing windows size and position in OSX
+* [dreamRs/shinyWidgets](https://github.com/dreamRs/shinyWidgets): shinyWidgets : Extend widgets available in shiny
 * [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
 * [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext): Web extension for using Shiori in Firefox and Chrome
 * [TheUmslopogaas/shipping_bar-shopify](https://github.com/TheUmslopogaas/shipping_bar-shopify): Created a custom shipping bar / moneyspent bar for shopify store. (Turbo Theme)
