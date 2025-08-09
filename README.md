@@ -498,7 +498,7 @@
 * [chandrikadeb7/chandrikadeb7.github.io](https://github.com/chandrikadeb7/chandrikadeb7.github.io): Personal portfolio website hosted using GitHub Pages - Version 2 
 * [jscher2000/change-maximized-to-resizable](https://github.com/jscher2000/change-maximized-to-resizable): Firefox Extension to Change Maximized New Window to Resizable 
 * [dtkdt100/Chat-GPT-for-Gmail](https://github.com/dtkdt100/Chat-GPT-for-Gmail): A browser extension to complete your email with the help of ChatGPT
-* [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama): ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
+* [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama): ChatOllama is an open-source AI chatbot that brings cutting-edge language models to your fingertips while keeping your data private and secure.
 * [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx): An all-in-one LLMs Chat UI for Apple Silicon Mac using MLX Framework.
 * [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama): Chatbot Ollama is an open source chat UI for Ollama.
 * [chatboxai/chatbox](https://github.com/chatboxai/chatbox): User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
