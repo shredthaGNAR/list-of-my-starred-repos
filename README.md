@@ -1228,6 +1228,7 @@
 * [bilde2910/Hauk](https://github.com/bilde2910/Hauk): Open-source realtime location sharing
 * [guardianproject/haven](https://github.com/guardianproject/haven): Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 * [haveno-dex/haveno](https://github.com/haveno-dex/haveno): Decentralized P2P exchange platform built on Monero and Tor
+* [dawn-collective/haveno-dawn](https://github.com/dawn-collective/haveno-dawn): Decentralized P2P exchange platform built on Monero and Tor
 * [retoaccess1/haveno-reto](https://github.com/retoaccess1/haveno-reto): Decentralized P2P exchange built on Monero and Tor
 * [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall): Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 * [blanklob/helium](https://github.com/blanklob/helium): Helium is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind.. 
