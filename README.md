@@ -1492,7 +1492,7 @@
 * [halo/LinkLiar](https://github.com/halo/LinkLiar): :link: Link-Layer MAC spoofing GUI for macOS
 * [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora): Link organizer for Android and desktop with self-hosted sync.
 * [tetsuharuohzeki/linkplaces](https://github.com/tetsuharuohzeki/linkplaces): This is a add-on for Mozilla Firefox. This provides Sidebar to display "Unsorted Bookmarks" folder in Places, as "Temporary Links".
-* [koukaku01/LinkQR](https://github.com/koukaku01/LinkQR): A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
+* [czlin7/LinkQR](https://github.com/czlin7/LinkQR): A Firefox extension that instantly converts web links into QR codes with a single click from the address bar. Easily copy or download QR codes in PNG/SVG format for seamless sharing.
 * [velvia/links](https://github.com/velvia/links): Just a bunch of useful links
 * [cloux/LinkSanitizer](https://github.com/cloux/LinkSanitizer): Browser userscript to clean up hyperlink redirections and link shims
 * [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet): Link handling for modern Android
