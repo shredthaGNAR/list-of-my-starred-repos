@@ -1877,6 +1877,9 @@
     "TKOxff/ASAP": [
         "Other"
     ],
+    "TabbyML/tabby": [
+        "Other"
+    ],
     "Taewan-P/gpt_mobile": [
         "Other"
     ],
@@ -3456,6 +3459,9 @@
         "Other"
     ],
     "dagware/DanThomas": [
+        "Other"
+    ],
+    "dair-ai/Prompt-Engineering-Guide": [
         "Other"
     ],
     "dakshpareek/ai-bookmark-organizer": [
@@ -5481,6 +5487,9 @@
         "Other"
     ],
     "langchain-ai/langchain": [
+        "Other"
+    ],
+    "langfuse/langfuse": [
         "Other"
     ],
     "langgptai/awesome-claude-prompts": [
