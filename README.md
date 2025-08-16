@@ -2024,7 +2024,7 @@
 * [alexyz/poker](https://github.com/alexyz/poker): A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
 * [dickreuter/Poker](https://github.com/dickreuter/Poker): Fully functional Pokerbot that works on PartyPoker, PokerStars and GGPoker, scraping tables with Open-CV (adaptable via gui) or neural network and making decisions based on a genetic algorithm and montecarlo simulation for poker equity calculation. Binaries can be downloaded with this link:
 * [shredthaGNAR/poker](https://github.com/shredthaGNAR/poker): A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
-* [evolutionsoftswiss/poker-calculator-webapp](https://github.com/evolutionsoftswiss/poker-calculator-webapp): Poker Calculator JSF Webapp for Omaha, Omaha Hi/Lo and Hold'em simulations 
+* [evolutionsoftswiss/poker-calculator-webapp](https://github.com/evolutionsoftswiss/poker-calculator-webapp): Poker calculator web application built with JSF. Supports Omaha, Omaha Hi/Lo, and Texas Hold'em simulations.
 * [michaelcukier/Poker-Hand-Tracker](https://github.com/michaelcukier/Poker-Hand-Tracker): open-source Poker hand tracker
 * [shredthaGNAR/poker-handhist](https://github.com/shredthaGNAR/poker-handhist): Hand distributions for Holdem, Omaha and Omaha HiLo/8
 * [siavashg87/poker-odds-calc](https://github.com/siavashg87/poker-odds-calc): Fastest and most accurate node module for calculating odds of poker games Texas Hold'em, Texas Shortdeck/Sixplus and Omaha.
