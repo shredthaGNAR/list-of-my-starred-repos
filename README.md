@@ -2986,7 +2986,6 @@
 * [th-ch/youtube-music](https://github.com/th-ch/youtube-music): YouTube Music Desktop App bundled with custom plugins
 * [pateldevang/Youtube-music-macOS](https://github.com/pateldevang/Youtube-music-macOS): Youtube Music for macOS (Ads free) & Download Music For Free.
 * [organization/youtube-music-next](https://github.com/organization/youtube-music-next): YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
-* [soufianesakhi/youtube-playlist-helper](https://github.com/soufianesakhi/youtube-playlist-helper): YouTube playlist editor and generator
 * [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended): None
 * [alexmercerind/youtube-search-python](https://github.com/alexmercerind/youtube-search-python): 🔎 Search for YouTube videos, channels & playlists. Get 🎞 video &  📑 playlist info using link. Get search suggestions. WITHOUT YouTube Data API v3.
 * [PeerGroupSoftware/Youtube-To-Mac](https://github.com/PeerGroupSoftware/Youtube-To-Mac): Cocoa Interface for youtube-dl
