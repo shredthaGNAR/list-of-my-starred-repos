@@ -628,6 +628,7 @@
 * [astrit/css.gg](https://github.com/astrit/css.gg): 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 * [estelle/CSS3Gradients](https://github.com/estelle/CSS3Gradients): Library of CSS3 Gradients
 * [Kungfoowiz/cssSuggestionsVSCode](https://github.com/Kungfoowiz/cssSuggestionsVSCode): Visual Studio Code Extension: CSS suggestions for Properties and Values.
+* [Control-D-Inc/ctrld](https://github.com/Control-D-Inc/ctrld): A highly configurable, multi-protocol DNS forwarding proxy
 * [cake-tech/cupcake](https://github.com/cake-tech/cupcake): None
 * [superkhau/curcon](https://github.com/superkhau/curcon): Command-line tool for converting currencies using Open Exchange Rates.
 * [dblandin/Currency-Converter](https://github.com/dblandin/Currency-Converter): Currency Converter written in Javascript using jQuery and the Open Source Exchange Rates API
