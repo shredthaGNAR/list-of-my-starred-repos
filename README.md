@@ -1000,7 +1000,7 @@
 * [benzBrake/FirefoxCustomize](https://github.com/benzBrake/FirefoxCustomize): Ryan 收集的 Firefox 个性化相关资源
 * [stobor827/firefoxPrefs](https://github.com/stobor827/firefoxPrefs): profile options that make firefox work the way I want.
 * [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig): Firefox privacy configuration (help + user.js)
-* [macleod-ee/FirefoxSidebar](https://github.com/macleod-ee/FirefoxSidebar): Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available! [!] Moved to https://codeberg.org/dxfiers/FirefoxSidebar
+* [macleod-ee/FirefoxSidebar](https://github.com/macleod-ee/FirefoxSidebar): Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available! [!] Moved to https://codeberg.org/macleod/FirefoxSidebar
 * [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor): Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊 
 * [xKrusty/FirefoxTheme](https://github.com/xKrusty/FirefoxTheme): None
 * [gomita/firegestures](https://github.com/gomita/firegestures): FireGestures, a Firefox extension.
