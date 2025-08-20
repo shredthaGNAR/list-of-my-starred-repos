@@ -1271,7 +1271,7 @@
 * [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
 * [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 * [theocjr/hugo-academic-bookmarks](https://github.com/theocjr/hugo-academic-bookmarks): Bookmarks content section for the Academic theme (Hugo framework).
-* [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder): ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. 1-click GitHub Pages. Premium templates.
+* [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder): ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 * [craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket): This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
 * [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile): A highly customizable and mobile first Hugo template for personal portfolio and blog.
 * [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack): Card-style Hugo theme designed for bloggers
