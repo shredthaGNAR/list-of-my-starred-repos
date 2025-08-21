@@ -1669,6 +1669,7 @@
 * [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 * [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 * [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard): Сustom color schemes for all websites
+* [rainbowflesh/mimicfox](https://github.com/rainbowflesh/mimicfox): Cutting "edge" firefox userChrome.css
 * [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox): A minimal, yet functional Firefox userChrome configuration.
 * [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes): :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 * [tortious/MintyFox](https://github.com/tortious/MintyFox): Customization of Firefox Quantum using userChrome, userContent, and various other files involving the userChrome.js hack that allows for uc.js docs to be incorporated. 
