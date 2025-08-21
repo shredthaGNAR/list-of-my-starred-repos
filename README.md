@@ -535,6 +535,7 @@
 * [jimmyxu/circle](https://github.com/jimmyxu/circle): Logi Circle video downloader
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
 * [fajarjulyana/circular-nav-html-css-only](https://github.com/fajarjulyana/circular-nav-html-css-only): This is simple circular menu html CSS js
+* [sp4ce404/classic-tabs-firefox](https://github.com/sp4ce404/classic-tabs-firefox): None
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
 * [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp): Batch Clipboard is a Mac app that let's you copy then paste multiple clipboard items at a time, like magic! This is the repo for v1.0.x, titled after the app's codename. The repo for v2.0 and forward is https://github.com/jpmhouston/Batch-Clipboard
@@ -1138,6 +1139,7 @@
 * [gitx/gitx](https://github.com/gitx/gitx): The best fork of the best lightweight, visual git client for macOS.
 * [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi): An unofficial client for the Google Keep API.
 * [chamburr/glance](https://github.com/chamburr/glance): 🔎 All-in-one Quick Look plugin
+* [Ashley-Cause/GlassFox](https://github.com/Ashley-Cause/GlassFox): Firefox Theme for macOS which makes the browser fully transparent through some questionable styling choices.
 * [p3rception/GlassFox](https://github.com/p3rception/GlassFox): // Transluscent FirefoxCSS theme for MacOS
 * [4xx404/GlassFrog](https://github.com/4xx404/GlassFrog): Keyword Search & Information Gathering Tool
 * [ravindranag/glassmorphism-in-firefox](https://github.com/ravindranag/glassmorphism-in-firefox): Create cards with acrylic effect in Firefox
@@ -2708,6 +2710,7 @@
 * [menukaonline/transfer-between-drives](https://github.com/menukaonline/transfer-between-drives): This is a Google Colab notebook for transferring files/folders between drives from different Google accounts
 * [byeolbit/translucent](https://github.com/byeolbit/translucent): Translucent plastic card theme.
 * [pjialin/TranslucentFox](https://github.com/pjialin/TranslucentFox): 🤭 Translucent UI for Firefox
+* [sergioahp/transparent-firefox-config](https://github.com/sergioahp/transparent-firefox-config): None
 * [jofpin/trape](https://github.com/jofpin/trape): People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 * [piroor/treestyletab](https://github.com/piroor/treestyletab): Tree Style Tab, Show tabs like a tree.
 * [Xinkai/TreeStyleTabCompanion.uc.js](https://github.com/Xinkai/TreeStyleTabCompanion.uc.js): A Firefox userChrome.js for hiding the native tab bar when a sidebar tab manager is active
@@ -2824,6 +2827,7 @@
 * [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio): vCard is a fully responsive personal portfolio website, responsive for all devices.
 * [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp): Companion application for Video DownloadHelper browser add-on
 * [Vendicated/Vencord](https://github.com/Vendicated/Vencord): The cutest Discord client mod
+* [Venqul/VenSur](https://github.com/Venqul/VenSur): 🎨 A refined Safari-style Firefox theme built from my original WhiteSur fork (v1.2.7) - now redesigned with dropdown fixes, icon improvements, and a sleeker UI experience.
 * [Pravpro/Vibn-Central](https://github.com/Pravpro/Vibn-Central): An app being built with the goal of making Product Uploading exponentially faster for Shopify stores with one-off products.
 * [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme): I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
 * [jtlw99/vicefox](https://github.com/jtlw99/vicefox): ViceFox make your FireFox great and beter!
