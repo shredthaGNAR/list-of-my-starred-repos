@@ -1149,7 +1149,6 @@
 * [mr-feek/global-poker-hand-history-converter-chrome-extension](https://github.com/mr-feek/global-poker-hand-history-converter-chrome-extension): Chrome Extension for fetching Global Poker hand histories and converting them to poker stars format.
 * [dartagnanjacobson/global_poker_scraper](https://github.com/dartagnanjacobson/global_poker_scraper): Global Poker Hand History Scraper
 * [szge/globalpokercalc](https://github.com/szge/globalpokercalc): calculate total playthough for globalpoker.com blackjack
-* [jabiddle/GlobalPokerExt](https://github.com/jabiddle/GlobalPokerExt): A Chrome extension that adds automation and statistic collection to GlobalPoker.
 * [shredthaGNAR/GlobalPokerHandTracker](https://github.com/shredthaGNAR/GlobalPokerHandTracker): None
 * [yinthewind/GlobalPokerHandTracker](https://github.com/yinthewind/GlobalPokerHandTracker): None
 * [tomatopickle/Glox](https://github.com/tomatopickle/Glox): A glassmorphistic Firefox skin, also has round elements
