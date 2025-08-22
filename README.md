@@ -1493,7 +1493,7 @@
 * [apiraino/link_cleaner](https://github.com/apiraino/link_cleaner): A Firefox extension to clean urls from tracking and advertisement parameters
 * [wyattharrell/linkbook](https://github.com/wyattharrell/linkbook): Linkbook is a powerful link-saving web app that can store your favorite links, keep you organized, and much more. 
 * [sebw/linkding-archiver](https://github.com/sebw/linkding-archiver): Linkding bookmark manager + SingleFile archiving combined
-* [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden): Mirror repository of the LinkDroid for Linkwarden app 
+* [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden): A companion android app for the Linkwarden project. It enables you to upload links via the share context menu and to quickly access the webinterface.  This repository is just a mirror, please go to the gitlab repo to contribute code. 
 * [eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus): A userscript/extension which can linkify almost everything. Based on Linkify Plus.
 * [eight04/linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core): A JavaScript library for linkification stuff. Used by linkify-plus-plus.
 * [halo/LinkLiar](https://github.com/halo/LinkLiar): :link: Link-Layer MAC spoofing GUI for macOS
