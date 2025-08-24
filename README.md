@@ -1522,6 +1522,7 @@
 * [ICTMCG/LLM-for-misinformation-research](https://github.com/ICTMCG/LLM-for-misinformation-research): Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.
 * [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025).
 * [jamesponddotco/llm-prompts](https://github.com/jamesponddotco/llm-prompts): [READ-ONLY] A collection of prompts for enhancing productivity with large language models.
+* [brkunver/llm-toolbox](https://github.com/brkunver/llm-toolbox): Browser extension for popular LLMs 
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
 * [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
@@ -1538,6 +1539,7 @@
 * [alxshelepenok/lumen](https://github.com/alxshelepenok/lumen): A constantly evolving and thoughtful architecture for creating static blogs.
 * [robin/LYTabView](https://github.com/robin/LYTabView): A customized Mac OS X Tab View with modern tab bar style
 * [rgcr/m-cli](https://github.com/rgcr/m-cli):  Swiss Army Knife for macOS 
+* [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid): [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built with Kotlin and modern Android development practices.
 * [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup): Configuration files to setup macOS(Intel 2020)
 * [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts): BTT presets, macros & scripts I use to make my life sometimes easier
 * [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI):  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
