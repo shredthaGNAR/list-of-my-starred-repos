@@ -1886,7 +1886,6 @@
 * [darktrojan/openwith](https://github.com/darktrojan/openwith): Open With add-on for Firefox
 * [Anant-mishra1729/Operator-caska-Font](https://github.com/Anant-mishra1729/Operator-caska-Font): Operator-caska Cursive font with ligature support.
 * [ajaybhatia/Operator-Mono](https://github.com/ajaybhatia/Operator-Mono): Operator Mono Font
-* [keyding/Operator-Mono](https://github.com/keyding/Operator-Mono): A nice code font
 * [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig): Add ligatures to Operator Mono similar to Fira Code
 * [sujon-co/operator-mono-ligature](https://github.com/sujon-co/operator-mono-ligature):  Operator Mono ligatures build file
 * [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates): Customize free Shopify Order Printer templates.
