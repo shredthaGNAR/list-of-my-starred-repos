@@ -1111,6 +1111,7 @@
 * [mufeedvh/gisture](https://github.com/mufeedvh/gisture): A minimal and flexible blog generator based on GitHub Gist.
 * [git/git](https://github.com/git/git): Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 * [pomber/git-history](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository
+* [jag-k/git-raycast](https://github.com/jag-k/git-raycast): Automate git using Raycast AI
 * [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext): Frontend code for GitHub Recommendation Extension
 * [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome): An automation tool for installing userChrome Themes
 * [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako): 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
@@ -2159,11 +2160,13 @@
 * [LitoMore/raycast-backend-api](https://github.com/LitoMore/raycast-backend-api): Accessing the Raycast backend API delightfully
 * [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f): Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 * [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai): GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
+* [Alorse/raycast-omnipilot-extension](https://github.com/Alorse/raycast-omnipilot-extension): 🚀 OmniPilot - Advanced Raycast extension for AI-powered assistance with multiple providers support, streaming responses, and command history
 * [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab): A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 * [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [missuo/raycast2api](https://github.com/missuo/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [WToa/raycast_extensions_by_downloads](https://github.com/WToa/raycast_extensions_by_downloads): Rank raycast extensions by downloads
 * [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama): Raycast extention for Ollama
+* [brunnorpdias/RaycastAI](https://github.com/brunnorpdias/RaycastAI): Access llms from various different apis from your computer launcher
 * [daihy8759/raychat](https://github.com/daihy8759/raychat): turn your Raycast pro AI to OpenAI API Compatible API server
 * [rbenv/rbenv](https://github.com/rbenv/rbenv): Manage your app's Ruby environment
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
