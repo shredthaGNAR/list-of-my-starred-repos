@@ -2153,13 +2153,16 @@
 * [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS): Raspberry Pi Webcam Streaming with Logitech C920 and VLC
 * [DEgITx/rats-search](https://github.com/DEgITx/rats-search): BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
+* [grndis/raycast](https://github.com/grndis/raycast): A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features with your own OpenAI API key.
 * [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy): Integrate any OpenAI-compatible API with Raycast AI
+* [LitoMore/raycast-backend-api](https://github.com/LitoMore/raycast-backend-api): Accessing the Raycast backend API delightfully
 * [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f): Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 * [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab): A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 * [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [missuo/raycast2api](https://github.com/missuo/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [WToa/raycast_extensions_by_downloads](https://github.com/WToa/raycast_extensions_by_downloads): Rank raycast extensions by downloads
 * [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama): Raycast extention for Ollama
+* [daihy8759/raychat](https://github.com/daihy8759/raychat): turn your Raycast pro AI to OpenAI API Compatible API server
 * [rbenv/rbenv](https://github.com/rbenv/rbenv): Manage your app's Ruby environment
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 * [iampueroo/rComments](https://github.com/iampueroo/rComments): Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
@@ -2831,6 +2834,7 @@
 * [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp): Companion application for Video DownloadHelper browser add-on
 * [Vendicated/Vencord](https://github.com/Vendicated/Vencord): The cutest Discord client mod
 * [Venqul/VenSur](https://github.com/Venqul/VenSur): 🎨 A refined Safari-style Firefox theme built from my original WhiteSur fork (v1.2.7) - now redesigned with dropdown fixes, icon improvements, and a sleeker UI experience.
+* [missuo/vercel-raycast2api](https://github.com/missuo/vercel-raycast2api): Serverless Raycast2API on Vercel
 * [Pravpro/Vibn-Central](https://github.com/Pravpro/Vibn-Central): An app being built with the goal of making Product Uploading exponentially faster for Shopify stores with one-off products.
 * [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme): I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
 * [jtlw99/vicefox](https://github.com/jtlw99/vicefox): ViceFox make your FireFox great and beter!
