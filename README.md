@@ -171,6 +171,7 @@
 * [aaronfreimark/Apple-ID-AppleScript](https://github.com/aaronfreimark/Apple-ID-AppleScript): AppleScript to programatically create Apple IDs
 * [agentcooper/apple-notes-bookmarklet](https://github.com/agentcooper/apple-notes-bookmarklet): Bookmarklet for saving selected text to Apple Notes
 * [threeplanetssoftware/apple_cloud_notes_parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser): Parser for Apple Notes data stored on the Cloud as seen on Apple handsets
+* [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI): A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
 * [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra): Music Client for macOS. Use WebKit interoperability with JS-injection to add custom scripting and styling to your music experience.
 * [mattrose/AppleNotes2Joplin](https://github.com/mattrose/AppleNotes2Joplin): Apple Notes to Joplin - Export Apple notes to Markdown in Joplin export format
 * [unforswearing/applescript](https://github.com/unforswearing/applescript): Applescript applets, snippets, resources, and links
