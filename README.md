@@ -548,6 +548,7 @@
 * [bitwarden/clients](https://github.com/bitwarden/clients): Bitwarden client apps (web, browser extension, desktop, and cli).
 * [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur): A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
 * [clipboard2file/clipboard2file](https://github.com/clipboard2file/clipboard2file): WebExtension for using images on the clipboard as files
+* [kepano/clipper-templates](https://github.com/kepano/clipper-templates): Obsidian Web Clipper templates for various sites.
 * [aecreations/clippings](https://github.com/aecreations/clippings): Clippings: an extension for Firefox
 * [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Clippings for Thunderbird
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
