@@ -2311,7 +2311,7 @@
 * [YoshifumiFuyuno/Search-from-Popup-or-ContextMenu](https://github.com/YoshifumiFuyuno/Search-from-Popup-or-ContextMenu): WebExtension
 * [electron0zero/search-google-in-private](https://github.com/electron0zero/search-google-in-private): Adds a Search Google in Private for in your context menu
 * [tusharahmmed/search-image](https://github.com/tusharahmmed/search-image): This is a Image Search Web Application in PHP.
-* [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins): Search plugins for the search feature
+* [qbittorrent/search-plugins](https://github.com/qbittorrent/search-plugins): Search plugins for qBittorrent search feature
 * [meanii/Search4](https://github.com/meanii/Search4): Search people on the Internet.
 * [diegov/searchbox](https://github.com/diegov/searchbox): Personal crawling and indexing
 * [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper): Yet another awesome browser extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and shortcuts. Build with React & Material-UI. (WIP).
