@@ -2140,7 +2140,7 @@
 * [andrewmkhoury/qr-scanner](https://github.com/andrewmkhoury/qr-scanner): QR scanner app for mac OS
 * [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp): :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 * [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy): Android real-time display control software
-* [Izheil/Quantum-Nox-Firefox-Dark-Full-Theme](https://github.com/Izheil/Quantum-Nox-Firefox-Dark-Full-Theme): A customizable full dark theme for Firefox. You can also add extra functions using the CSS and JS files here apart from the theme.
+* [Izheil/Quantum-Nox-Firefox-Customizations](https://github.com/Izheil/Quantum-Nox-Firefox-Customizations): Customizations for Firefox. You can add extra functions using the CSS and JS files here.
 * [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 * [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins): List of useful Quick Look plugins for developers
 * [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio): [DISCONTINUED] Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
