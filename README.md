@@ -2035,7 +2035,7 @@
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
 * [mxpv/podsync](https://github.com/mxpv/podsync): Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 * [fqx/podsync-with-yt-dlp](https://github.com/fqx/podsync-with-yt-dlp): Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
-* [typkrft/Poison-Firefox-Theme](https://github.com/typkrft/Poison-Firefox-Theme): A Firefox theme with Pywal and macOS in mind. 
+* [Ducky6944/Poison-Firefox-Theme](https://github.com/Ducky6944/Poison-Firefox-Theme): A Firefox theme with Pywal and macOS in mind. 
 * [Nerdmaster/poker](https://github.com/Nerdmaster/poker): Extremely fast poker hand evaluator: supports 5-7 cards as well as Omaha evaluations
 * [PokerDashboard/poker](https://github.com/PokerDashboard/poker): None
 * [alexyz/poker](https://github.com/alexyz/poker): A poker hand equity calculator, PokerStars and Full Tilt hand parser and history browser, and table HUD for Hold'em, Omaha, Draw, Stud and Badugi, written using Java 1.7 and Swing
