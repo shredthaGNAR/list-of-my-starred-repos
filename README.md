@@ -898,6 +898,7 @@
 * [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
 * [jlehikoinen/FinderMate](https://github.com/jlehikoinen/FinderMate): macOS Finder extension for creating new text documents with right-click
 * [kotleni/FinderPlus-macOS](https://github.com/kotleni/FinderPlus-macOS): A simple Finder extension for creating files + opening a terminal from the context menu.
+* [suolapeikko/FinderUtilities](https://github.com/suolapeikko/FinderUtilities): Finder extension app for macOS. You can create empty text files, copy file and directory locations, and launch a Terminal to a folder path when navigating Finder.
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode): Free monospaced font with programming ligatures
 * [Hussseinkizz/FiraCodeiScript](https://github.com/Hussseinkizz/FiraCodeiScript): Mashup Font of FiraCode and Script12
 * [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript): Mashup Font of FiraCode and Script12
