@@ -249,6 +249,7 @@
 * [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search): List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 * [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows): A curated list of awesome alfred workflows
 * [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics): A curated list of analytics frameworks, software and other tools.
+* [devrsi0n/awesome-apple-notes](https://github.com/devrsi0n/awesome-apple-notes): A curated list of awesome websites, applications, tools, and shiny things for Apple Notes.
 * [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro): Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 * [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking): 🔖 Everything bookmarking related
 * [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
