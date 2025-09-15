@@ -2116,6 +2116,7 @@
 * [psequel/psequel](https://github.com/psequel/psequel): Free PostgreSQL GUI tool for macOS.
 * [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox): Hides and improves interface Firefox and YouTube, giving maximum space for content and aiding concentration
 * [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam): Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
+* [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists): A collective list of free APIs for use in software and web development 🚀
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [GetPublii/Publii](https://github.com/GetPublii/Publii): The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
@@ -2934,6 +2935,7 @@
 * [webcomponents/webcomponentsjs](https://github.com/webcomponents/webcomponentsjs): A suite of polyfills supporting the HTML Web Components specs
 * [Frontendland/webcore-astro-portfolio](https://github.com/Frontendland/webcore-astro-portfolio): Free and open-source portfolio template for Astro built using Webcore
 * [subins2000/WebDrop](https://github.com/subins2000/WebDrop): Easiest group P2P File & Message transfer in browser with WebRTC 🔥. Cross-platform alternative to Apple's AirDrop, Xender, ShareIT with the same speed over LAN. No installation, just a website :)
+* [cardinalby/webext-buildtools-firefox-addons-action](https://github.com/cardinalby/webext-buildtools-firefox-addons-action): Deploy extension to Firefox Addons and sign xpi file
 * [thunderbird/webext-examples](https://github.com/thunderbird/webext-examples): Example extensions for Thunderbird WebExtensions APIs
 * [thunderbird/webext-experiments](https://github.com/thunderbird/webext-experiments): WebExtension Experiments for Thunderbird
 * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill): A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
