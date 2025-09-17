@@ -1014,6 +1014,7 @@
 * [josepedromonteiro/fireze](https://github.com/josepedromonteiro/fireze): Custome safari theme for Firefox
 * [kosimst/Firicico](https://github.com/kosimst/Firicico): Combined programming mono font with italics and font ligatures made from Fira Code and Pacifico for Italics
 * [Mortennn/FiScript](https://github.com/Mortennn/FiScript): Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
+* [pmiddlet72/fix_onetab](https://github.com/pmiddlet72/fix_onetab): Scripts to help extract OneTab urls and/or fix the OneTab extension when this app fails in the Google Chrome browser (currently only tested in Linux --> Ubuntu 24.04 and Linux Mint 22.1). 
 * [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css): A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and gradients for some depth.
 * [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox): A lightweight Firefox theme focused on usability, flexibility, and smooth performance.
 * [d3ward/floatly](https://github.com/d3ward/floatly): An extension that adds a floating button for browser quick actions 
@@ -1422,6 +1423,7 @@
 * [Automattic/juice](https://github.com/Automattic/juice): Juice inlines CSS stylesheets into your HTML source.
 * [snark/jumpcut](https://github.com/snark/jumpcut): Minimalist clipboard management for macOS
 * [RealRaven2000/JunQuilla](https://github.com/RealRaven2000/JunQuilla): Adopted Thunderbird Add-on from Kent James - adds column with percent likelihood that a message is spam
+* [huioi/Just-OneTab](https://github.com/huioi/Just-OneTab): 一款专为浏览器标签页收纳与整理打造的插件，可有效节省内存并缓解标签页杂乱问题，兼容 Chrome、Edge 等基于 Chromium 内核的浏览器。A browser extension designed for tab management and organization, effectively saving memory and reducing cluttered tabs. Compatible with Chrome, Edge, and other Chromium-based browsers.
 * [ZachSaucier/Just-Read](https://github.com/ZachSaucier/Just-Read): A customizable read mode web extension.
 * [EragonJ/Kaku](https://github.com/EragonJ/Kaku): 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
 * [wulkano/Kap](https://github.com/wulkano/Kap): An open-source screen recorder built with web technology
@@ -1846,15 +1848,19 @@
 * [iansinnott/one-dark-tab](https://github.com/iansinnott/one-dark-tab): Like OneTab, but darker.
 * [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools): A theme for Firefox Devtools
 * [simurai/one-vibrancy](https://github.com/simurai/one-vibrancy): Vibrancy effect for Atom One themes
+* [AltarBeastiful/onetab](https://github.com/AltarBeastiful/onetab): Onetab extension unofuscated with a few keyboard shortcuts added.
 * [Sumit07p/ONETAB](https://github.com/Sumit07p/ONETAB): None
+* [svarts/OneTab](https://github.com/svarts/OneTab): OneTab is a chrome extension that transforms all open tabs into a single list for better organization and reduced memory usage. Ideal for heavy tab users, it allows easy access and efficient management of tabs with options for sharing and backup.
 * [ikki4/OneTab-Backup](https://github.com/ikki4/OneTab-Backup): Python script to backup your OneTab data. Can be scheduled with Windows' Task Scheduler to run automatically.
 * [busyxiang/OneTab-Backup-Automation](https://github.com/busyxiang/OneTab-Backup-Automation): Automated Python Script to backup your OneTab data
 * [ikki4/OneTab-Backup-Automation](https://github.com/ikki4/OneTab-Backup-Automation): Automated Python Script to backup your OneTab data
+* [yueyericardo/onetab-custom](https://github.com/yueyericardo/onetab-custom): None
 * [dpschen/onetab-export-script](https://github.com/dpschen/onetab-export-script): A simple browser script that helps exporting saved OneTab meta data 
 * [jianyuan/onetab-export-to-json](https://github.com/jianyuan/onetab-export-to-json): 🔖 Export URLs directly from OneTab's LevelDB database to JSON
 * [gittyupcowboy/Onetab-Extractor](https://github.com/gittyupcowboy/Onetab-Extractor): None
 * [ylon/onetab-merge](https://github.com/ylon/onetab-merge): Merge util for OneTab browser extension
 * [pullup/OneTab-Night-Mode](https://github.com/pullup/OneTab-Night-Mode): Little theme for the onetab page to make it less eye raping.
+* [kubafeqt/OneTab-Order](https://github.com/kubafeqt/OneTab-Order): order OneTab (browser addon) tabs, copy to clipboard button
 * [Nuzza/OneTab-Reborn](https://github.com/Nuzza/OneTab-Reborn): OneTab Reborn is a remake of the original OneTab extension to have a more modern appearance.
 * [sueszli/onetab-scraper](https://github.com/sueszli/onetab-scraper): oneTab bookmark collection → plaintext
 * [runoshun/onetab-sync](https://github.com/runoshun/onetab-sync): Command line utility for sync and backup OneTab Chrome extension data.
@@ -1865,7 +1871,9 @@
 * [lolonao/onetab2sqlite3](https://github.com/lolonao/onetab2sqlite3): Script to import export data from OneTab browser extension into SQLite3. I will add the ability to search by keywords or categories.
 * [alan1world/onetab_data_archiver](https://github.com/alan1world/onetab_data_archiver): A data archiver script for use with OneTab browser extension, and Google Keep as a bonus
 * [endcloud/onetab_restore_tauri](https://github.com/endcloud/onetab_restore_tauri): An App for backing up and better displaying Onetab data Powered by Tauri.
+* [eskutcheon/OnetabAutosorter](https://github.com/eskutcheon/OnetabAutosorter): tool I wrote in a day or two awhile back using KeyBERT to parse groups of Onetab tabs after parsing the full set from HTML; extensions will allow clustering of bookmarks by topic (using additional data from webscraping) and output to a new `bookmarks.html` file
 * [Enan01/OneTabClear](https://github.com/Enan01/OneTabClear): Quickly clear OneTab tag group.
+* [hy4101/OneTabPro](https://github.com/hy4101/OneTabPro): Save up to 95% of memory and reduce label clutter \n When you find yourself with too many tabs, click the OneTab Pro icon to convert all the tabs into a list. You can restore it or delete it. \n\n Privacy protection \n\n \n\n Information about your tag will never be transmitted or revealed to OneTab Pro developers the tag will never be shared.
 * [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand): An open source browser extension to save your favorite bookmarks on a "new tab" page.
 * [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch): ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 * [jonschlinkert/open-finder-dialog](https://github.com/jonschlinkert/open-finder-dialog): Open a finder dialog window (finder prompt) programmatically.
