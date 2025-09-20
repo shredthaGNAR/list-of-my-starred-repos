@@ -3023,7 +3023,6 @@
 * [DenBeke/YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS): Simple menu bar app to download YouTube movies on your Mac
 * [ytb2mp3/youtube-mp3-downloader](https://github.com/ytb2mp3/youtube-mp3-downloader): Extract music from YouTube videos
 * [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music): :musical_note: A Mac app wrapper for music.youtube.com
-* [th-ch/youtube-music](https://github.com/th-ch/youtube-music): YouTube Music Desktop App bundled with custom plugins
 * [pateldevang/Youtube-music-macOS](https://github.com/pateldevang/Youtube-music-macOS): Youtube Music for macOS (Ads free) & Download Music For Free.
 * [organization/youtube-music-next](https://github.com/organization/youtube-music-next): YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). forked from th-ch/youtube-music
 * [MANCrimSon/YouTube-ReVanced-Extended](https://github.com/MANCrimSon/YouTube-ReVanced-Extended): None
@@ -3040,6 +3039,7 @@
 * [shailshouryya/yt-videos-list](https://github.com/shailshouryya/yt-videos-list): Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for YouTube videos list  updates.
 * [ytb2mp3/ytb2mp3](https://github.com/ytb2mp3/ytb2mp3): Convert YouTube videos to mp3 files via the command-line
 * [pystardust/ytfzf](https://github.com/pystardust/ytfzf): A posix script to find and watch youtube videos from the terminal. (Without API)
+* [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd): YouTube Music Desktop App bundled with custom plugins
 * [Margiris/ytmdesktop](https://github.com/Margiris/ytmdesktop): NO LONGER UPDATED (see readme). A fork of https://github.com/ytmdesktop/ytmdesktop with added adblocker from https://github.com/cliqz-oss/adblocker.
 * [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): A Desktop App for YouTube Music
 * [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.

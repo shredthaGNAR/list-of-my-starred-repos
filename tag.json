@@ -8228,9 +8228,6 @@
     "tg12/gpt_jailbreak_status": [
         "Other"
     ],
-    "th-ch/youtube-music": [
-        "Other"
-    ],
     "thatisuday/curved-menu": [
         "Other"
     ],
@@ -9042,6 +9039,9 @@
         "Other"
     ],
     "ytdl-org/youtube-dl": [
+        "Other"
+    ],
+    "ytmd-devs/ytmd": [
         "Other"
     ],
     "ytmdesktop/ytmdesktop": [
