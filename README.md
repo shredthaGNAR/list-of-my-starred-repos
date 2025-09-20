@@ -1441,7 +1441,7 @@
 * [belaviyo/keepass-macpass-helper](https://github.com/belaviyo/keepass-macpass-helper): A helper extension to use KeePass/MacPass/KeePassXC from Firefox, Opera, and Chrome browsers
 * [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android): Password manager app for Android
 * [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX): Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
-* [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc): KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+* [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc): KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 * [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser): KeePassXC Browser Extension
 * [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice): Send SMS regularly through Python to keep Google Voice active
 * [dan-and/KeepToText](https://github.com/dan-and/KeepToText): Convert a Google Takeout zip file containing Google Keep notes to a directory of text files, suitable for import into systems such as Evernote
