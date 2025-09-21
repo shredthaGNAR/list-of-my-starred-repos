@@ -2273,7 +2273,7 @@
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
 * [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches): 🧩 Patches for ReVanced
 * [timonus/Rhea](https://github.com/timonus/Rhea): A Mac status bar app for quickly sharing files and links.
-* [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close): Firefox close tab by right clicking on tab button ,userchrome script (runs on ff128) 🖱️
+* [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close): Firefox close tab by right clicking on tab button ,userchrome script  🖱️
 * [Infocatcher/Right_Links](https://github.com/Infocatcher/Right_Links): Open links in new tabs using right-click or "long" left-click, extension for Firefox and SeaMonkey
 * [Infocatcher/Right_Links_WE](https://github.com/Infocatcher/Right_Links_WE): WebExtensions port of Right Links extension for Firefox
 * [datamllab/rlcard](https://github.com/datamllab/rlcard): Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.
