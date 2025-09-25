@@ -2038,6 +2038,7 @@
 * [Sveder/pocket_skipper](https://github.com/Sveder/pocket_skipper): A small site that uses Pocket's (formerly "Read it later") API to create a basic "to read" list that links to the URL itself and not into pocket's rendering and thus skips a few mouse clicks.
 * [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats): A tool to analyze your Pocket reading list.
 * [JuanJakobo/Pocketbook-Read-offline](https://github.com/JuanJakobo/Pocketbook-Read-offline): A basic client for Pocketbook to read and modify Pocket items
+* [webcull/PocketExportConverter](https://github.com/webcull/PocketExportConverter): This is a simple tool to convert the Pocket export ZIP file to a standard HTML bookmarks file while preserving the original folder structure.
 * [gglukmann/pocketizer](https://github.com/gglukmann/pocketizer): Unofficial Pocket new tab extension for Chrome, Firefox, and Edge
 * [ruipgil/pocketmark](https://github.com/ruipgil/pocketmark): From pocket to chrome bookmarks
 * [ikiranis/PocketParser](https://github.com/ikiranis/PocketParser): Parsing pocket bookmarks
@@ -2936,6 +2937,7 @@
 * [CypherGoat/web](https://github.com/CypherGoat/web): The CypherGoat instant exchange aggregator web-ui
 * [dessant/web-archives](https://github.com/dessant/web-archives): Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 * [webclipper/web-clipper](https://github.com/webclipper/web-clipper): For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
+* [zicotin/web-clipper-templates](https://github.com/zicotin/web-clipper-templates): None
 * [qownnotes/web-companion](https://github.com/qownnotes/web-companion): Browser extension to browse bookmarks and create notes in QOwnNotes
 * [Shopify/web-configs](https://github.com/Shopify/web-configs): Common configurations for building web apps at Shopify
 * [jamesqquick/Web-Development-Essentials-Extension-Pack](https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack): This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!

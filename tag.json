@@ -8789,6 +8789,9 @@
     "webcomponents/webcomponentsjs": [
         "Other"
     ],
+    "webcull/PocketExportConverter": [
+        "Other"
+    ],
     "webextension-toolbox/generator-web-extension": [
         "Other"
     ],
@@ -9126,6 +9129,9 @@
         "Other"
     ],
     "ziacto/spynet-camera": [
+        "Other"
+    ],
+    "zicotin/web-clipper-templates": [
         "Other"
     ],
     "zidansec/CloudPeler": [
