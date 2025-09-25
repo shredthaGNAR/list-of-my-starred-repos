@@ -1257,6 +1257,7 @@
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
 * [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator): Simple tool to generate HIDUTIL key remapping configurations for MacOS
 * [annedorko/highlight](https://github.com/annedorko/highlight): Static Site Generator (SSG) for creating multiple targeted portfolios and resumes with one website.
+* [homarr-labs/homarr](https://github.com/homarr-labs/homarr): A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 * [agneevX/home-assistant](https://github.com/agneevX/home-assistant): Home Assistant lovelace layout and config
 * [basnijholt/home-assistant-macbook-touch-bar](https://github.com/basnijholt/home-assistant-macbook-touch-bar): Displaying Home Assistant sensors in the Macbook Pro's touch bar using BTT 🤖💻
 * [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io): :blue_book: Home Assistant User documentation
