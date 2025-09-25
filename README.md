@@ -374,6 +374,7 @@
 * [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert): Malware, advert and tracking blacklist
 * [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist): Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
 * [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac): Spotify Ad blocker for MacOS
+* [izikeros/blog](https://github.com/izikeros/blog): My personal blog available at safjan.com
 * [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts): None
 * [Lexxrt/Blue](https://github.com/Lexxrt/Blue): 🕵️‍♂️ɪɴғᴏʀᴍᴀᴛɪᴏɴ ɢᴀᴛʜᴇʀɪɴɢ ᴛᴏᴏʟ🕵️‍♂️
 * [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app): A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web!
@@ -414,6 +415,7 @@
 * [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer): With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
 * [rb81/bookmarks-organizer](https://github.com/rb81/bookmarks-organizer): A powerful and automated way of organizing your browser bookmarks.
 * [dvdn/bookmarks-reader](https://github.com/dvdn/bookmarks-reader): Display all your bookmarks files on a webpage
+* [shredthaGNAR/bookmarks2git](https://github.com/shredthaGNAR/bookmarks2git): None
 * [mabdelaal86/bookmarks_gkeep](https://github.com/mabdelaal86/bookmarks_gkeep): Copy bookmarks from Google Keep into Pocket/Instapaper
 * [frederikb/bookmarksync](https://github.com/frederikb/bookmarksync): Synchronize your browser bookmarks from a GitHub repository
 * [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme): A responsive Shopify theme using Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, and Webpack for flexibility.
@@ -1095,6 +1097,7 @@
 * [EvanZhouDev/gemini-ai](https://github.com/EvanZhouDev/gemini-ai): The simpler JavaScript Gemini SDK
 * [gbaptista/gemini-ai](https://github.com/gbaptista/gemini-ai): A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language API, or AI Studio, Google's generative AI services.
 * [Coding-Meet/Gemini-AI-KMP-App](https://github.com/Coding-Meet/Gemini-AI-KMP-App): Gemini AI Kotlin Multiplatform project designed to target Android, iOS, Windows, macOS, Linux, and Web platforms.
+* [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 * [muhammedsamal/gemini-image-analysis](https://github.com/muhammedsamal/gemini-image-analysis): A Python script that uses Google's Gemini AI to automatically rename images with descriptive filenames based on their content.
 * [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat): Minimal web UI for GeminiPro.
 * [CJHwong/gems.sh](https://github.com/CJHwong/gems.sh): A Gemini Gem Manager in your MacBook powered by Gemma
@@ -1541,6 +1544,7 @@
 * [jamesponddotco/llm-prompts](https://github.com/jamesponddotco/llm-prompts): [READ-ONLY] A collection of prompts for enhancing productivity with large language models.
 * [brkunver/llm-toolbox](https://github.com/brkunver/llm-toolbox): Browser extension for popular LLMs 
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
+* [acoliver/llxprt-code](https://github.com/acoliver/llxprt-code): An open-source multi-provider (including local) fork of gemini-cli. Use whatever LLM you want to code in your terminal.
 * [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
 * [cleidigh/Localfolder-TB](https://github.com/cleidigh/Localfolder-TB): Thunderbird Add-On to add additional local folders to accounts
@@ -2743,6 +2747,7 @@
 * [rickkas7/TowerInfo](https://github.com/rickkas7/TowerInfo): Tool to show the location of nearby cellular towers on a mobile device, tablet, or laptop
 * [MrOtherGuy/ToyfoCSS](https://github.com/MrOtherGuy/ToyfoCSS): Guide to introduce basic CSS concepts and progressively advance into Firefox CSS hacking
 * [Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR](https://github.com/Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR): A computer vision project to develop a query based software that seeks string of words as input. It searches through the database using concepts of OCR by employing libraries like Tesseract and OpenCV to find the said string. The program then recognises the faces of individuals on the page, crops them, and arranges them in a strip to display.
+* [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection): 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 * [RealityRipple/trackpackage](https://github.com/RealityRipple/trackpackage): Fork of Track Package for Pale Moon. 📦️ Track Packages from the right-click menu.
 * [erickok/transdroid-search](https://github.com/erickok/transdroid-search): Cross-app torrent search results provider for Android
 * [menukaonline/transfer-between-drives](https://github.com/menukaonline/transfer-between-drives): This is a Google Colab notebook for transferring files/folders between drives from different Google accounts
@@ -2968,6 +2973,7 @@
 * [emin/WebPQuickLook](https://github.com/emin/WebPQuickLook): Mac OS X QuickLook plugin for WebP image files
 * [danny0838/webscrapbook](https://github.com/danny0838/webscrapbook): A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.
 * [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes): Take notes on every website in a smart and simple way!
+* [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent): ⚡️ Streaming torrent client for the web
 * [aclap-dev/weh](https://github.com/aclap-dev/weh): Toolkit to save time when developing a browser add-on for Firefox, Chrome, Edge, Opera and Vivaldi
 * [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop): Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 * [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf): Detect and bypass web application firewalls and protection systems
