@@ -1955,6 +1955,7 @@
 * [CptFoobar/Owl](https://github.com/CptFoobar/Owl): A Mozilla Firefox add-on to make online reading comfortable.
 * [seemoo-lab/owl](https://github.com/seemoo-lab/owl): An open Apple Wireless Direct Link (AWDL) implementation written in C
 * [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer): PAnalizer is a forensic tool, you can search pornographic images in a specific directory, this is util in Pedestrian Detection. Also you can search a specific person in image set, is necesesary give to the aplication a few pictures of the person of interest
+* [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai): Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 * [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups):  An add-on for Firefox that implements the old Tab Groups/Panorama functionality
 * [photodiode/panorama-view](https://github.com/photodiode/panorama-view): Add-on for Firefox letting you organize tabs and tab groups visually
 * [keiichi4e/paper-app](https://github.com/keiichi4e/paper-app): Dropbox Paper app for macOS
@@ -2677,6 +2678,7 @@
 * [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): Tesseract Open Source OCR Engine (main repository)
 * [scott0123/Tesseract-macOS](https://github.com/scott0123/Tesseract-macOS): Objective C wrapper for the open source OCR Engine Tesseract (macOS)
 * [ncyhere/test-shopify-bloomandgrow](https://github.com/ncyhere/test-shopify-bloomandgrow): A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart
+* [themez/texas-holdem-house](https://github.com/themez/texas-holdem-house): A texas hold'em game engine for bot players
 * [bupticybee/TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava): A Java implemented Texas holdem and short deck Solver
 * [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver): 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds:
 * [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): The definitive Web UI for local AI, with powerful features and easy setup.
