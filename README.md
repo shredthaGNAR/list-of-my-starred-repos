@@ -543,6 +543,7 @@
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
 * [fajarjulyana/circular-nav-html-css-only](https://github.com/fajarjulyana/circular-nav-html-css-only): This is simple circular menu html CSS js
 * [sp4ce76/classic-tabs-firefox](https://github.com/sp4ce76/classic-tabs-firefox): None
+* [opactorai/Claudable](https://github.com/opactorai/Claudable): Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
 * [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp): Batch Clipboard is a Mac app that let's you copy then paste multiple clipboard items at a time, like magic! This is the repo for v1.0.x, titled after the app's codename. The repo for v2.0 and forward is https://github.com/jpmhouston/Batch-Clipboard
@@ -570,6 +571,7 @@
 * [stephanemoni/cobalt-api](https://github.com/stephanemoni/cobalt-api): Media downloader
 * [JudiniLabs/code-gpt-docs](https://github.com/JudiniLabs/code-gpt-docs): Docusaurus page
 * [lauthieb/code-notes](https://github.com/lauthieb/code-notes): (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+* [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim): ✨ AI Coding, Vim Style
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks, Snippets and Notes Manager for Developers & Co (website)
@@ -3019,6 +3021,7 @@
 * [yiisoft/yii2-app-basic](https://github.com/yiisoft/yii2-app-basic): Yii 2.0 Basic Application Template
 * [execut/yii2-people-finder](https://github.com/execut/yii2-people-finder): Library for search peoples via social networks
 * [mattDavo/Yippy](https://github.com/mattDavo/Yippy): macOS open source clipboard manager
+* [purocean/yn](https://github.com/purocean/yn): A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
 * [code-charity/youtube](https://github.com/code-charity/youtube): Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
 * [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions): This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
