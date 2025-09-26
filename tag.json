@@ -143,6 +143,9 @@
     "Ahwxorg/LibreY": [
         "Other"
     ],
+    "Aider-AI/aider": [
+        "Other"
+    ],
     "Airmail/AirmailPlugIn-Framework": [
         "Other"
     ],
@@ -371,6 +374,9 @@
     "ChatGPTBox-dev/chatGPTBox": [
         "Other"
     ],
+    "ChatGPTNextWeb/NextChat": [
+        "Other"
+    ],
     "ChingizAdamov/Pocket-Bot": [
         "Other"
     ],
@@ -567,6 +573,9 @@
         "Other"
     ],
     "Elhary/Obsidian-NetClip": [
+        "Other"
+    ],
+    "EliFuzz/awesome-system-prompts": [
         "Other"
     ],
     "EliasVincent/joplin-email-note": [
@@ -1035,6 +1044,9 @@
         "Other"
     ],
     "KiKaraage/ArcWTF": [
+        "Other"
+    ],
+    "Kilo-Org/kilocode": [
         "Other"
     ],
     "Kiuryy/Bookmark_Sidebar": [
@@ -1718,6 +1730,9 @@
     "ShareDropio/sharedrop": [
         "Other"
     ],
+    "ShivamMMMxyz/GeminiPromptsIndexer": [
+        "Other"
+    ],
     "ShockwaveNN/pocket-sinatra-interface": [
         "Other"
     ],
@@ -2178,6 +2193,9 @@
         "Other"
     ],
     "Xinkai/TreeStyleTabCompanion.uc.js": [
+        "Other"
+    ],
+    "Y4NN777/Y7-Jprompter": [
         "Other"
     ],
     "YT-Advanced/ReX-patches": [
@@ -2763,6 +2781,9 @@
         "Other"
     ],
     "arthurdecloedt/BTT-scripts": [
+        "Other"
+    ],
+    "asgeirtj/system_prompts_leaks": [
         "Other"
     ],
     "ashfinal/awesome-hammerspoon": [
@@ -4526,7 +4547,13 @@
     "google-gemini/gemini-cli": [
         "Other"
     ],
+    "google-gemini/gemma-cookbook": [
+        "Other"
+    ],
     "google/python-laurel": [
+        "Other"
+    ],
+    "googlecreativelab/gemini-demos": [
         "Other"
     ],
     "gorhill/uBlock": [
@@ -5528,6 +5555,9 @@
     "kpriyanshu256/Webpage_hosting_from_google_drive": [
         "Other"
     ],
+    "kr1sp1n/awesome-gemini": [
+        "Other"
+    ],
     "krathalan/firefox-complement": [
         "Other"
     ],
@@ -5730,6 +5760,9 @@
         "Other"
     ],
     "lmichelin/open-github-links-in-ide": [
+        "Other"
+    ],
+    "lobehub/lobe-chat": [
         "Other"
     ],
     "lobre/pocket2notion": [
@@ -6036,6 +6069,9 @@
         "Other"
     ],
     "mhogomchungu/media-downloader": [
+        "Other"
+    ],
+    "mhss1/MyBrain": [
         "Other"
     ],
     "michaelcukier/Poker-Hand-Tracker": [
@@ -8196,6 +8232,9 @@
         "Other"
     ],
     "taminob/shortcuts": [
+        "Other"
+    ],
+    "tanaikech/ToolsForMCPServer": [
         "Other"
     ],
     "tangledhelix/toggleAirport": [
