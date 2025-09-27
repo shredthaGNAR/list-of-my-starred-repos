@@ -1078,7 +1078,6 @@
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab): Replace zsh's default completion selection menu with fzf!
 * [sted9000/gambit](https://github.com/sted9000/gambit): Learn Pot Limit Omaha Starting Ranges
-* [perXautomatik/GAS-OneTabExportOrganizer](https://github.com/perXautomatik/GAS-OneTabExportOrganizer): OneTab -> googleSheets -> Clustering datasheet
 * [tssandor/gasbar](https://github.com/tssandor/gasbar): Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
 * [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X
 * [ttscoff/gather-cli](https://github.com/ttscoff/gather-cli): None
