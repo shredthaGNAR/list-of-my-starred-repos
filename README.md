@@ -2817,6 +2817,7 @@
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
 * [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater): Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 * [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender): A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
+* [gvinciguerra/unlister](https://github.com/gvinciguerra/unlister): 📬 Script for Mail on macOS that automatically unsubscribes from promotional emails and newsletters
 * [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension): Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 * [aahung/Unshaky](https://github.com/aahung/Unshaky): A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
 * [eigenwallet/unstoppableswap-gui](https://github.com/eigenwallet/unstoppableswap-gui):  Graphical User Interface (GUI) For Trustless Cross-Chain XMR<>BTC Atomic Swaps. This repository has been moved to: https://github.com/UnstoppableSwap/core
