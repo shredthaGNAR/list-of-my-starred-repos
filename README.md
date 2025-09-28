@@ -831,6 +831,7 @@
 * [babarot/enhancd](https://github.com/babarot/enhancd): :rocket: A next-generation cd command with your interactive filter
 * [andreyvit/env](https://github.com/andreyvit/env): None
 * [iptv-org/epg](https://github.com/iptv-org/epg): Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
+* [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk): Welcome to EPG Talk, your go-to repository for an extensive Electronic Program Guide (EPG) covering a diverse range of television channels from the United States, Canada, United Kingdom, and Mexico. This project aims to simplify your TV viewing experience by providing accurate and up-to-date schedules, ensuring you never miss your favorite shows.
 * [bitgapp/eqMac](https://github.com/bitgapp/eqMac): macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 * [rlxone/Equinox](https://github.com/rlxone/Equinox): 🌇 🌃  Create dynamic wallpapers for macOS.
 * [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy): 📱 Display and control your Android device graphically with scrcpy.
