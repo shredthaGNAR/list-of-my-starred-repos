@@ -1880,7 +1880,7 @@
 * [gittyupcowboy/Onetab-Extractor](https://github.com/gittyupcowboy/Onetab-Extractor): None
 * [ylon/onetab-merge](https://github.com/ylon/onetab-merge): Merge util for OneTab browser extension
 * [pullup/OneTab-Night-Mode](https://github.com/pullup/OneTab-Night-Mode): Little theme for the onetab page to make it less eye raping.
-* [kubafeqt/OneTab-Order](https://github.com/kubafeqt/OneTab-Order): order OneTab (browser addon) tabs, copy to clipboard button
+* [kubafeqt/OneTab-Order](https://github.com/kubafeqt/OneTab-Order): Order OneTab (browser add-on) tabs, remove duplicates, remove tracking queries, can extract webpages by urls, copy to clipboard button, finding webpages by full line match, url match or content match.
 * [Nuzza/OneTab-Reborn](https://github.com/Nuzza/OneTab-Reborn): OneTab Reborn is a remake of the original OneTab extension to have a more modern appearance.
 * [sueszli/onetab-scraper](https://github.com/sueszli/onetab-scraper): oneTab bookmark collection → plaintext
 * [runoshun/onetab-sync](https://github.com/runoshun/onetab-sync): Command line utility for sync and backup OneTab Chrome extension data.
