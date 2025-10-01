@@ -691,7 +691,7 @@
 * [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android): ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
 * [DebianArch64/DebProvision](https://github.com/DebianArch64/DebProvision): An alternative to Cydia Impactor and AltServer for ALL computers.
 * [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager): Curate an inifinite media library
-* [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison): Interactive comparison of debrid services: pricing, host support, speed, and refund policies. Real-Debrid, AllDebrid, Premiumize, TorBox, and more.
+* [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison): Compare leading debrid / multi-hoster services for pricing, host coverage, policies & tools.
 * [aayush210789/Deception-Detection-on-Amazon-reviews-dataset](https://github.com/aayush210789/Deception-Detection-on-Amazon-reviews-dataset): A SVM model that classifies the reviews as real or fake. Used both the review text and the additional features contained in the data set to build a model that predicted with over 85% accuracy without using any deep learning techniques. 
 * [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat): 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 * [serengil/deepface](https://github.com/serengil/deepface): A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
