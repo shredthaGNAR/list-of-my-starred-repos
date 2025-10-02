@@ -899,6 +899,7 @@
 * [mklement0/fileicon](https://github.com/mklement0/fileicon): macOS CLI for managing custom icons for files and folders
 * [RealRaven2000/FiltaQuilla](https://github.com/RealRaven2000/FiltaQuilla): Adds many new mail filter actions to Thunderbird
 * [itsmejayd/filter-duplicate-lines](https://github.com/itsmejayd/filter-duplicate-lines): A Python tool with a Flask web interface designed to remove duplicate entries from line break delimited lists while maintaining the relative position of blank lines in the input text. Originally created to clean up OneTab exports (maintaining tab groups), it can be used for any text list with similar requirements.
+* [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists): :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 * [yokoffing/filterlists](https://github.com/yokoffing/filterlists): Collection of blocklists to fill in the gaps
 * [AdguardTeam/FiltersRegistry](https://github.com/AdguardTeam/FiltersRegistry): Known filters subscriptions transformed for better compatibility with AdGuard
 * [iShopifyExpert/find-my-size-shopify](https://github.com/iShopifyExpert/find-my-size-shopify): None
