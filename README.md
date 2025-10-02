@@ -375,6 +375,7 @@
 * [anudeepND/blacklist](https://github.com/anudeepND/blacklist): Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 * [EnergizedProtection/block](https://github.com/EnergizedProtection/block): Let's make an annoyance free, better open internet, altogether!
 * [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert): Malware, advert and tracking blacklist
+* [pengelana/blocklist](https://github.com/pengelana/blocklist): Privacy DNS
 * [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist): Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
 * [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac): Spotify Ad blocker for MacOS
 * [izikeros/blog](https://github.com/izikeros/blog): My personal blog available at safjan.com
@@ -901,6 +902,9 @@
 * [itsmejayd/filter-duplicate-lines](https://github.com/itsmejayd/filter-duplicate-lines): A Python tool with a Flask web interface designed to remove duplicate entries from line break delimited lists while maintaining the relative position of blank lines in the input text. Originally created to clean up OneTab exports (maintaining tab groups), it can be used for any text list with similar requirements.
 * [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists): :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 * [yokoffing/filterlists](https://github.com/yokoffing/filterlists): Collection of blocklists to fill in the gaps
+* [DevShubam/Filters](https://github.com/DevShubam/Filters): Collection of filters for adblockers
+* [SystemJargon/filters](https://github.com/SystemJargon/filters): A repo containing DNS blocklists and allowlist/s. Various categories of lists, updated and validated often.  Wiki included.
+* [minoplhy/filters](https://github.com/minoplhy/filters): Filters Collection . Update every 8 hours on Releases .  Powered by GitHub Action
 * [AdguardTeam/FiltersRegistry](https://github.com/AdguardTeam/FiltersRegistry): Known filters subscriptions transformed for better compatibility with AdGuard
 * [iShopifyExpert/find-my-size-shopify](https://github.com/iShopifyExpert/find-my-size-shopify): None
 * [liqing1993/Find-The-Person-You-Want-in-videos](https://github.com/liqing1993/Find-The-Person-You-Want-in-videos): This project is to build a image search system. 
@@ -1258,6 +1262,7 @@
 * [haveno-dex/haveno](https://github.com/haveno-dex/haveno): Decentralized P2P exchange platform built on Monero and Tor
 * [dawn-collective/haveno-dawn](https://github.com/dawn-collective/haveno-dawn): Decentralized P2P exchange platform built on Monero and Tor
 * [retoaccess1/haveno-reto](https://github.com/retoaccess1/haveno-reto): Decentralized P2P exchange built on Monero and Tor
+* [hectorm/hblock](https://github.com/hectorm/hblock): Improve your security and privacy by blocking ads, tracking and malware domains.
 * [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall): Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 * [blanklob/helium](https://github.com/blanklob/helium): Helium is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind.. 
 * [demtario/hes-gallery](https://github.com/demtario/hes-gallery): Light, dependency free, responsive gallery script
@@ -2598,6 +2603,7 @@
 * [FarisHijazi/SuperGoogleImages](https://github.com/FarisHijazi/SuperGoogleImages): Userscript to Super-charge Google images with rich features, like: download all full-resolution images, replace thumbnails with full-res images, add "view image" and "download" buttons and much more
 * [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
 * [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys): Map your keys for web surfing, expand your browser with javascript and keyboard.
+* [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules): 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 * [jekyllt/sustain](https://github.com/jekyllt/sustain): 🎹 Personal blog powered by Jekyll
 * [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
 * [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon): An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
