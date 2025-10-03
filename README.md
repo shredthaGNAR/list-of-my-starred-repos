@@ -2070,6 +2070,7 @@
 * [karlicoss/pockexport](https://github.com/karlicoss/pockexport): Export/access your Pocket data, including highlights!
 * [mkirchner/pockyll](https://github.com/mkirchner/pockyll): Create Jekyll linkposts from Pocket bookmarks
 * [achembarpu/pockyt](https://github.com/achembarpu/pockyt): Automate & manage your Pocket.com collection.
+* [jamespo/pockyt](https://github.com/jamespo/pockyt): Automate & manage your Pocket.com collection.
 * [containers/podman](https://github.com/containers/podman): Podman: A tool for managing OCI containers and pods.
 * [mxpv/podsync](https://github.com/mxpv/podsync): Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 * [fqx/podsync-with-yt-dlp](https://github.com/fqx/podsync-with-yt-dlp): Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
