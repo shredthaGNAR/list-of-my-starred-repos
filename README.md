@@ -922,7 +922,6 @@
 * [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly): 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
 * [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox): Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window. 
 * [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox): 🦊 Awesome Firefox
-* [bolucat/Firefox](https://github.com/bolucat/Firefox): The Source Code of Firefox on Desktop
 * [crssi/Firefox](https://github.com/crssi/Firefox): None
 * [nonoroazoro/firefox](https://github.com/nonoroazoro/firefox): Customized Extensions, Scripts, UserChromeJS and Rules of Firefox.
 * [pellaeon/firefox-91plus-photon-userchrome](https://github.com/pellaeon/firefox-91plus-photon-userchrome): userChrome.css to restore the classic Photon look on Firefox 91+
