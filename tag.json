@@ -2333,9 +2333,6 @@
     "aclap-dev/weh": [
         "Other"
     ],
-    "acoliver/llxprt-code": [
-        "Other"
-    ],
     "actions/checkout": [
         "Other"
     ],
@@ -8835,6 +8832,9 @@
         "Other"
     ],
     "vufly/dotfiles": [
+        "Other"
+    ],
+    "vybestack/llxprt-code": [
         "Other"
     ],
     "vytal-io/vytal-extension": [
