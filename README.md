@@ -1768,7 +1768,7 @@
 * [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001): My filter lists - feel free to add these lists to uBlock Origin
 * [mhss1/MyBrain](https://github.com/mhss1/MyBrain): All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 * [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket): GetPocket but better!
-* [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): An open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
+* [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): A free and open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
 * [shredthaGNAR/mytheme](https://github.com/shredthaGNAR/mytheme): firefox userchrome css theme
 * [tj/n](https://github.com/tj/n): Node version management
 * [cyanfish/naps2](https://github.com/cyanfish/naps2): Scan documents to PDF and more, as simply as possible.
