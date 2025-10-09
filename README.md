@@ -2857,7 +2857,7 @@
 * [entepe85/userChrome.css](https://github.com/entepe85/userChrome.css): Firefox customizations to make Proton bearable (imho, of course)
 * [xarantolus/userchrome.css](https://github.com/xarantolus/userchrome.css): Firefox Proton userChrome.css customizations
 * [Endor8/userChrome.js](https://github.com/Endor8/userChrome.js): Skripte für die Firefox-Erweiterung userChromeJS
-* [Merci-chao/userChrome.js](https://github.com/Merci-chao/userChrome.js): None
+* [Merci-chao/userChrome.js](https://github.com/Merci-chao/userChrome.js): Firefox userChrome.js scripts: Multi Tab Rows, History Submenus, Page Title in URL Bar, Enhanced Fullscreen Experience
 * [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js): None
 * [ardiman/userChrome.js](https://github.com/ardiman/userChrome.js): Skripte für die Firefox-Erweiterung userChromeJS
 * [k08045kk/userChrome.js](https://github.com/k08045kk/userChrome.js): None
