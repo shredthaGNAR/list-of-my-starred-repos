@@ -298,7 +298,6 @@
 * [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts
 * [apehex/awesome-poker](https://github.com/apehex/awesome-poker): :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-* [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering): This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
 * [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts): Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 * [j3lte/awesome-raycast](https://github.com/j3lte/awesome-raycast): Automated list of all Raycast extensions
 * [o19s/awesome-search-relevance](https://github.com/o19s/awesome-search-relevance): Tools and other things for people who work on search relevance & information retrieval
@@ -1943,7 +1942,6 @@
 * [opengaming/osgameclones](https://github.com/opengaming/osgameclones): Open Source Clones of Popular Games
 * [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
 * [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list): A list of tools to search accounts by username
-* [AnonAmit/osint-tool](https://github.com/AnonAmit/osint-tool): A free, powerful OSINT (Open Source Intelligence) command-line tool that provides comprehensive intelligence gathering capabilities using only free APIs and resources.
 * [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
 * [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo): Turn GitHub into a bookmark manager
@@ -2857,7 +2855,7 @@
 * [entepe85/userChrome.css](https://github.com/entepe85/userChrome.css): Firefox customizations to make Proton bearable (imho, of course)
 * [xarantolus/userchrome.css](https://github.com/xarantolus/userchrome.css): Firefox Proton userChrome.css customizations
 * [Endor8/userChrome.js](https://github.com/Endor8/userChrome.js): Skripte für die Firefox-Erweiterung userChromeJS
-* [Merci-chao/userChrome.js](https://github.com/Merci-chao/userChrome.js): Firefox userChrome.js scripts: Multi Tab Rows, History Submenus, Page Title in URL Bar, Enhanced Fullscreen Experience
+* [Merci-chao/userChrome.js](https://github.com/Merci-chao/userChrome.js): Firefox userChrome.js scripts: Multi Tab Rows, History Submenus II, Page Title in URL Bar, and more...
 * [alice0775/userChrome.js](https://github.com/alice0775/userChrome.js): None
 * [ardiman/userChrome.js](https://github.com/ardiman/userChrome.js): Skripte für die Firefox-Erweiterung userChromeJS
 * [k08045kk/userChrome.js](https://github.com/k08045kk/userChrome.js): None
@@ -3011,6 +3009,7 @@
 * [TDenisM/widevinedump](https://github.com/TDenisM/widevinedump): None
 * [selfish/window-merge-extension](https://github.com/selfish/window-merge-extension): Browser Addon/Extension to bring all open tabs into one window
 * [jonhac/Window-Saver](https://github.com/jonhac/Window-Saver): None
+* [sigoden/window-switcher](https://github.com/sigoden/window-switcher): Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
 * [Wingtwz/Window-Title-Hider](https://github.com/Wingtwz/Window-Title-Hider): Webextension that hides the current tab title from the window shown on the task bar (shows browser name first)
 * [dralletje/Windowed](https://github.com/dralletje/Windowed): Chrome extension to keep fullscreen windows contained
 * [drcheap/WindowSizer](https://github.com/drcheap/WindowSizer): WebExtension to quickly resize the window to one of your favorite sizes
