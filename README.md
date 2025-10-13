@@ -2717,7 +2717,7 @@
 * [devmount/third-stats](https://github.com/devmount/third-stats): Thunderbird add-on turning your emails into beautifully visualized email account stats.
 * [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
 * [mrdoob/three.js](https://github.com/mrdoob/three.js): JavaScript 3D Library.
-* [micz/ThunderAI](https://github.com/micz/ThunderAI): ThunderAI is a Thunderbird Addon that uses the capabilities of ChatGPT, Gemini, Anthropic or Ollama to enhance email management.
+* [micz/ThunderAI](https://github.com/micz/ThunderAI): ThunderAI is a Thunderbird Addon that uses the capabilities of ChatGPT, Gemini, Claude or Ollama to enhance email management.
 * [catppuccin/thunderbird](https://github.com/catppuccin/thunderbird): 🕊️ Soothing pastel theme for Thunderbird
 * [dracula/thunderbird](https://github.com/dracula/thunderbird): 🧛🏻‍♂️ Dark theme for Thunderbird
 * [justreportit/thunderbird](https://github.com/justreportit/thunderbird): Thunderbird plugin.
