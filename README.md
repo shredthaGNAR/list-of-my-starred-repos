@@ -960,6 +960,7 @@
 * [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar): macOS Native-looking Translucent Tabbar for Firefox
 * [jeremyperkin/Firefox-macOS-setup](https://github.com/jeremyperkin/Firefox-macOS-setup): userChrome.css and userContent.css files.
 * [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod): None
+* [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur): A Fork with an Installer for "Firefox Mod Blur - Modular"
 * [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 * [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods): Firefox CSS and JS Mods
 * [gmardom/firefox-mods](https://github.com/gmardom/firefox-mods): None
@@ -987,6 +988,7 @@
 * [AlexVallat/firefox-scripts](https://github.com/AlexVallat/firefox-scripts): userChromeJS / autoconfig.js and extensions
 * [dotiful/firefox-scripts](https://github.com/dotiful/firefox-scripts): Custom tweaks and preferences for Firefox
 * [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts): userChromeJS / autoconfig.js and extensions
+* [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar): A Firefox userChrome.js script for adding a second sidebar with web panels like in Vivaldi/Edge/Floorp/Zen but better.
 * [onozaty/firefox-shortcutkey2url](https://github.com/onozaty/firefox-shortcutkey2url): ShortcutKey2URL - Firefox Extension
 * [meow-d/firefox-simple-blur](https://github.com/meow-d/firefox-simple-blur): The simplest possible translucent userchrome theme for firefox (tested on linux only)
 * [YousufSSyed/Firefox-Skin](https://github.com/YousufSSyed/Firefox-Skin): A skin for Firefox using custom CSS
