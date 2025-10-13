@@ -1191,6 +1191,7 @@
 * [quexten/goldwarden](https://github.com/quexten/goldwarden): A feature-packed Bitwarden compatible desktop client
 * [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds): None
 * [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey): Turn (almost) any Python command line program into a full GUI application with one line
+* [wescpy/google](https://github.com/wescpy/google): Google developer code samples (mainly Python or Node.js)
 * [zanonmark/Google-4-TbSync](https://github.com/zanonmark/Google-4-TbSync): This provider add-on adds Google synchronization capabilities to TbSync. Only contacts and contact groups are currently managed, using Google's People API.
 * [vinaywadhwa/Google-Account-Switcher---Alfred](https://github.com/vinaywadhwa/Google-Account-Switcher---Alfred): An Alfred workflow to Switch Google/GSuite accounts on Google websites (Gmail, Drive, Calendar) with keyboard shortcuts.
 * [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide): Google Cloud Platform (GCP) Guide. Learn all about Google Cloud Tools, Services, and Certifications.
