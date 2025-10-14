@@ -436,6 +436,7 @@
 * [kierandrewett/browser-chrome-experiment](https://github.com/kierandrewett/browser-chrome-experiment): None
 * [WebCrateApp/browser-extension](https://github.com/WebCrateApp/browser-extension): Add links to WebCrate via a browser extension
 * [fregante/browser-extension-template](https://github.com/fregante/browser-extension-template): 📕 Barebones boilerplate with Parcel 2, options handler and auto-publishing
+* [stefanvd/Browser-Extensions](https://github.com/stefanvd/Browser-Extensions): Open Source Browser extension for Google Chrome, Firefox, Opera, Safari, Naver Whale, and Microsoft Edge
 * [adi6409/browser-ff](https://github.com/adi6409/browser-ff): None
 * [Luzifer/browser-privacy](https://github.com/Luzifer/browser-privacy): List of filter rules for uBlock Origin to enhance the browsing privacy and replace Ghostery
 * [purarue/browserexport](https://github.com/purarue/browserexport): backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
@@ -785,6 +786,7 @@
 * [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions): Add-on actions and API Docs for Dropzone 4
 * [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
 * [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
+* [JosephAlton/duckemail](https://github.com/JosephAlton/duckemail): RayCast extension ( TypeScript, React, Raycast API with useContext .etc )
 * [notable/dumper](https://github.com/notable/dumper): Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 * [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru): Find duplicate files
 * [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer): Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
@@ -887,6 +889,7 @@
 * [ownaginatious/fbchat-archive-parser](https://github.com/ownaginatious/fbchat-archive-parser): An application for parsing chat history from a Facebook data archive.
 * [sharkdp/fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly alternative to 'find'
 * [feather-wallet/feather](https://github.com/feather-wallet/feather): A free and open-source Monero desktop wallet.
+* [kaushikgopal/ff-container-traffic-control](https://github.com/kaushikgopal/ff-container-traffic-control): Firefox addon (extension) that helps you define rules which will control which container a website opens in.
 * [crestonbunch/ff-ctrl-e](https://github.com/crestonbunch/ff-ctrl-e): Ctrl+E shortcut for searching open tabs in Firefox
 * [B00ze64/FF-Menu-Icon-Plus-CSS](https://github.com/B00ze64/FF-Menu-Icon-Plus-CSS): Add icons to Firefox menus using userChrome/userContent.css
 * [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA): The Firefox theme with too many options.. FF Ultima.
@@ -1235,6 +1238,7 @@
 * [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal): A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 * [linexjlin/GPTs](https://github.com/linexjlin/GPTs): leaked prompts of GPTs
 * [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript): Build AI assistants that interact with your systems
+* [madprops/grasshopper](https://github.com/madprops/grasshopper): Advanced Tab Manager For Firefox
 * [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
 * [getgrinta/grinta](https://github.com/getgrinta/grinta): Everything you need, in one shortcut.
 * [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
@@ -1990,6 +1994,7 @@
 * [nimit95/Personal-Website](https://github.com/nimit95/Personal-Website): My Personal Website in React, Material UI, React Spring. Contents can be modified via single JSON.
 * [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website): It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 * [thlorenz/phe](https://github.com/thlorenz/phe): Poker hand evaluator
+* [celenityy/Phoenix](https://github.com/celenityy/Phoenix): Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability. 
 * [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
 * [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript
 * [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix): The text editor designed to make coding as simple and fun as playing a video game
@@ -2103,6 +2108,7 @@
 * [Jantero93/pokerstars-statistics-script](https://github.com/Jantero93/pokerstars-statistics-script): Script for tracking history on PokerStars
 * [andrewprock/pokerstove](https://github.com/andrewprock/pokerstove): poker evaluation and enumeration software
 * [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions): Source code for extensions in the official PopClip Extensions directory.
+* [martipops/popcorn-raycast](https://github.com/martipops/popcorn-raycast): A Raycast extension that uses the Stremio API to search for movies and TV shows and stream them to local media players using Stremio addons. 
 * [iSapozhnik/Popover](https://github.com/iSapozhnik/Popover): Custom macOS Popover 💬
 * [eight04/popup-tab](https://github.com/eight04/popup-tab): A Firefox addon, easily convert a tab into a popup and vice versa.
 * [Porco-Rosso/PorcoSpoon](https://github.com/Porco-Rosso/PorcoSpoon): My Versatile Hammerspoon Config
@@ -2185,6 +2191,7 @@
 * [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy): Android real-time display control software
 * [Izheil/Quantum-Nox-Firefox-Customizations](https://github.com/Izheil/Quantum-Nox-Firefox-Customizations): Customizations for Firefox. You can add extra functions using the CSS and JS files here.
 * [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+* [fffx/quick-bookmark](https://github.com/fffx/quick-bookmark): spotlight like search for chrome, firefox
 * [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins): List of useful Quick Look plugins for developers
 * [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio): [DISCONTINUED] Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 * [ololx/quick-symlink](https://github.com/ololx/quick-symlink): Quick Symlink is a Finder extension, which allows to quickly create a new symbolic links for the selected folders or files using mouse right-click. There is an alternative https://github.com/ololx/create-symlink
@@ -2205,13 +2212,23 @@
 * [grndis/raycast](https://github.com/grndis/raycast): A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features with your own OpenAI API key.
 * [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy): Integrate any OpenAI-compatible API with Raycast AI
 * [LitoMore/raycast-backend-api](https://github.com/LitoMore/raycast-backend-api): Accessing the Raycast backend API delightfully
+* [aelew/raycast-cobalt](https://github.com/aelew/raycast-cobalt): 🧩 A Raycast extension for downloading video and audio from popular social media platforms using Cobalt's API.
+* [Lewinz/raycast-customusageai](https://github.com/Lewinz/raycast-customusageai): A Raycast extension that allows you to create and use custom prompt templates with any OpenAI-compatible API endpoints.
 * [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f): Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 * [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai): GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
+* [masaishi/raycast-llm-scripts](https://github.com/masaishi/raycast-llm-scripts): This repository is a collection of diverse and experimental Raycast scripts that integrate with popular LLMs (ChatGPT, Claude, and Perplexity) without requiring API keys. The scripts here are added organically as new ideas emerge, providing a playground for testing and evolving different use cases.
+* [masaishi/raycast-llm-scripts-template](https://github.com/masaishi/raycast-llm-scripts-template): This repository provides a template for creating Raycast scripts that integrate with popular LLMs (ChatGPT, Claude, and Perplexity) without requiring API keys. Simply write Python scripts with prompt templates, and launch your favorite LLM in the browser with pre-filled prompts.
 * [Alorse/raycast-omnipilot-extension](https://github.com/Alorse/raycast-omnipilot-extension): 🚀 OmniPilot - Advanced Raycast extension for AI-powered assistance with multiple providers support, streaming responses, and command history
+* [rossinek/raycast-openai](https://github.com/rossinek/raycast-openai): Simple UI for OpenAI completion and chat API
 * [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab): A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 * [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay): Relay your Raycast AI to an OpenAI compatible API endpoint
+* [jlwainwright/raycast-scripts](https://github.com/jlwainwright/raycast-scripts): Raycast automation scripts for AI services, API testing, and YouTube summarization
+* [Vincenzo160/Raycast-Spell](https://github.com/Vincenzo160/Raycast-Spell): Struggling to spell a word? With this Raycast extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API.
 * [missuo/raycast2api](https://github.com/missuo/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint
+* [xxxbrian/raycast2api](https://github.com/xxxbrian/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint. Deployable to Cloudflare Workers / Docker / Local Binary with Raycast V2 signarure.
+* [XXXws/raycast2api-modfiy](https://github.com/XXXws/raycast2api-modfiy): None
 * [WToa/raycast_extensions_by_downloads](https://github.com/WToa/raycast_extensions_by_downloads): Rank raycast extensions by downloads
+* [Zack4DEV/Raycast_g4f](https://github.com/Zack4DEV/Raycast_g4f): Raycast extension by @XInTheDark to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 * [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama): Raycast extention for Ollama
 * [brunnorpdias/RaycastAI](https://github.com/brunnorpdias/RaycastAI): Access llms from various different apis from your computer launcher
 * [daihy8759/raychat](https://github.com/daihy8759/raychat): turn your Raycast pro AI to OpenAI API Compatible API server
@@ -3019,6 +3036,7 @@
 * [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows, moving tabs between windows, and more
 * [curtisgray/wingman](https://github.com/curtisgray/wingman): Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
 * [shredthaGNAR/wokiee](https://github.com/shredthaGNAR/wokiee): None
+* [ShrekBytes/wordglance-extension](https://github.com/ShrekBytes/wordglance-extension): firefox extension to get instant dictionary definitions and translations for any text on any website
 * [teamniteo/work-hours-mac](https://github.com/teamniteo/work-hours-mac): Simple app that tracks your work hours from the status bar.
 * [utkarshsingh99/Workspace-Manager](https://github.com/utkarshsingh99/Workspace-Manager): A Firefox extension to save frequently used tabs as Workspaces
 * [rtfcv/worse-onetab](https://github.com/rtfcv/worse-onetab): None
