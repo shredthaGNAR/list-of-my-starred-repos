@@ -2901,6 +2901,7 @@
 * [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript): CSDN 极简\沉浸式阅读\免登录复制 | 博客园美化 | 哔哩哔哩美化 | GreasyFork脚本页面👇
 * [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports): This is for the userscripts created on GreasyFork.org. 
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
+* [FiorenMas/Userscripts](https://github.com/FiorenMas/Userscripts): Automatic compiled Userscript make it run faster
 * [Infocatcher/UserScripts](https://github.com/Infocatcher/UserScripts): UserScripts for Firefox with Greasemonkey extension and (may be) for other browsers with user.js support
 * [danydodson/userscripts](https://github.com/danydodson/userscripts):  🪚 Collection of UserScripts.
 * [darkred/Userscripts](https://github.com/darkred/Userscripts): My userscripts
