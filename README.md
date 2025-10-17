@@ -1631,7 +1631,7 @@
 * [darkbrow/macgap2_google_keep](https://github.com/darkbrow/macgap2_google_keep): None
 * [MacGesture/MacGesture](https://github.com/MacGesture/MacGesture): Global mouse gestures for macOS
 * [Bunn/macGist](https://github.com/Bunn/macGist): Simple app to send pasteboard items to GitHub's Gist
-* [lra/mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
+* [lra/mackup](https://github.com/lra/mackup): Backup and keep your application settings in sync (OS X/Linux)
 * [hazcod/maclaunch](https://github.com/hazcod/maclaunch): Manage your macOS startup items.
 * [schappim/macOCR](https://github.com/schappim/macOCR): Get any text on your screen into your clipboard.
 * [xulihang/macOCR](https://github.com/xulihang/macOCR): Command line OCR tool using macOS's VNRecognizeTextRequest
