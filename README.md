@@ -608,6 +608,7 @@
 * [davidmhammond/contextlets](https://github.com/davidmhammond/contextlets): A WebExtension for adding custom context menu items that execute JavaScript.
 * [gingerbeardman/contextmenu-actions](https://github.com/gingerbeardman/contextmenu-actions): My repo of ContextMenu Actions (can also be used with Automator)
 * [benbasson/contextsearch](https://github.com/benbasson/contextsearch): Firefox Extension - Context Search transforms the "Web Search for..." context item into a menu containing your Firefox Search Providers. This is very convenient, since it allows you to decide which search engine you use. Firefox's default is to use the currently selected search provider only. 
+* [odebroqueville/contextSearch](https://github.com/odebroqueville/contextSearch): Chrome and Firefox web extension to search selected text in a web page using your favorite search engines from a context menu or from a grid of icons.
 * [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App): Native App for use with Context Search
 * [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext): Search engine manager for modern browsers
 * [continuedev/continue](https://github.com/continuedev/continue): ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
@@ -1262,6 +1263,7 @@
 * [arkenfox/gui](https://github.com/arkenfox/gui): A companion gui for arkenfox user.js
 * [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01): Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascript website this boilerplate is for you. 
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
+* [akkva/GWfox-TV](https://github.com/akkva/GWfox-TV): A macOS Tahoe-style Firefox theme
 * [SirAlidadi/HackBar](https://github.com/SirAlidadi/HackBar): Hackbar Firefox Extension
 * [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData): Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 * [koo5/hackery2](https://github.com/koo5/hackery2): notes, scripts, utilities, dotfiles, experiments, toys..
@@ -1978,6 +1980,7 @@
 * [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
 * [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo): Turn GitHub into a bookmark manager
+* [Foulest/Osprey](https://github.com/Foulest/Osprey): Browser extension that protects you from malicious websites.
 * [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome): OSX and iOS related security tools
 * [caballerofelipe/osx-automator-services](https://github.com/caballerofelipe/osx-automator-services): Some services meant to make life a little easier
 * [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults): All my default config stuff for mac
