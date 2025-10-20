@@ -1798,6 +1798,7 @@
 * [penge/my-notes](https://github.com/penge/my-notes): Simple and fast note-taking in Chrome with Google Drive support.
 * [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome): My UserChrome Css and Script
 * [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001): My filter lists - feel free to add these lists to uBlock Origin
+* [shredthaGNAR/my_portfolio_site](https://github.com/shredthaGNAR/my_portfolio_site): Lucas McKay's Personal Website & Collections of Projects
 * [programming086/my_site](https://github.com/programming086/my_site): Files for site
 * [mhss1/MyBrain](https://github.com/mhss1/MyBrain): All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 * [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket): GetPocket but better!
