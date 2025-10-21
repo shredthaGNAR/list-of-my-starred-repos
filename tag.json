@@ -4658,7 +4658,13 @@
     "google-gemini/gemma-cookbook": [
         "Other"
     ],
+    "google/generative-ai-docs": [
+        "Other"
+    ],
     "google/python-laurel": [
+        "Other"
+    ],
+    "googleapis/python-genai": [
         "Other"
     ],
     "googlecreativelab/gemini-demos": [
@@ -6554,6 +6560,9 @@
     "n3cr0cr0w/userscripts": [
         "Other"
     ],
+    "n4ze3m/page-assist": [
+        "Other"
+    ],
     "n89nanda/pretty-pocket": [
         "Other"
     ],
@@ -8445,6 +8454,9 @@
         "Other"
     ],
     "tangphillip/Imgur-Uploader": [
+        "Other"
+    ],
+    "tankvn/awesome-ai-tools": [
         "Other"
     ],
     "tanrax/maza-ad-blocking": [
