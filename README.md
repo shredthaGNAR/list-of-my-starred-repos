@@ -559,7 +559,7 @@
 * [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
 * [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp): Batch Clipboard is a Mac app that let's you copy then paste multiple clipboard items at a time, like magic! This is the repo for v1.0.x, titled after the app's codename. The repo for v2.0 and forward is https://github.com/jpmhouston/Batch-Clipboard
 * [cli/cli](https://github.com/cli/cli): GitHub’s official command line tool
-* [spicetify/cli](https://github.com/spicetify/cli): Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+* [spicetify/cli](https://github.com/spicetify/cli): Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 * [PKxk8J/click-tab-move](https://github.com/PKxk8J/click-tab-move): タブ右クリックからタブを別のウインドウに送る Firefox アドオン 
 * [DevNurAlam/ClickableEmailSignatureDesign-2](https://github.com/DevNurAlam/ClickableEmailSignatureDesign-2): None
 * [pietervanheijningen/clickbait-remover-for-youtube](https://github.com/pietervanheijningen/clickbait-remover-for-youtube): Replaces thumbnails and modifies titles of videos on youtube.com
