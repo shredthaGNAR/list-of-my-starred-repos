@@ -1535,6 +1535,7 @@
 * [spotlightishere/launchcontrol](https://github.com/spotlightishere/launchcontrol): A GUI for launchd, similar to launchctl. Or... something.
 * [AbinavJ-FamilyZone/launchd-package-creator](https://github.com/AbinavJ-FamilyZone/launchd-package-creator): A utility that allows you to easily create a .pkg containing a LaunchDaemon or LaunchAgent, and a target script of your choosing.
 * [ryangball/launchd-package-creator](https://github.com/ryangball/launchd-package-creator): A utility that allows you to easily create a .pkg containing a LaunchDaemon or LaunchAgent, and a target script of your choosing.
+* [nick-friedrich/launchie-launchpad-replacement-mac-os](https://github.com/nick-friedrich/launchie-launchpad-replacement-mac-os): The Launchpad Replacement macOS 26 Deserves
 * [Jeidoban/Launchpad-Customizer](https://github.com/Jeidoban/Launchpad-Customizer): A small macOS app that lets you customize the number of rows and columns in launchpad
 * [Molay/LaunchPadder](https://github.com/Molay/LaunchPadder): LaunchPadder is a free macOS LaunchPad tool that organizes and sorts apps and folders on LaunchPad according to certain rules.
 * [ray-lothian/Layout-Resizer](https://github.com/ray-lothian/Layout-Resizer): A simple powerful extension to adjust layout size of the current browser window
