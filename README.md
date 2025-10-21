@@ -252,6 +252,7 @@
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents
+* [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
 * [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools): A curated list of 7766 awesome AI tools
 * [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search): List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 * [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows): A curated list of awesome alfred workflows
@@ -818,6 +819,7 @@
 * [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix): Text utilities for multiple code editors 
 * [codewizard13/ehw-app-scrape-onetab-links](https://github.com/codewizard13/ehw-app-scrape-onetab-links): Scrape OneTab links and produce HTML that can be saved for backup
 * [G3root/Eisen-Matrix](https://github.com/G3root/Eisen-Matrix): 🎯 Eisen Matrix is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built with React Native for learning purposes.
+* [mutluozkurt/eksiGPT](https://github.com/mutluozkurt/eksiGPT): Integrating ChatGPT into your browser deeply, everything you need is here
 * [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder): A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 * [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail): Unofficial ProtonMail Desktop App
 * [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox): An "elegent" theme for Firefox 
