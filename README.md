@@ -2150,7 +2150,6 @@
 * [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime): Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 * [iSapozhnik/Popover](https://github.com/iSapozhnik/Popover): Custom macOS Popover 💬
 * [eight04/popup-tab](https://github.com/eight04/popup-tab): A Firefox addon, easily convert a tab into a popup and vice versa.
-* [eight04/popup-tab](https://github.com/eight04/popup-tab): A Firefox addon, easily convert a tab into a popup and vice versa.
 * [Porco-Rosso/PorcoSpoon](https://github.com/Porco-Rosso/PorcoSpoon): My Versatile Hammerspoon Config
 * [codewithsadee/portfolio](https://github.com/codewithsadee/portfolio): Fully responsive personal portfolio website
 * [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio): My self coded personal website build with React.js
@@ -2385,6 +2384,8 @@
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [Erisa/save-all-tab-urls](https://github.com/Erisa/save-all-tab-urls): Save all the open tabs as a list of URLs to go back to!
 * [allen505/save-for-later](https://github.com/allen505/save-for-later): A web extension for Chrome/Firefox which saves the tabs in current window for later use.
+* [Gitoffthelawn/save-in](https://github.com/Gitoffthelawn/save-in): WebExtension for saving media, links, or selections into user-defined directories
+* [gyng/save-in](https://github.com/gyng/save-in): WebExtension for saving media, links, or selections into user-defined directories
 * [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs): Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
 * [theopenroad/save-open-tabs-extension](https://github.com/theopenroad/save-open-tabs-extension): Firefox extension to save all open tabs within the extension
 * [piroor/save-selected-tabs-to-files](https://github.com/piroor/save-selected-tabs-to-files): Provides ability to save selected tabs to local files for Firefox 63 and later.
