@@ -83,7 +83,7 @@
 * [KnightmareVIIVIIXC/AIO-Firebog-Blocklists](https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists): A collection of unified blocklists designed to provide complete filtering capabilities for different online threats. These blocklists are curated from multiple sources, offering a robust solution for blocking ads, malware, trackers, and other unwanted content.
 * [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams): One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon. 
 * [NeloF4/AIOTools](https://github.com/NeloF4/AIOTools): All In One Tools Hacking 
-* [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex): AIPex: agentic assistant in your browser, automate your browser using natural language. Comet Alternative、Chatgpt Atlas Alternative
+* [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex): AIPex: agentic assistant in your browser, automate your browser using natural language. ChatGPT Atlas Alternative, no migration need
 * [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop): A new handy and powerful Android phone assistant， powered by Flutter.
 * [canalnoises/AirDrop-Shortcut](https://github.com/canalnoises/AirDrop-Shortcut): A script to select AirDrop from Finder's Share menu. Assign to a keyboard shortcut for quick AirDropping.
 * [Airmail/AirmailPlugIn-Framework](https://github.com/Airmail/AirmailPlugIn-Framework): None
@@ -2155,8 +2155,10 @@
 * [iSapozhnik/Popover](https://github.com/iSapozhnik/Popover): Custom macOS Popover 💬
 * [eight04/popup-tab](https://github.com/eight04/popup-tab): A Firefox addon, easily convert a tab into a popup and vice versa.
 * [Porco-Rosso/PorcoSpoon](https://github.com/Porco-Rosso/PorcoSpoon): My Versatile Hammerspoon Config
+* [Osnaider19/Portafolio](https://github.com/Osnaider19/Portafolio): Mi Portafolio
 * [codewithsadee/portfolio](https://github.com/codewithsadee/portfolio): Fully responsive personal portfolio website
 * [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio): My self coded personal website build with React.js
+* [ThemeMarket/portfolio-demo-1](https://github.com/ThemeMarket/portfolio-demo-1): Plantilla de portafolio de desarrollador web
 * [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas): A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜 
 * [SofiDevO/portfolio-sofidev-garrux](https://github.com/SofiDevO/portfolio-sofidev-garrux): Primer blog con astro
 * [AnuV6/portfolio-v2](https://github.com/AnuV6/portfolio-v2): This repository showcases my web portfolio, built using a modern tech stack: React for a smooth user interface, Next.js for enhanced performance and SEO, and Firebase for effortless deployment. Explore my skills and projects in a user-friendly and responsive format.
