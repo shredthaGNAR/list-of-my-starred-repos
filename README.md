@@ -451,6 +451,7 @@
 * [Luzifer/browser-privacy](https://github.com/Luzifer/browser-privacy): List of filter rules for uBlock Origin to enhance the browsing privacy and replace Ghostery
 * [purarue/browserexport](https://github.com/purarue/browserexport): backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 * [Zegnat/browserext-window-merger](https://github.com/Zegnat/browserext-window-merger): Merge specified browser windows into each other. Or all of them into one. Simply right click to open Firefox’s context menu when multiple windows are open, or configure a keyboard shortcut. All wrapped up in one tiny free extension.
+* [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus): 🦖 The browser prompter for macOS
 * [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension): Browserpass web extension
 * [SaulBerrenson/BrowserStealer](https://github.com/SaulBerrenson/BrowserStealer): Simple password/cookies/history/bookmarks stealer/dumper for chrome all version (includes 80+), microsoft edge browser,includes all chromium based browsers, and all gecko based browser (firefox etc.).
 * [Worie/btt](https://github.com/Worie/btt): Low level MacOS management in JavaScript via BetterTouchTool
@@ -739,8 +740,10 @@
 * [vexorian/dizquetv](https://github.com/vexorian/dizquetv): Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
 * [fredjoseph/dns-blocker](https://github.com/fredjoseph/dns-blocker): DNS Blocker for Chrome and Firefox (Web Extension)
 * [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists): DNS-Blocklists: For a better internet - keep the internet clean!
+* [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists): Lists and configuration for our DNS blocking service
 * [julian-klode/dns66](https://github.com/julian-klode/dns66): DNS-based Host Blocker (and lightweight ad blocker) for Android
 * [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy): dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+* [kkebo/DNSecure](https://github.com/kkebo/DNSecure): DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
 * [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest): DNS Performance test
 * [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli): Control the macOS `Do Not Disturb` feature from the command-line
 * [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview): Mac OSX app that displays window previews when hovering over app icon on the Dock. 
@@ -844,6 +847,7 @@
 * [crowdproperty/EmailSignatureMachine](https://github.com/crowdproperty/EmailSignatureMachine): You here to make some email signatures
 * [Sav22999/emoji](https://github.com/Sav22999/emoji): "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 * [mganss/EmojiAddIn](https://github.com/mganss/EmojiAddIn): Emoji for Outlook and Thunderbird
+* [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles): macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
 * [hrai/english-popup-thesaurus](https://github.com/hrai/english-popup-thesaurus): Thesaurus firefox add-on.
 * [babarot/enhancd](https://github.com/babarot/enhancd): :rocket: A next-generation cd command with your interactive filter
 * [andreyvit/env](https://github.com/andreyvit/env): None
@@ -1510,6 +1514,7 @@
 * [BlackwinMin/keyboard-maestro-gallery](https://github.com/BlackwinMin/keyboard-maestro-gallery): Original macOS Keyboard Maestro actions by Minja.
 * [mirka/keyboard-maestro-plugin-actions](https://github.com/mirka/keyboard-maestro-plugin-actions): Plugin actions for Keyboard Maestro
 * [lloydi/Keyboard-Maestro-Web-Dev-Macros](https://github.com/lloydi/Keyboard-Maestro-Web-Dev-Macros): A collection of Keyboard Maestro text expansion macros
+* [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy): :keyboard: The missing keyboard shortcut utility for macOS
 * [craser/KeyboardMaestroMacros](https://github.com/craser/KeyboardMaestroMacros): Public Keyboard Maestro Macros
 * [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts): ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
 * [jff99/KeyCip](https://github.com/jff99/KeyCip): Repository for the Android application  KeyCip. Making possible the statement "Our information belongs to us"
