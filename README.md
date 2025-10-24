@@ -1635,7 +1635,7 @@
 * [madlymad/mac-scrcpy-app](https://github.com/madlymad/mac-scrcpy-app): Automator scripts that allow to start scrcpy tool on mac
 * [ebouchut/mac_automation](https://github.com/ebouchut/mac_automation): Scripts I use to automate workflows on my Mac. 
 * [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config): Shell scripts for customized macOS machine setup.
-* [Renset/macai](https://github.com/Renset/macai): All-in-one native macOS LLM chat application: ChatGPT, Claude, Ollama, Grok, Google Gemini with Nano Banana, Perplexity, OpenRouter, Docker Models, and other API providers
+* [Renset/macai](https://github.com/Renset/macai): All-in-one native macOS AI chat application for virtually any AI provider
 * [glamorwish/MacAI](https://github.com/glamorwish/MacAI): All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 * [araa47/MacbookProTouchBar-Crypto-Ticker](https://github.com/araa47/MacbookProTouchBar-Crypto-Ticker): Customise your macbook pro touchbar into a cryptocurrency ticker 
 * [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager for macOS
