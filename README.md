@@ -1673,7 +1673,7 @@
 * [Tong-Liu-128/macOS_Gemini_overlay](https://github.com/Tong-Liu-128/macOS_Gemini_overlay): A macOS overlay tool for google Gemini
 * [Tnings/MacosVibrant](https://github.com/Tnings/MacosVibrant): None
 * [MacPass/MacPass](https://github.com/MacPass/MacPass): A native macOS KeePass client 
-* [lodestone/macpaste](https://github.com/lodestone/macpaste): Global middle-mouse-click copy/paste for Mac OSX (C).
+* [lodestone/macpaste](https://github.com/lodestone/macpaste): Global middle-mouse-click copy/paste for macOS (Like Unix X11 etc.) 
 * [w0lfschild/macplugins](https://github.com/w0lfschild/macplugins): :green_book: Community repo for MacForge
 * [macports/macports-base](https://github.com/macports/macports-base): The MacPorts command-line client
 * [sevagas/macro_pack](https://github.com/sevagas/macro_pack): macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research. 
