@@ -612,7 +612,6 @@
 * [davidmhammond/contextlets](https://github.com/davidmhammond/contextlets): A WebExtension for adding custom context menu items that execute JavaScript.
 * [gingerbeardman/contextmenu-actions](https://github.com/gingerbeardman/contextmenu-actions): My repo of ContextMenu Actions (can also be used with Automator)
 * [benbasson/contextsearch](https://github.com/benbasson/contextsearch): Firefox Extension - Context Search transforms the "Web Search for..." context item into a menu containing your Firefox Search Providers. This is very convenient, since it allows you to decide which search engine you use. Firefox's default is to use the currently selected search provider only. 
-* [odebroqueville/contextSearch](https://github.com/odebroqueville/contextSearch): Chrome and Firefox web extension to search selected text in a web page using your favorite search engines from a context menu or from a grid of icons.
 * [ssborbis/ContextSearch-Native-App](https://github.com/ssborbis/ContextSearch-Native-App): Native App for use with Context Search
 * [ssborbis/ContextSearch-web-ext](https://github.com/ssborbis/ContextSearch-web-ext): Search engine manager for modern browsers
 * [continuedev/continue](https://github.com/continuedev/continue): ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
