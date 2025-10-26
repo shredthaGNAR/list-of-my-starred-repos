@@ -3053,6 +3053,7 @@
 * [zicotin/web-clipper-templates](https://github.com/zicotin/web-clipper-templates): None
 * [qownnotes/web-companion](https://github.com/qownnotes/web-companion): Browser extension to browse bookmarks and create notes in QOwnNotes
 * [Shopify/web-configs](https://github.com/Shopify/web-configs): Common configurations for building web apps at Shopify
+* [WebdevShefali/Web-Dev-Resources](https://github.com/WebdevShefali/Web-Dev-Resources): A collection of free web development resources, including APIs, hosting platforms, cheat sheets, icons, templates, fonts, color tools, learning platforms, and more. 🚀
 * [jamesqquick/Web-Development-Essentials-Extension-Pack](https://github.com/jamesqquick/Web-Development-Essentials-Extension-Pack): This an extension pack for Visual Studio Code with extensions that are extremely helpful for Web Developers!
 * [mozilla/web-ext](https://github.com/mozilla/web-ext): A command line tool to help build, run, and test web extensions
 * [tim-we/web-ext-inspector](https://github.com/tim-we/web-ext-inspector): Website for inspecting the contents of web extensions
