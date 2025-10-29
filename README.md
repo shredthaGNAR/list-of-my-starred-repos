@@ -2264,7 +2264,7 @@
 * [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io): Personal Portfolio Website
 * [HoldemPokerTools/RangeAssistant](https://github.com/HoldemPokerTools/RangeAssistant): Texas Hold'em Opening Range Assistant web and desktop application for OS X and Windows (beta)
 * [LoneWanderer-GH/RaspiVWS](https://github.com/LoneWanderer-GH/RaspiVWS): Raspberry Pi Webcam Streaming with Logitech C920 and VLC
-* [DEgITx/rats-search](https://github.com/DEgITx/rats-search): BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
+* [librats/rats-search](https://github.com/librats/rats-search): BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
 * [grndis/raycast](https://github.com/grndis/raycast): A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features with your own OpenAI API key.
 * [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy): Integrate any OpenAI-compatible API with Raycast AI

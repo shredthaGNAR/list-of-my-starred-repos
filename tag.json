@@ -479,9 +479,6 @@
     "DEMONOJUS/Better-Tab": [
         "Other"
     ],
-    "DEgITx/rats-search": [
-        "Other"
-    ],
     "DNSCrypt/dnscrypt-proxy": [
         "Other"
     ],
@@ -5895,6 +5892,9 @@
         "Other"
     ],
     "liamengland1/miscfilters": [
+        "Other"
+    ],
+    "librats/rats-search": [
         "Other"
     ],
     "libre-tube/LibreTube": [
