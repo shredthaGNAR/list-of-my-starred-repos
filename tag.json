@@ -1343,9 +1343,6 @@
     "Moustachauve/cookie-editor": [
         "Other"
     ],
-    "Mozilla-Ocho/llamafile": [
-        "Other"
-    ],
     "MozillaSecurity/prefpicker": [
         "Other"
     ],
@@ -6465,6 +6462,9 @@
         "Other"
     ],
     "motioneye-project/motioneyeos": [
+        "Other"
+    ],
+    "mozilla-ai/llamafile": [
         "Other"
     ],
     "mozilla/FirefoxColor": [
