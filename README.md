@@ -304,6 +304,7 @@
 * [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything): OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
 * [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins): List of pastebin services
 * [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
+* [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy): A curated list of awesome warez and piracy links.
 * [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy): This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
 * [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts
 * [apehex/awesome-poker](https://github.com/apehex/awesome-poker): :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
