@@ -1291,7 +1291,6 @@
 * [yangqian/hass-gelight](https://github.com/yangqian/hass-gelight): Home assistant custom component to control C by GE smart light bulb locally via Bluetooth
 * [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle): Logi Circle Home Assistant component
 * [nikshriv/hassio-addons](https://github.com/nikshriv/hassio-addons): None
-* [FrenchGithubUser/Hatt](https://github.com/FrenchGithubUser/Hatt): DDL/Streaming meta search engine
 * [bilde2910/Hauk](https://github.com/bilde2910/Hauk): Open-source realtime location sharing
 * [guardianproject/haven](https://github.com/guardianproject/haven): Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 * [haveno-dex/haveno](https://github.com/haveno-dex/haveno): Decentralized P2P exchange platform built on Monero and Tor
