@@ -306,6 +306,7 @@
 * [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
 * [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy): A curated list of awesome warez and piracy links.
 * [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy): This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
+* [makarandjadhav1/awesome-piracy-master](https://github.com/makarandjadhav1/awesome-piracy-master): None
 * [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts): Collection of awesome podcasts
 * [apehex/awesome-poker](https://github.com/apehex/awesome-poker): :spades: :hearts: :clubs: :diamonds: A curated list of awesome poker resources & tools to improve your game.
 * [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy): Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -3068,6 +3069,7 @@
 * [davidnguyen11/web-extension-boilerplate](https://github.com/davidnguyen11/web-extension-boilerplate): The web extension boilerplate help to set up project quickly using typescript, jest, webpack, githook, prettier and github actions
 * [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter): 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 * [BCIT-DDC/web-extension-ts-starter](https://github.com/BCIT-DDC/web-extension-ts-starter): 🚀 A web extension starter built with React, Typescript, and Tailwind CSS. Build once, and run on multiple browsers: Google Chrome, Mozilla Firefox, Microsoft Edge, Brave, and Opera.
+* [OshekharO/Web-Indexer](https://github.com/OshekharO/Web-Indexer): A simple website indexer with a list of awesome sites
 * [usc-isi-i2/Web-Karma](https://github.com/usc-isi-i2/Web-Karma): Information Integration Tool
 * [MykytaCherniavskyi/web-profile](https://github.com/MykytaCherniavskyi/web-profile): Personal website built with Astro 4.0 and styled using Tailwind CSS
 * [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator): Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
