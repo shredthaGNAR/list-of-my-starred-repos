@@ -2220,7 +2220,7 @@
 * [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr): Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 * [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools): Python package for reading Adobe Photoshop PSD files
 * [psequel/psequel](https://github.com/psequel/psequel): Free PostgreSQL GUI tool for macOS.
-* [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox): Hides and improves interface Firefox and YouTube, giving maximum space for content and aiding concentration
+* [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox): Hides and improves interface Firefox and YouTube, giving maximum space for content and aiding concentration.
 * [dognotdog/ptpwebcam](https://github.com/dognotdog/ptpwebcam): Mac DSLR webcam plugin for using DSLRs for video conferencing and streaming.
 * [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists): 🚀 A hand-curated list of free, open, and developer-friendly APIs
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
