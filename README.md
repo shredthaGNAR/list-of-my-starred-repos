@@ -933,6 +933,7 @@
 * [liqing1993/Find-The-Person-You-Want-in-videos](https://github.com/liqing1993/Find-The-Person-You-Want-in-videos): This project is to build a image search system. 
 * [pointu-l/finder-basic-visor](https://github.com/pointu-l/finder-basic-visor): Basic AppleScript visor mode for the finder. Designed for better touch tool
 * [kdabir/finder-buttons](https://github.com/kdabir/finder-buttons): MacOS Finder buttons for quick actions
+* [tankxu/finder-dev-launcher](https://github.com/tankxu/finder-dev-launcher): A set of Finder toolbar launchers for macOS developers. With these Automator apps you can add one-click buttons to Finder’s toolbar, so the current folder opens instantly in tools like VS Code, Claude CLI, or Gemini CLI.
 * [synappser/FinderFix](https://github.com/synappser/FinderFix): FinderFix lets you resize and reposition Finder windows to your liking
 * [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo): 🐢 Open terminal quickly from Finder
 * [jlehikoinen/FinderMate](https://github.com/jlehikoinen/FinderMate): macOS Finder extension for creating new text documents with right-click
