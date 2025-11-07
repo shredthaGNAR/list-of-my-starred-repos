@@ -2268,6 +2268,7 @@
 * [k-amryn/quietfox](https://github.com/k-amryn/quietfox): Very Clean Firefox userChrome Mod
 * [Shad0wSeven/Quietfox-Proton](https://github.com/Shad0wSeven/Quietfox-Proton): Quietfox release for Proton, upgrades and improvments from myself, and from the Lepton project
 * [TheGITofTeo997/quietfoxReborn](https://github.com/TheGITofTeo997/quietfoxReborn): Trying to resurrect a very Clean Firefox userChrome Mod
+* [withLinda/radial-menu-html-generator-for-BetterTouchTool](https://github.com/withLinda/radial-menu-html-generator-for-BetterTouchTool): Helps you assemble floating HTML radial menus for BetterTouchTool app.
 * [1280px/rainfox](https://github.com/1280px/rainfox): Photon UI, re-imagined.
 * [rajaprerak/rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io): Personal Portfolio Website
 * [HoldemPokerTools/RangeAssistant](https://github.com/HoldemPokerTools/RangeAssistant): Texas Hold'em Opening Range Assistant web and desktop application for OS X and Windows (beta)
