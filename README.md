@@ -575,8 +575,8 @@
 * [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur): A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
 * [clipboard2file/clipboard2file](https://github.com/clipboard2file/clipboard2file): WebExtension for using images on the clipboard as files
 * [kepano/clipper-templates](https://github.com/kepano/clipper-templates): Obsidian Web Clipper templates for various sites.
-* [aecreations/clippings](https://github.com/aecreations/clippings): Clippings: an extension for Firefox
-* [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Clippings for Thunderbird
+* [aecreations/clippings](https://github.com/aecreations/clippings): Save frequently-entered text for pasting later. An extension for Firefox.
+* [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Save frequently-entered text for pasting later. An extension for Thunderbird.
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
 * [ian4hu/Clipy](https://github.com/ian4hu/Clipy): Clipboard extension app for macOS.
 * [spieglt/Cloaker](https://github.com/spieglt/Cloaker): Simple, drag-and-drop, password-based file encryption
@@ -2312,7 +2312,7 @@
 * [napsternxg/ReadLater](https://github.com/napsternxg/ReadLater): This is a google chrome extension for saving links for later reading.
 * [sakuyaa/readLater](https://github.com/sakuyaa/readLater): A Read-it-later extension for Firefox using WebExtension APIs
 * [timleland/ReadLaterCE](https://github.com/timleland/ReadLaterCE): Read Later Chrome Extension
-* [aecreations/readnext](https://github.com/aecreations/readnext): Read Next: an extension for Firefox
+* [aecreations/readnext](https://github.com/aecreations/readnext): The reading list that syncs to the cloud. An extension for Firefox.
 * [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire): A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
 * [steventheworker/recents-macos](https://github.com/steventheworker/recents-macos): Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher.
 * [bhavsec/reconspider](https://github.com/bhavsec/reconspider): 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
