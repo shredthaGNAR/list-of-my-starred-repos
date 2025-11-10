@@ -2973,7 +2973,7 @@
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
 * [FiorenMas/Userscripts](https://github.com/FiorenMas/Userscripts): Automatic compiled Userscript make it run faster
 * [Infocatcher/UserScripts](https://github.com/Infocatcher/UserScripts): UserScripts for Firefox with Greasemonkey extension and (may be) for other browsers with user.js support
-* [danydodson/userscripts](https://github.com/danydodson/userscripts):  🪚 Collection of UserScripts.
+* [danydodson/userscripts](https://github.com/danydodson/userscripts): UserScript Collection.
 * [darkred/Userscripts](https://github.com/darkred/Userscripts): My userscripts
 * [jerone/UserScripts](https://github.com/jerone/UserScripts): 🐵 My UserScripts
 * [jwilk/userscripts](https://github.com/jwilk/userscripts): Jakub's custom CSS and JavaScript (for dotPageMod Firefox extension)
