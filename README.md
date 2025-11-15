@@ -2373,6 +2373,7 @@
 * [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager): 💊 Application to use ReVanced on Android 
 * [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager): 💊 Application to use ReVanced on Android 
 * [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot): Build Revanced apps
+* [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles): Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose.
 * [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher): 💉 ReVanced Patcher used to patch Android applications
 * [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches): 🧩 Patches for ReVanced
 * [anddea/revanced-patches](https://github.com/anddea/revanced-patches): 🧩 Patches for ReVanced
