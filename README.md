@@ -1602,6 +1602,7 @@
 * [psbarrales/LLM-automator](https://github.com/psbarrales/LLM-automator): Create keyboard shortcuts for an LLM using OpenAI GPT, Ollama, HuggingFace with Automator on macOS.
 * [radames/LLM-automator](https://github.com/radames/LLM-automator): Create keyboard shortcuts for an LLM using OpenAI GPT, Ollama, HuggingFace with Automator on macOS.
 * [ICTMCG/LLM-for-misinformation-research](https://github.com/ICTMCG/LLM-for-misinformation-research): Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.
+* [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Alex Bilzerian (2022-2025).
 * [jamesponddotco/llm-prompts](https://github.com/jamesponddotco/llm-prompts): [READ-ONLY] A collection of prompts for enhancing productivity with large language models.
 * [brkunver/llm-toolbox](https://github.com/brkunver/llm-toolbox): Browser extension for popular LLMs 
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
@@ -2006,7 +2007,7 @@
 * [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
 * [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo): Turn GitHub into a bookmark manager
-* [OspreySecurity/Osprey](https://github.com/OspreySecurity/Osprey): Browser extension that protects you from malicious websites.
+* [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey): Browser extension that protects you from malicious websites.
 * [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome): OSX and iOS related security tools
 * [caballerofelipe/osx-automator-services](https://github.com/caballerofelipe/osx-automator-services): Some services meant to make life a little easier
 * [olafhartong/osx-defaults](https://github.com/olafhartong/osx-defaults): All my default config stuff for mac
