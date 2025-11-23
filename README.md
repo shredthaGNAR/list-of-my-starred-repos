@@ -688,7 +688,6 @@
 * [m-khvoinitsky/dark-background-light-text-extension](https://github.com/m-khvoinitsky/dark-background-light-text-extension): Firefox addon that turns every page colors into "light text on dark background"
 * [FilkCH/dark-filk-theme](https://github.com/FilkCH/dark-filk-theme): Visual Studio Code theme inspired by Monokai.
 * [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools): OSINT Tools for the Dark Web
-* [DarkWebInformer/Dark_Ledger](https://github.com/DarkWebInformer/Dark_Ledger): A repository preserving darknet market data, including vendor lists, PGP keys, listings, and more for research & intelligence purposes.
 * [octokami/darknet_forum](https://github.com/octokami/darknet_forum): Scraping darknet forums has been the object of research in the field of intelligence and security informatics.  In this repository we scraped three different sources of forums, and performed Sentiment Analysis, Topic Modelling, and Linguistic Analysis.
 * [fastaddons/Darko](https://github.com/fastaddons/Darko): None
 * [darkreader/darkreader](https://github.com/darkreader/darkreader): Dark Reader Chrome and Firefox extension
