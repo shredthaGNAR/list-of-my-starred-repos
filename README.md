@@ -3115,6 +3115,7 @@
 * [drcheap/WindowSizer](https://github.com/drcheap/WindowSizer): WebExtension to quickly resize the window to one of your favorite sizes
 * [l10nelw/winger](https://github.com/l10nelw/winger): Window Manager: A Firefox web extension for switching windows, moving tabs between windows, and more
 * [curtisgray/wingman](https://github.com/curtisgray/wingman): Wingman is the fastest and easiest way to run Llama models on your PC or Mac.
+* [nbonamy/witsy](https://github.com/nbonamy/witsy): Witsy: desktop AI assistant / universal MCP client
 * [shredthaGNAR/wokiee](https://github.com/shredthaGNAR/wokiee): None
 * [ShrekBytes/wordglance-extension](https://github.com/ShrekBytes/wordglance-extension): firefox extension to get instant dictionary definitions and translations for any text on any website
 * [teamniteo/work-hours-mac](https://github.com/teamniteo/work-hours-mac): Simple app that tracks your work hours from the status bar.
