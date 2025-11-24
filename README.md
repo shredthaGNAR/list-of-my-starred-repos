@@ -129,7 +129,6 @@
 * [linsa-io/alfred-workflows](https://github.com/linsa-io/alfred-workflows): Amazing Alfred Workflows
 * [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows): My Alfred Workflows
 * [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows): Collection of Alfred workflows
-* [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows): Collection of Alfred workflows
 * [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows): Collected Alfred Workflows & Proof of Concept
 * [jenslys/alfred-youtube-downloader](https://github.com/jenslys/alfred-youtube-downloader): Alfred Workflow to download YouTube videos
 * [simonbs/alfred-youtube-workflow](https://github.com/simonbs/alfred-youtube-workflow): A workflow for Alfred 2.0 which lets the user search for YouTube videos and have them returned to Alfred.
@@ -689,6 +688,7 @@
 * [m-khvoinitsky/dark-background-light-text-extension](https://github.com/m-khvoinitsky/dark-background-light-text-extension): Firefox addon that turns every page colors into "light text on dark background"
 * [FilkCH/dark-filk-theme](https://github.com/FilkCH/dark-filk-theme): Visual Studio Code theme inspired by Monokai.
 * [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools): OSINT Tools for the Dark Web
+* [DarkWebInformer/Dark_Ledger](https://github.com/DarkWebInformer/Dark_Ledger): A repository preserving darknet market data, including vendor lists, PGP keys, listings, and more for research & intelligence purposes.
 * [octokami/darknet_forum](https://github.com/octokami/darknet_forum): Scraping darknet forums has been the object of research in the field of intelligence and security informatics.  In this repository we scraped three different sources of forums, and performed Sentiment Analysis, Topic Modelling, and Linguistic Analysis.
 * [fastaddons/Darko](https://github.com/fastaddons/Darko): None
 * [darkreader/darkreader](https://github.com/darkreader/darkreader): Dark Reader Chrome and Firefox extension
