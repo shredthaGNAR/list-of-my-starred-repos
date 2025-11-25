@@ -2359,7 +2359,6 @@
 * [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root): Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
 * [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template): Github Template for building Revanced
 * [farag2/ReVanced-Builder](https://github.com/farag2/ReVanced-Builder): Build YouTube within a cloud ReVanced
-* [peternmuller/revanced-builder](https://github.com/peternmuller/revanced-builder): An APK and Magisk/KernelSU module builder for RV/RVX apps. Updated hourly.
 * [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder): A NodeJS ReVanced builder
 * [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli): 💻 Command-line application to use ReVanced
 * [inotia00/revanced-cli](https://github.com/inotia00/revanced-cli): 💻 Command line application as an alternative to the ReVanced Manager
