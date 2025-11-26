@@ -529,7 +529,7 @@
 * [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama): ChatOllama is an open-source AI chatbot that brings cutting-edge language models to your fingertips while keeping your data private and secure.
 * [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx): An all-in-one LLMs Chat UI for Apple Silicon Mac using MLX Framework.
 * [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama): Chatbot Ollama is an open source chat UI for Ollama.
-* [chatboxai/chatbox](https://github.com/chatboxai/chatbox): User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+* [chatboxai/chatbox](https://github.com/chatboxai/chatbox): Powerful AI Client
 * [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT): OpenAI API Free Reverse Proxy
 * [khzg/ChatGPT](https://github.com/khzg/ChatGPT): Ai Chat everywhere (firefox addons)
 * [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -545,7 +545,7 @@
 * [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js): 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 * [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
 * [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
-* [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
+* [chathub-dev/chathub](https://github.com/chathub-dev/chathub): # Free AI at api.airforce https://discord.gg/AJDsM7jtbq
 * [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop): a new desktop app for chatkit.app
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
 * [olivertzeng/chrome](https://github.com/olivertzeng/chrome): 🦊 I respect proton UI and aim to improve it.
@@ -751,7 +751,7 @@
 * [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview): Mac OSX app that displays window previews when hovering over app icon on the Dock. 
 * [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab): Window preview app for MacOS (on the dock) using AltTab.
 * [steventheworker/DockAltTab-home](https://github.com/steventheworker/DockAltTab-home): website for DockAltTab
-* [ejbills/DockDoor](https://github.com/ejbills/DockDoor): Window peeking & alt-tab for macOS
+* [ejbills/DockDoor](https://github.com/ejbills/DockDoor): Window peeking, alt-tab and other enhancements for macOS
 * [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 * [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced): One Click Python util to build all Revanced apps.
 * [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn): Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
