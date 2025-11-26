@@ -1144,7 +1144,6 @@
 * [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim): Neovim plugin to generate text using LLMs with customizable prompts
 * [google/generative-ai-docs](https://github.com/google/generative-ai-docs): Documentation for Google's Gen AI site - including the Gemini API and Gemma
 * [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension): Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
-* [alfaaarex/GentleFox](https://github.com/alfaaarex/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
 * [vincens2005/GentleFox](https://github.com/vincens2005/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
 * [danielmiessler/GeoHarvest](https://github.com/danielmiessler/GeoHarvest): A simple script for translating IP addresses to GeoLocations
 * [danielmiessler/geoip](https://github.com/danielmiessler/geoip): A Ruby script that takes in IPs and returns Country, State, and City
@@ -2667,6 +2666,7 @@
 * [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget): A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 * [cypherstack/stack_wallet](https://github.com/cypherstack/stack_wallet): Stack Wallet, a multicoin, cryptocurrency wallet
 * [rchern/StackExchangeScripts](https://github.com/rchern/StackExchangeScripts): A collection of user scripts for StackExchange sites 
+* [alfaaarex/Stake-Prediction-App-bot](https://github.com/alfaaarex/Stake-Prediction-App-bot): A Firefox theme, which features gentle curves, transparency and a minimal interface.
 * [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed): 📋 Creating your own Awesome List of GitHub stars! 
 * [sagars007/starry-fox](https://github.com/sagars007/starry-fox): Firefox css stylesheets for the dark space theme. Matching more UI elements with the theme.
 * [Thomashighbaugh/stars](https://github.com/Thomashighbaugh/stars): A curated list of my GitHub stars!
