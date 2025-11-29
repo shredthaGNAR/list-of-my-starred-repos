@@ -1878,6 +1878,7 @@
 * [npmhub/npmhub](https://github.com/npmhub/npmhub): 🔎 A browser extension to explore npm dependencies on GitHub repos
 * [MrOtherGuy/ntp_titler](https://github.com/MrOtherGuy/ntp_titler): Simple browser extension adding a window prefix to new tabs
 * [nukeop/nuclear](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
+* [Nevesto/NullSpawn](https://github.com/Nevesto/NullSpawn): Cybersecurity-themed Nickname Generator.
 * [apilayer/numverify-API](https://github.com/apilayer/numverify-API): Free global phone number validation & lookup JSON API
 * [edgars21/nuxtjs-shopify-flex-theme-section-with-vue](https://github.com/edgars21/nuxtjs-shopify-flex-theme-section-with-vue): None
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
