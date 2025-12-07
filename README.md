@@ -1294,6 +1294,7 @@
 * [poker-apprentice/hand-evaluator](https://github.com/poker-apprentice/hand-evaluator): Evaluate the strength of a hand of poker
 * [poker-apprentice/hand-history-analyzer](https://github.com/poker-apprentice/hand-history-analyzer): Extract helpful statistics about a poker player's tendencies from a hand history
 * [poker-apprentice/hand-history-parser](https://github.com/poker-apprentice/hand-history-parser): Parse hand histories from online poker sites
+* [shariati/Hand-Picked](https://github.com/shariati/Hand-Picked): A collection of custom folder icons for (Mac, Linux and Windows)
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's development repository 
 * [jgressmann/harbour-vodman](https://github.com/jgressmann/harbour-vodman): Vodman lets you download videos (VODs) from the internet to your SailfishOS device
 * [claytonjn/hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting): Circadian Lighting custom component for Home Assistant
@@ -2011,7 +2012,6 @@
 * [sujon-co/operator-mono-ligature](https://github.com/sujon-co/operator-mono-ligature):  Operator Mono ligatures build file
 * [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates): Customize free Shopify Order Printer templates.
 * [loveshopify/orium](https://github.com/loveshopify/orium): None
-* [shariati/OS-Folder-Icons](https://github.com/shariati/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [shredthaGNAR/OS-Folder-Icons](https://github.com/shredthaGNAR/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
 * [opengaming/osgameclones](https://github.com/opengaming/osgameclones): Open Source Clones of Popular Games
 * [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
