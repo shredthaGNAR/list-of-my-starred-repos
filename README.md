@@ -1170,6 +1170,7 @@
 * [pomber/git-history](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository
 * [jag-k/git-raycast](https://github.com/jag-k/git-raycast): Automate git using Raycast AI
 * [IndexStorm/git-rec-ext](https://github.com/IndexStorm/git-rec-ext): Frontend code for GitHub Recommendation Extension
+* [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater): A console script that allows you to easily update multiple git repositories at once
 * [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome): An automation tool for installing userChrome Themes
 * [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako): 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 * [DonJayamanne/gitHistoryVSCode](https://github.com/DonJayamanne/gitHistoryVSCode): Git History for Visual Studio Code
