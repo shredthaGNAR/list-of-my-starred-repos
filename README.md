@@ -2612,7 +2612,7 @@
 * [pellaeon/SingleFileZ](https://github.com/pellaeon/SingleFileZ): MultiFile is a fork of gildas-lormeau/SingleFileZ that allows you to save a webpage as as one main HTML file plus original resource files (images, fonts, stylesheets and frames) in different folders.
 * [kewld00d/SingleFileZ-Archives](https://github.com/kewld00d/SingleFileZ-Archives): My repo archive of my collection of saved webpages , to read later + etc etc. Archive was created using SingleFile extension, which is able to save and compress webpages in a self-contained and cool self extracting zip file  but is just an easy to use html file  that enables good viewing and archiving of websites  with the added bonus of small file sizes and no folders or other files: just 1  html file per save or zip auto uploaded to this Github repo 
 * [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar): A highly customizable macOS status bar replacement
-* [koekeishiya/skhd](https://github.com/koekeishiya/skhd):  Simple hotkey daemon for macOS
+* [asmvik/skhd](https://github.com/asmvik/skhd):  Simple hotkey daemon for macOS
 * [SerpentDrago/skin.auramod](https://github.com/SerpentDrago/skin.auramod): Auramod Skin for Kodi 18 
 * [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic): None
 * [jonashellmann/skip-prime-video-intro](https://github.com/jonashellmann/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
@@ -3156,7 +3156,7 @@
 * [Team-xManager/xManager](https://github.com/Team-xManager/xManager): Ad-Free, New Features & Freedom
 * [xnotepp/xnote](https://github.com/xnotepp/xnote): Sources for the XNote++ Thunderbird add-on.
 * [Y4NN777/Y7-Jprompter](https://github.com/Y4NN777/Y7-Jprompter): A simple web application that leverages Google's Gemini AI to convert natural language prompts into structured JSON formats, making your AI interactions more precise, consistent, and effective.
-* [koekeishiya/yabai](https://github.com/koekeishiya/yabai): A tiling window manager for macOS based on binary space partitioning
+* [asmvik/yabai](https://github.com/asmvik/yabai): A tiling window manager for macOS based on binary space partitioning
 * [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT): Locally running, hands-free ChatGPT UI
 * [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator): 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
 * [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner): Custom firmware for Yi 1080p camera based on Allwinner platform

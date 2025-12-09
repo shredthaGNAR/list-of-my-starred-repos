@@ -2918,6 +2918,12 @@
     "asilvas/circler": [
         "Other"
     ],
+    "asmvik/skhd": [
+        "Other"
+    ],
+    "asmvik/yabai": [
+        "Other"
+    ],
     "astrit/css.gg": [
         "Other"
     ],
@@ -5742,12 +5748,6 @@
         "Other"
     ],
     "koalaman/shellcheck": [
-        "Other"
-    ],
-    "koekeishiya/skhd": [
-        "Other"
-    ],
-    "koekeishiya/yabai": [
         "Other"
     ],
     "koo5/hackery2": [
