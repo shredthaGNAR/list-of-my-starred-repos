@@ -1992,6 +1992,7 @@
 * [htrinter/Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs): Browser extension for opening lists of URLs built with Vue.js on top of WebExtension with cross-browser support
 * [cpeterso/open-page-in-private-window](https://github.com/cpeterso/open-page-in-private-window): 👻 Firefox extension to open a copy of the current page in a new Private Window
 * [open-pocket/open-pocket](https://github.com/open-pocket/open-pocket): Building a 'clean room' open-source implementation of Pocket
+* [TCM-Course-Resources/Open-Source-Intellingence-Resources](https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources): Compilation of Resources from TCM's OSINT Course
 * [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps): 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 * [honsiorovskyi/open-url-in-container](https://github.com/honsiorovskyi/open-url-in-container): Firefox extension to open external links in a specific container
 * [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
