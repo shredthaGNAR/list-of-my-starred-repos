@@ -395,6 +395,7 @@
 * [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert): Malware, advert and tracking blacklist
 * [pengelana/blocklist](https://github.com/pengelana/blocklist): Privacy DNS
 * [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist): Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
+* [nextdns/blocklists](https://github.com/nextdns/blocklists): None
 * [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac): Spotify Ad blocker for MacOS
 * [izikeros/blog](https://github.com/izikeros/blog): My personal blog available at safjan.com
 * [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts): None
@@ -2875,6 +2876,7 @@
 * [OlegPoljakov/TinderPeopleFinder_Yandex_Images](https://github.com/OlegPoljakov/TinderPeopleFinder_Yandex_Images): This program helps to find people from tinder in some other social medias. It takes the screenshot of tinder profile, cuts the image and search it in Yandex Image. All you need to do is to choose the pictures and push few buttons.
 * [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle): None
 * [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts): Collection of small scripts
+* [FilteringDev/tinyShield](https://github.com/FilteringDev/tinyShield): A lightweight redefined version of microShield
 * [yusufcanb/tlm](https://github.com/yusufcanb/tlm): Local CLI Copilot, powered by Ollama. 💻🦙
 * [code-charity/ToDo](https://github.com/code-charity/ToDo): ToDo - Chrome Extension. Make checklists and more.
 * [rkokkelk/todo.txt-ext](https://github.com/rkokkelk/todo.txt-ext): Thunderbird extension for the Todo.txt application.
