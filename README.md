@@ -642,7 +642,7 @@
 * [A9T9/Copyfish](https://github.com/A9T9/Copyfish): Copy, paste and translate text from images, videos and PDFs with this free Chrome extension
 * [msk4862/Copyright-free-image-search](https://github.com/msk4862/Copyright-free-image-search): Web app to search copyright free images from across the popular platforms and shows you the results in a single platform.
 * [k08045kk/CopyTabTitleUrl](https://github.com/k08045kk/CopyTabTitleUrl): None
-* [eigenwallet/core](https://github.com/eigenwallet/core): eigenwallet is an ambitious community effort to build the Monero wallet for the future.
+* [eigenwallet/core](https://github.com/eigenwallet/core): eigenwallet is a battle-tested Monero-Bitcoin DEX based on Atomic Swaps.
 * [home-assistant/core](https://github.com/home-assistant/core): :house_with_garden: Open source home automation that puts local control and privacy first.
 * [Andereoo/Cortland](https://github.com/Andereoo/Cortland): A sleek, modern, macOS-inspired theme for Firefox
 * [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga): iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
