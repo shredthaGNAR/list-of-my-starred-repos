@@ -3028,7 +3028,7 @@
 * [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio): vCard is a fully responsive personal portfolio website, responsive for all devices.
 * [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp): Companion application for Video DownloadHelper browser add-on
 * [Vendicated/Vencord](https://github.com/Vendicated/Vencord): The cutest Discord modification
-* [Venqul/VenSur](https://github.com/Venqul/VenSur): 🎨 A refined Safari-style Firefox theme built from my original WhiteSur fork (v1.2.7) - now redesigned with dropdown fixes, icon improvements, and a sleeker UI experience.
+* [Venqul/VenSur](https://github.com/Venqul/VenSur): 🎨 A Safari-style Firefox theme with a sleek UI experience.
 * [missuo/vercel-raycast2api](https://github.com/missuo/vercel-raycast2api): Serverless Raycast2API on Vercel
 * [Pravpro/Vibn-Central](https://github.com/Pravpro/Vibn-Central): An app being built with the goal of making Product Uploading exponentially faster for Shopify stores with one-off products.
 * [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme): I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
