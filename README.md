@@ -2430,6 +2430,7 @@
 * [j-hc/rvmm-config-gen](https://github.com/j-hc/rvmm-config-gen): config generator for revanced-magisk-module
 * [inotia00/rvx-builder](https://github.com/inotia00/rvx-builder): A NodeJS ReVanced Extended builder
 * [darshanbaral/sada](https://github.com/darshanbaral/sada): Simple hugo theme for resume created using Tailwind CSS
+* [linuxscoop/safarifox-theme](https://github.com/linuxscoop/safarifox-theme): A Firefox theme look Like Safari Web Browser
 * [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox): Sidebar Always Loaded for Firefox
 * [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820): Unified kernel tree for S10 and Note10 devices
 * [NHClaessens/samsung_pass_converter](https://github.com/NHClaessens/samsung_pass_converter): None
