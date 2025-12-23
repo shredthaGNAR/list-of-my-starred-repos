@@ -1350,6 +1350,7 @@
 * [muhamaddarulhadi/Hotspot](https://github.com/muhamaddarulhadi/Hotspot):  :warning: For Educational Purposes Only :exclamation: Change hop limit on windows to bypass the hotspot from mobile provider to use other source of mobile data 
 * [IanLunn/Hover](https://github.com/IanLunn/Hover): A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 * [iShopifyExpert/How-To-Show-Percentage-Discount-Saved-on-Shopify](https://github.com/iShopifyExpert/How-To-Show-Percentage-Discount-Saved-on-Shopify): How To Show Percentage Discount Saved on Shopify
+* [gleitz/howdoi](https://github.com/gleitz/howdoi): instant coding answers via the command line
 * [MarufAlAslam/html-email-signature](https://github.com/MarufAlAslam/html-email-signature): This is a simple demo email signature, if you like my work and want to design your own email signature by me, you can buy my html-clickable-email-signature service on Fiverr. Link is in the below 👇
 * [notable/html2markdown](https://github.com/notable/html2markdown): A small function for converting HTML to Markdown.
 * [Alir3z4/html2text](https://github.com/Alir3z4/html2text): Convert HTML to Markdown-formatted text.
