@@ -1211,6 +1211,7 @@
 * [gorse-io/gitrec](https://github.com/gorse-io/gitrec): A recommender system for GitHub repositories based on Gorse
 * [to-ie/gitswitch](https://github.com/to-ie/gitswitch): This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis.  
 * [k0src/GitSync](https://github.com/k0src/GitSync): Sync Firefox windows, tabs, and tab groups via GitHub
+* [aritrakrbasu/gitty](https://github.com/aritrakrbasu/gitty): Gitty is a handy tool that will instantly transform your github account to a presentable portfolio website that you can share. 
 * [gitx/gitx](https://github.com/gitx/gitx): The best fork of the best lightweight, visual git client for macOS.
 * [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi): An unofficial client for the Google Keep API.
 * [chamburr/glance](https://github.com/chamburr/glance): 🔎 All-in-one Quick Look plugin
