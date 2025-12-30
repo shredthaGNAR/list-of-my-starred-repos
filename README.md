@@ -926,7 +926,7 @@
 * [ownaginatious/fbchat-archive-parser](https://github.com/ownaginatious/fbchat-archive-parser): An application for parsing chat history from a Facebook data archive.
 * [sharkdp/fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly alternative to 'find'
 * [feather-wallet/feather](https://github.com/feather-wallet/feather): A free and open-source Monero desktop wallet.
-* [kaushikgopal/ff-container-traffic-control](https://github.com/kaushikgopal/ff-container-traffic-control): Firefox addon (extension) that helps you define rules which will control which container a website opens in.
+* [kaushikgopal/ff-container-traffic-control](https://github.com/kaushikgopal/ff-container-traffic-control): Firefox addon (extension) that helps you define rules which will control which container a website opens in. Read more: https://kau.sh/blog/container-traffic-control/
 * [crestonbunch/ff-ctrl-e](https://github.com/crestonbunch/ff-ctrl-e): Ctrl+E shortcut for searching open tabs in Firefox
 * [B00ze64/FF-Menu-Icon-Plus-CSS](https://github.com/B00ze64/FF-Menu-Icon-Plus-CSS): Add icons to Firefox menus using userChrome/userContent.css
 * [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA): The Firefox theme with too many options.. FF Ultima.
