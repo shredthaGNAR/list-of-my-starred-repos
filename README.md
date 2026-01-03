@@ -2947,6 +2947,7 @@
 * [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter): Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 * [JustOff/ublock0-updater](https://github.com/JustOff/ublock0-updater): Keep uBlock Origin up to date using the latest XUL-compatible release from GitHub
 * [jeremyperkin/uBlockdark](https://github.com/jeremyperkin/uBlockdark): Dark theme for uBlock Origin
+* [knapah/uBlockOrigin-Filterlist](https://github.com/knapah/uBlockOrigin-Filterlist): None
 * [LanikSJ/ubo-filters](https://github.com/LanikSJ/ubo-filters): uBlock Origin Filters
 * [uBlockO/uBO-Filters](https://github.com/uBlockO/uBO-Filters): A filterlist with additional filters for uBlock Origin to block third-party, tracking, annoyances, anti-adblock, resource-abuse and all other unwarranted resources from loading.
 * [avotoko/ubo-resource](https://github.com/avotoko/ubo-resource): uBlock Origin Experimental Scriptlets Resource
