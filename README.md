@@ -2452,7 +2452,7 @@
 * [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension): 🦀 The ultimate search extension for Rust
 * [rvm/rvm](https://github.com/rvm/rvm): Ruby enVironment Manager (RVM)
 * [j-hc/rvmm-config-gen](https://github.com/j-hc/rvmm-config-gen): config generator for revanced-magisk-module
-* [krvstek/rvx-apks](https://github.com/krvstek/rvx-apks): 📦 ReVanced's pre-made APKs
+* [krvstek/rvx-apks](https://github.com/krvstek/rvx-apks): 📦 RVX's pre-made APKs
 * [inotia00/rvx-builder](https://github.com/inotia00/rvx-builder): A NodeJS ReVanced Extended builder
 * [darshanbaral/sada](https://github.com/darshanbaral/sada): Simple hugo theme for resume created using Tailwind CSS
 * [linuxscoop/safarifox-theme](https://github.com/linuxscoop/safarifox-theme): A Firefox theme look Like Safari Web Browser
