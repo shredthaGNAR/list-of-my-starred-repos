@@ -146,6 +146,7 @@
 * [Godiesc/AlpenBlue](https://github.com/Godiesc/AlpenBlue): Theme to blue lovers
 * [shredthaGNAR/AlpenBr0-firefox-theme](https://github.com/shredthaGNAR/AlpenBr0-firefox-theme): Alpenfox custom theme eith glowing gradient active tab and gradient to transparent hover plus other mods. Use with firefox alpenglow for look in pics or use default dark/light for transparent theme with cool look.
 * [marcel8121/alpenglow-thunderbird](https://github.com/marcel8121/alpenglow-thunderbird): The Firefox "Alpenglow" Theme for Thunderbird.
+* [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme): Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 * [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS 
 * [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos): AltTab - scriptable branch
 * [altstoreio/AltStore](https://github.com/altstoreio/AltStore): AltStore is an alternative app store for non-jailbroken iOS devices.
@@ -262,6 +263,7 @@
 * [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools): A curated list of 7766 awesome AI tools
 * [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search): List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
 * [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows): A curated list of awesome alfred workflows
+* [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms): A curated list of awesome places to learn and/or practice algorithms.
 * [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics): A curated list of analytics frameworks, software and other tools.
 * [devrsi0n/awesome-apple-notes](https://github.com/devrsi0n/awesome-apple-notes): A curated list of awesome websites, applications, tools, and shiny things for Apple Notes.
 * [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro): Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
@@ -379,6 +381,7 @@
 * [homelab-admin/bettertouchtool-mcp-server](https://github.com/homelab-admin/bettertouchtool-mcp-server): None
 * [SichangHe/BetterTouchTool-SLite-Preset](https://github.com/SichangHe/BetterTouchTool-SLite-Preset): SLite is a preset of BetterTouchTool inspired by GoldenChaos and many other presets. It is a light preset that is also neat. Try it and you'll know.
 * [opentizen/bettertouchtool_apple_script](https://github.com/opentizen/bettertouchtool_apple_script): BettertouchTool Used User for AppleScript
+* [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM): Enhancements for YT and YT Music
 * [seanpquig/betting-odds-analyzer](https://github.com/seanpquig/betting-odds-analyzer): Analyze sports betting based on historical statistics and current odds
 * [SingularityLabs-ai/beyond-bard-mini](https://github.com/SingularityLabs-ai/beyond-bard-mini): Aims to bring Google Bard to  every website. For Google, Bing, Youtube, Yahoo, Baidu, Brave, Kagi, Duckduckgo, Github, Yandex, NAVER, Nikkei there are custom prompts written to enhance the summary(or insights) experience. 
 * [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
@@ -938,6 +941,7 @@
 * [mcosta3tc/FFCSS](https://github.com/mcosta3tc/FFCSS): Custom FireFox CSS
 * [dylanaraps/fff](https://github.com/dylanaraps/fff): 📁 A simple file manager written in bash.
 * [bigxixi/ffmpeg-mp4-and-gif-mac-automator](https://github.com/bigxixi/ffmpeg-mp4-and-gif-mac-automator): None
+* [caydey/ffshare](https://github.com/caydey/ffshare): An android app to compress image, video and audio files through ffmpeg before sharing them
 * [withfig/fig](https://github.com/withfig/fig): Public issue tracker for Fig.
 * [mklement0/fileicon](https://github.com/mklement0/fileicon): macOS CLI for managing custom icons for files and folders
 * [RealRaven2000/FiltaQuilla](https://github.com/RealRaven2000/FiltaQuilla): Adds many new mail filter actions to Thunderbird
@@ -1201,6 +1205,7 @@
 * [skills/github-pages](https://github.com/skills/github-pages): Create a site or blog from your GitHub repositories with GitHub Pages.
 * [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator): 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 * [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator): 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
+* [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
 * [Shywim/github-repo-size](https://github.com/Shywim/github-repo-size): A Firefox addon showing the size of a Github repository.
 * [edgarjs/github-repos-alfred-workflow](https://github.com/edgarjs/github-repos-alfred-workflow): Alfred workflow to easily open GitHub repositories
 * [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List): Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
@@ -1235,6 +1240,7 @@
 * [langren1353/GM_script](https://github.com/langren1353/GM_script): 我就是来分享脚本玩玩的
 * [Ipetar69/Gmail-creator](https://github.com/Ipetar69/Gmail-creator): It will generate random credentials for a new Gmail account. It autostarts Firefox and it is autotyping, you don't have to do anything other than run the script.
 * [skarif2/gmail-signature](https://github.com/skarif2/gmail-signature): :rabbit: Most elegant looking Gmail Signature in the world :metal:
+* [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore): Free implementation of Play Services
 * [microg/GmsCore](https://github.com/microg/GmsCore): Free implementation of Play Services
 * [tumpio/gmscripts](https://github.com/tumpio/gmscripts): tumpio's usercripts
 * [savely-krasovsky/go-autoconfig](https://github.com/savely-krasovsky/go-autoconfig): IMAP/SMTP autodiscover feature for Thunderbird, Apple Mail and Microsoft Outlook
@@ -1300,6 +1306,7 @@
 * [arkenfox/gui](https://github.com/arkenfox/gui): A companion gui for arkenfox user.js
 * [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01): Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascript website this boilerplate is for you. 
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
+* [glomatico/gytmdl](https://github.com/glomatico/gytmdl): A command-line app for downloading YouTube Music songs with tags from YouTube Music.
 * [SirAlidadi/HackBar](https://github.com/SirAlidadi/HackBar): Hackbar Firefox Extension
 * [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData): Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 * [koo5/hackery2](https://github.com/koo5/hackery2): notes, scripts, utilities, dotfiles, experiments, toys..
@@ -1907,6 +1914,7 @@
 * [freaktechnik/notification-sounds](https://github.com/freaktechnik/notification-sounds): Makes a sound when a notification is shown
 * [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator): Trigger macOS notifications from Alfred, using the Workflow icon
 * [MDP43140/NoTrash-PureClean-YT](https://github.com/MDP43140/NoTrash-PureClean-YT): Makes YouTube Less trashy by removing distracting features, and trash videos
+* [nonbili/NouTube](https://github.com/nonbili/NouTube): YouTube and YouTube Music in a single app. No ads, plays in the background.
 * [npmhub/npmhub](https://github.com/npmhub/npmhub): 🔎 A browser extension to explore npm dependencies on GitHub repos
 * [MrOtherGuy/ntp_titler](https://github.com/MrOtherGuy/ntp_titler): Simple browser extension adding a window prefix to new tabs
 * [nukeop/nuclear](https://github.com/nukeop/nuclear): Streaming music player that finds free music for you
@@ -2404,6 +2412,7 @@
 * [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder): A NodeJS ReVanced builder
 * [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli): 💻 Command-line application to use ReVanced
 * [inotia00/revanced-cli](https://github.com/inotia00/revanced-cli): 💻 Command line application as an alternative to the ReVanced Manager
+* [j-hc/revanced-cli](https://github.com/j-hc/revanced-cli): 💻 Command line application as an alternative to the ReVanced Manager
 * [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator): Create Revanced apps easily ☠️
 * [ReVanced/revanced-documentation](https://github.com/ReVanced/revanced-documentation): 🗄 Collection of all ReVanced documentation
 * [inotia00/revanced-documentation](https://github.com/inotia00/revanced-documentation): 🗄 Documentation and guides for ReVanced Extended
@@ -2424,6 +2433,7 @@
 * [rahulkhatri137/revanced-yt-builder](https://github.com/rahulkhatri137/revanced-yt-builder): Build Revanced YouTube using GitHub actions
 * [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended): ReVanced Extended Issues/Request repo
 * [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A script to automatically build latest releases of ReVanced apps
+* [programminghoch10/ReVancedRepackaged](https://github.com/programminghoch10/ReVancedRepackaged): ReVanced, but patched locally.
 * [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed): ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
 * [chsbuffer/ReVancedXposed_Spotify](https://github.com/chsbuffer/ReVancedXposed_Spotify): None
 * [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT): None
@@ -2909,6 +2919,7 @@
 * [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api): Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
 * [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader): Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
 * [TheBeastLT/torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper): None
+* [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch): A Material 3 designed Android app for searching and downloading torrents from multiple providers.
 * [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator): Use the Touch Bar on any Mac
 * [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab): Switch apps with trackpad on macOS.
 * [GaffaSnobb/touchbar-crypto](https://github.com/GaffaSnobb/touchbar-crypto): Live update crypto prices on the Touch Bar.
@@ -2975,6 +2986,7 @@
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
 * [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater): Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 * [winder/Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender): A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.
+* [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager): 💊 An Android application to use ReVanced on that has extra features the official manager doesn't have
 * [gvinciguerra/unlister](https://github.com/gvinciguerra/unlister): 📬 Script for Mail on macOS that automatically unsubscribes from promotional emails and newsletters
 * [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension): Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 * [aahung/Unshaky](https://github.com/aahung/Unshaky): A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]
@@ -3164,6 +3176,7 @@
 * [aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork](https://github.com/aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork): None
 * [ATechnocratis/widefox](https://github.com/ATechnocratis/widefox): A wide screen friendly browser
 * [TDenisM/widevinedump](https://github.com/TDenisM/widevinedump): None
+* [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer): Android application to analyze Wi-Fi signals.
 * [selfish/window-merge-extension](https://github.com/selfish/window-merge-extension): Browser Addon/Extension to bring all open tabs into one window
 * [jonhac/Window-Saver](https://github.com/jonhac/Window-Saver): None
 * [sigoden/window-switcher](https://github.com/sigoden/window-switcher): Easily switch between windows of the same app with Alt+` (Backtick), also switch between apps with Alt+Tab.
@@ -3238,6 +3251,7 @@
 * [shailshouryya/yt-videos-list](https://github.com/shailshouryya/yt-videos-list): Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for YouTube videos list  updates.
 * [tyilo/yt_dlp_firefox](https://github.com/tyilo/yt_dlp_firefox): None
 * [ytb2mp3/ytb2mp3](https://github.com/ytb2mp3/ytb2mp3): Convert YouTube videos to mp3 files via the command-line
+* [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis): Full-featured audio/video downloader for Android using yt-dlp
 * [pystardust/ytfzf](https://github.com/pystardust/ytfzf): A posix script to find and watch youtube videos from the terminal. (Without API)
 * [Margiris/ytmdesktop](https://github.com/Margiris/ytmdesktop): NO LONGER UPDATED (see readme). A fork of https://github.com/ytmdesktop/ytmdesktop with added adblocker from https://github.com/cliqz-oss/adblocker.
 * [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): A Desktop App for YouTube Music
