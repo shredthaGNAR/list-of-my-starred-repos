@@ -981,7 +981,6 @@
 * [GrosBourrin/FIREFOX-BLUE-MOON](https://github.com/GrosBourrin/FIREFOX-BLUE-MOON): Firefox blueish & dark theme 
 * [tagler/firefox-bookmark-toolbar-dark-theme](https://github.com/tagler/firefox-bookmark-toolbar-dark-theme): Custom CSS file for Firefox bookmark toolbar dark theme, v92+ (mac)
 * [james-cube/firefox-bookmarks-merger](https://github.com/james-cube/firefox-bookmarks-merger): Tool for merging firefox bookmarks backups.
-* [uszie/firefox-breeze-theme](https://github.com/uszie/firefox-breeze-theme): A Breeze theme for Firefox🔥
 * [gabeweb/Firefox-Browser-Proton-Custom](https://github.com/gabeweb/Firefox-Browser-Proton-Custom): A custom userChrome.css for Firefox 86+ (February 2021). For personal purpose only. 
 * [anewuser/firefox-clean-dark-theme](https://github.com/anewuser/firefox-clean-dark-theme): Firefox dark theme with a less cluttered UI
 * [vallovic/firefox-colorize-container-toolbar](https://github.com/vallovic/firefox-colorize-container-toolbar): Firefox extension to automatically colorize browser toolbar by matching the color of the active container tab
