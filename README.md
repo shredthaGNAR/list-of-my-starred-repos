@@ -1796,7 +1796,7 @@
 * [duolingo/metasearch](https://github.com/duolingo/metasearch): Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 * [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 * [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
-* [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE): GmsCore fork for Morphe with Material 3 Expressive design and enhanced features
+* [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE): GmsCore fork for Morphe patched apps with Material 3 Expressive design and enhanced features
 * [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS): Installer & Activited Microsoft Office For MacOS
 * [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 * [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
