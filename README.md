@@ -2214,7 +2214,7 @@
 * [eight04/popup-tab](https://github.com/eight04/popup-tab): A Firefox addon, easily convert a tab into a popup and vice versa.
 * [Porco-Rosso/PorcoSpoon](https://github.com/Porco-Rosso/PorcoSpoon): My Versatile Hammerspoon Config
 * [Osnaider19/Portafolio](https://github.com/Osnaider19/Portafolio): Mi Portafolio
-* [Gothsec/Portfolio](https://github.com/Gothsec/Portfolio): Portfolio built with Astro, React, TypeScript and TailwindCSS.
+* [Gothsec/Portfolio](https://github.com/Gothsec/Portfolio): Portfolio template built with Astro, React, TypeScript and TailwindCSS.
 * [codewithsadee/portfolio](https://github.com/codewithsadee/portfolio): Fully responsive personal portfolio website
 * [iivvaannxx/portfolio](https://github.com/iivvaannxx/portfolio): ✨ The first iteration of my personal website. Made using Astro, React and Svelte.
 * [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio): My self coded personal website build with React.js
