@@ -1374,6 +1374,7 @@
 * [craftsmandigital/hugo-get-pocket](https://github.com/craftsmandigital/hugo-get-pocket): This is a Hugo project that view bookmars from my get-pocket app. Using get-pocket api to generate json to use in website.
 * [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod):  A fast, clean, responsive Hugo theme.
 * [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile): A highly customizable and mobile first Hugo template for personal portfolio and blog.
+* [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv): 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 * [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack): Card-style Hugo theme designed for bloggers
 * [spaghettiwews/hugonews](https://github.com/spaghettiwews/hugonews): hugo theme (based on https://news.ycombinator.com) for https://bookmarks.wews.co.zw
 * [hunspell/hunspell](https://github.com/hunspell/hunspell): The most popular spellchecking library.
@@ -2853,7 +2854,6 @@
 * [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection): The ultimate collection of scripts for YouTube-DL.
 * [laramies/theHarvester](https://github.com/laramies/theHarvester): E-mails, subdomains and names Harvester - OSINT 
 * [drsjb80/thematic](https://github.com/drsjb80/thematic): Now the official repo for the FF/TB Thematic extension.
-* [HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv): 🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.
 * [saadeghi/theme-change](https://github.com/saadeghi/theme-change): Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage
 * [Shopify/theme-check](https://github.com/Shopify/theme-check): The Ultimate Shopify Theme Linter
 * [microsoft/theme-converter-for-vs](https://github.com/microsoft/theme-converter-for-vs): CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme.
