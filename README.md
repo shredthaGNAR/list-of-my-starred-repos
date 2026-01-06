@@ -1901,7 +1901,7 @@
 * [Bellisario/node-snapdrop](https://github.com/Bellisario/node-snapdrop): Node.js version of the original Snapdrop
 * [nodegui/nodegui](https://github.com/nodegui/nodegui): A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 * [lencx/nofwl](https://github.com/lencx/nofwl): NoFWL Desktop Application
-* [lencx/Noi](https://github.com/lencx/Noi): 🚀 Power Your World with AI - Explore, Extend, Empower.
+* [lencx/Noi](https://github.com/lencx/Noi): 🚀 Less chaos. More flow.
 * [speedball2001/nompsort-mx](https://github.com/speedball2001/nompsort-mx): A mailextension for Thunderbird that prevents accidental message sorting.
 * [dynobo/normcap](https://github.com/dynobo/normcap): OCR powered screen-capture tool to capture information instead of images
 * [opto/nostalgy-xpi](https://github.com/opto/nostalgy-xpi): nostalgy addon updated for Thunderbird 68 and now Thunderbird 78 - 115. Original code  by Alain Frisch.
