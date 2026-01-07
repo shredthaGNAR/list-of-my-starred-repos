@@ -2422,6 +2422,7 @@
 * [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module): Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 * [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager): 💊 Application to use ReVanced on Android 
 * [inotia00/revanced-manager](https://github.com/inotia00/revanced-manager): 💊 Application to use ReVanced on Android 
+* [brosssh/revanced-manager-downloaders](https://github.com/brosssh/revanced-manager-downloaders): 🔌 ReVanced Manager downloaders
 * [peternmuller/revanced-morphe-builder](https://github.com/peternmuller/revanced-morphe-builder): An APK and Magisk/KernelSU module builder for RV/RVX/Morphe apps. Updated hourly.
 * [luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot): Build Revanced apps
 * [Jman-Github/ReVanced-Patch-Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles): Automatically aggregates alternative ReVanced patch and integration repositories into JSON files to import into the ReVanced Manager Compose.
