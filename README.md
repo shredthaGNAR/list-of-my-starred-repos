@@ -2485,7 +2485,7 @@
 * [iyulaev/scratcherCalc](https://github.com/iyulaev/scratcherCalc): Android app that can be used to screen CA lottery scratcher tickets based on expected value, jackpot likelihood, and to screen out tickets with the majority or all of the jackpots claimed
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [hotchemi/Scre](https://github.com/hotchemi/Scre): A lightweight screen recorder macOS application written in SwiftUI.
-* [SamuelZ12/screen-scribe](https://github.com/SamuelZ12/screen-scribe): macOS app for screen-to-text OCR
+* [SamuelZ12/screen-scribe](https://github.com/SamuelZ12/screen-scribe): macOS app for screen-to-text OCR (Markdown, LaTeX, etc.)
 * [steventheworker/screenhook](https://github.com/steventheworker/screenhook): Background app to make up for BetterTouchTool's limitations. (eg: Run applescript on click (w/o modifier keys) or when connecting a display)
 * [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity): The free and privacy-friendly screen recorder with no limits 🎥
 * [duyquoc/ScreenToLayers](https://github.com/duyquoc/ScreenToLayers): macOS app to capture your screen as a layered PSD file
