@@ -1719,7 +1719,7 @@
 * [macports/macports-base](https://github.com/macports/macports-base): The MacPorts command-line client
 * [sevagas/macro_pack](https://github.com/sevagas/macro_pack): macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. The goal of macro_pack is to simplify exploitation, antimalware bypass, and automatize the process from malicious macro and script generation to final document generation. It also provides a lot of helpful features useful for redteam or security research. 
 * [fharper/macsetup](https://github.com/fharper/macsetup): Scripts to setup my mac
-* [Pilaton/MacSync](https://github.com/Pilaton/MacSync): Easy sync for macOS. Dotfiles, folders, configurations, etc.
+* [Pilaton/MacSync](https://github.com/Pilaton/MacSync): CLI tool to sync dotfiles, configurations, and folders across multiple Macs using your favorite cloud storage (Dropbox, iCloud, etc.).
 * [macvim-dev/macvim](https://github.com/macvim-dev/macvim): Vim - the text editor - for macOS
 * [section83/MacYTDL](https://github.com/section83/MacYTDL): A macOS GUI front-end for the YT-DLP video downloader
 * [madari-media/madari-oss](https://github.com/madari-media/madari-oss): Open source media manager
