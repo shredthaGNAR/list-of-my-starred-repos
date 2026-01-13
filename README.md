@@ -612,6 +612,7 @@
 * [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks, Snippets and Notes Manager for Developers & Co (website)
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
+* [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
 * [coinpaprika/coinpaprika-api-swift-client](https://github.com/coinpaprika/coinpaprika-api-swift-client): This library provides convenient way to use Coinpaprika.com API in Swift.
 * [jmenichole/CollectClock](https://github.com/jmenichole/CollectClock): This project aims to streamline the bonus collection process and create an efficient system for timing multiple casino collections.
 * [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets): This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
@@ -1329,6 +1330,7 @@
 * [poker-apprentice/hand-history-parser](https://github.com/poker-apprentice/hand-history-parser): Parse hand histories from online poker sites
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's development repository 
 * [jgressmann/harbour-vodman](https://github.com/jgressmann/harbour-vodman): Vodman lets you download videos (VODs) from the internet to your SailfishOS device
+* [jgressmann/harbour-vodman](https://github.com/jgressmann/harbour-vodman): Vodman lets you download videos (VODs) from the internet to your SailfishOS device
 * [claytonjn/hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting): Circadian Lighting custom component for Home Assistant
 * [yangqian/hass-gelight](https://github.com/yangqian/hass-gelight): Home assistant custom component to control C by GE smart light bulb locally via Bluetooth
 * [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle): Logi Circle Home Assistant component
@@ -1663,6 +1665,7 @@
 * [ParisNeo/lollms_legacy](https://github.com/ParisNeo/lollms_legacy): Lord of LLMS
 * [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
 * [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
+* [kmccartney24la/lottosmartpicker-gcp](https://github.com/kmccartney24la/lottosmartpicker-gcp): None
 * [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks): 💚 🍴 Show notable forks of GitHub repositories under their names.
 * [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed): LSPosed Framework
 * [objective-see/LuLu](https://github.com/objective-see/LuLu): LuLu is the free open-source macOS firewall
@@ -2496,6 +2499,7 @@
 * [Phisteven/scraping-bets](https://github.com/Phisteven/scraping-bets): Experiments with web srcaping from sports betting websites
 * [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard): Bookmark heavy lifting
 * [iyulaev/scratcherCalc](https://github.com/iyulaev/scratcherCalc): Android app that can be used to screen CA lottery scratcher tickets based on expected value, jackpot likelihood, and to screen out tickets with the majority or all of the jackpots claimed
+* [ivan-shires/ScratchOffBot](https://github.com/ivan-shires/ScratchOffBot): This is a bot integrated with the Twitter API to automatically report publically available metrics about the North Carolina Education Lottery. Currently - I only plan on using the Scratch Off portion, although there is a possibility of adding an algorithm for Pick 3's - specifically targeted at my favorite gamemode, One-Off.
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy): Display and control your Android device
 * [hotchemi/Scre](https://github.com/hotchemi/Scre): A lightweight screen recorder macOS application written in SwiftUI.
 * [SamuelZ12/screen-scribe](https://github.com/SamuelZ12/screen-scribe): macOS app for screen-to-text OCR (Markdown, LaTeX, etc.)
