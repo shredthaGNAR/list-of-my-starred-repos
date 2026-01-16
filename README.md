@@ -3003,6 +3003,7 @@
 * [dupontjoy/UCScriptsCollections](https://github.com/dupontjoy/UCScriptsCollections): UC scripts collections, include UC scripts I don't use for now and UC scripts collected from others' sharing. Just for me to find them easily in the future.
 * [youneslaaroussi/ui-buttons](https://github.com/youneslaaroussi/ui-buttons): 100 Modern CSS Buttons. Every style that you can imagine.
 * [web-ext-labs/ui-tool](https://github.com/web-ext-labs/ui-tool): UI for create-web-ext
+* [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome): Every awesome list on every topic, including awesome lists of awesome lists, updated daily.
 * [DeweyReed/UltimateRingtonePicker](https://github.com/DeweyReed/UltimateRingtonePicker): An Android music picker library for picking alarm, notification or ringtones sound using an Activity or a dialog.
 * [Swift-open-source/UltraTabSaver](https://github.com/Swift-open-source/UltraTabSaver): The open source Tab Manager Extension for Safari.
 * [gorhill/uMatrix](https://github.com/gorhill/uMatrix): uMatrix: Point and click matrix to filter net requests according to source, destination and type
