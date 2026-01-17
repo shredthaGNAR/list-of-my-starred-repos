@@ -1785,6 +1785,7 @@
 * [ryosama/mbox_spliter](https://github.com/ryosama/mbox_spliter): Split large mbox files (from hunderbird) into smaller one, class by year of the message
 * [olivierodo/MBP-BTT-activity-monitor-touchbar](https://github.com/olivierodo/MBP-BTT-activity-monitor-touchbar):  Activity monitor toolbar widget for the Macbook Pro
 * [olivierodo/MBP-BTT-spotify-touchbar](https://github.com/olivierodo/MBP-BTT-spotify-touchbar):  Spotify touchbar widget for Macbook touchbar
+* [nikivdev/mbt](https://github.com/nikivdev/mbt): MoonBit tools, libraries and other code
 * [alienator88/McBrew](https://github.com/alienator88/McBrew): A fast GUI for Homebrew written in SwiftUI
 * [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant): Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...
 * [QuanBlue/mearn-portfolio](https://github.com/QuanBlue/mearn-portfolio): My first portfolio website, using MERN stack
@@ -2802,7 +2803,6 @@
 * [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula): Sweet Dracula — A beautiful, darker - Dracula fork.
 * [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop): Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
 * [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai): 🎨 Sweet Dracula + Monokai syntax highlighting for VS Code
-* [nikivdev/swift](https://github.com/nikivdev/swift): Swift tools, libraries and other code
 * [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search): Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 * [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar): Powerful macOS menu bar customization tool
 * [Lord-Kamina/SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps): Replacement for RCDefaultApps, written in Swift.
