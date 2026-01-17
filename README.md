@@ -109,7 +109,6 @@
 * [BenjaminOddou/alfred-folderify](https://github.com/BenjaminOddou/alfred-folderify): 📁 Generate pixel-perfect macOS folder icons
 * [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow): GitHub Workflow for Alfred
 * [aviaryan/alfred-last2imgur](https://github.com/aviaryan/alfred-last2imgur): Alfred workflow to upload the last screenshot taken to Imgur + (delete and minify image)
-* [nikivdev/alfred-my-mind](https://github.com/nikivdev/alfred-my-mind): Alfred workflow to search through my notes and bookmarks
 * [kostyafarber/alfred-notable-workflow](https://github.com/kostyafarber/alfred-notable-workflow): Search, open and make notes from Alfred 5 in Notable 📓
 * [nicooprat/alfred-ocr](https://github.com/nicooprat/alfred-ocr): Take a snapshot and recognize text
 * [otherguy/alfred-passwords-workflow](https://github.com/otherguy/alfred-passwords-workflow): An Alfred 4 workflow that allows you to quickly generate strong passwords.
@@ -2803,6 +2802,7 @@
 * [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula): Sweet Dracula — A beautiful, darker - Dracula fork.
 * [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop): Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
 * [LEFD/sweetdracula-monokai](https://github.com/LEFD/sweetdracula-monokai): 🎨 Sweet Dracula + Monokai syntax highlighting for VS Code
+* [nikivdev/swift](https://github.com/nikivdev/swift): Alfred workflow to search through my notes and bookmarks
 * [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search): Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 * [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar): Powerful macOS menu bar customization tool
 * [Lord-Kamina/SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps): Replacement for RCDefaultApps, written in Swift.
