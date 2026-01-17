@@ -1814,6 +1814,7 @@
 * [glaurent/MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser): a macOS/OSX app to comfortably browse and search through your Messages.app history.
 * [slimcandy/MetaCleaner](https://github.com/slimcandy/MetaCleaner): Remove metadata from your images online.
 * [duolingo/metasearch](https://github.com/duolingo/metasearch): Search aggregator for Slack, Google Docs, GitHub, and more :mag:
+* [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist): YouTube Music client for Android
 * [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 * [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
 * [MikeFighting/MFSractchView](https://github.com/MikeFighting/MFSractchView): The tool used for scratch lottery. 
