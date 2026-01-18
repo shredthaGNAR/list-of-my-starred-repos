@@ -3254,7 +3254,7 @@
 * [mattDavo/Yippy](https://github.com/mattDavo/Yippy): macOS open source clipboard manager
 * [purocean/yn](https://github.com/purocean/yn): A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
 * [soimort/you-get](https://github.com/soimort/you-get): :arrow_double_down: Dumb downloader that scrapes the web
-* [code-charity/youtube](https://github.com/code-charity/youtube): Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
+* [code-charity/youtube](https://github.com/code-charity/youtube): Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
 * [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions): This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 * [Jeeaaasus/youtube-dl](https://github.com/Jeeaaasus/youtube-dl): Automated yt-dlp Docker image
 * [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
