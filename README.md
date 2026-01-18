@@ -2528,7 +2528,7 @@
 * [dfiiroz/scss-to-css](https://github.com/dfiiroz/scss-to-css): Now, This is Shopify Online Store 2.0. The importance of CSS is undeniable and Shopify Deprecated the SCSS support. I have converted the gift-card.sccs & theme.scss files to gift-card.css and theme.css files.
 * [neilalexander/seaglass](https://github.com/neilalexander/seaglass): A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 * [rominirani/Search-A-Profile](https://github.com/rominirani/Search-A-Profile): A Google Talk Bot that gives you details about a person from various Social Networks given an email address. Powered by Get Contact API
-* [Fannon/search-bookmarks-history-and-tabs](https://github.com/Fannon/search-bookmarks-history-and-tabs): Browser extension to search and navigate browser tabs, local bookmarks and history.
+* [Fannon/search-bookmarks-history-and-tabs](https://github.com/Fannon/search-bookmarks-history-and-tabs): Browser extension to search bookmarks, history and tabs. Supports tagging and fuzzy search.
 * [dessant/search-by-image](https://github.com/dessant/search-by-image): Browser extension for reverse image search, available for Chrome, Edge and Safari
 * [rakib86/Search-Engine-2.0](https://github.com/rakib86/Search-Engine-2.0): None
 * [YoshifumiFuyuno/Search-from-Popup-or-ContextMenu](https://github.com/YoshifumiFuyuno/Search-from-Popup-or-ContextMenu): WebExtension
