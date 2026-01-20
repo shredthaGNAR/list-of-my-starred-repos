@@ -1793,7 +1793,7 @@
 * [lightward/mechanic-tasks](https://github.com/lightward/mechanic-tasks): Public task repository for Mechanic (https://mechanic.dev)
 * [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader): Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 * [tillig/mediacenter](https://github.com/tillig/mediacenter): Documentation/info on my media center setup.
-* [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy): A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption.
+* [mhdzumair/mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy): A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decryption, acestream, xtreamcode proxy
 * [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo): Convenient unified display of the most relevant technical and tag data for video and audio files.
 * [sbarex/MediaInfo](https://github.com/sbarex/MediaInfo): MacOS Finder Extension to show information about media files (images, video and audio), PDF and Office files on the contextual menu. 
 * [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
