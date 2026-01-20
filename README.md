@@ -1932,6 +1932,7 @@
 * [notable/notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
 * [notable/notable-customizations](https://github.com/notable/notable-customizations): A repository containing a collection of interesting community-created customizations for Notable.
 * [notable/notable-insiders](https://github.com/notable/notable-insiders): A repository containing experimental releases of Notable.
+* [mozilla/notes](https://github.com/mozilla/notes): DEPRECATED - A notepad for Firefox
 * [nuttyartist/notes](https://github.com/nuttyartist/notes): Fast and beautiful note-taking app written in C++. Write down your thoughts.
 * [adamyi/notes_to_keep](https://github.com/adamyi/notes_to_keep): Export all your Apple iCloud Notes to your Google Keep.
 * [andersrex/notesollama](https://github.com/andersrex/notesollama): Use Ollama to talk to local LLMs in Apple Notes
