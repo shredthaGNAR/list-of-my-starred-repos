@@ -4481,9 +4481,6 @@
     "facebookresearch/faiss": [
         "Other"
     ],
-    "falconthemeco/ks-bootshop": [
-        "Other"
-    ],
     "fanfare/googleimagesrestored": [
         "Other"
     ],
@@ -5937,6 +5934,9 @@
         "Other"
     ],
     "koalaman/shellcheck": [
+        "Other"
+    ],
+    "kondasoft/ks-bootshop": [
         "Other"
     ],
     "koo5/hackery2": [
