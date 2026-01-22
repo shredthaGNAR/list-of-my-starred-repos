@@ -2065,7 +2065,7 @@
 * [ajaybhatia/Operator-Mono](https://github.com/ajaybhatia/Operator-Mono): Operator Mono Font
 * [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig): Add ligatures to Operator Mono similar to Fira Code
 * [sujon-co/operator-mono-ligature](https://github.com/sujon-co/operator-mono-ligature):  Operator Mono ligatures build file
-* [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch): OptiSearch ｜ Copilot in Google ｜ Gemini next to Google results
+* [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch): OptiSearch ｜ AI answer in Google
 * [kmillionary/order-printer-templates](https://github.com/kmillionary/order-printer-templates): Customize free Shopify Order Printer templates.
 * [loveshopify/orium](https://github.com/loveshopify/orium): None
 * [shredthaGNAR/OS-Folder-Icons](https://github.com/shredthaGNAR/OS-Folder-Icons): A collection of custom folder icons for (Mac, Linux and Windows)
