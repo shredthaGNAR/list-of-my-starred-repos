@@ -2110,7 +2110,7 @@
 * [shash007/People-Search-on-Social-Networks-using-Face-Recognition](https://github.com/shash007/People-Search-on-Social-Networks-using-Face-Recognition): Searching people on social networking sites using Face Recognition
 * [preetmodh/PeopleConnect](https://github.com/preetmodh/PeopleConnect): A Social Media Web application made using the Django rest framework (for API endpoints) and reactjs where users can chat in real-time(using channels and signals), post their updates, like, comment and view other users’ posts & profiles, search users & follow-unfollow them and get notified about activities on their profile.
 * [ChanChunCheong/PeopleSearch](https://github.com/ChanChunCheong/PeopleSearch): DSO Summer Internship-People Search Aggregator web application which use data analytics and artificial intelligence libraries, to simultaneously search social media profiles from various platforms, processes, and then rank the search results based on name, location, keywords and image matching
-* [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
+* [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): Perplexica is an AI-powered answering engine.
 * [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis): Persepolis is a download manager written in Python.
 * [ivansaul/personal-portfolio](https://github.com/ivansaul/personal-portfolio): Fully responsive personal  portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 * [juyomay21/personal-site](https://github.com/juyomay21/personal-site): My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.
@@ -2483,7 +2483,6 @@
 * [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension): 🦀 The ultimate search extension for Rust
 * [rvm/rvm](https://github.com/rvm/rvm): Ruby enVironment Manager (RVM)
 * [j-hc/rvmm-config-gen](https://github.com/j-hc/rvmm-config-gen): config generator for revanced-magisk-module
-* [krvstek/rvx-apks](https://github.com/krvstek/rvx-apks): 📦 Pre-built APKs for Morphe, RVX & Piko
 * [inotia00/rvx-builder](https://github.com/inotia00/rvx-builder): A NodeJS ReVanced Extended builder
 * [darshanbaral/sada](https://github.com/darshanbaral/sada): Simple hugo theme for resume created using Tailwind CSS
 * [linuxscoop/safarifox-theme](https://github.com/linuxscoop/safarifox-theme): A Firefox theme look Like Safari Web Browser
@@ -3021,6 +3020,7 @@
 * [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu): Firefox webextension to add an undo closed tabs menu to tabs.
 * [p1usminus/undoclosetabreplacement](https://github.com/p1usminus/undoclosetabreplacement): Updated for FF78+
 * [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit): The easiest way to use git. On any platform. Anywhere.
+* [krvstek/uni-apks](https://github.com/krvstek/uni-apks): 📦 Pre-built APKs for Morphe & Piko
 * [stuartread7/Unibet-Scraper](https://github.com/stuartread7/Unibet-Scraper): Script to extract the implied probabilities of all outcomes listed in the live-betting section of unibet.com.  The script has applications in sports gambling arbitrage and for building live alert tools.
 * [npease18/Unichat-Firefox-Extension](https://github.com/npease18/Unichat-Firefox-Extension): The repo for the firefox port of the Unichat Chrome Extension
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
