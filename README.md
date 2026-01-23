@@ -1960,7 +1960,7 @@
 * [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git): Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 * [nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin): This is a plugin for Obsidian (https://obsidian.md). Can open document with .html and .htm file extensions.
 * [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin): A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons.
-* [Elhary/Obsidian-NetClip](https://github.com/Elhary/Obsidian-NetClip): this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
+* [elhariss/Obsidian-NetClip](https://github.com/elhariss/Obsidian-NetClip): this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
 * [chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar): Create flexible, context-aware toolbars for your notes with this plugin for Obsidian.
 * [Jacobinwwey/obsidian-NotEMD](https://github.com/Jacobinwwey/obsidian-NotEMD): A Easy way to create your own Knowledge-base! Notemd enhances your Obsidian workflow by integrating with various Large Language Models (LLMs) to process your notes, automatically generate wiki-links for key concepts, create corresponding concept notes, perform web research, and more.
 * [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama): None
