@@ -3108,7 +3108,7 @@
 * [rubjo/victor-mono](https://github.com/rubjo/victor-mono): A free programming font with cursive italics and ligatures. Donations welcome ❤️
 * [jeanslack/Videomass](https://github.com/jeanslack/Videomass): Videomass is a free, open source and cross-platform GUI for FFmpeg
 * [fruiz500/VideoSkip-extension](https://github.com/fruiz500/VideoSkip-extension): Same as VideoSkip, but as a Chrome/Firefox/Edge extension so it can edit videos streaming from many sources
-* [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss): Vienna is a free and open-source RSS/Atom newsreader for macOS.
+* [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss): Vienna is a free and open-source RSS/Atom/JSON feed newsreader for macOS.
 * [plwt/View-Pocket-List](https://github.com/plwt/View-Pocket-List): None
 * [bijij/ViewImage](https://github.com/bijij/ViewImage): Extension to re-implement the "View Image" and "Search by image" buttons into google images.
 * [FunkyMuse/Vigilante](https://github.com/FunkyMuse/Vigilante): 🛡️ Android security (camera/microphone dots indicators) app using Hilt, Animations, Coroutines, Material, StateFlow, Jetpack (Room, ViewModel, Paging, Security, Biometrics, Start-up) based on MVVM architecture.
