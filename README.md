@@ -452,6 +452,7 @@
 * [dvdn/bookmarks-reader](https://github.com/dvdn/bookmarks-reader): Display all your bookmarks files on a webpage
 * [shredthaGNAR/bookmarks2git](https://github.com/shredthaGNAR/bookmarks2git): None
 * [mabdelaal86/bookmarks_gkeep](https://github.com/mabdelaal86/bookmarks_gkeep): Copy bookmarks from Google Keep into Pocket/Instapaper
+* [lrq3000/BookmarkSummarizer](https://github.com/lrq3000/BookmarkSummarizer): 🧠 Turn your browsers' bookmarks into a personal knowledge base with AI summaries. Supports OpenAI, Deepseek, Qwen, and Ollama.
 * [frederikb/bookmarksync](https://github.com/frederikb/bookmarksync): Synchronize your browser bookmarks from a GitHub repository
 * [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme): A responsive Shopify theme using Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, and Webpack for flexibility.
 * [dreadnaut/bordercolors-d](https://github.com/dreadnaut/bordercolors-d): A Thunderbird add-on to color-code the compose window based on the selected identity.
@@ -557,6 +558,7 @@
 * [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
 * [swyxio/chatgpt-mac](https://github.com/swyxio/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 * [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
+* [adamlui/chatgpt-omnibox](https://github.com/adamlui/chatgpt-omnibox): https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
 * [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts): ChatGPT and Bing AI prompt curation
 * [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast): ChatGPT raycast extension
 * [josStorer/chatGPT-search-engine-extension](https://github.com/josStorer/chatGPT-search-engine-extension): A browser extension to display ChatGPT response alongside Search Engine results
@@ -836,12 +838,14 @@
 * [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
 * [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 * [JosephAlton/duckemail](https://github.com/JosephAlton/duckemail): RayCast extension ( TypeScript, React, Raycast API with useContext .etc )
+* [hake12345/DumpChromeSecrets](https://github.com/hake12345/DumpChromeSecrets): 🔍 Extract sensitive data from modern Chrome versions, including credentials, cookies, and browsing history, for improved security management.
 * [notable/dumper](https://github.com/notable/dumper): Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 * [fmhy/dupe-checker](https://github.com/fmhy/dupe-checker): A simple, fast tool to compare links against the FMHY wiki, and display their redirect chains.
 * [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru): Find duplicate files
 * [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer): Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
 * [powerwolf543/DuplicateFinder](https://github.com/powerwolf543/DuplicateFinder): Duplicate Finder is a macOS application that is written by Swift. It's a useful tool that would help you find all duplicate files with the same names in the specific folder.
 * [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely encrypted backups in the cloud!
+* [floracheng/dusty-tabs](https://github.com/floracheng/dusty-tabs): Firefox tab management extension
 * [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper): A simple bash script to set wallpapers according to current time, using cron job scheduler.
 * [kush-agra/Dynamic_Walls](https://github.com/kush-agra/Dynamic_Walls): Replicating macOS Mojave's dynamic wallpaper feature
 * [plumk97/DynamicWallpaper](https://github.com/plumk97/DynamicWallpaper): Mac dynamic wallpaper program
@@ -852,6 +856,7 @@
 * [bmFtZQ/edge-frfox](https://github.com/bmFtZQ/edge-frfox): A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
 * [23Bluemaster23/EdgeFox](https://github.com/23Bluemaster23/EdgeFox): Is a userchrome that imitates (or attempts to imitate) the style of Microsoft's Edge Chromiun browser. is a project in development./Es un userchrome que imita (o intenta imitar) el estilo del navegador Edge Chromiun de Microsoft. es un proyecto en desarrollo.
 * [Loskir/EdgyArc-fr](https://github.com/Loskir/EdgyArc-fr): Firefox Userchrome and sidebery style
+* [fmhy/edit](https://github.com/fmhy/edit): Make changes to FMHY
 * [cleidigh/EditEmailSubject-MX](https://github.com/cleidigh/EditEmailSubject-MX): Conversion exercise for Thunderbird MailExtensions
 * [a-bentofreire/editortoix](https://github.com/a-bentofreire/editortoix): Text utilities for multiple code editors 
 * [codewizard13/ehw-app-scrape-onetab-links](https://github.com/codewizard13/ehw-app-scrape-onetab-links): Scrape OneTab links and produce HTML that can be saved for backup
@@ -883,6 +888,7 @@
 * [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles): macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
 * [hrai/english-popup-thesaurus](https://github.com/hrai/english-popup-thesaurus): Thesaurus firefox add-on.
 * [babarot/enhancd](https://github.com/babarot/enhancd): :rocket: A next-generation cd command with your interactive filter
+* [aheimowitz/ente-auth-extension](https://github.com/aheimowitz/ente-auth-extension): Unofficial browser extension for Ente Auth - secure 2FA autofill for Chrome and Firefox
 * [andreyvit/env](https://github.com/andreyvit/env): None
 * [iptv-org/epg](https://github.com/iptv-org/epg): Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 * [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk): Welcome to EPG Talk, your go-to repository for an extensive Electronic Program Guide (EPG) covering a diverse range of television channels from the United States, Canada, United Kingdom, and Mexico. This project aims to simplify your TV viewing experience by providing accurate and up-to-date schedules, ensuring you never miss your favorite shows.
@@ -912,6 +918,7 @@
 * [mkaply/extended_color_management](https://github.com/mkaply/extended_color_management): None
 * [Pocket/extension-save-to-pocket](https://github.com/Pocket/extension-save-to-pocket): Save to Pocket is a browser extension that is used to save pages to a connected Pocket account
 * [namuorg/extension-starter-kit](https://github.com/namuorg/extension-starter-kit): Starter kit for building Chrome/Firefox extensions
+* [mozilla/extension-workshop](https://github.com/mozilla/extension-workshop): Firefox Extension Workshop
 * [extension-js/extension.js](https://github.com/extension-js/extension.js): 🧩 The cross-browser extension framework
 * [chrismessina/extensions](https://github.com/chrismessina/extensions): Everything you need to extend Raycast.
 * [raycast/extensions](https://github.com/raycast/extensions): Everything you need to extend Raycast.
@@ -1016,6 +1023,7 @@
 * [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx): Opera GX Skin for Firefox
 * [Ulf3000/Firefox-Highlight-Tabs](https://github.com/Ulf3000/Firefox-Highlight-Tabs): firefox addon to highlight tabs with colors for easy and fast recognition and fluid workflow
 * [SophieFitz/Firefox-History-Combiner](https://github.com/SophieFitz/Firefox-History-Combiner): 🚀 A blazing fast and efficient tool with GUI to combine multiple Firefox history databases together!
+* [nicolasspaniol/firefox-invert-dark-favicons](https://github.com/nicolasspaniol/firefox-invert-dark-favicons): Firefox addon that inverts the colors of dark favicons so that they are visible under black backgrounds
 * [pratyushtewari/firefox-like-chrome](https://github.com/pratyushtewari/firefox-like-chrome): This is the userChrome.css that can be used to theme Firfox Quantum 59.0 to look like chrome
 * [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-): Light theme on Firefox 
 * [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar): macOS Native-looking Translucent Tabbar for Firefox
@@ -1026,6 +1034,7 @@
 * [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods): Firefox CSS and JS Mods
 * [christiet/firefox-obsidian-bookmark](https://github.com/christiet/firefox-obsidian-bookmark): Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
 * [patrikzudel/firefox-obsidian-bookmark](https://github.com/patrikzudel/firefox-obsidian-bookmark): Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
+* [KaanCanINC/firefox-OCR-extension](https://github.com/KaanCanINC/firefox-OCR-extension): Firefox OCR extension made with fully AI for personal usage
 * [SebastianSimon/firefox-omni-tweaks](https://github.com/SebastianSimon/firefox-omni-tweaks): A script that disables the clickSelectsAll behavior of Firefox, and more.
 * [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one): Firefox Theme for Opera One skin Lovers 
 * [nathandaven/firefox-paradise-theme](https://github.com/nathandaven/firefox-paradise-theme): My custom Firefox userChrome profile, setup with right handed vertical tabs, compact layout, and MacOS/Paradise theming. Also works on Windows!
@@ -1055,6 +1064,7 @@
 * [chronakis/firefox-sticky-window-containers](https://github.com/chronakis/firefox-sticky-window-containers): Firefox extention to make the current container "sticky" when opening a new tab
 * [SpitFire-666/Firefox-Stuff](https://github.com/SpitFire-666/Firefox-Stuff): Firefox info, addons, extensions, themes, customisation and stuff
 * [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme): :candy: A dark and modern theme for firefox with vibrant colors
+* [0xAwoL/firefox-tabs-clipboard-saver](https://github.com/0xAwoL/firefox-tabs-clipboard-saver): Super simple firefox add-on
 * [UserNombre/firefox-tag-search](https://github.com/UserNombre/firefox-tag-search): Add a bookmark tag search sidebar to Firefox
 * [BloodyHell619/Firefox-Theme-DarkMatter](https://github.com/BloodyHell619/Firefox-Theme-DarkMatter): None
 * [dazecoop/firefox-theme-macos-vibrant](https://github.com/dazecoop/firefox-theme-macos-vibrant): None
@@ -2897,6 +2907,7 @@
 * [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui): The definitive Web UI for local AI, with powerful features and easy setup.
 * [piroor/textlink](https://github.com/piroor/textlink): Text Link, Allows URI texts written in webpages to be loaded by double clicks.
 * [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
+* [de1etenu11ptr/TGS-Extension](https://github.com/de1etenu11ptr/TGS-Extension): Tab Group Saver (TGS) Extension for firefox that mainly utilizes the bookmarks API to allow for reliable persistence of tab groups.
 * [passthesh3ll/The-Pika-s-OSINT-ToolBox](https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox): A curated list of free OSINT tools ⚡️
 * [balvin-perrie/the-pirate-bay-torrent-search](https://github.com/balvin-perrie/the-pirate-bay-torrent-search): A browser extension to search for magnet links from The Pirate Bay directly from a popup toolbar
 * [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
@@ -2947,6 +2958,7 @@
 * [networkException/thundersort](https://github.com/networkException/thundersort): Sort incoming mails based on recipient slug
 * [cleidigh/ThunderStorm](https://github.com/cleidigh/ThunderStorm): Tips, Tricks & Examples for Thunderbird E-mail New Add-On Development
 * [snchong/thunderthings](https://github.com/snchong/thunderthings): Integration between Thunderbird and Cultured Code's Things on macOS
+* [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark): TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页导航和访问热度统计。& TidyMark — Chrome/Edge Bookmark Manager Backup and organize bookmarks with one-click auto categorization and optional AI assistance. Detect broken bookmarks, auto-archive infrequently used ones, and enjoy New Tab navigation with access stats.
 * [tiged/tiged](https://github.com/tiged/tiged): Community driven fork of degit
 * [chzesa/tiled-tab-groups](https://github.com/chzesa/tiled-tab-groups): None
 * [skhzhang/time-based-themes](https://github.com/skhzhang/time-based-themes): Automatically change Firefox's theme based on the time
@@ -3087,6 +3099,7 @@
 * [myfreeer/userChromeJS](https://github.com/myfreeer/userChromeJS): userChrome.js scripts for firefox
 * [zephyrer/userChromeJS](https://github.com/zephyrer/userChromeJS): uc.js, uc.xul collections
 * [RJ-Infinity/UserChromeScriptLoader](https://github.com/RJ-Infinity/UserChromeScriptLoader): None
+* [SoloSaravanan/userjs](https://github.com/SoloSaravanan/userjs): Removes Mozilla spyware from Firefox and makes Firefox more secure 
 * [t0xk/username-generator](https://github.com/t0xk/username-generator): A username generator written in JavaScript
 * [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner): Fast & Accurate Username Scanner (Frontend)
 * [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript): CSDN 极简\沉浸式阅读\免登录复制 | 博客园美化 | 哔哩哔哩美化 | GreasyFork脚本页面👇
@@ -3118,6 +3131,7 @@
 * [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme): I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
 * [jtlw99/vicefox](https://github.com/jtlw99/vicefox): ViceFox make your FireFox great and beter!
 * [rubjo/victor-mono](https://github.com/rubjo/victor-mono): A free programming font with cursive italics and ligatures. Donations welcome ❤️
+* [Ajith-analytics/Video_Downloader](https://github.com/Ajith-analytics/Video_Downloader): 🎥 Download videos from YouTube, Facebook, and Instagram easily with this user-friendly tool built with Python and Flask.
 * [jeanslack/Videomass](https://github.com/jeanslack/Videomass): Videomass is a free, open source and cross-platform GUI for FFmpeg
 * [fruiz500/VideoSkip-extension](https://github.com/fruiz500/VideoSkip-extension): Same as VideoSkip, but as a Chrome/Firefox/Edge extension so it can edit videos streaming from many sources
 * [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss): Vienna is a free and open-source RSS/Atom/JSON feed newsreader for macOS.
@@ -3223,6 +3237,7 @@
 * [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent): ⚡️ Streaming torrent client for the web
 * [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop): Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 * [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf): Detect and bypass web application firewalls and protection systems
+* [Jay-Karia/wherewasi](https://github.com/Jay-Karia/wherewasi): Chrome extension that remembers your search sessions and captures context.
 * [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme): Mac OS Safari theme for Firefox on Linux
 * [FirefoxCSSThemers/WhiteSur-FirefoxTheme](https://github.com/FirefoxCSSThemers/WhiteSur-FirefoxTheme): A Firefox theme made by Agnihotra Nath, to simulate Safari on macOS Big Sur 11. Works best on Proton.
 * [AdamXweb/WhiteSurFirefoxThemeMacOS](https://github.com/AdamXweb/WhiteSurFirefoxThemeMacOS): MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
