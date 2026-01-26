@@ -159,6 +159,7 @@
 * [phosphor-icons/android](https://github.com/phosphor-icons/android): An elegant and sophisticated line icon pack to declutter your home screen.
 * [kevalpatel2106/android-ringtone-picker](https://github.com/kevalpatel2106/android-ringtone-picker): Simple Ringtone Picker dialog which allows you to pick different sounds from ringtone, alarm tone, notification tone and music from external storage.
 * [mortenjust/androidtool-mac](https://github.com/mortenjust/androidtool-mac): One-click screenshots, video recordings, app installation for iOS and Android
+* [ait-cs-IaaS/ansible-firefox-autoconfig](https://github.com/ait-cs-IaaS/ansible-firefox-autoconfig): Ansible Role Installs firefox and makes it configurable through environment variables
 * [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod): A podcast manager for Android
 * [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M): App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 * [nightmare-space/any_share](https://github.com/nightmare-space/any_share): Fast Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
@@ -994,9 +995,12 @@
 * [nonoroazoro/firefox](https://github.com/nonoroazoro/firefox): Customized Extensions, Scripts, UserChromeJS and Rules of Firefox.
 * [pellaeon/firefox-91plus-photon-userchrome](https://github.com/pellaeon/firefox-91plus-photon-userchrome): userChrome.css to restore the classic Photon look on Firefox 91+
 * [ACEx86/Firefox-about-config-tweaks](https://github.com/ACEx86/Firefox-about-config-tweaks): Firefox about:config useful tweaks.
+* [easonwong-de/Firefox-Adaptive-Sur-Theme](https://github.com/easonwong-de/Firefox-Adaptive-Sur-Theme): A macOS-styled Firefox CSS theme based on Firefox WhiteSur theme with Adaptive Tab Bar Colour support.
 * [aazw/firefox-addon-quick-download-images](https://github.com/aazw/firefox-addon-quick-download-images): Add a button to save the image quickly by 1-click.
 * [GitZip/firefox-addons](https://github.com/GitZip/firefox-addons): Firefox addons for GitZip
+* [12th-devs/Firefox-AI-Testing.uc.mjs](https://github.com/12th-devs/Firefox-AI-Testing.uc.mjs): An AI research project to try and make Firefox's native AI easier to use in autoconfig scripts
 * [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha): 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
+* [JoBuettner/firefox-autoconfig-customizations](https://github.com/JoBuettner/firefox-autoconfig-customizations): None
 * [GrosBourrin/FIREFOX-BLUE-MOON](https://github.com/GrosBourrin/FIREFOX-BLUE-MOON): Firefox blueish & dark theme 
 * [tagler/firefox-bookmark-toolbar-dark-theme](https://github.com/tagler/firefox-bookmark-toolbar-dark-theme): Custom CSS file for Firefox bookmark toolbar dark theme, v92+ (mac)
 * [james-cube/firefox-bookmarks-merger](https://github.com/james-cube/firefox-bookmarks-merger): Tool for merging firefox bookmarks backups.
@@ -1028,10 +1032,12 @@
 * [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-): Light theme on Firefox 
 * [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar): macOS Native-looking Translucent Tabbar for Firefox
 * [jeremyperkin/Firefox-macOS-setup](https://github.com/jeremyperkin/Firefox-macOS-setup): userChrome.css and userContent.css files.
+* [D3SOX/firefox-minimal-compact-css](https://github.com/D3SOX/firefox-minimal-compact-css): My personal Firefox theme based on Sidebery and CSS hacks - Inspired by Zen
 * [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod): None
 * [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur): A Fork with an Installer for "Firefox Mod Blur - Modular"
 * [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 * [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods): Firefox CSS and JS Mods
+* [DivitMittal/firefox-nixCfg](https://github.com/DivitMittal/firefox-nixCfg): A declarative Firefox configuration using Nix home-manager, designed for enhanced performance, a streamlined UI, and powerful automation
 * [christiet/firefox-obsidian-bookmark](https://github.com/christiet/firefox-obsidian-bookmark): Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
 * [patrikzudel/firefox-obsidian-bookmark](https://github.com/patrikzudel/firefox-obsidian-bookmark): Firefox extension that allows users to create a "Bookmark" of their current tab into a specified document in Obsidian.
 * [KaanCanINC/firefox-OCR-extension](https://github.com/KaanCanINC/firefox-OCR-extension): Firefox OCR extension made with fully AI for personal usage
@@ -1674,7 +1680,7 @@
 * [brkunver/llm-toolbox](https://github.com/brkunver/llm-toolbox): Browser extension for popular LLMs 
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
 * [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code): An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.
-* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you.
+* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 * [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
 * [cleidigh/Localfolder-TB](https://github.com/cleidigh/Localfolder-TB): Thunderbird Add-On to add additional local folders to accounts
@@ -1893,6 +1899,7 @@
 * [shredthaGNAR/my-awesome-starred](https://github.com/shredthaGNAR/my-awesome-starred): None
 * [shredthaGNAR/my-awesome-stars](https://github.com/shredthaGNAR/my-awesome-stars): my list of github stars fork
 * [abdel7ak96/my-email-signature](https://github.com/abdel7ak96/my-email-signature): Email signature
+* [pnthach95/my-firefox-theme](https://github.com/pnthach95/my-firefox-theme): None
 * [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme): My Joplin App userstyle and userchrome theme style.
 * [tansawit/my-mac-setup](https://github.com/tansawit/my-mac-setup): List of applications and tools that optimize my macOS experience. Inspired by https://github.com/nikitavoloboev/my-mac-os
 * [penge/my-notes](https://github.com/penge/my-notes): Simple and fast note-taking in Chrome with Google Drive support.
