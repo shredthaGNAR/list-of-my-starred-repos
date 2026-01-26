@@ -200,6 +200,7 @@
 * [TaylorJadin/applescripts-btt](https://github.com/TaylorJadin/applescripts-btt): a collection of applescripts that I have use with BetterTouchTool or KeyboardMaestro on my mac
 * [JT5D/AppleTree](https://github.com/JT5D/AppleTree): Applescripts, apps, services, droplets, actions & automator workflows grow abudant on this Apple Tree, some fruit made by me, while many come from Web tuts & altruist worker bees
 * [milanvarady/Applite](https://github.com/milanvarady/Applite): User-friendly GUI macOS application for Homebrew Casks
+* [abcpeak/apps-and-sites-collection](https://github.com/abcpeak/apps-and-sites-collection): Apps suggestion, Websites recommendation, Websites guide.
 * [axross/aqua](https://github.com/axross/aqua):  ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.
 * [yuuiko/AquaNotch](https://github.com/yuuiko/AquaNotch): Add a Notch to your old Macbook with BetterTouchTool.
 * [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
@@ -720,6 +721,7 @@
 * [uso-archive/data](https://github.com/uso-archive/data): Full mirror of UserStyles.org
 * [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore): Work-in-progress successor to Dataview with a focus on UX and speed.
 * [TechnicalWebAnalytics/dataLayer-shopify](https://github.com/TechnicalWebAnalytics/dataLayer-shopify): A dataLayer integration specific to extracting information from Shopify.
+* [gamingdoom/datcord](https://github.com/gamingdoom/datcord): An open-source Discord client that uses Firefox and Neutron
 * [Shopify/dawn](https://github.com/Shopify/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 * [realoatesman/Dawn](https://github.com/realoatesman/Dawn): Shopify Dawn Dev Theme
 * [shredthaGNAR/dawn](https://github.com/shredthaGNAR/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
@@ -942,6 +944,7 @@
 * [feather-wallet/feather](https://github.com/feather-wallet/feather): A free and open-source Monero desktop wallet.
 * [kaushikgopal/ff-container-traffic-control](https://github.com/kaushikgopal/ff-container-traffic-control): Firefox addon (extension) that helps you define rules which will control which container a website opens in. Read more: https://kau.sh/blog/container-traffic-control/
 * [crestonbunch/ff-ctrl-e](https://github.com/crestonbunch/ff-ctrl-e): Ctrl+E shortcut for searching open tabs in Firefox
+* [martabal/ff-diff](https://github.com/martabal/ff-diff): ff-diff is a simple script to compare changes in user.js preference files between two versions of Firefox.
 * [B00ze64/FF-Menu-Icon-Plus-CSS](https://github.com/B00ze64/FF-Menu-Icon-Plus-CSS): Add icons to Firefox menus using userChrome/userContent.css
 * [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA): The Firefox theme with too many options.. FF Ultima.
 * [gwennlbh/ffcss](https://github.com/gwennlbh/ffcss): A CLI interface to apply and configure FirefoxCSS themes
@@ -980,9 +983,11 @@
 * [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox): 🦊 Awesome Firefox
 * [crssi/Firefox](https://github.com/crssi/Firefox): None
 * [kbc8090/firefox](https://github.com/kbc8090/firefox): My heavily modified FirefoxCSS based on material-fox-updated
+* [nathantebbs/firefox](https://github.com/nathantebbs/firefox): Utilities for configuring the Firefox broser on MacOS & Linux
 * [nonoroazoro/firefox](https://github.com/nonoroazoro/firefox): Customized Extensions, Scripts, UserChromeJS and Rules of Firefox.
 * [pellaeon/firefox-91plus-photon-userchrome](https://github.com/pellaeon/firefox-91plus-photon-userchrome): userChrome.css to restore the classic Photon look on Firefox 91+
 * [ACEx86/Firefox-about-config-tweaks](https://github.com/ACEx86/Firefox-about-config-tweaks): Firefox about:config useful tweaks.
+* [aazw/firefox-addon-quick-download-images](https://github.com/aazw/firefox-addon-quick-download-images): Add a button to save the image quickly by 1-click.
 * [GitZip/firefox-addons](https://github.com/GitZip/firefox-addons): Firefox addons for GitZip
 * [Tagggar/Firefox-Alpha](https://github.com/Tagggar/Firefox-Alpha): 🗿 Super clear desktop browser with zero buttons and intuitive gesture controls
 * [GrosBourrin/FIREFOX-BLUE-MOON](https://github.com/GrosBourrin/FIREFOX-BLUE-MOON): Firefox blueish & dark theme 
@@ -1323,6 +1328,7 @@
 * [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01): Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascript website this boilerplate is for you. 
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
 * [glomatico/gytmdl](https://github.com/glomatico/gytmdl): A command-line app for downloading YouTube Music songs with tags from YouTube Music.
+* [mofach90/hackathon-24jan26-sponsor-skipper-firefox](https://github.com/mofach90/hackathon-24jan26-sponsor-skipper-firefox): None
 * [SirAlidadi/HackBar](https://github.com/SirAlidadi/HackBar): Hackbar Firefox Extension
 * [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData): Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 * [koo5/hackery2](https://github.com/koo5/hackery2): notes, scripts, utilities, dotfiles, experiments, toys..
@@ -1535,6 +1541,7 @@
 * [RealRaven2000/JunQuilla](https://github.com/RealRaven2000/JunQuilla): Adopted Thunderbird Add-on from Kent James - adds column with percent likelihood that a message is spam
 * [huioi/Just-OneTab](https://github.com/huioi/Just-OneTab): 一款专为浏览器标签页收纳与整理打造的插件，可有效节省内存并缓解标签页杂乱问题，兼容 Chrome、Edge 等基于 Chromium 内核的浏览器。A browser extension designed for tab management and organization, effectively saving memory and reducing cluttered tabs. Compatible with Chrome, Edge, and other Chromium-based browsers.
 * [ZachSaucier/Just-Read](https://github.com/ZachSaucier/Just-Read): A customizable read mode web extension.
+* [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser): Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
 * [EragonJ/Kaku](https://github.com/EragonJ/Kaku): 🎧 Kaku is a highly integrated music player supports different online platform like YouTube, SoundCloud, Vimeo and more. Available on Mac, Windows and Linux.
 * [wulkano/Kap](https://github.com/wulkano/Kap): An open-source screen recorder built with web technology
 * [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived): Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
@@ -1679,6 +1686,7 @@
 * [alxshelepenok/lumen](https://github.com/alxshelepenok/lumen): A constantly evolving and thoughtful architecture for creating static blogs.
 * [robin/LYTabView](https://github.com/robin/LYTabView): A customized Mac OS X Tab View with modern tab bar style
 * [rgcr/m-cli](https://github.com/rgcr/m-cli):  Swiss Army Knife for macOS 
+* [zamgi/m3u8](https://github.com/zamgi/m3u8): m3u8 file downloader library and chrome & firefox extensions/add-on's
 * [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid): [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built with Kotlin and modern Android development practices.
 * [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup): Configuration files to setup macOS(Intel 2020)
 * [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts): BTT presets, macros & scripts I use to make my life sometimes easier
@@ -2698,6 +2706,7 @@
 * [dh1011/smart-bookmark](https://github.com/dh1011/smart-bookmark): Smart Bookmark is a simple, AI-powered tool to help you stay organized and make the most of your bookmarks. Features like smart search, automatic summaries, and tagging make it easy to search and organize your bookmarks.
 * [brianpetro/smart-connect](https://github.com/brianpetro/smart-connect): None
 * [smartertechnologist/SmarterBookmarks-Android](https://github.com/smartertechnologist/SmarterBookmarks-Android): Official documentation for the SmarterBookmarks android app
+* [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy): Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 * [RealRaven2000/SmartTemplates](https://github.com/RealRaven2000/SmartTemplates): Thunderbird Add-on: SmartTemplates
 * [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube): Browse media content with your own rules on Android TV
 * [zimocode/smartup](https://github.com/zimocode/smartup): A customizable web browser mouse gestures extension with a variety of actions.
@@ -3083,6 +3092,7 @@
 * [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript): CSDN 极简\沉浸式阅读\免登录复制 | 博客园美化 | 哔哩哔哩美化 | GreasyFork脚本页面👇
 * [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports): This is for the userscripts created on GreasyFork.org. 
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
+* [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo): A place to put the userscripts I make. Take a look, see if something is useful.
 * [FiorenMas/Userscripts](https://github.com/FiorenMas/Userscripts): Automatic compiled Userscript make it run faster
 * [Infocatcher/UserScripts](https://github.com/Infocatcher/UserScripts): UserScripts for Firefox with Greasemonkey extension and (may be) for other browsers with user.js support
 * [danydodson/userscripts](https://github.com/danydodson/userscripts): UserScript Collection.
