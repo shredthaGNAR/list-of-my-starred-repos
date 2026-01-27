@@ -1973,6 +1973,7 @@
 * [apilayer/numverify-API](https://github.com/apilayer/numverify-API): Free global phone number validation & lookup JSON API
 * [edgars21/nuxtjs-shopify-flex-theme-section-with-vue](https://github.com/edgars21/nuxtjs-shopify-flex-theme-section-with-vue): None
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+* [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop): Node Version Manager Desktop - A desktop application to manage multiple active node.js versions.
 * [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify): Nx plugin for developing performance-first Shopify themes 🚀
 * [dawiidio/o-menu](https://github.com/dawiidio/o-menu): Simple circular svg menu 
 * [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal): Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
