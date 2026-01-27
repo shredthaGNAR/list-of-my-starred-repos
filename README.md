@@ -1737,7 +1737,7 @@
 * [shubhambatra3019/macOrganizer](https://github.com/shubhambatra3019/macOrganizer): A macOS app for organizing folders
 * [temochka/macos-automation](https://github.com/temochka/macos-automation): A collection of my macOS automation scripts (Alfred Workflows, AppleScript, and JXA)
 * [SKaplanOfficial/macOS-Automation-Resources](https://github.com/SKaplanOfficial/macOS-Automation-Resources): Resources for MacOS automation languages
-* [moltbot/macos-automator-mcp](https://github.com/moltbot/macos-automator-mcp): An MCP server to run AppleScript and JXA (JavaScript for Automation) to macOS.
+* [steipete/macos-automator-mcp](https://github.com/steipete/macos-automator-mcp): An MCP server to run AppleScript and JXA (JavaScript for Automation) to macOS.
 * [dosdude1/macos-catalina-patcher](https://github.com/dosdude1/macos-catalina-patcher): macOS Catalina Patcher (http://dosdude1.com/catalina)
 * [kevinSuttle/macOS-Defaults](https://github.com/kevinSuttle/macOS-Defaults): A centralized place for the awesome work started by @mathiasbynens on .macos
 * [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults): Incomplete list of macOS `defaults` commands with demos ✨
