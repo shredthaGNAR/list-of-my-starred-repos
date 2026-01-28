@@ -217,6 +217,7 @@
 * [miantiao-me/astro-aria](https://github.com/miantiao-me/astro-aria): A personal blog, portfolio, or blog template
 * [Ladvace/astro-bento-portfolio](https://github.com/Ladvace/astro-bento-portfolio): Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro
 * [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate): 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode
+* [tomcomtang/astro-cartoon-portfolio](https://github.com/tomcomtang/astro-cartoon-portfolio): Astro cartoon portfolio
 * [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme): CV theme for Astro 🚀
 * [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio): Portfolio template built with Astro, React, TypeScript and TailwindCSS.
 * [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio): This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the developer's skills, projects, and contact information. The website is responsive, accessible, and SEO-friendly.
@@ -275,6 +276,7 @@
 * [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt): A curated list of awesome ChatGPT related projects.
 * [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
+* [MissMitsuha/awesome-course-piracy](https://github.com/MissMitsuha/awesome-course-piracy): An index of course piracy resources
 * [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography): A curated list of cryptography resources and links.
 * [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css): :art: A curated contents of amazing CSS :)
 * [uhub/awesome-css](https://github.com/uhub/awesome-css): A curated list of awesome CSS frameworks, libraries and software.
@@ -283,6 +285,7 @@
 * [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems): 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
 * [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools): The best design tools and plugins for everything 👉
 * [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails): ✉️ An awesome list of resources to build better emails.
+* [OshekharO/awesome-entertainment](https://github.com/OshekharO/awesome-entertainment): List of awesome apps and website for entertainment.
 * [wangbing1416/Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection): An awesome paper list of fake news detection (FND) and rumor detection.
 * [Drovosek01/awesome-files-hostings](https://github.com/Drovosek01/awesome-files-hostings): List and comparison of services for publishing and sharing files on the Internet
 * [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
@@ -601,6 +604,7 @@
 * [kepano/clipper-templates](https://github.com/kepano/clipper-templates): Obsidian Web Clipper templates for various sites.
 * [aecreations/clippings](https://github.com/aecreations/clippings): Save frequently-entered text for pasting later. An extension for Firefox.
 * [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Save frequently-entered text for pasting later. An extension for Thunderbird.
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
 * [ian4hu/Clipy](https://github.com/ian4hu/Clipy): Clipboard extension app for macOS.
 * [spieglt/Cloaker](https://github.com/spieglt/Cloaker): Simple, drag-and-drop, password-based file encryption
