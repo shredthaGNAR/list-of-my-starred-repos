@@ -2033,6 +2033,7 @@
 * [alyssaxuu/omni](https://github.com/alyssaxuu/omni): The all-in-one tool to supercharge your productivity ⌨️
 * [InQuest/omnibus](https://github.com/InQuest/omnibus): The OSINT Omnibus (beta release)
 * [omnixent/omnixent](https://github.com/omnixent/omnixent): 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
+* [JorritScholten/omz_vscode_custom](https://github.com/JorritScholten/omz_vscode_custom): vscode plugin from oh-my-zsh with a few customisations
 * [songquanpeng/one-api](https://github.com/songquanpeng/one-api): LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 * [iansinnott/one-dark-tab](https://github.com/iansinnott/one-dark-tab): Like OneTab, but darker.
 * [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools): A theme for Firefox Devtools
