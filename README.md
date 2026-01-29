@@ -3063,7 +3063,7 @@
 * [joshuacant/undo_closed_tabs_menu](https://github.com/joshuacant/undo_closed_tabs_menu): Firefox webextension to add an undo closed tabs menu to tabs.
 * [p1usminus/undoclosetabreplacement](https://github.com/p1usminus/undoclosetabreplacement): Updated for FF78+
 * [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit): The easiest way to use git. On any platform. Anywhere.
-* [krvstek/uni-apks](https://github.com/krvstek/uni-apks): 📦 Pre-built APKs for Morphe & Piko
+* [krvstek/uni-apks](https://github.com/krvstek/uni-apks): 📦 Pre-built APKs from various patch sources
 * [stuartread7/Unibet-Scraper](https://github.com/stuartread7/Unibet-Scraper): Script to extract the implied probabilities of all outcomes listed in the live-betting section of unibet.com.  The script has applications in sports gambling arbitrage and for building live alert tools.
 * [npease18/Unichat-Firefox-Extension](https://github.com/npease18/Unichat-Firefox-Extension): The repo for the firefox port of the Unichat Chrome Extension
 * [jeffreytram/UniDrive](https://github.com/jeffreytram/UniDrive): 🗄 Access, organize, and manage several Google Drive accounts in one place.
