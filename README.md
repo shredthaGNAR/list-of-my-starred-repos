@@ -139,6 +139,7 @@
 * [thepante/alfs-firefox](https://github.com/thepante/alfs-firefox): Always Loaded Floating Sidebar it's a small modification for Firefox
 * [sindresorhus/alfy](https://github.com/sindresorhus/alfy): Create Alfred workflows with ease
 * [djui/alias-tips](https://github.com/djui/alias-tips): An oh-my-zsh plugin to help remembering those aliases you defined once
+* [wojciechkrol/alice-ai-raycast](https://github.com/wojciechkrol/alice-ai-raycast): Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes.
 * [lunu-bounir/allow-right-click](https://github.com/lunu-bounir/allow-right-click): A browser extension to release right-click context menu blockage
 * [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app): Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 * [dnomd343/alltube-docker](https://github.com/dnomd343/alltube-docker): Docker of AllTube Download
@@ -411,7 +412,6 @@
 * [anudeepND/blacklist](https://github.com/anudeepND/blacklist): Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒
 * [EnergizedProtection/block](https://github.com/EnergizedProtection/block): Let's make an annoyance free, better open internet, altogether!
 * [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert): Malware, advert and tracking blacklist
-* [pengelana/blocklist](https://github.com/pengelana/blocklist): Privacy DNS
 * [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist): Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
 * [nextdns/blocklists](https://github.com/nextdns/blocklists): None
 * [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac): Spotify Ad blocker for MacOS
