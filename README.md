@@ -252,6 +252,7 @@
 * [tcellerier/automator](https://github.com/tcellerier/automator): Mac OS Automator quick actions
 * [princelundgren/automator-collection](https://github.com/princelundgren/automator-collection): Various Automator and AppleScript workflow and scripts for simplifying life
 * [moosethegoose2213/automator-for-barrykn-micropatcher](https://github.com/moosethegoose2213/automator-for-barrykn-micropatcher): Automator for the BarryKN Micropatcher
+* [VetCoders/automator-mcp](https://github.com/VetCoders/automator-mcp): MCP server for macOS Automator - AI-powered automation workflows. Let AI control your Mac!
 * [lawrenceting/Automator-Services-and-Workflows](https://github.com/lawrenceting/Automator-Services-and-Workflows): Automator Services and Workflows
 * [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows): A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 actions
 * [yeutterg/automator-workflows](https://github.com/yeutterg/automator-workflows): MacOS Automator Workflows for PDFs, images, and more
