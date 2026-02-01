@@ -1984,6 +1984,7 @@
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 * [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop): Node Version Manager Desktop - A desktop application to manage multiple active node.js versions.
 * [trafilea/nx-shopify](https://github.com/trafilea/nx-shopify): Nx plugin for developing performance-first Shopify themes 🚀
+* [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav): Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 * [dawiidio/o-menu](https://github.com/dawiidio/o-menu): Simple circular svg menu 
 * [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal): Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 * [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri): Advanced modes for Obsidian URI
