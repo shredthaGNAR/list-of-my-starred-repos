@@ -2569,6 +2569,7 @@
 * [steventheworker/screenhook](https://github.com/steventheworker/screenhook): Background app to make up for BetterTouchTool's limitations. (eg: Run applescript on click (w/o modifier keys) or when connecting a display)
 * [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity): The free and privacy-friendly screen recorder with no limits 🎥
 * [duyquoc/ScreenToLayers](https://github.com/duyquoc/ScreenToLayers): macOS app to capture your screen as a layered PSD file
+* [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast): Open-source Astro website template with sleek, customizable TailwindCSS components.
 * [raycast/script-commands](https://github.com/raycast/script-commands): Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 * [tombowditch/scripts](https://github.com/tombowditch/scripts): General Scripts
 * [d3ward/scriptz](https://github.com/d3ward/scriptz): An awesome collection of userscripts
