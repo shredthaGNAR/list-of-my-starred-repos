@@ -1400,6 +1400,15 @@
     "MorpheApp/MicroG-RE": [
         "Other"
     ],
+    "MorpheApp/morphe-cli": [
+        "Other"
+    ],
+    "MorpheApp/morphe-documentation": [
+        "Other"
+    ],
+    "MorpheApp/morphe-manager": [
+        "Other"
+    ],
     "MorpheApp/morphe-patches": [
         "Other"
     ],
@@ -1581,6 +1590,9 @@
         "Other"
     ],
     "OspreyProject/Osprey": [
+        "Other"
+    ],
+    "OuterTune/OuterTune": [
         "Other"
     ],
     "PHLAK/CloudDrop": [
