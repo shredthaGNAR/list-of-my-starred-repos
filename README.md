@@ -148,6 +148,7 @@
 * [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme): Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 * [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS 
 * [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos): AltTab - scriptable branch
+* [javi11/altmount](https://github.com/javi11/altmount): usenet virtual fs
 * [altstoreio/AltStore](https://github.com/altstoreio/AltStore): AltStore is an alternative app store for non-jailbroken iOS devices.
 * [ryanpcmcquen/amatron](https://github.com/ryanpcmcquen/amatron): A cross-platform electron Amazon Cloud Drive app.
 * [BoolenBread/Amazon-Drive-Video-Stream-API](https://github.com/BoolenBread/Amazon-Drive-Video-Stream-API): Grabs direct mp4 link from amazon drive with filename and picture.
@@ -1126,6 +1127,7 @@
 * [VigoKrumins/folder-icons](https://github.com/VigoKrumins/folder-icons): Custom folder icons for macOS & Windows
 * [bglezseoane/folder-stamp](https://github.com/bglezseoane/folder-stamp): Generate custom Mac OS folder icons with a desired image as stamp
 * [lgarron/folderify](https://github.com/lgarron/folderify): :file_folder: Generate pixel-perfect macOS folder icons in the native style. (Now with support for macOS 26 Tahoe!)
+* [getastrothemes/folex-lite-astro](https://github.com/getastrothemes/folex-lite-astro): A fully customizable creative agency business theme built with Tailwind and Astro. ⭐️ Star to support our work!
 * [UrielAbergel/Follow_The_Image--ComputerVision](https://github.com/UrielAbergel/Follow_The_Image--ComputerVision): Search system, the system receives as input a picture of a person, and finds all his pictures in the destination folder or on the computer, the system will emit all the pictures in which the person appeared
 * [beichensky/Font](https://github.com/beichensky/Font): FiraCode 和 Operator Mono 字体
 * [Snilda/Font-Library](https://github.com/Snilda/Font-Library): Check Readme
@@ -2827,6 +2829,7 @@
 * [MrMonkey42/stremio-addon-debrid-search](https://github.com/MrMonkey42/stremio-addon-debrid-search): Stremio Addon to search downloads and torrents in your Debrid cloud
 * [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager): Manage your Stremio Addons
 * [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5): 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
+* [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru): Companion for Stremio.
 * [charlesLoder/stylometry](https://github.com/charlesLoder/stylometry): A comparison of different strategies for affecting an LLM's output style, with attention given towards library science.
 * [NoureldinAmer/stylometry-based-trigger-llm-backdoor-attack](https://github.com/NoureldinAmer/stylometry-based-trigger-llm-backdoor-attack): None
 * [openstyles/stylus](https://github.com/openstyles/stylus): Stylus - Userstyles Manager
