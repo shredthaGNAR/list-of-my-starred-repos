@@ -3164,7 +3164,6 @@
 * [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme): I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
 * [jtlw99/vicefox](https://github.com/jtlw99/vicefox): ViceFox make your FireFox great and beter!
 * [rubjo/victor-mono](https://github.com/rubjo/victor-mono): A free programming font with cursive italics and ligatures. Donations welcome ❤️
-* [Ajith-analytics/Video_Downloader](https://github.com/Ajith-analytics/Video_Downloader): 🎥 Download videos from YouTube, Facebook, and Instagram easily with this user-friendly tool built with Python and Flask.
 * [jeanslack/Videomass](https://github.com/jeanslack/Videomass): Videomass is a free, open source and cross-platform GUI for FFmpeg
 * [fruiz500/VideoSkip-extension](https://github.com/fruiz500/VideoSkip-extension): Same as VideoSkip, but as a Chrome/Firefox/Edge extension so it can edit videos streaming from many sources
 * [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss): Vienna is a free and open-source RSS/Atom/JSON feed newsreader for macOS.
