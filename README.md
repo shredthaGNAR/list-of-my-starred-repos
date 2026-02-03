@@ -696,6 +696,7 @@
 * [superkhau/curcon](https://github.com/superkhau/curcon): Command-line tool for converting currencies using Open Exchange Rates.
 * [dblandin/Currency-Converter](https://github.com/dblandin/Currency-Converter): Currency Converter written in Javascript using jQuery and the Open Source Exchange Rates API
 * [skibitsky/current-task](https://github.com/skibitsky/current-task): 🗻 This utility allows me to focus on one task at a time.
+* [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip): cursor IDE enjoy VIP
 * [thatisuday/curved-menu](https://github.com/thatisuday/curved-menu): VanillaJS fully configurable curved menu (circular navigation)
 * [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts): AppleScript for iTerm2 Alfred integration.
 * [samiyuru/custom-finder-right-click-menu](https://github.com/samiyuru/custom-finder-right-click-menu): This project allows macOS users to setup custom right click menu items for MacOS Finder directories.
@@ -729,6 +730,7 @@
 * [fastaddons/Darko](https://github.com/fastaddons/Darko): None
 * [darkreader/darkreader](https://github.com/darkreader/darkreader): Dark Reader Chrome and Firefox extension
 * [uso-archive/data](https://github.com/uso-archive/data): Full mirror of UserStyles.org
+* [iptv-org/database](https://github.com/iptv-org/database): User editable database for TV channels.
 * [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore): Work-in-progress successor to Dataview with a focus on UX and speed.
 * [TechnicalWebAnalytics/dataLayer-shopify](https://github.com/TechnicalWebAnalytics/dataLayer-shopify): A dataLayer integration specific to extracting information from Shopify.
 * [gamingdoom/datcord](https://github.com/gamingdoom/datcord): An open-source Discord client that uses Firefox and Neutron
@@ -1289,6 +1291,7 @@
 * [microg/GmsCore](https://github.com/microg/GmsCore): Free implementation of Play Services
 * [tumpio/gmscripts](https://github.com/tumpio/gmscripts): tumpio's usercripts
 * [savely-krasovsky/go-autoconfig](https://github.com/savely-krasovsky/go-autoconfig): IMAP/SMTP autodiscover feature for Thunderbird, Apple Mail and Microsoft Outlook
+* [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help): 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 * [Phantas0s/gocket](https://github.com/Phantas0s/gocket): 💼 CLI / TUI for Pocket 
 * [alx-xlx/goindex](https://github.com/alx-xlx/goindex): Index your Google Drive
 * [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo): config karabiner with ease
@@ -1493,6 +1496,7 @@
 * [ShaleenM/IP-Camera](https://github.com/ShaleenM/IP-Camera): Change your android phone to surveillance camera
 * [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop): An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. 
 * [Free-TV/IPTV](https://github.com/Free-TV/IPTV): M3U Playlist for free TV channels
+* [doms9/iptv](https://github.com/doms9/iptv): tv channels & sporting events
 * [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world
 * [4gray/iptvnator](https://github.com/4gray/iptvnator): :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 * [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu): open-source jailbreaking tool for many iOS devices
@@ -1676,6 +1680,7 @@
 * [jnv/lists](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub and elsewhere
 * [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM): None
 * [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
+* [Rivens7/Livelist](https://github.com/Rivens7/Livelist): IPTV-ipv6直播源同步及常看直播
 * [nt1m/livemarks](https://github.com/nt1m/livemarks): Extension that restores RSS Feed Livemarks in Firefox. 
 * [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder): Replace Copilot local AI
 * [run-llama/llama-lab](https://github.com/run-llama/llama-lab): None
@@ -2206,6 +2211,7 @@
 * [Dis90/plugin.video.discoveryplus](https://github.com/Dis90/plugin.video.discoveryplus): discovery+ add-on for Kodi
 * [joplin/plugins](https://github.com/joplin/plugins): Joplin official plugin repository
 * [withfig/plugins](https://github.com/withfig/plugins): Plugin store for zsh, bash & fish.
+* [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV): Grab EPG & M3U from Pluto.tv
 * [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 * [knowfox/pocket](https://github.com/knowfox/pocket): Knowfox: Retrieve bookmarks from getpocket.com
 * [neelr/pocket](https://github.com/neelr/pocket): A pocket for all my links
@@ -2833,6 +2839,7 @@
 * [shredthaGNAR/static-marks-docker](https://github.com/shredthaGNAR/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
 * [gaerfield/static-marks-github-pages](https://github.com/gaerfield/static-marks-github-pages): static-marks automatically deployed to github-pages
 * [vipintom/stealthFox](https://github.com/vipintom/stealthFox): Clean and minimal set of changes to get Vertical Tabs in Firefox
+* [gookie-dev/StepDaddyLiveHD](https://github.com/gookie-dev/StepDaddyLiveHD): A self-hosted IPTV proxy for DLHD.
 * [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock): 🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒
 * [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback): The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
 * [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
