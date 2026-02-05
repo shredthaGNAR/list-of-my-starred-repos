@@ -1890,7 +1890,7 @@
 * [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
 * [MikeFighting/MFSractchView](https://github.com/MikeFighting/MFSractchView): The tool used for scratch lottery. 
 * [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE): GmsCore fork for Morphe patched apps
-* [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS): Installer & Activited Microsoft Office For MacOS
+* [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS): Installer Microsoft Office For MacOS
 * [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 * [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 * [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard): Сustom color schemes for all websites
