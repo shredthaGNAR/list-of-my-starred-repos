@@ -51,7 +51,7 @@
 * [mkoryak/address-validator](https://github.com/mkoryak/address-validator): nodejs address validator via google api
 * [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt): The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
 * [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters): AdGuard Content Blocking Filters
-* [AdguardTeam/AdGuardForSafari](https://github.com/AdguardTeam/AdGuardForSafari): AdGuard Mini for macOS
+* [AdguardTeam/AdguardMiniForMac](https://github.com/AdguardTeam/AdguardMiniForMac): AdGuard Mini for macOS
 * [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS): A repository dedicated to mirroring some block-lists into 1 file for ease of use
 * [ethanaicode/Adobe-Block-Hosts-List](https://github.com/ethanaicode/Adobe-Block-Hosts-List): Adobe Block Hosts List to block Adobe activation.
 * [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater): Adobe Deloater
