@@ -2476,6 +2476,7 @@
 * [SamR1/rdltr-addon](https://github.com/SamR1/rdltr-addon): Firefox add-on for rdltr (read-it-later app)
 * [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client): Real-Debrid Client Proxy
 * [facebook/react](https://github.com/facebook/react): The library for web and native user interfaces.
+* [SuniRein/read-it-later](https://github.com/SuniRein/read-it-later): A light web browser extension to manage your read-it-later list easily.
 * [XcrossD/read-later-bookmarks](https://github.com/XcrossD/read-later-bookmarks): A chrome extension that add a read later view for chrome bookmarks
 * [rNeomy/reader-view](https://github.com/rNeomy/reader-view): Access Firefox's built in reader view from right click context menu
 * [alexpdraper/reading-list](https://github.com/alexpdraper/reading-list): A Chrome/Firefox extension for saving pages to read later.
