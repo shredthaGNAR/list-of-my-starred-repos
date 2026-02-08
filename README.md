@@ -2992,7 +2992,7 @@
 * [piroor/textlink](https://github.com/piroor/textlink): Text Link, Allows URI texts written in webpages to be loaded by double clicks.
 * [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
 * [de1etenu11ptr/TGS-Extension](https://github.com/de1etenu11ptr/TGS-Extension): Tab Group Saver (TGS) Extension for firefox that mainly utilizes the bookmarks API to allow for reliable persistence of tab groups.
-* [stonerl/Thaw](https://github.com/stonerl/Thaw): Menu bar manager for macOS
+* [stonerl/Thaw](https://github.com/stonerl/Thaw): Menu bar manager for macOS 26
 * [passthesh3ll/The-Pika-s-OSINT-ToolBox](https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox): A curated list of free OSINT tools ⚡️
 * [balvin-perrie/the-pirate-bay-torrent-search](https://github.com/balvin-perrie/the-pirate-bay-torrent-search): A browser extension to search for magnet links from The Pirate Bay directly from a popup toolbar
 * [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
