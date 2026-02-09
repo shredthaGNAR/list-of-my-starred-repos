@@ -2766,6 +2766,7 @@
 * [mozilla/sign-addon](https://github.com/mozilla/sign-addon): Sign a Firefox add-on with Mozilla's web service
 * [ineat/signature](https://github.com/ineat/signature): How to have a nice signature for emails
 * [ronfybish/Signature-Generator](https://github.com/ronfybish/Signature-Generator): Email Signature Generator - React & Firebase
+* [silexlabs/Silex](https://github.com/silexlabs/Silex): Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 * [SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher): Launcher scripts for SillyTavern and ST-Extras.
 * [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet): An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 * [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search): An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be used just out-of-box.
