@@ -3093,6 +3093,7 @@
 * [trockerapp/trocker](https://github.com/trockerapp/trocker): This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
 * [opa334/TrollStore](https://github.com/opa334/TrollStore): Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 * [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch): Gets info from truepeoplesearch.com and adds it to Maltego
+* [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel): Modern, fast and obfuscated VPN protocol
 * [syanle/ts-commercials-remover](https://github.com/syanle/ts-commercials-remover): MPEG-TS stream workflow
 * [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): Your self hosted YouTube media server
 * [meeb/tubesync](https://github.com/meeb/tubesync): Syncs YouTube channels and playlists to a locally hosted media server
