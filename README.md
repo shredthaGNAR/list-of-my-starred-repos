@@ -2509,7 +2509,7 @@
 * [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon): Open source neutral style icon system
 * [qzz0518/remove-HyperSwitch-expired-dialog](https://github.com/qzz0518/remove-HyperSwitch-expired-dialog): remove HyperSwitch error expired dialog
 * [Cat7373/remove-web-limits](https://github.com/Cat7373/remove-web-limits): 通杀大部分网站，可以解除禁止复制、剪切、选择文本、右键菜单的限制。
-* [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions): A browser extension that removes YouTube suggestions, comments, shorts, and more
+* [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions): A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.
 * [xia4zhi3yun2/remove_commercial](https://github.com/xia4zhi3yun2/remove_commercial): remove commercial and detect logo in video
 * [IkoHD/Remove_Proton_Duplicates](https://github.com/IkoHD/Remove_Proton_Duplicates): Just a small as possbile python script to clean the proton export csv.
 * [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing):  The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
