@@ -1022,8 +1022,8 @@
 * [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox): 🦊 Awesome Firefox
 * [crssi/Firefox](https://github.com/crssi/Firefox): None
 * [kbc8090/firefox](https://github.com/kbc8090/firefox): My heavily modified FirefoxCSS based on material-fox-updated
-* [nathantebbs/firefox](https://github.com/nathantebbs/firefox): Utilities for configuring the Firefox broser on MacOS & Linux
 * [nonoroazoro/firefox](https://github.com/nonoroazoro/firefox): Customized Extensions, Scripts, UserChromeJS and Rules of Firefox.
+* [vetr0s/firefox](https://github.com/vetr0s/firefox): Utilities for configuring the Firefox broser on MacOS & Linux
 * [pellaeon/firefox-91plus-photon-userchrome](https://github.com/pellaeon/firefox-91plus-photon-userchrome): userChrome.css to restore the classic Photon look on Firefox 91+
 * [ACEx86/Firefox-about-config-tweaks](https://github.com/ACEx86/Firefox-about-config-tweaks): Firefox about:config useful tweaks.
 * [easonwong-de/Firefox-Adaptive-Sur-Theme](https://github.com/easonwong-de/Firefox-Adaptive-Sur-Theme): A macOS-styled Firefox CSS theme based on Firefox WhiteSur theme with Adaptive Tab Bar Colour support.
