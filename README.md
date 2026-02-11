@@ -265,6 +265,7 @@
 * [tamcore/autoupdate-oh-my-zsh-plugins](https://github.com/tamcore/autoupdate-oh-my-zsh-plugins): Plugin for oh-my-zsh to automatically update custom-plugins
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
+* [robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3): A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 * [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents
 * [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
 * [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools): A curated list of 7766 awesome AI tools
@@ -2510,6 +2511,7 @@
 * [samueldobbie/remarkable-extension](https://github.com/samueldobbie/remarkable-extension): Keep your bookmarks clean & up-to-date 🔄
 * [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon): Open source neutral style icon system
 * [qzz0518/remove-HyperSwitch-expired-dialog](https://github.com/qzz0518/remove-HyperSwitch-expired-dialog): remove HyperSwitch error expired dialog
+* [jwells89/Remove-Quarantine-Bit-Quick-Action](https://github.com/jwells89/Remove-Quarantine-Bit-Quick-Action): An automator quick action for removing the quarantine bit on un-notarized Mac apps.
 * [Cat7373/remove-web-limits](https://github.com/Cat7373/remove-web-limits): 通杀大部分网站，可以解除禁止复制、剪切、选择文本、右键菜单的限制。
 * [lawrencehook/remove-youtube-suggestions](https://github.com/lawrencehook/remove-youtube-suggestions): A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.
 * [xia4zhi3yun2/remove_commercial](https://github.com/xia4zhi3yun2/remove_commercial): remove commercial and detect logo in video
@@ -2775,6 +2777,7 @@
 * [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups): Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 * [migueravila/simplefox](https://github.com/migueravila/simplefox): A Userstyle theme for Firefox minimalist and Keyboard centered.
 * [Automattic/simplenote-macos](https://github.com/Automattic/simplenote-macos): Simplenote for macOS
+* [Simply-Static/simply-static](https://github.com/Simply-Static/simply-static): Convert your WordPress site into a static one with the free WordPress static site generator plugin, Simply Static.
 * [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli): CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)
 * [gildas-lormeau/single-file-companion](https://github.com/gildas-lormeau/single-file-companion): None
 * [gildas-lormeau/single-file-companion-lite](https://github.com/gildas-lormeau/single-file-companion-lite): SingleFile Companion Lite
