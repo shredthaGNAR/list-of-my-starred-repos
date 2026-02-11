@@ -690,6 +690,7 @@
 * [schollz/croc](https://github.com/schollz/croc): Easily and securely send things from one computer to another :crocodile: :package:
 * [uazo/cromite](https://github.com/uazo/cromite): Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 * [Medformatik/CrossDrop](https://github.com/Medformatik/CrossDrop): CrossDrop is a partial implementation of Google's Quick Share in Flutter for macOS, iOS and Linux. CrossDrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.
+* [charmbracelet/crush](https://github.com/charmbracelet/crush): Glamourous agentic coding for all 💘
 * [warren-bank/crx-Tubi-TV](https://github.com/warren-bank/crx-Tubi-TV): website userscript: redirect embedded videos from "tubitv.com" to an external player
 * [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer): Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
 * [dejurin/crypto-converter-widget](https://github.com/dejurin/crypto-converter-widget): Crypto and Currency Converter HTML/JS Widget for any websites. Very simple for embeds — just one tag.
@@ -1909,6 +1910,7 @@
 * [thebaer/MMRA](https://github.com/thebaer/MMRA): Make Medium Readable Again — a browser extension
 * [ScanuNicco/Modern-ThunderBird](https://github.com/ScanuNicco/Modern-ThunderBird): A userChrome.css theme to make thunderbird resemble Firefox 89+
 * [keith/ModMove](https://github.com/keith/ModMove): Move/Resize windows using modifiers and the mouse
+* [charmbracelet/mods](https://github.com/charmbracelet/mods): AI on the command line
 * [monero-project/monero](https://github.com/monero-project/monero): Monero: the secure, private, untraceable cryptocurrency
 * [monero-project/monero-gui](https://github.com/monero-project/monero-gui): Monero: the secure, private, untraceable cryptocurrency
 * [WooKeyWallet/monero-nodes](https://github.com/WooKeyWallet/monero-nodes): Monero Nodes
