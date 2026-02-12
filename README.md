@@ -298,6 +298,7 @@
 * [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini): A collection of awesome things regarding the gemini protocol ecosystem.
 * [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps): A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
 * [bartcctv/awesome-gemini-prompts](https://github.com/bartcctv/awesome-gemini-prompts): Gemini Prompts, Bard Prompts, LLM Prompts, LangGPT
+* [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile which updates in real time 
 * [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store): A curated list of awesome GPTs in the GPT Store
 * [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store): This repo includes all customized GPTs on openai gpt store
 * [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines): A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -1302,6 +1303,7 @@
 * [k0src/GitSync](https://github.com/k0src/GitSync): Sync Firefox windows, tabs, and tab groups via GitHub
 * [aritrakrbasu/gitty](https://github.com/aritrakrbasu/gitty): Gitty is a handy tool that will instantly transform your github account to a presentable portfolio website that you can share. 
 * [gitx/gitx](https://github.com/gitx/gitx): The best fork of the best lightweight, visual git client for macOS.
+* [KinoLien/gitzip](https://github.com/KinoLien/gitzip): It can make sub-folder/sub-directory of github repository as zip and download it.
 * [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi): An unofficial client for the Google Keep API.
 * [chamburr/glance](https://github.com/chamburr/glance): 🔎 All-in-one Quick Look plugin
 * [Ashley-Cause/GlassFox](https://github.com/Ashley-Cause/GlassFox): Firefox Theme for macOS which makes the browser fully transparent through some questionable styling choices.
