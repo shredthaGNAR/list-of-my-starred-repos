@@ -139,6 +139,7 @@
 * [sindresorhus/alfy](https://github.com/sindresorhus/alfy): Create Alfred workflows with ease
 * [djui/alias-tips](https://github.com/djui/alias-tips): An oh-my-zsh plugin to help remembering those aliases you defined once
 * [wojciechkrol/alice-ai-raycast](https://github.com/wojciechkrol/alice-ai-raycast): Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes.
+* [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord): A mod for the Discord Android App
 * [lunu-bounir/allow-right-click](https://github.com/lunu-bounir/allow-right-click): A browser extension to release right-click context menu blockage
 * [AllToMP3/alltomp3-app](https://github.com/AllToMP3/alltomp3-app): Download and Convert YouTube, SoundCloud & Spotify in MP3 with full tags (title, artist, genre, cover, lyrics 🔥)
 * [dnomd343/alltube-docker](https://github.com/dnomd343/alltube-docker): Docker of AllTube Download
@@ -2139,6 +2140,7 @@
 * [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 * [XInTheDark/openai-to-ollama-api](https://github.com/XInTheDark/openai-to-ollama-api): A simple, lightweight OpenAI to Ollama API adapter
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+* [openclaw/openclaw](https://github.com/openclaw/openclaw): Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 * [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher): Experience macOS just like before
 * [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg): OpenCore bootloader
 * [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
@@ -2405,6 +2407,7 @@
 * [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists): 🚀 A hand-curated list of free, open, and developer-friendly APIs
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [GetPublii/Publii](https://github.com/GetPublii/Publii): The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+* [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): JavaScript API for Chrome and Firefox
 * [sindresorhus/pure](https://github.com/sindresorhus/pure): Pretty, minimal and fast ZSH prompt
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
 * [drduh/Purse](https://github.com/drduh/Purse): GnuPG asymmetric secrets manager - works with YubiKey!
