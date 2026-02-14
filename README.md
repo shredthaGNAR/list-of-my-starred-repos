@@ -1264,7 +1264,7 @@
 * [defunkt/gist](https://github.com/defunkt/gist): Potentially the best command line gister.
 * [weakish/gister](https://github.com/weakish/gister): command line tool to sync github gists
 * [epoch/gistlord](https://github.com/epoch/gistlord): fast github gist searcher viewer editor manager note taker built with React & Redux
-* [Gisto/Gisto](https://github.com/Gisto/Gisto): Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud sync
+* [Gisto/Gisto](https://github.com/Gisto/Gisto): Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists or GitLab snippets Infrastructure which means you can use all your existing snippets by connecting your GitHub/GitLab account!
 * [codinginbarn/GistoSnips](https://github.com/codinginbarn/GistoSnips): Gisto is a Cross-platform snippets management application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud sync
 * [lostintangent/gistpad](https://github.com/lostintangent/gistpad): 📘 VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 * [mufeedvh/gisture](https://github.com/mufeedvh/gisture): A minimal and flexible blog generator based on GitHub Gist.
