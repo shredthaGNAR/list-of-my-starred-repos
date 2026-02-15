@@ -2202,7 +2202,6 @@
 * [PushkraJ99/ParamSpider](https://github.com/PushkraJ99/ParamSpider):  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing 
 * [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider):  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing 
 * [roddhjav/pass-import](https://github.com/roddhjav/pass-import): A pass extension for importing data from most existing password managers
-* [passwall/passwall-extension](https://github.com/passwall/passwall-extension): Official browser extension for Passwall
 * [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer): 📋 Inspect the system pasteboards on macOS
 * [yozdas/PdfCombiner](https://github.com/yozdas/PdfCombiner): This is Automator app built in Mac
 * [benwiggy/PDFsuite](https://github.com/benwiggy/PDFsuite): Python scripts, Automator Services and Quartz Filters for MacOS (OS X) that create, manipulate, and query PDF files
