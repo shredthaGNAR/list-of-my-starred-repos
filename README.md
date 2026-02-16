@@ -2994,6 +2994,7 @@
 * [team-crew/team-crew.github.io](https://github.com/team-crew/team-crew.github.io): None
 * [edo0/Technetium](https://github.com/edo0/Technetium): A focused approach to taming the new Firefox's Proton design
 * [64characters/Telephone](https://github.com/64characters/Telephone): SIP softphone for Mac
+* [llZektorll/Template_Hub](https://github.com/llZektorll/Template_Hub): Obsidian Template Hub started on the 13th of June 2022. It was set up to gather as many note templates as possible.
 * [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater): A template plugin for obsidian
 * [stoically/temporary-containers](https://github.com/stoically/temporary-containers): Firefox Add-on that lets you open automatically managed disposable containers
 * [mgunyho/tere](https://github.com/mgunyho/tere): Terminal file explorer
