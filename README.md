@@ -1635,6 +1635,7 @@
 * [uselibrary/KeepMyGoogleVoice](https://github.com/uselibrary/KeepMyGoogleVoice): Send SMS regularly through Python to keep Google Voice active
 * [dan-and/KeepToText](https://github.com/dan-and/KeepToText): Convert a Google Takeout zip file containing Google Keep notes to a directory of text files, suitable for import into systems such as Evernote
 * [keeweb/keeweb](https://github.com/keeweb/keeweb): Free cross-platform password manager compatible with KeePass
+* [amebalabs/Kefir](https://github.com/amebalabs/Kefir): Control KEF speakers from macOS menu bar
 * [aonez/Keka](https://github.com/aonez/Keka): The macOS & iOS file archiver
 * [theamallalgi/kenkaitheme](https://github.com/theamallalgi/kenkaitheme): KenKai Theme for Visual Studio Code
 * [acidburn0zzz/Kext-Droplet-Big-Sur](https://github.com/acidburn0zzz/Kext-Droplet-Big-Sur): Fork of archived repository from Kext-Droplet-Big-Sur by chris1111 HMF.
