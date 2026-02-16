@@ -657,6 +657,7 @@
 * [DigiDNA/ColorSet](https://github.com/DigiDNA/ColorSet): ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
 * [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia): Columbia by Osborne - Blocks ads, analytics, popups, and trackers
 * [micz/ColumnsWizard](https://github.com/micz/ColumnsWizard): This is a Thunderbird addon that adds some magic to the folder list columns. Check the addon website for more info...
+* [pvrs12/comment-hover](https://github.com/pvrs12/comment-hover): None
 * [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS): PowerShell script for comparing user.js (or prefs.js) files.
 * [timhettler/compass-photoshop-gradient-overlay](https://github.com/timhettler/compass-photoshop-gradient-overlay): A compass extension to translate between Photoshop gradient overlays and CSS linear-gradients
 * [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip): A free commercial detector
