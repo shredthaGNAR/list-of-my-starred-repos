@@ -31,6 +31,7 @@
 * [earthlng/aboutconfig](https://github.com/earthlng/aboutconfig): None
 * [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu): Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️
 * [abp-filters/abp-filters-anti-cv](https://github.com/abp-filters/abp-filters-anti-cv): None
+* [blaise-io/acelink](https://github.com/blaise-io/acelink): Play Ace Streams on macOS using Docker.
 * [bartoszj/acextract](https://github.com/bartoszj/acextract): A tool to list and extract content from Assets.car file.
 * [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify): Deploy Shopify theme with Theme Kit on GitHub Actions
 * [sindresorhus/Actions](https://github.com/sindresorhus/Actions): ⚙️ Supercharge your shortcuts
