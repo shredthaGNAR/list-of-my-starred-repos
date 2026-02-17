@@ -224,12 +224,14 @@
 * [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate): 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Lint-Staged + Commitlint + VSCode
 * [tomcomtang/astro-cartoon-portfolio](https://github.com/tomcomtang/astro-cartoon-portfolio): Astro cartoon portfolio
 * [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme): CV theme for Astro 🚀
+* [shredthaGNAR/astro-cv-theme](https://github.com/shredthaGNAR/astro-cv-theme): None
 * [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio): Portfolio template built with Astro, React, TypeScript and TailwindCSS.
 * [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio): This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the developer's skills, projects, and contact information. The website is responsive, accessible, and SEO-friendly.
 * [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
 * [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme): Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
 * [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate): Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!
+* [shredthaGNAR/astroship](https://github.com/shredthaGNAR/astroship): None
 * [surjithctly/astroship](https://github.com/surjithctly/astroship): Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 * [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind): ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
 * [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT): Tool build YouTube revanced mods auto.
@@ -817,6 +819,7 @@
 * [kkebo/DNSecure](https://github.com/kkebo/DNSecure): DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
 * [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest): DNS Performance test
 * [sindresorhus/do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli): Control the macOS `Do Not Disturb` feature from the command-line
+* [SuffolkLITLab/docassemble-filler-extension](https://github.com/SuffolkLITLab/docassemble-filler-extension): A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page. Adapted to work with Docassemble inputs.
 * [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview): Mac OSX app that displays window previews when hovering over app icon on the Dock. 
 * [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab): Window preview app for MacOS (on the dock) using AltTab.
 * [steventheworker/DockAltTab-home](https://github.com/steventheworker/DockAltTab-home): website for DockAltTab
@@ -984,6 +987,7 @@
 * [facebook-adblock/facebook_adblock](https://github.com/facebook-adblock/facebook_adblock): An open-source Ad Blocker for Facebook™
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 * [FakeFiller/fake-filler-extension](https://github.com/FakeFiller/fake-filler-extension): A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
+* [calvinballing/fake-filler-extension](https://github.com/calvinballing/fake-filler-extension): A free browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 * [busiyiworld/fake-raycast-backend](https://github.com/busiyiworld/fake-raycast-backend): A fake Raycast backend that can be deployed to Vercel in just one step.
 * [dumbmatter/fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB): A pure JS in-memory implementation of the IndexedDB API
 * [kfreitag1/FancyFolders](https://github.com/kfreitag1/FancyFolders): Fancy Folders is a macOS application for creating custom folder icons from SF symbols, text, or images.
@@ -1291,6 +1295,7 @@
 * [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator): 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
 * [Shywim/github-repo-size](https://github.com/Shywim/github-repo-size): A Firefox addon showing the size of a Github repository.
+* [pranavmangal/github-repo-size](https://github.com/pranavmangal/github-repo-size): Displays the size of a GitHub repository on its homepage
 * [edgarjs/github-repos-alfred-workflow](https://github.com/edgarjs/github-repos-alfred-workflow): Alfred workflow to easily open GitHub repositories
 * [BaseMax/GitHub-Repository-Export-List](https://github.com/BaseMax/GitHub-Repository-Export-List): Python: A tiny script to get list of all repository of a GitHub user and generate HTML output with style.
 * [sevenc-nanashi/github-snippets](https://github.com/sevenc-nanashi/github-snippets): Adds a section to copy snippet in GitHub repository page.
@@ -1978,6 +1983,7 @@
 * [mhss1/MyBrain](https://github.com/mhss1/MyBrain): All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 * [hisamafahri/mypocket](https://github.com/hisamafahri/mypocket): GetPocket but better!
 * [antonreshetov/mysigmail](https://github.com/antonreshetov/mysigmail): A free and open-source email signature generator for Gmail, Outlook, Apple Mail, etc.
+* [shredthaGNAR/mysite](https://github.com/shredthaGNAR/mysite): None
 * [shredthaGNAR/mytheme](https://github.com/shredthaGNAR/mytheme): firefox userchrome css theme
 * [tj/n](https://github.com/tj/n): Node version management
 * [cyanfish/naps2](https://github.com/cyanfish/naps2): Scan documents to PDF and more, as simply as possible.
@@ -2625,6 +2631,7 @@
 * [117649/SavedPasswordEditorRedux](https://github.com/117649/SavedPasswordEditorRedux): Not Gecko, application to allow creating and editing saved passwords 
 * [mdreier/savetabs](https://github.com/mdreier/savetabs): Save current tabs extension for Firefox
 * [pvpscript/savetabs](https://github.com/pvpscript/savetabs): A web browser extension that allows the user to save every tab's url to a file
+* [shredthaGNAR/scaling-system](https://github.com/shredthaGNAR/scaling-system): None
 * [snlned/sci-hub-scholar](https://github.com/snlned/sci-hub-scholar): Add a Sci-Hub link in Google Scholar results.
 * [shoekla/ScrapeC](https://github.com/shoekla/ScrapeC): ScrapeC is a “mock” search engine, in the fact that it does a lot of what Bing, YouTube, and DuckDuckGo does, but instead of searching its own database it crawls and scrape these search engines and other websites. Along with return links, images, and videos of searches it also return PDFs, Social Media information (Facebook, Twitter, Google+), and Contact Information related to the links that it returns. On top of that ScrapeC also has the same features on a smaller scale for web addresses used as an input. Link: http://scrapec.pythonanywhere.com/
 * [Phisteven/scraping-bets](https://github.com/Phisteven/scraping-bets): Experiments with web srcaping from sports betting websites
