@@ -2826,6 +2826,7 @@
 * [asmvik/skhd](https://github.com/asmvik/skhd):  Simple hotkey daemon for macOS
 * [SerpentDrago/skin.auramod](https://github.com/SerpentDrago/skin.auramod): Auramod Skin for Kodi 18 
 * [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic): None
+* [ErveI/skip-discord-update](https://github.com/ErveI/skip-discord-update): An easy way to skip Discord updates on the macOS app launch.
 * [jonashellmann/skip-prime-video-intro](https://github.com/jonashellmann/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
 * [Skyflash/skyflash.github.io](https://github.com/Skyflash/skyflash.github.io): 🎨 My personal website
 * [MAGICGrants/skylight-wallet](https://github.com/MAGICGrants/skylight-wallet): None
