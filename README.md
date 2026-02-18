@@ -607,6 +607,7 @@
 * [matthewfallshaw/chrome-window-management-scripts](https://github.com/matthewfallshaw/chrome-window-management-scripts): Chrome window and tab management scripts
 * [OtsoBear/chrome2moz](https://github.com/OtsoBear/chrome2moz): chrome extension to firefox extension converter
 * [priyankchheda/chrome_password_grabber](https://github.com/priyankchheda/chrome_password_grabber): Get unencrypted 'Saved Password' from Google Chrome
+* [0x2e73/ChromeFox](https://github.com/0x2e73/ChromeFox): Material Chrome Style Firefox 
 * [jimmyxu/circle](https://github.com/jimmyxu/circle): Logi Circle video downloader
 * [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures): Firefox & Chrome extension for mouse gestures with visual representation of actions
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
@@ -1057,6 +1058,7 @@
 * [vallovic/firefox-colorize-container-toolbar](https://github.com/vallovic/firefox-colorize-container-toolbar): Firefox extension to automatically colorize browser toolbar by matching the color of the active container tab
 * [Mrbigdog99/Firefox-compact](https://github.com/Mrbigdog99/Firefox-compact): Compact userChrome for Firefox Proton
 * [krathalan/firefox-complement](https://github.com/krathalan/firefox-complement): None
+* [chroniflux/firefox-config](https://github.com/chroniflux/firefox-config): None
 * [HamletDuFromage/firefox-css](https://github.com/HamletDuFromage/firefox-css): None
 * [Shadow-of-Colossus/Firefox-CSS](https://github.com/Shadow-of-Colossus/Firefox-CSS): A mish mash of css files to change Firefox appearance, more of old style
 * [akisblack/firefox-css](https://github.com/akisblack/firefox-css): My custom CSS for Firefox 
@@ -1094,6 +1096,7 @@
 * [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one): Firefox Theme for Opera One skin Lovers 
 * [nathandaven/firefox-paradise-theme](https://github.com/nathandaven/firefox-paradise-theme): My custom Firefox userChrome profile, setup with right handed vertical tabs, compact layout, and MacOS/Paradise theming. Also works on Windows!
 * [junocomp/firefox-phosh-theme](https://github.com/junocomp/firefox-phosh-theme): None
+* [ElliottSimmonds/Firefox-Photonify](https://github.com/ElliottSimmonds/Firefox-Photonify): Custom Firefox userChrome to replicate the style of Firefox Photon with some personal touches
 * [amnweb/firefox-plus](https://github.com/amnweb/firefox-plus): CSS tweaks for Firefox
 * [cat-in-136/firefox-prefjs-surveyer](https://github.com/cat-in-136/firefox-prefjs-surveyer): A quick-and-dirty tool of Firefox pref.js survey
 * [nt0g/firefox-profile-stuff](https://github.com/nt0g/firefox-profile-stuff): As advertised on TV !
@@ -1265,6 +1268,7 @@
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
 * [finia2NA/getter](https://github.com/finia2NA/getter): A multi-workflow YouTube downloader
 * [shredthaGNAR/gh-bookmarks](https://github.com/shredthaGNAR/gh-bookmarks): None
+* [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension): Ghostery Browser Extension for Firefox, Chrome, Opera, Edge and Safari
 * [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS): Py2/py3 script that can download macOS components direct from Apple
 * [RaKeerS/Gif-Finder](https://github.com/RaKeerS/Gif-Finder): This is a web app created to be utilized in order to fetch the Gif Images from the Giphy Images Repository. It offer different categories and also a custom search tool in order to find what you exactly need! 
 * [defunkt/gist](https://github.com/defunkt/gist): Potentially the best command line gister.
@@ -1401,6 +1405,8 @@
 * [arkenfox/gui](https://github.com/arkenfox/gui): A companion gui for arkenfox user.js
 * [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01): Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascript website this boilerplate is for you. 
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
+* [akkva/gwfox](https://github.com/akkva/gwfox): Bringing a refreshing macOS-inspired skin to Firefox
+* [akkva/GWfox-T](https://github.com/akkva/GWfox-T): A macOS Tahoe-style Firefox theme 
 * [glomatico/gytmdl](https://github.com/glomatico/gytmdl): A command-line app for downloading YouTube Music songs with tags from YouTube Music.
 * [mofach90/hackathon-24jan26-sponsor-skipper-firefox](https://github.com/mofach90/hackathon-24jan26-sponsor-skipper-firefox): None
 * [SirAlidadi/HackBar](https://github.com/SirAlidadi/HackBar): Hackbar Firefox Extension
@@ -1721,6 +1727,7 @@
 * [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 * [Shopify/liquid](https://github.com/Shopify/liquid): Liquid markup language. Safe, customer facing template language for flexible web apps. 
 * [EvgeniyMukhamedjanov/liquid-ajax-cart](https://github.com/EvgeniyMukhamedjanov/liquid-ajax-cart): Build a Shopify Ajax-cart without JavaScript coding
+* [miloszfalinski/liquid-fox](https://github.com/miloszfalinski/liquid-fox): A transparent Firefox theme for macOS with vibrancy blur, rounded panels, and a subtle gradient tint
 * [harttle/liquidjs](https://github.com/harttle/liquidjs): A simple, expressive, safe and Shopify compatible template engine in pure JavaScript.
 * [yousefebrahimi0/list-ai-extensions-chrome-addons-firefox](https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox): Complete list of AI-powered Extensions for Google Chrome & Addons for Firefox
 * [fregante/list-github-dir-content](https://github.com/fregante/list-github-dir-content): List all the files in a GitHub repo’s directory
@@ -1971,6 +1978,7 @@
 * [Thunderarea/music-mode-for-youtube](https://github.com/Thunderarea/music-mode-for-youtube): Browser extension for hiding the video on YouTube and blocking the video and playing only the audio on YouTube Music 
 * [shredthaGNAR/my-awesome-starred](https://github.com/shredthaGNAR/my-awesome-starred): None
 * [shredthaGNAR/my-awesome-stars](https://github.com/shredthaGNAR/my-awesome-stars): my list of github stars fork
+* [kd8tbs/my-Betterfox](https://github.com/kd8tbs/my-Betterfox): Betterfox fork with my prefered overrides
 * [abdel7ak96/my-email-signature](https://github.com/abdel7ak96/my-email-signature): Email signature
 * [pnthach95/my-firefox-theme](https://github.com/pnthach95/my-firefox-theme): None
 * [martinkorelic/my-joplin-theme](https://github.com/martinkorelic/my-joplin-theme): My Joplin App userstyle and userchrome theme style.
