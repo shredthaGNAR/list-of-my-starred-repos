@@ -7847,6 +7847,9 @@
     "photoprism/photoprism": [
         "Other"
     ],
+    "pieces-app/support": [
+        "Other"
+    ],
     "piejanssens/premiumizer": [
         "Other"
     ],
@@ -8181,6 +8184,12 @@
         "Other"
     ],
     "raycast/extensions": [
+        "Other"
+    ],
+    "raycast/extensions-template": [
+        "Other"
+    ],
+    "raycast/prompt-explorer": [
         "Other"
     ],
     "raycast/script-commands": [
