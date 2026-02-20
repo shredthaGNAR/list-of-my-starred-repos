@@ -649,7 +649,7 @@
 * [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim): ✨ AI Coding, Vim Style
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
-* [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub): CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub.
+* [febinbellamy/CodeHub](https://github.com/febinbellamy/CodeHub): CodeHub is an open-source browser extension that automatically pushes your Codewars submissions to GitHub. Used over 20k times by 300+ developers.
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks, Snippets and Notes Manager for Developers & Co (website)
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
 * [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
