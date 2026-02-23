@@ -1136,6 +1136,7 @@
 * [fuyu0425/firefox-tweaks](https://github.com/fuyu0425/firefox-tweaks): My FireFox Tweaks
 * [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix): 🦊 I respect proton UI and aim to improve it.
 * [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js): 🦊 Firefox user.js – based on arkenfox/user.js with additional UI fixes.
+* [razak17/firefox-user.js](https://github.com/razak17/firefox-user.js): fox_face Firefox user.js – based on arkenfox/user.js with additional UI enhancements. 
 * [icpantsparti/firefox-user.js-tool](https://github.com/icpantsparti/firefox-user.js-tool): Interactive view, compare, and more for Firefox user.js (eg arkenfox/user.js) + about:config functions
 * [icpantsparti2/firefox-user.js-tool](https://github.com/icpantsparti2/firefox-user.js-tool): Interactive view, compare, and more for Firefox user.js (eg arkenfox/user.js) + about:config functions
 * [Guerra24/Firefox-UWP-Style](https://github.com/Guerra24/Firefox-UWP-Style): Sun Valley + MDL2 Theme for Firefox
@@ -3461,6 +3462,7 @@
 * [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A feature-rich command-line audio/video downloader
 * [ohmybahgosh/YT-DLP-SCRIPTS](https://github.com/ohmybahgosh/YT-DLP-SCRIPTS): ...Just a place for me to share my various YT-DLP & related bash scripts.
 * [shailshouryya/yt-videos-list](https://github.com/shailshouryya/yt-videos-list): Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for YouTube videos list  updates.
+* [exwm/yt_clipper](https://github.com/exwm/yt_clipper): Mark up YouTube videos in browser and quickly generate video clips. Mark up local videos on https://exwm.github.io/yt_clipper.
 * [tyilo/yt_dlp_firefox](https://github.com/tyilo/yt_dlp_firefox): None
 * [ytb2mp3/ytb2mp3](https://github.com/ytb2mp3/ytb2mp3): Convert YouTube videos to mp3 files via the command-line
 * [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis): Full-featured audio/video downloader for Android using yt-dlp
