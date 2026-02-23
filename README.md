@@ -317,6 +317,7 @@
 * [Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables): 🦄🔒 Awesome list of secrets in environment variables 🖥️
 * [langgptai/awesome-llama-prompts](https://github.com/langgptai/awesome-llama-prompts): LLM prompts, llama3 prompts, llama2 prompts
 * [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
+* [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 * [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms): Compare open-source local LLM inference projects by their metrics to assess popularity and activeness.
 * [HoMeCracKeR/awesome-mac](https://github.com/HoMeCracKeR/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
