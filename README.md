@@ -167,6 +167,7 @@
 * [ait-cs-IaaS/ansible-firefox-autoconfig](https://github.com/ait-cs-IaaS/ansible-firefox-autoconfig): Ansible Role Installs firefox and makes it configurable through environment variables
 * [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod): A podcast manager for Android
 * [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M): App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
+* [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin): Personal theme for Obsidian
 * [nightmare-space/any_share](https://github.com/nightmare-space/any_share): Fast Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
 * [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 * [Mintplex-Labs/anythingllm-extension](https://github.com/Mintplex-Labs/anythingllm-extension): Browser extension for AnythingLLM Docker & Desktop application
