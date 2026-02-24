@@ -2418,7 +2418,7 @@
 * [nkmr-jp/prompt-line](https://github.com/nkmr-jp/prompt-line): Prompt Line is a macOS app developed to improve the prompt input experience in the terminal for CLI-based AI coding agents such as Claude Code, Gemini CLI, OpenAI Codex CLI, and Aider. 
 * [sangddn/prompt_builder](https://github.com/sangddn/prompt_builder): A macOS tool to build long-context prompts for models like OpenAI o3 and Gemini 2.5.
 * [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo): Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
-* [f/prompts.chat](https://github.com/f/prompts.chat): a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+* [f/prompts.chat](https://github.com/f/prompts.chat): f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree): Cross platform GUI plist editor written in python.
 * [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy): Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns. 
 * [ProtonMail/proton-mail](https://github.com/ProtonMail/proton-mail): React web application to manage ProtonMail 
