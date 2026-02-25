@@ -1229,7 +1229,7 @@
 * [tssandor/gasbar](https://github.com/tssandor/gasbar): Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
 * [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X
 * [ttscoff/gather-cli](https://github.com/ttscoff/gather-cli): None
-* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby): The best React-based framework with performance, scalability and security built in.
+* [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby): React-based framework with performance, scalability, and security built in.
 * [wonism/gatsby-advanced-blog](https://github.com/wonism/gatsby-advanced-blog): Gatsby starter for advanced blog
 * [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter): A high performance skeleton starter for GatsbyJS with an advanced feature set.
 * [Vagr9K/gatsby-material-starter](https://github.com/Vagr9K/gatsby-material-starter): A high performance blog starter with Material design in mind for GatsbyJS.
