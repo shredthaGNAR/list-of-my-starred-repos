@@ -617,7 +617,7 @@
 * [jimmyxu/circle](https://github.com/jimmyxu/circle): Logi Circle video downloader
 * [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures): Firefox & Chrome extension for mouse gestures with visual representation of actions
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
-* [sp4ceCCXXI/classic-tabs-firefox](https://github.com/sp4ceCCXXI/classic-tabs-firefox): None
+* [0x7370346365/classic-tabs-firefox](https://github.com/0x7370346365/classic-tabs-firefox): None
 * [opactorai/Claudable](https://github.com/opactorai/Claudable): Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts): All parts of Claude Code's system prompt, 18 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
