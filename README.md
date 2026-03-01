@@ -1228,7 +1228,7 @@
 * [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery): A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 * [sted9000/gambit](https://github.com/sted9000/gambit): Learn Pot Limit Omaha Starting Ranges
 * [tssandor/gasbar](https://github.com/tssandor/gasbar): Ethereum Gas Fee for the MacBook Pro touchbar (using BetterTouchTool)
-* [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X
+* [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for macOS
 * [ttscoff/gather-cli](https://github.com/ttscoff/gather-cli): None
 * [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby): React-based framework with performance, scalability, and security built in.
 * [wonism/gatsby-advanced-blog](https://github.com/wonism/gatsby-advanced-blog): Gatsby starter for advanced blog
