@@ -10028,6 +10028,9 @@
     "webtorrent/webtorrent": [
         "Other"
     ],
+    "weierz/chrome-read-later": [
+        "Other"
+    ],
     "wesbos/burner-email-providers": [
         "Other"
     ],
@@ -10044,9 +10047,6 @@
         "Other"
     ],
     "will-stone/browserosaurus": [
-        "Other"
-    ],
-    "willbchang/chrome-read-later": [
         "Other"
     ],
     "willfarrell/alfred-youtube-workflow": [
