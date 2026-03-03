@@ -3327,7 +3327,6 @@
 * [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued): Enable Acrylic/Glass effect for your VS Code.
 * [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows): Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
 * [Kocal/vue-web-extension](https://github.com/Kocal/vue-web-extension): 🛠️ A Vue CLI 3+ preset (previously a Vue CLI 2 boilerplate) for quickly starting a web extension with Vue, Babel, ESLint and more!
-* [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension): Browser extension to spoof timezone, geolocation, locale and user agent.
 * [sedemmler/WagerBrain](https://github.com/sedemmler/WagerBrain): A package containing the essential math required for sports betting and gambling.
 * [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 * [wallabag/wallabagger](https://github.com/wallabag/wallabagger): Chrome-like / Firefox plugin for wallabag v2.
