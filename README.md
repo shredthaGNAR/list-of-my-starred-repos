@@ -169,7 +169,7 @@
 * [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M): App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 * [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin): Personal theme for Obsidian
 * [nightmare-space/any_share](https://github.com/nightmare-space/any_share): Fast Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
-* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 * [Mintplex-Labs/anythingllm-extension](https://github.com/Mintplex-Labs/anythingllm-extension): Browser extension for AnythingLLM Docker & Desktop application
 * [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player): Simple, easy to use Podcast player app written in Flutter and Dart.
 * [drcika/apc-extension](https://github.com/drcika/apc-extension): None
