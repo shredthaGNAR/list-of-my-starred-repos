@@ -1418,6 +1418,7 @@
 * [akkva/gwfox](https://github.com/akkva/gwfox): Bringing a refreshing macOS-inspired skin to Firefox
 * [akkva/GWfox-T](https://github.com/akkva/GWfox-T): A macOS Tahoe-style Firefox theme 
 * [glomatico/gytmdl](https://github.com/glomatico/gytmdl): A command-line app for downloading YouTube Music songs with tags from YouTube Music.
+* [Mattlk13/h4cker](https://github.com/Mattlk13/h4cker): This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 * [mofach90/hackathon-24jan26-sponsor-skipper-firefox](https://github.com/mofach90/hackathon-24jan26-sponsor-skipper-firefox): None
 * [SirAlidadi/HackBar](https://github.com/SirAlidadi/HackBar): Hackbar Firefox Extension
 * [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData): Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
