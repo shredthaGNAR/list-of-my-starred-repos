@@ -1287,6 +1287,7 @@
 * [lostintangent/gistpad](https://github.com/lostintangent/gistpad): 📘 VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 * [mufeedvh/gisture](https://github.com/mufeedvh/gisture): A minimal and flexible blog generator based on GitHub Gist.
 * [git/git](https://github.com/git/git): Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+* [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager): Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 * [pomber/git-history](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository
 * [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek): git repo to local editor instantly
 * [jag-k/git-raycast](https://github.com/jag-k/git-raycast): Automate git using Raycast AI
@@ -1927,7 +1928,7 @@
 * [slimcandy/MetaCleaner](https://github.com/slimcandy/MetaCleaner): Remove metadata from your images online.
 * [duolingo/metasearch](https://github.com/duolingo/metasearch): Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 * [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist): YouTube Music client for Android
-* [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+* [alexta69/metube](https://github.com/alexta69/metube): Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
 * [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
 * [MikeFighting/MFSractchView](https://github.com/MikeFighting/MFSractchView): The tool used for scratch lottery. 
 * [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE): GmsCore fork for Morphe patched apps
