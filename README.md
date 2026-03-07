@@ -1429,6 +1429,7 @@
 * [poker-apprentice/hand-history-analyzer](https://github.com/poker-apprentice/hand-history-analyzer): Extract helpful statistics about a poker player's tendencies from a hand history
 * [poker-apprentice/hand-history-parser](https://github.com/poker-apprentice/hand-history-parser): Parse hand histories from online poker sites
 * [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's development repository 
+* [av/harbor](https://github.com/av/harbor): One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 * [jgressmann/harbour-vodman](https://github.com/jgressmann/harbour-vodman): Vodman lets you download videos (VODs) from the internet to your SailfishOS device
 * [claytonjn/hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting): Circadian Lighting custom component for Home Assistant
 * [yangqian/hass-gelight](https://github.com/yangqian/hass-gelight): Home assistant custom component to control C by GE smart light bulb locally via Bluetooth
