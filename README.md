@@ -2098,7 +2098,7 @@
 * [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater): None
 * [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections): Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 * [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates): :rocket: Starter templates for Obsidian.md
-* [mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings): A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
+* [obsidian-community/obsidian-style-settings](https://github.com/obsidian-community/obsidian-style-settings): A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
 * [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template): Starter templates for Obsidian
 * [groepl/Obsidian-Templates](https://github.com/groepl/Obsidian-Templates): A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
 * [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin): Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
