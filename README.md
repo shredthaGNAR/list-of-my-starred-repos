@@ -2290,6 +2290,8 @@
 * [nicinabox/plistbuddy](https://github.com/nicinabox/plistbuddy): A handy tool to manipulate plist files. Useful for iOS development.
 * [joplin/plugin-templates](https://github.com/joplin/plugin-templates): Create templates in Joplin and use them to create new notes and todos.
 * [Dis90/plugin.video.discoveryplus](https://github.com/Dis90/plugin.video.discoveryplus): discovery+ add-on for Kodi
+* [bbviking/plugin.video.seren](https://github.com/bbviking/plugin.video.seren): Repository for Seren Development
+* [nixgates/plugin.video.seren](https://github.com/nixgates/plugin.video.seren): Repository for Seren Development
 * [joplin/plugins](https://github.com/joplin/plugins): Joplin official plugin repository
 * [withfig/plugins](https://github.com/withfig/plugins): Plugin store for zsh, bash & fish.
 * [evoactivity/PlutoIPTV](https://github.com/evoactivity/PlutoIPTV): Grab EPG & M3U from Pluto.tv
@@ -3246,7 +3248,6 @@
 * [VicDobrov/UserChromeFiles](https://github.com/VicDobrov/UserChromeFiles): UserChromeFiles © Vitaliy V.
 * [harv/userChromeJS](https://github.com/harv/userChromeJS): My userChromeJS scripts!
 * [jikamens/userChromeJS](https://github.com/jikamens/userChromeJS): Re-implementation of the userChromeJS add-on for Thunderbird 60+
-* [myfreeer/userChromeJS](https://github.com/myfreeer/userChromeJS): userChrome.js scripts for firefox
 * [myfreeer/userChromeJS](https://github.com/myfreeer/userChromeJS): userChrome.js scripts for firefox
 * [zephyrer/userChromeJS](https://github.com/zephyrer/userChromeJS): uc.js, uc.xul collections
 * [RJ-Infinity/UserChromeScriptLoader](https://github.com/RJ-Infinity/UserChromeScriptLoader): None
