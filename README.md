@@ -2466,7 +2466,6 @@
 * [dustindmiller/QLab-Touchbar](https://github.com/dustindmiller/QLab-Touchbar): Touch Bar BTT config for QLab.
 * [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown): macOS Quick Look extension for Markdown files.
 * [Watson1978/QLMarkdownGFM](https://github.com/Watson1978/QLMarkdownGFM): Quicklook plugin for Github Flavored Markdown
-* [Marginal/QLVideo](https://github.com/Marginal/QLVideo): This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 * [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo): MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip (.gz), lha, BinHex 4.0 (.hqx), ePub (.epub), and Stuffit (.sit) archives, and ISO9660 images
 * [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 * [monyxie/qr-lite](https://github.com/monyxie/qr-lite): A browser extension for generating and scanning QR codes.
@@ -2483,6 +2482,7 @@
 * [chhoumann/quickadd](https://github.com/chhoumann/quickadd): QuickAdd for Obsidian
 * [RealRaven2000/quickFilters](https://github.com/RealRaven2000/quickFilters): Thunderbird Add-on: quickFilters 
 * [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders): Thunderbird Add-on: QuickFolders
+* [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo): This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 * [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver): Quicksilver Project Source
 * [jobisoft/quicktext](https://github.com/jobisoft/quicktext): An extension for Thunderbird that lets you create templates that can be easily inserted into your own emails.
 * [kamryn404/quietfox](https://github.com/kamryn404/quietfox): Very Clean Firefox userChrome Mod
