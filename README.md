@@ -2401,7 +2401,7 @@
 * [ryanoasis/powerline-extra-symbols](https://github.com/ryanoasis/powerline-extra-symbols): :arrow_forward: Extra glyphs for your powerline separators
 * [DanaMW/PowerShell-TuneUp](https://github.com/DanaMW/PowerShell-TuneUp): PowerShell scripts and snips for the learning curve.
 * [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel): Powerful and extensible proxy server with anti-censorship functionality
-* [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
+* [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): PraisonAI 🦞 is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation,and effective human-agent collaboration
 * [parkermuir/preflop-poker](https://github.com/parkermuir/preflop-poker): Python scripts to navigate Texas Hold 'Em and Pot Limit Omaha preflop decision trees ♠️♣️
 * [MozillaSecurity/prefpicker](https://github.com/MozillaSecurity/prefpicker): Manage & generate prefs.js files
 * [neox387/premiumizer](https://github.com/neox387/premiumizer): None
