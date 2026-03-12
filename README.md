@@ -1918,7 +1918,7 @@
 * [WorldBrain/Memex](https://github.com/WorldBrain/Memex): Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 * [kormyen/memex](https://github.com/kormyen/memex): Simple bookmarks and notes
 * [memex-life/memex](https://github.com/memex-life/memex): Your second brain for the web browsing. An AI powered Chrome extension that constructs personal knowledge base for you. 
-* [usememos/memos](https://github.com/usememos/memos): An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+* [usememos/memos](https://github.com/usememos/memos): Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 * [xudaolong/memos-desktop](https://github.com/xudaolong/memos-desktop): Memos client built on electron cross-end framework
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds): Import NHL data from NHL website and merge odds
