@@ -2386,6 +2386,7 @@
 * [iivvaannxx/portfolio](https://github.com/iivvaannxx/portfolio): ✨ The first iteration of my personal website. Made using Astro, React and Svelte.
 * [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio): My self coded personal website build with React.js
 * [techwithanirudh/portfolio](https://github.com/techwithanirudh/portfolio): Portfolio of Anirudh (techwithanirudh).
+* [toniRamos/portfolio](https://github.com/toniRamos/portfolio): Personal developer portfolio built with Astro, TypeScript, and CSS, featuring a responsive design, smooth animations, and multilingual support (EN/ES). Showcases profile, experience, highlighted projects, contact info, and social links — a clean and professional presentation.
 * [ThemeMarket/portfolio-demo-1](https://github.com/ThemeMarket/portfolio-demo-1): Plantilla de portafolio de desarrollador web
 * [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas): A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜 
 * [SofiDevO/portfolio-sofidev-garrux](https://github.com/SofiDevO/portfolio-sofidev-garrux): Primer blog con astro
