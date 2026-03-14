@@ -2854,6 +2854,7 @@
 * [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic): None
 * [ErveI/skip-discord-update](https://github.com/ErveI/skip-discord-update): An easy way to skip Discord updates on the macOS app launch.
 * [jonashellmann/skip-prime-video-intro](https://github.com/jonashellmann/skip-prime-video-intro): Firefox addon to automatically skip intros on Amazon Prime Video
+* [xillwillx/skiptracer](https://github.com/xillwillx/skiptracer): OSINT python webscaping framework
 * [Skyflash/skyflash.github.io](https://github.com/Skyflash/skyflash.github.io): 🎨 My personal website
 * [MAGICGrants/skylight-wallet](https://github.com/MAGICGrants/skylight-wallet): None
 * [Etesam913/slick-fox](https://github.com/Etesam913/slick-fox): :fox_face: A firefox config that has rounded tabs and a url bar that can disappear when not selected on. It works with any theme.
@@ -3002,7 +3003,7 @@
 * [cdzombak/tab-lists-ext](https://github.com/cdzombak/tab-lists-ext): Send a tab list from the current window to the Things to-do app or to the clipboard.
 * [xatier/tab-manager](https://github.com/xatier/tab-manager): Simple OneTab replacement
 * [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus): An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager". 
-* [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2): Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
+* [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2): Search, group, move, and clean up tabs across browser windows with a keyboard-first workflow
 * [wildskyf/tab-notes](https://github.com/wildskyf/tab-notes): Browser Add-on: Allow you to write anything in new tab
 * [easonwong-de/Tab-Preview-On-Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover): Adds on-hover tab preview to Firefox before Mozilla does.
 * [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager): WebExtensions for restoring and saving window / tab states
