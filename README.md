@@ -3212,6 +3212,7 @@
 * [eigenwallet/unstoppableswap-gui](https://github.com/eigenwallet/unstoppableswap-gui):  Graphical User Interface (GUI) For Trustless Cross-Chain XMR<>BTC Atomic Swaps. This repository has been moved to: https://github.com/UnstoppableSwap/core
 * [blenderskool/untab](https://github.com/blenderskool/untab): 🔍 A productivity tool to boost your browser workflow!
 * [TheLoserCoder/unvisited_tabs_indicator](https://github.com/TheLoserCoder/unvisited_tabs_indicator): None
+* [2lach/update-all-repos](https://github.com/2lach/update-all-repos): One command to update all your repos
 * [alfredapp/update-automation-tasks-workflow](https://github.com/alfredapp/update-automation-tasks-workflow): Update Automation Tasks During Alfred 5 Early Access
 * [alfredapp/updated-third-party-python2-workflows](https://github.com/alfredapp/updated-third-party-python2-workflows): Third-party Python 2 Workflows updated to work on macOS Monterey 12.3 and above
 * [actions/upload-artifact](https://github.com/actions/upload-artifact): None
