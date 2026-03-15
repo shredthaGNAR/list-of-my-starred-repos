@@ -1533,6 +1533,7 @@
 * [stefansl/image-shrinker](https://github.com/stefansl/image-shrinker): App for macOS. Minify your images and graphics with just one drop. Autorenamed in the same place where it comes from. Immediately!
 * [ashwinishet/Image-Web-Scraper](https://github.com/ashwinishet/Image-Web-Scraper): This application is used for scraping images from google image search
 * [idealo/imagededup](https://github.com/idealo/imagededup): 😎 Finding duplicate images made easy!
+* [jabberjabberjabber/ImageIndexer](https://github.com/jabberjabberjabber/ImageIndexer): Creates an index of images, queries a local LLM and adds tags to the image metadata
 * [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim): GUI image optimizer for Mac
 * [Danamir/imap-attachment-extractor](https://github.com/Danamir/imap-attachment-extractor): IMAP attachment exporter, with optional Thunderbird detach mode
 * [valinet/IMAPNotes](https://github.com/valinet/IMAPNotes): This is a simple Thunderbird extension (compatible with Thunderbird 78+ as of January 2021) that allows editing notes created, edited and synced from the iPhone Notes app.
