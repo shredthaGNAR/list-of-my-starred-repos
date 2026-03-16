@@ -808,7 +808,7 @@
 * [QJX-XXXX/devportfolio](https://github.com/QJX-XXXX/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 * [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio): A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
 * [Kavakuo/Dict.cc-Alfred-Workflow](https://github.com/Kavakuo/Dict.cc-Alfred-Workflow): None
-* [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+* [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): Make your diffs human readable for improved code quality and faster defect detection. :tada:
 * [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim): Dim, a media manager fueled by dark forces.
 * [nokeya/direct-links-out](https://github.com/nokeya/direct-links-out): Removes all "You are leaving our site" stuff from links
 * [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images): Direct Google Images
