@@ -974,7 +974,7 @@
 * [Pocket/extension-save-to-pocket](https://github.com/Pocket/extension-save-to-pocket): Save to Pocket is a browser extension that is used to save pages to a connected Pocket account
 * [namuorg/extension-starter-kit](https://github.com/namuorg/extension-starter-kit): Starter kit for building Chrome/Firefox extensions
 * [mozilla/extension-workshop](https://github.com/mozilla/extension-workshop): Firefox Extension Workshop
-* [extension-js/extension.js](https://github.com/extension-js/extension.js): 🧩 The cross-browser extension framework
+* [extension-js/extension.js](https://github.com/extension-js/extension.js): Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
 * [chrismessina/extensions](https://github.com/chrismessina/extensions): Everything you need to extend Raycast.
 * [raycast/extensions](https://github.com/raycast/extensions): Everything you need to extend Raycast.
 * [raycast/extensions-template](https://github.com/raycast/extensions-template): Template repository for automatic extensions publishing
