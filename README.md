@@ -2160,6 +2160,7 @@
 * [hy4101/OneTabPro](https://github.com/hy4101/OneTabPro): Save up to 95% of memory and reduce label clutter \n When you find yourself with too many tabs, click the OneTab Pro icon to convert all the tabs into a list. You can restore it or delete it. \n\n Privacy protection \n\n \n\n Information about your tag will never be transmitted or revealed to OneTab Pro developers the tag will never be shared.
 * [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand): An open source browser extension to save your favorite bookmarks on a "new tab" page.
 * [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch): ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+* [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx): Open Source AI Platform - AI Chat with advanced features that works with every LLM
 * [jonschlinkert/open-finder-dialog](https://github.com/jonschlinkert/open-finder-dialog): Open a finder dialog window (finder prompt) programmatically.
 * [lmichelin/open-github-links-in-ide](https://github.com/lmichelin/open-github-links-in-ide): Browser extension allowing to open files in your IDE directly from GitHub, available for Chrome and Firefox.
 * [TheNightmanCodeth/open-in-code](https://github.com/TheNightmanCodeth/open-in-code): Browser extension that adds "Open in Visual Studio Code" button to GitHub repos
