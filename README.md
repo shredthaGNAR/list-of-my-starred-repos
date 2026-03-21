@@ -323,7 +323,7 @@
 * [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 * [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms): Compare open-source local LLM inference projects by their metrics to assess popularity and activeness.
 * [HoMeCracKeR/awesome-mac](https://github.com/HoMeCracKeR/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS):   A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos): A curated list of awesome software for Apple's macOS.
 * [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers): A curated list of Model Context Protocol (MCP) servers
