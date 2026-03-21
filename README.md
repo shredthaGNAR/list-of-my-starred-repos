@@ -769,6 +769,7 @@
 * [fastaddons/Darko](https://github.com/fastaddons/Darko): None
 * [darkreader/darkreader](https://github.com/darkreader/darkreader): Dark Reader Chrome and Firefox extension
 * [uso-archive/data](https://github.com/uso-archive/data): Full mirror of UserStyles.org
+* [akashahmed11/data-scraping](https://github.com/akashahmed11/data-scraping): 📊 Collect historical intraday minute-level data for major Indian stock market indices using a clean, modular Python project designed for educational purposes.
 * [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie): Data Selfie - a browser extension to track yourself on Facebook and analyze your data. 
 * [iptv-org/database](https://github.com/iptv-org/database): User editable database for TV channels.
 * [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore): Work-in-progress successor to Dataview with a focus on UX and speed.
