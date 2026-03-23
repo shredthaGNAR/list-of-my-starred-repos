@@ -892,7 +892,7 @@
 * [diatoming/Drop2Download](https://github.com/diatoming/Drop2Download): macOS menu bar app for youtube-dl GUI
 * [indrastorms/Dropped-Patches](https://github.com/indrastorms/Dropped-Patches): Picked up some dropped patches for ReVanced
 * [coolaj86/dropshare](https://github.com/coolaj86/dropshare): A min.us / ge.tt file share clone.
-* [aptonic/dropzone4-actions](https://github.com/aptonic/dropzone4-actions): Add-on actions and API Docs for Dropzone 4
+* [aptonic/dropzone5-actions](https://github.com/aptonic/dropzone5-actions): Add-on actions and API Docs for Dropzone 5
 * [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
 * [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 * [JosephAlton/duckemail](https://github.com/JosephAlton/duckemail): RayCast extension ( TypeScript, React, Raycast API with useContext .etc )
@@ -3313,7 +3313,7 @@
 * [philc/vimium](https://github.com/philc/vimium): The hacker's browser.
 * [amix/vimrc](https://github.com/amix/vimrc): The ultimate Vim configuration (vimrc)
 * [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey): Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
-* [vira-themes/vira-theme-support](https://github.com/vira-themes/vira-theme-support): Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
+* [vira-themes/vira-assets](https://github.com/vira-themes/vira-assets): Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 * [sanderdebr/visited-places-api](https://github.com/sanderdebr/visited-places-api): Full-stack App - user generated map of visited places. Where have you been to?
 * [VitaliyVstyle/VitaliyVstyle.github.io](https://github.com/VitaliyVstyle/VitaliyVstyle.github.io): UserChromeFiles, Webextensions Experiments
 * [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox): An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
