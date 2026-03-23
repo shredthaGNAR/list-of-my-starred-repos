@@ -1832,6 +1832,9 @@
     "ReVanced/GmsCore": [
         "Other"
     ],
+    "ReVanced/ravanced-patches": [
+        "Other"
+    ],
     "ReVanced/revanced-cli": [
         "Other"
     ],
@@ -1845,9 +1848,6 @@
         "Other"
     ],
     "ReVanced/revanced-patcher": [
-        "Other"
-    ],
-    "ReVanced/revanced-patches": [
         "Other"
     ],
     "ReVanced/revanced-patches-template": [
