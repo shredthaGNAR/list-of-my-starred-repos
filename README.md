@@ -232,6 +232,7 @@
 * [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio): This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the developer's skills, projects, and contact information. The website is responsive, accessible, and SEO-friendly.
 * [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
 * [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme): Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
+* [immois/astro-zen](https://github.com/immois/astro-zen): Minimalist, accessible and SEO-optimized personal portfolio website template.
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
 * [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate): Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!
 * [shredthaGNAR/astroship](https://github.com/shredthaGNAR/astroship): None
