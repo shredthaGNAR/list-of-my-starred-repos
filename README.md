@@ -1794,6 +1794,7 @@
 * [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher): Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
 * [ThatOrJohn/lottery-texas-scratchoffs](https://github.com/ThatOrJohn/lottery-texas-scratchoffs): Populate Neo4J AuraDB with daily Texas Lottery Scratch Ticket claim data
 * [Wkasel/lottery_scraper](https://github.com/Wkasel/lottery_scraper): Scraper for lottery scratchers
+* [davidKolesar/LotteryTicketDataScraper](https://github.com/davidKolesar/LotteryTicketDataScraper): A program that analyzes all scratch off lottery tickets for the state of Pennsylvania and evalutes remaining winners & remaining prize monies for each given ticket (updates real time with Pennsylvania Website)
 * [kawhyte/Lotto-Tickets-API](https://github.com/kawhyte/Lotto-Tickets-API): An API for the Florida Lottery Scratch-off game
 * [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks): 💚 🍴 Show notable forks of GitHub repositories under their names.
 * [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed): LSPosed Framework
@@ -2678,6 +2679,7 @@
 * [shoekla/ScrapeC](https://github.com/shoekla/ScrapeC): ScrapeC is a “mock” search engine, in the fact that it does a lot of what Bing, YouTube, and DuckDuckGo does, but instead of searching its own database it crawls and scrape these search engines and other websites. Along with return links, images, and videos of searches it also return PDFs, Social Media information (Facebook, Twitter, Google+), and Contact Information related to the links that it returns. On top of that ScrapeC also has the same features on a smaller scale for web addresses used as an input. Link: http://scrapec.pythonanywhere.com/
 * [Phisteven/scraping-bets](https://github.com/Phisteven/scraping-bets): Experiments with web srcaping from sports betting websites
 * [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard): Bookmark heavy lifting
+* [EerieGoesD/scratch-ev](https://github.com/EerieGoesD/scratch-ev): Free EV calculator for scratch tickets & lottery. Compare expected value before and after taxes.
 * [AdamEshem/Scratch-Off-Probability](https://github.com/AdamEshem/Scratch-Off-Probability): Gives the probability of each scratch off ticket in the Ohio Lottery.
 * [nate-walter/Scratch-Off-Science](https://github.com/nate-walter/Scratch-Off-Science): A non-gambling data analyst and his scratch off lottery ticket experiment 
 * [ImmaZoni/scratcha](https://github.com/ImmaZoni/scratcha): A simple python script to scrape scratcher data from AZ Lottery website.
