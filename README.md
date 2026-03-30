@@ -275,7 +275,6 @@
 * [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3): A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 * [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents
-* [pyoneerC/awesome-ai-repos](https://github.com/pyoneerC/awesome-ai-repos): A curated list of the most high-leverage tools, papers, and systems for building in the age of AI.
 * [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
 * [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools): A curated list of 7766 awesome AI tools
 * [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search): List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
