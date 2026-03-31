@@ -286,6 +286,7 @@
 * [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking): 🔖 Everything bookmarking related
 * [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
 * [bskim45/awesome-btt-config](https://github.com/bskim45/awesome-btt-config): An curated list of awesome BetterTouchTool configs.
+* [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt): 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 * [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt): A curated list of awesome ChatGPT related projects.
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 * [MissMitsuha/awesome-course-piracy](https://github.com/MissMitsuha/awesome-course-piracy): An index of course piracy resources
@@ -321,9 +322,11 @@
 * [langgptai/awesome-llama-prompts](https://github.com/langgptai/awesome-llama-prompts): LLM prompts, llama3 prompts, llama2 prompts
 * [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
 * [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+* [ilsilfverskiold/Awesome-LLM-Resources-List](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List): A Curated Collection of resources for applied AI engineering (work in progress).
 * [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms): Compare open-source local LLM inference projects by their metrics to assess popularity and activeness.
 * [HoMeCracKeR/awesome-mac](https://github.com/HoMeCracKeR/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+* [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software.
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS):   A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos): A curated list of awesome software for Apple's macOS.
 * [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers): A curated list of Model Context Protocol (MCP) servers
@@ -1223,6 +1226,7 @@
 * [alx-xlx/fresh-onions](https://github.com/alx-xlx/fresh-onions): Keep track of your favourite Onions
 * [Mandrenkov/FreshView](https://github.com/Mandrenkov/FreshView): Browser extension that hides watched YouTube™ videos.
 * [tortious/FrozenFox](https://github.com/tortious/FrozenFox): A personal hodgepodge of css and js hacks to firefox that I personally enjoy. Strong emphasis on a blend of minimalism and functionality.
+* [fatedier/frp](https://github.com/fatedier/frp): A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 * [bogachenkove/fuckfuckadblock](https://github.com/bogachenkove/fuckfuckadblock): Filters for blocking mining, pop-ups and anti-adblock bypass.
 * [naiemofficial/FUIX](https://github.com/naiemofficial/FUIX): A browser extension for updating social media UI (eg: Facebook, Messenger, Instagram). Available for Chrome, Firefox, MS Edge, Opera
 * [mikemadden42/fuji](https://github.com/mikemadden42/fuji): AppleScript collection
@@ -1305,6 +1309,7 @@
 * [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater): A console script that allows you to easily update multiple git repositories at once
 * [soulhotel/git-userChrome](https://github.com/soulhotel/git-userChrome): An automation tool for installing userChrome Themes
 * [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako): 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
+* [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler): The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 * [DonJayamanne/gitHistoryVSCode](https://github.com/DonJayamanne/gitHistoryVSCode): Git History for Visual Studio Code
 * [renatorib/github-blog](https://github.com/renatorib/github-blog): :octopus: Turn your github issues into a CMS for your blog.
 * [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark): :octocat: Dark GitHub style
@@ -1361,6 +1366,7 @@
 * [savely-krasovsky/go-autoconfig](https://github.com/savely-krasovsky/go-autoconfig): IMAP/SMTP autodiscover feature for Thunderbird, Apple Mail and Microsoft Outlook
 * [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help): 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 * [Phantas0s/gocket](https://github.com/Phantas0s/gocket): 💼 CLI / TUI for Pocket 
+* [yusing/godoxy](https://github.com/yusing/godoxy): High-performance reverse proxy and container orchestrator for self-hosters
 * [alx-xlx/goindex](https://github.com/alx-xlx/goindex): Index your Google Drive
 * [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo): config karabiner with ease
 * [GoldenChaos/GoldenChaos-BTT](https://github.com/GoldenChaos/GoldenChaos-BTT): The complete Touch Bar UI replacement for BetterTouchTool
@@ -1456,6 +1462,7 @@
 * [headcaver/headcaver.github.io](https://github.com/headcaver/headcaver.github.io): satan's underpants motorcycle club
 * [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall): Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 * [blanklob/helium](https://github.com/blanklob/helium): Helium is a modern Shopify development workflow ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind.. 
+* [p-e-w/heretic](https://github.com/p-e-w/heretic): Fully automatic censorship removal for language models
 * [demtario/hes-gallery](https://github.com/demtario/hes-gallery): Light, dependency free, responsive gallery script
 * [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend): A fast and clever hex editor for macOS
 * [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch): [Discontinued] Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
@@ -2454,6 +2461,7 @@
 * [bernadinm/protonpass-deduplicate-secrets](https://github.com/bernadinm/protonpass-deduplicate-secrets): Help with deduplicating your protonpass secrets, especially if you accidentially uploaded the same secrets twice.
 * [bpwned/protovibrant](https://github.com/bpwned/protovibrant): None
 * [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr): Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
+* [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List): Get PROXY List  that gets updated everyday
 * [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools): Python package for reading Adobe Photoshop PSD files
 * [psequel/psequel](https://github.com/psequel/psequel): Free PostgreSQL GUI tool for macOS.
 * [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox): Hides and improves interface Firefox and YouTube, giving maximum space for content and aiding concentration.
