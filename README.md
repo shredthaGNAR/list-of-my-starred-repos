@@ -794,6 +794,7 @@
 * [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison): Compare leading debrid / multi-hoster services for pricing, host coverage, policies & tools.
 * [aayush210789/Deception-Detection-on-Amazon-reviews-dataset](https://github.com/aayush210789/Deception-Detection-on-Amazon-reviews-dataset): A SVM model that classifies the reviews as real or fake. Used both the review text and the additional features contained in the data set to build a model that predicted with over 85% accuracy without using any deep learning techniques. 
 * [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat): 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+* [serengil/deepface](https://github.com/serengil/deepface): A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 * [shredthaGNAR/default-nightly-restart-main](https://github.com/shredthaGNAR/default-nightly-restart-main): None
 * [nbennett320/define-firefox](https://github.com/nbennett320/define-firefox): A quick dictionary and thesaurus.
 * [MohamedYoussouf/Design-Resources](https://github.com/MohamedYoussouf/Design-Resources): A curated list of design resources from design templates, stock photos, icons, colors, and much more.
