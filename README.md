@@ -228,7 +228,7 @@
 * [tomcomtang/astro-cartoon-portfolio](https://github.com/tomcomtang/astro-cartoon-portfolio): Astro cartoon portfolio
 * [dofbi/astro-cv-theme](https://github.com/dofbi/astro-cv-theme): CV theme for Astro 🚀
 * [shredthaGNAR/astro-cv-theme](https://github.com/shredthaGNAR/astro-cv-theme): None
-* [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio): Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted by me using Figma)
+* [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio): Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted with Figma)
 * [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio): This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the developer's skills, projects, and contact information. The website is responsive, accessible, and SEO-friendly.
 * [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
 * [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme): Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
