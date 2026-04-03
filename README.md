@@ -307,6 +307,7 @@
 * [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini): A collection of awesome things regarding the gemini protocol ecosystem.
 * [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps): A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
 * [bartcctv/awesome-gemini-prompts](https://github.com/bartcctv/awesome-gemini-prompts): Gemini Prompts, Bard Prompts, LLM Prompts, LangGPT
+* [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai): A curated list of Generative AI tools, works, models, and references
 * [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile which updates in real time 
 * [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering): A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
 * [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store): A curated list of awesome GPTs in the GPT Store
@@ -600,6 +601,7 @@
 * [adamlui/chatgpt-omnibox](https://github.com/adamlui/chatgpt-omnibox): https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
 * [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts): ChatGPT and Bing AI prompt curation
 * [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast): ChatGPT raycast extension
+* [oxylabs/chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper): Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
 * [josStorer/chatGPT-search-engine-extension](https://github.com/josStorer/chatGPT-search-engine-extension): A browser extension to display ChatGPT response alongside Search Engine results
 * [SingularityLabs-ai/ChatGPT-Tool-List](https://github.com/SingularityLabs-ai/ChatGPT-Tool-List): Bots To be added
 * [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js): 🤖 A powerful, open source client-side JavaScript library for ChatGPT
@@ -808,6 +810,7 @@
 * [b-inary/desktop-postflop](https://github.com/b-inary/desktop-postflop): [Development suspended] Advanced open-source Texas Hold'em GTO solver with optimized performance
 * [scriptingosx/desktoppr](https://github.com/scriptingosx/desktoppr): Simple command line tool to set the desktop picture on macOS
 * [TASEmulators/desmume](https://github.com/TASEmulators/desmume): DeSmuME is a Nintendo DS emulator
+* [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts): 📚 Personal collection of ChatGPT prompts for developers!
 * [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup): macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 * [0xdevalias/devalias.net](https://github.com/0xdevalias/devalias.net): Source for devalias.net
 * [thunderbird/developer-docs](https://github.com/thunderbird/developer-docs): Developer documentation for Thunderbird contributors.
