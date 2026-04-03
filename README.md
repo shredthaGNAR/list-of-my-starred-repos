@@ -282,6 +282,7 @@
 * [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms): A curated list of awesome places to learn and/or practice algorithms.
 * [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics): A curated list of analytics frameworks, software and other tools.
 * [devrsi0n/awesome-apple-notes](https://github.com/devrsi0n/awesome-apple-notes): A curated list of awesome websites, applications, tools, and shiny things for Apple Notes.
+* [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants): A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below. 
 * [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro): Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 * [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking): 🔖 Everything bookmarking related
 * [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github): A collection of awesome browser extensions for GitHub.
@@ -307,6 +308,7 @@
 * [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps): A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
 * [bartcctv/awesome-gemini-prompts](https://github.com/bartcctv/awesome-gemini-prompts): Gemini Prompts, Bard Prompts, LLM Prompts, LangGPT
 * [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile which updates in real time 
+* [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering): A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
 * [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store): A curated list of awesome GPTs in the GPT Store
 * [yulongwang12/awesome-gpt-store](https://github.com/yulongwang12/awesome-gpt-store): This repo includes all customized GPTs on openai gpt store
 * [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines): A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -2211,6 +2213,7 @@
 * [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 * [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp): OpenMTP  - Advanced Android File Transfer Application for macOS
 * [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt): An Open-Source Framework for Prompt-Learning.
+* [timqian/openprompt.co](https://github.com/timqian/openprompt.co): Create. Use. Share. ChatGPT prompts
 * [lukakerr/OpenQuickly](https://github.com/lukakerr/OpenQuickly): A custom 'open quickly' window that imitates macOS' Spotlight
 * [es-kumagai/OpenTerminal](https://github.com/es-kumagai/OpenTerminal): This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched.
 * [darktrojan/openwith](https://github.com/darktrojan/openwith): Open With add-on for Firefox
@@ -2600,6 +2603,7 @@
 * [jeevatkm/ReplyWithHeader-Thunderbird](https://github.com/jeevatkm/ReplyWithHeader-Thunderbird): Outlook style headers and few goodies for Thunderbird
 * [Zaxxon709/repo](https://github.com/Zaxxon709/repo): None
 * [srvaroa/repocket](https://github.com/srvaroa/repocket): Manage a local copy of articles saved in Pocket
+* [yamadashy/repomix](https://github.com/yamadashy/repomix): 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 * [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature): ✨ Template generator for (responsive) emails & email signatures 
 * [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template): A free simple responsive HTML email template
 * [bedimcode/responsive-portfolio-website-Alexa](https://github.com/bedimcode/responsive-portfolio-website-Alexa): Responsive Portfolio Website Using HTML, CSS & JavaScript
