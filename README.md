@@ -1585,6 +1585,7 @@
 * [Free-TV/IPTV](https://github.com/Free-TV/IPTV): M3U Playlist for free TV channels
 * [doms9/iptv](https://github.com/doms9/iptv): tv channels & sporting events
 * [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world
+* [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources): Autoupdate iptv sources
 * [4gray/iptvnator](https://github.com/4gray/iptvnator): :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 * [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu): open-source jailbreaking tool for many iOS devices
 * [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes): Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
@@ -2541,6 +2542,7 @@
 * [masaishi/raycast-llm-scripts-template](https://github.com/masaishi/raycast-llm-scripts-template): This repository provides a template for creating Raycast scripts that integrate with popular LLMs (ChatGPT, Claude, and Perplexity) without requiring API keys. Simply write Python scripts with prompt templates, and launch your favorite LLM in the browser with pre-filled prompts.
 * [Alorse/raycast-omnipilot-extension](https://github.com/Alorse/raycast-omnipilot-extension): 🚀 OmniPilot - Advanced Raycast extension for AI-powered assistance with multiple providers support, streaming responses, and command history
 * [rossinek/raycast-openai](https://github.com/rossinek/raycast-openai): Simple UI for OpenAI completion and chat API
+* [leolionart/raycast-personal-tools](https://github.com/leolionart/raycast-personal-tools): Raycast extension to use AI with proxy API
 * [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab): A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 * [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [DankeyDevDave/raycast-scripts](https://github.com/DankeyDevDave/raycast-scripts): Raycast automation scripts for AI services, API testing, and YouTube summarization
@@ -3150,6 +3152,7 @@
 * [ParisNeo/tinyLollms](https://github.com/ParisNeo/tinyLollms): A tiny lollms
 * [FilteringDev/tinyShield](https://github.com/FilteringDev/tinyShield): A lightweight redefined version of microShield
 * [yusufcanb/tlm](https://github.com/yusufcanb/tlm): Local CLI Copilot, powered by Ollama. 💻🦙
+* [semi-column/tmdb-discover-plus](https://github.com/semi-column/tmdb-discover-plus): Create custom Stremio catalogs with TMDB's powerful filtering
 * [code-charity/ToDo](https://github.com/code-charity/ToDo): ToDo - Chrome Extension. Make checklists and more.
 * [rkokkelk/todo.txt-ext](https://github.com/rkokkelk/todo.txt-ext): Thunderbird extension for the Todo.txt application.
 * [mjdescy/TodoTxtMac](https://github.com/mjdescy/TodoTxtMac): TodoTxtMac is a minimalist, keyboard-driven to-do manager for Mac OS X (10.8 Mountain Lion and higher) that conforms to the todo.txt format spec.
