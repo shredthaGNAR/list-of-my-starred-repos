@@ -78,6 +78,7 @@
 * [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer): None
 * [finxter/AI-Engineering-Learning-Resources](https://github.com/finxter/AI-Engineering-Learning-Resources): None
 * [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts): A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
+* [houssinehn11/ai-proxy](https://github.com/houssinehn11/ai-proxy): 🚀 Streamline access to major AI models like ChatGPT and Claude with a unified API, enhancing reliability and reducing costs for developers in China.
 * [cpbotha/ai-screenshot-namer](https://github.com/cpbotha/ai-screenshot-namer): Rename your screenshots with ollama LLaVA, GPT-4o and macOS OCR
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to augment your web experience
 * [Aider-AI/aider](https://github.com/Aider-AI/aider): aider is AI pair programming in your terminal
@@ -613,6 +614,7 @@
 * [VuHoaBinh/chatGPTBox](https://github.com/VuHoaBinh/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
 * [chathub-dev/chathub](https://github.com/chathub-dev/chathub): None
 * [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop): a new desktop app for chatkit.app
+* [IntelHeartPrime/ChatWithAPI---Raycast-Extentsion](https://github.com/IntelHeartPrime/ChatWithAPI---Raycast-Extentsion): None
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
 * [olivertzeng/chrome](https://github.com/olivertzeng/chrome): 🦊 I respect proton UI and aim to improve it.
 * [adamschwartz/chrome-desaturate-favicons](https://github.com/adamschwartz/chrome-desaturate-favicons): Desaturate the favicons of all inactive tabs.
@@ -631,6 +633,7 @@
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
 * [0x7370346365/classic-tabs-firefox](https://github.com/0x7370346365/classic-tabs-firefox): None
 * [opactorai/Claudable](https://github.com/opactorai/Claudable): Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
+* [Haidzai/claude-code-proxy](https://github.com/Haidzai/claude-code-proxy): Monitor and visualize your Claude Code API interactions with Claude Code Proxy. Easily set up a transparent proxy and live dashboard. 🛠️🚀
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts): All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
 * [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
@@ -644,6 +647,7 @@
 * [bitwarden/clients](https://github.com/bitwarden/clients): Bitwarden client apps (web, browser extension, desktop, and cli).
 * [xiaohk/clip2imgur](https://github.com/xiaohk/clip2imgur): A simple macOS command line tool for uploading your screenshots from clipboard to Imgur
 * [clipboard2file/clipboard2file](https://github.com/clipboard2file/clipboard2file): WebExtension for using images on the clipboard as files
+* [alexrosepizant/clipper-for-appflowy](https://github.com/alexrosepizant/clipper-for-appflowy): Clip the web into your AppFlowy workspace. Unofficial community fork of obsidian-clipper.
 * [kepano/clipper-templates](https://github.com/kepano/clipper-templates): Obsidian Web Clipper templates for various sites.
 * [aecreations/clippings](https://github.com/aecreations/clippings): Save frequently-entered text for pasting later. An extension for Firefox.
 * [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Save frequently-entered text for pasting later. An extension for Thunderbird.
@@ -706,6 +710,7 @@
 * [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff): This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 * [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets): Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 * [webkul/coolhue](https://github.com/webkul/coolhue): Coolest Gradient Hues and Swatches
+* [hugodemenez/copilot-openai-bridge](https://github.com/hugodemenez/copilot-openai-bridge): Exposes GitHub Copilot SDK as OpenAI-compatible API for Raycast Custom Providers
 * [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard): Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
 * [ctrlxc/copyaddrs](https://github.com/ctrlxc/copyaddrs): thunderbird webextentions
 * [BlackGlory/copycat](https://github.com/BlackGlory/copycat): 🌳 Copy content from web powerful than ever before.
@@ -798,6 +803,7 @@
 * [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison): Compare leading debrid / multi-hoster services for pricing, host coverage, policies & tools.
 * [aayush210789/Deception-Detection-on-Amazon-reviews-dataset](https://github.com/aayush210789/Deception-Detection-on-Amazon-reviews-dataset): A SVM model that classifies the reviews as real or fake. Used both the review text and the additional features contained in the data set to build a model that predicted with over 85% accuracy without using any deep learning techniques. 
 * [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat): 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+* [serengil/deepface](https://github.com/serengil/deepface): A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 * [shredthaGNAR/default-nightly-restart-main](https://github.com/shredthaGNAR/default-nightly-restart-main): None
 * [nbennett320/define-firefox](https://github.com/nbennett320/define-firefox): A quick dictionary and thesaurus.
 * [MohamedYoussouf/Design-Resources](https://github.com/MohamedYoussouf/Design-Resources): A curated list of design resources from design templates, stock photos, icons, colors, and much more.
@@ -824,6 +830,7 @@
 * [QJX-XXXX/devportfolio](https://github.com/QJX-XXXX/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 * [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio): A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
 * [Kavakuo/Dict.cc-Alfred-Workflow](https://github.com/Kavakuo/Dict.cc-Alfred-Workflow): None
+* [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez): 📚 A customizable dictionary extension that supports double-click lookups in 20+ languages, 1000+ dictionaries, text-to-speech, translation and Anki integration.
 * [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): Make your diffs human readable for improved code quality and faster defect detection. :tada:
 * [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim): Dim, a media manager fueled by dark forces.
 * [nokeya/direct-links-out](https://github.com/nokeya/direct-links-out): Removes all "You are leaving our site" stuff from links
@@ -1892,6 +1899,7 @@
 * [Clipy/Magnet](https://github.com/Clipy/Magnet): Customize global hotkeys in macOS.
 * [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 * [torerobo/maigret](https://github.com/torerobo/maigret): Collect a dossier on a person by username from a huge number of sites
+* [Bakhomious/mail-tm](https://github.com/Bakhomious/mail-tm): Uses Mail.tm API to generate a temporary email from Raycast.
 * [peci1/mailing-list-filter](https://github.com/peci1/mailing-list-filter): Thunderbird mail filter search term using mailing lists (and not whole addressbooks).
 * [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker): Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 * [Make-md/makemd](https://github.com/Make-md/makemd): None
@@ -2130,6 +2138,7 @@
 * [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export): Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity.
 * [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo): Smart, snappy, and multilingual AI assistant for your vault.
 * [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium): Get Android app updates straight from the source.
+* [rlgrpe/ocr-raycast](https://github.com/rlgrpe/ocr-raycast): macOS OCR screenshot tool with Raycast integration. Uses Vision API for fast multilingual text recognition (uk, ru, en).
 * [DevipriyaSarkar/OCR-Reader](https://github.com/DevipriyaSarkar/OCR-Reader): An Android app to extract text from camera preview directly.
 * [dannyhines/odds-converter-extension](https://github.com/dannyhines/odds-converter-extension): Chrome extension to show the implied probability next to all instances of American odds (i.e. "+140") that appear on the webpage.
 * [njnmco/odinochka](https://github.com/njnmco/odinochka): featherweight tab manager
@@ -2533,20 +2542,30 @@
 * [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy): Integrate any OpenAI-compatible API with Raycast AI
 * [m3lander/raycast-ai-proxy](https://github.com/m3lander/raycast-ai-proxy): Integrate any OpenAI-compatible API with Raycast AI
 * [LitoMore/raycast-backend-api](https://github.com/LitoMore/raycast-backend-api): Accessing the Raycast backend API delightfully
+* [pa1ar/raycast-bridges](https://github.com/pa1ar/raycast-bridges): Connect any REST API to Raycast AI — scaffolded by an agent, callable from any conversation
+* [MorgDam/RayCast-Claude-Code-Config-Selector](https://github.com/MorgDam/RayCast-Claude-Code-Config-Selector): A Raycast extension for managing Claude Code API configurations. Easily switch between different Claude Code environments (DeepSeek, Kimi) with Raycast interface.
+* [nitindermohan/raycast-claude-text](https://github.com/nitindermohan/raycast-claude-text): This is the Raycast extension for improving text using Claude API
 * [aelew/raycast-cobalt](https://github.com/aelew/raycast-cobalt): 🧩 A Raycast extension for downloading video and audio from popular social media platforms using Cobalt's API.
 * [Lewinz/raycast-customusageai](https://github.com/Lewinz/raycast-customusageai): A Raycast extension that allows you to create and use custom prompt templates with any OpenAI-compatible API endpoints.
+* [sabazadam/raycast-dictionary-extension](https://github.com/sabazadam/raycast-dictionary-extension): Raycast extension for looking up English words using Google Gemini API with Cambridge-style definitions
+* [orionx-dev/raycast-extension](https://github.com/orionx-dev/raycast-extension): A raycast extension using Orionx API
 * [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f): Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 * [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai): GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
+* [krsntn/raycast-guerrilla-mail](https://github.com/krsntn/raycast-guerrilla-mail): Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API
+* [plevik/raycast-hipster-ipsum](https://github.com/plevik/raycast-hipster-ipsum): Raycast free extension to generate placeholder content using the official Hipster Ipsum API https://hipsum.co/the-api/
 * [foru17/raycast-karakeep](https://github.com/foru17/raycast-karakeep): ✨ Raycast extension for Karakeep (previously Hoarder) - Your AI-powered bookmarks manager
 * [masaishi/raycast-llm-scripts](https://github.com/masaishi/raycast-llm-scripts): This repository is a collection of diverse and experimental Raycast scripts that integrate with popular LLMs (ChatGPT, Claude, and Perplexity) without requiring API keys. The scripts here are added organically as new ideas emerge, providing a playground for testing and evolving different use cases.
 * [masaishi/raycast-llm-scripts-template](https://github.com/masaishi/raycast-llm-scripts-template): This repository provides a template for creating Raycast scripts that integrate with popular LLMs (ChatGPT, Claude, and Perplexity) without requiring API keys. Simply write Python scripts with prompt templates, and launch your favorite LLM in the browser with pre-filled prompts.
 * [Alorse/raycast-omnipilot-extension](https://github.com/Alorse/raycast-omnipilot-extension): 🚀 OmniPilot - Advanced Raycast extension for AI-powered assistance with multiple providers support, streaming responses, and command history
 * [rossinek/raycast-openai](https://github.com/rossinek/raycast-openai): Simple UI for OpenAI completion and chat API
+* [flowkscai/raycast-openai-translator](https://github.com/flowkscai/raycast-openai-translator): Raycast extension for translation based on ChatGPT compatible API.
 * [leolionart/raycast-personal-tools](https://github.com/leolionart/raycast-personal-tools): Raycast extension to use AI with proxy API
 * [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab): A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 * [szcharlesji/raycast-relay](https://github.com/szcharlesji/raycast-relay): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [DankeyDevDave/raycast-scripts](https://github.com/DankeyDevDave/raycast-scripts): Raycast automation scripts for AI services, API testing, and YouTube summarization
+* [adriangrantdotorg/Raycast-Skill](https://github.com/adriangrantdotorg/Raycast-Skill): Agentic Skill for Raycast — best practices for building extensions, wrangling external APIs, and more! Compatible with Claude, Cursor, OpenAI, Gemini CLI, Google Antigravity.
 * [Vincenzo160/Raycast-Spell](https://github.com/Vincenzo160/Raycast-Spell): Struggling to spell a word? With this Raycast extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API.
+* [Joshlucpoll/raycast-tempmail](https://github.com/Joshlucpoll/raycast-tempmail): A Raycast extension that provides a temporary mailbox -- powered by Mail.tm API
 * [missuo/raycast2api](https://github.com/missuo/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [xxxbrian/raycast2api](https://github.com/xxxbrian/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint. Deployable to Cloudflare Workers / Docker / Local Binary with Raycast V2 signarure.
 * [WToa/raycast_extensions_by_downloads](https://github.com/WToa/raycast_extensions_by_downloads): Rank raycast extensions by downloads
@@ -2950,6 +2969,7 @@
 * [Shymoney/Sports-betting-web-app](https://github.com/Shymoney/Sports-betting-web-app): Bisically this application serve as an Info system and  predicting sports results and placing a wager on the outcome. 
 * [JamesQuintero/Sports-Odds-Algorithms](https://github.com/JamesQuintero/Sports-Odds-Algorithms): System that calculates and uses algorithms to predict the outcome of NBA, NHL, and MLB sports games.
 * [SoslyLW/SportsOdds](https://github.com/SoslyLW/SportsOdds): A Pythagorean win expectation-based Monte Carlo simulator to determine the odds of NHL teams making the playoffs.
+* [daniyalmaster693/sportssync](https://github.com/daniyalmaster693/sportssync): An All-in-One Sports Extension for Raycast
 * [w0lfschild/spotifyPlus](https://github.com/w0lfschild/spotifyPlus): 🎵 MacForge plugin to enhance the Spotify Desktop player on macOS
 * [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX): SpotX patcher used for patching the desktop version of Spotify
 * [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash): SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
@@ -3151,6 +3171,7 @@
 * [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts): Collection of small scripts
 * [ParisNeo/tinyLollms](https://github.com/ParisNeo/tinyLollms): A tiny lollms
 * [FilteringDev/tinyShield](https://github.com/FilteringDev/tinyShield): A lightweight redefined version of microShield
+* [ayoubchwt/TL-WR](https://github.com/ayoubchwt/TL-WR): TL;WR automatically summarizes long Reddit posts and threads into concise, easy-to-read bullet points.
 * [yusufcanb/tlm](https://github.com/yusufcanb/tlm): Local CLI Copilot, powered by Ollama. 💻🦙
 * [semi-column/tmdb-discover-plus](https://github.com/semi-column/tmdb-discover-plus): Create custom Stremio catalogs with TMDB's powerful filtering
 * [code-charity/ToDo](https://github.com/code-charity/ToDo): ToDo - Chrome Extension. Make checklists and more.
