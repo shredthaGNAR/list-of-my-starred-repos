@@ -2278,7 +2278,7 @@
 * [Yumeo0/pear-desktop](https://github.com/Yumeo0/pear-desktop): Pear 🍐 is extension for music player
 * [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop): Pear 🍐 is extension for music player
 * [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner): A free, source-available and fair-code licensed mac app cleaner
-* [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop): A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
+* [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop): Instantly preview links with a simple double-click, without breaking your workflow.
 * [getpelican/pelican](https://github.com/getpelican/pelican): Static site generator that supports Markdown and reST syntax. Powered by Python.
 * [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc): Trackpad-oriented window manager for macOS
 * [shash007/People-Search-on-Social-Networks-using-Face-Recognition](https://github.com/shash007/People-Search-on-Social-Networks-using-Face-Recognition): Searching people on social networking sites using Face Recognition
