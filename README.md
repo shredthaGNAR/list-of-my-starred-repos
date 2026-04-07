@@ -555,6 +555,7 @@
 * [janeczku/calibre-web](https://github.com/janeczku/calibre-web): :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 * [mattlag/California-Gothic](https://github.com/mattlag/California-Gothic): A typeface for California vexillographers 
 * [Neil-Lal/California-Lotto-Scratchers-EV](https://github.com/Neil-Lal/California-Lotto-Scratchers-EV): This project is to pull data from the California lotto website into a local MSSQL server.  This data is used to calculate and report on the EV of each lotto ticket.  The goal is to make statistically "smart" scratcher purchases.
+* [NessieCanCode/California-State-Lottery-API](https://github.com/NessieCanCode/California-State-Lottery-API): AWS Lambda Function for custom API for IFTTT & LaMetric, this pulls results for various "Draw Games" from California State's Lottery API.
 * [Protovision/calottery-scratchers](https://github.com/Protovision/calottery-scratchers): Web scraper for california lottery scratchers
 * [babldev/camera-cli](https://github.com/babldev/camera-cli): Configure your webcam via the command line
 * [itaybre/CameraController](https://github.com/itaybre/CameraController): 📷 Control USB Cameras from an app
