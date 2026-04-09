@@ -1211,6 +1211,9 @@
     "KosmosisDire/obsidian-webpage-export": [
         "Other"
     ],
+    "KudoAI/chatgpt-omnibox": [
+        "Other"
+    ],
     "KudoAI/chatgpt.js": [
         "Other"
     ],
@@ -2751,9 +2754,6 @@
         "Other"
     ],
     "adamlui/chatgpt-infinity": [
-        "Other"
-    ],
-    "adamlui/chatgpt-omnibox": [
         "Other"
     ],
     "adamschwartz/chrome-desaturate-favicons": [

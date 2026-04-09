@@ -600,7 +600,7 @@
 * [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
 * [swyxio/chatgpt-mac](https://github.com/swyxio/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 * [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
-* [adamlui/chatgpt-omnibox](https://github.com/adamlui/chatgpt-omnibox): https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
+* [KudoAI/chatgpt-omnibox](https://github.com/KudoAI/chatgpt-omnibox): https://addons.mozilla.org/firefox/addon/chatgpt-omnibox
 * [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts): ChatGPT and Bing AI prompt curation
 * [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast): ChatGPT raycast extension
 * [oxylabs/chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper): Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
