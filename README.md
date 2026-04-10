@@ -1659,7 +1659,7 @@
 * [LaneCommunityCollege/jquery-signature](https://github.com/LaneCommunityCollege/jquery-signature): a jQuery based email signature generator
 * [MrOtherGuy/js-modules](https://github.com/MrOtherGuy/js-modules): None
 * [criblio/js2bin](https://github.com/criblio/js2bin): NodeJS application to native executable
-* [kucherenko/jscpd](https://github.com/kucherenko/jscpd): Copy/paste detector for programming source code.
+* [kucherenko/jscpd](https://github.com/kucherenko/jscpd): Copy/paste detector for programming source code. 
 * [jsdom/jsdom](https://github.com/jsdom/jsdom): A JavaScript implementation of various web standards, for use with Node.js
 * [1nfiniteloop/json-bookmarks](https://github.com/1nfiniteloop/json-bookmarks): Browser extension for Mozilla Firefox and Chrome for importing and exporting bookmarks with a json file
 * [litejs/json-lite](https://github.com/litejs/json-lite): Fast non-blocking JSON viewer for Chrome and Firefox
