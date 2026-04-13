@@ -369,6 +369,7 @@
 * [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez): All your base are belong to us!
 * [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design): 🎨 A curated list of awesome resources for digital designers.
 * [nuhmanpk/Awesome-Web-Hosting](https://github.com/nuhmanpk/Awesome-Web-Hosting): A curated list of free hosting providers for developers to deploy and manage web projects effortlessly. These platforms offer various features, including serverless functions, Git integration, unlimited bandwidth, and more.
+* [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping): List of libraries, tools and APIs for web scraping and data processing.
 * [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions): A curated list of awesome resources for WebExtensions development.
 * [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress): A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. 
 * [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins): A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -3135,6 +3136,7 @@
 * [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude): Let your Claude able to think
 * [devmount/third-stats](https://github.com/devmount/third-stats): Thunderbird add-on turning your emails into beautifully visualized email account stats.
 * [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
+* [spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape): A collection of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, LeakBase, XSS, Dread, & more
 * [mrdoob/three.js](https://github.com/mrdoob/three.js): JavaScript 3D Library.
 * [micz/ThunderAI](https://github.com/micz/ThunderAI): ThunderAI is a Thunderbird Addon that uses the capabilities of ChatGPT, Gemini, Claude or Ollama to enhance email management.
 * [catppuccin/thunderbird](https://github.com/catppuccin/thunderbird): 🕊️ Soothing pastel theme for Thunderbird
