@@ -3108,7 +3108,7 @@
 * [themez/texas-holdem-house](https://github.com/themez/texas-holdem-house): A texas hold'em game engine for bot players
 * [bupticybee/TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava): A Java implemented Texas holdem and short deck Solver
 * [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver): 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds:
-* [oobabooga/textgen](https://github.com/oobabooga/textgen): The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
+* [oobabooga/textgen](https://github.com/oobabooga/textgen): The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
 * [piroor/textlink](https://github.com/piroor/textlink): Text Link, Allows URI texts written in webpages to be loaded by double clicks.
 * [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
 * [de1etenu11ptr/TGS-Extension](https://github.com/de1etenu11ptr/TGS-Extension): Tab Group Saver (TGS) Extension for firefox that mainly utilizes the bookmarks API to allow for reliable persistence of tab groups.
