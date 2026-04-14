@@ -2509,6 +2509,7 @@
 * [dustindmiller/QLab-Touchbar](https://github.com/dustindmiller/QLab-Touchbar): Touch Bar BTT config for QLab.
 * [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown): macOS Quick Look extension for Markdown files.
 * [Watson1978/QLMarkdownGFM](https://github.com/Watson1978/QLMarkdownGFM): Quicklook plugin for Github Flavored Markdown
+* [sbarex/QLSyntaxHighlight](https://github.com/sbarex/QLSyntaxHighlight): Quick Look extension for highlight source code files on macOS 10.15 and later.
 * [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo): MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip (.gz), lha, BinHex 4.0 (.hqx), ePub (.epub), and Stuffit (.sit) archives, and ISO9660 images
 * [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 * [monyxie/qr-lite](https://github.com/monyxie/qr-lite): A browser extension for generating and scanning QR codes.
@@ -2952,7 +2953,6 @@
 * [SortableJS/Sortable](https://github.com/SortableJS/Sortable): Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 * [pesc101/SortRobot](https://github.com/pesc101/SortRobot): Python script to sort the mac download dir automatially
 * [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower): MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
-* [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight): Quick Look extension for highlight source code files on macOS 10.15 and later.
 * [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot): Code AI platform with Code Search & Cody
 * [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io): Facebook search engine that works after the Graph API has been shut down
 * [soscripted/sox](https://github.com/soscripted/sox): Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
