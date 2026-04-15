@@ -5294,6 +5294,9 @@
     "google/python-laurel": [
         "Other"
     ],
+    "googleapis/google-cloud-node": [
+        "Other"
+    ],
     "googleapis/python-genai": [
         "Other"
     ],
@@ -9083,6 +9086,9 @@
     "sindresorhus/macos-wallpaper": [
         "Other"
     ],
+    "sindresorhus/np": [
+        "Other"
+    ],
     "sindresorhus/pure": [
         "Other"
     ],
@@ -10164,6 +10170,9 @@
         "Other"
     ],
     "vlvagerviwager/protect-your-privacy": [
+        "Other"
+    ],
+    "vorillaz/devicons": [
         "Other"
     ],
     "vuestorefront/shopify": [
