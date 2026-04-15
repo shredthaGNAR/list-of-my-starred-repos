@@ -1832,6 +1832,7 @@
 * [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup): Configuration files to setup macOS(Intel 2020)
 * [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts): BTT presets, macros & scripts I use to make my life sometimes easier
 * [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI):  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+* [Feng6611/mac-command-reopen](https://github.com/Feng6611/mac-command-reopen): Reopen closed & minimized windows with Command+Tab
 * [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook): Mac setup and configuration via Ansible.
 * [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup): A macOS setup guide specific to front-end development.
 * [andrewpetrochenkov/mac-finder](https://github.com/andrewpetrochenkov/mac-finder): :apple: macOS Finder scripts
