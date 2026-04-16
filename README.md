@@ -2005,7 +2005,7 @@
 * [peci1/more-snooze](https://github.com/peci1/more-snooze): More Snooze addon for Thunderbird
 * [MorpheApp/morphe-cli](https://github.com/MorpheApp/morphe-cli): Morphe console / terminal patching tool
 * [MorpheApp/morphe-documentation](https://github.com/MorpheApp/morphe-documentation): General documentation about Morphe
-* [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager): From the developers that brought you the greatest modded YouTube apps, comes Morphe - the powerful app modification tool that puts you in control
+* [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager): Morphe app patcher for Android
 * [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches): Morphe Patches
 * [Caldis/Mos](https://github.com/Caldis/Mos): 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 * [thePaulV/Most-Recent-Tab](https://github.com/thePaulV/Most-Recent-Tab): Firefox addon that adds a keyboard shortcut to switch back to your most recently selected tab. Useful to alternate between two tabs and to easily go back to your last tab if you switch to another briefly.
