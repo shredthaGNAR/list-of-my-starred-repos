@@ -538,7 +538,7 @@
 * [dyobi/btt_preset](https://github.com/dyobi/btt_preset): None
 * [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css): Awesome buttons for awesome projects!
 * [p-x9/BTTPluginHeadLineNews](https://github.com/p-x9/BTTPluginHeadLineNews): Headline News Widget for Better Touch Tool. You can display the articles fetched by rss.
-* [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps): The ReVanced APKs
+* [Android-App-Patches/build-apps](https://github.com/Android-App-Patches/build-apps): The ReVanced APKs
 * [jarun/buku](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
 * [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener): Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 * [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh): :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
