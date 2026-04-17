@@ -3206,6 +3206,7 @@
 * [MrOtherGuy/ToyfoCSS](https://github.com/MrOtherGuy/ToyfoCSS): Guide to introduce basic CSS concepts and progressively advance into Firefox CSS hacking
 * [Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR](https://github.com/Nisarg03/Tracing-people-with-Facial-Recognition-using-OCR): A computer vision project to develop a query based software that seeks string of words as input. It searches through the database using concepts of OCR by employing libraries like Tesseract and OpenCV to find the said string. The program then recognises the faces of individuals on the page, crops them, and arranges them in a strip to display.
 * [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist): Track 500+ Awesome List Updates, Track it - not just star it!
+* [ngosang/trackerslist](https://github.com/ngosang/trackerslist): Updated list of public BitTorrent trackers
 * [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection): 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 * [RealityRipple/trackpackage](https://github.com/RealityRipple/trackpackage): Fork of Track Package for Pale Moon. 📦️ Track Packages from the right-click menu.
 * [erickok/transdroid-search](https://github.com/erickok/transdroid-search): Cross-app torrent search results provider for Android
