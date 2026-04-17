@@ -6059,6 +6059,12 @@
     "jofpin/trape": [
         "Other"
     ],
+    "johannjhang/fz.sh": [
+        "Other"
+    ],
+    "johannjhang/zsh-interactive-cd": [
+        "Other"
+    ],
     "johnsoong216/PokerOddsCalc": [
         "Other"
     ],
@@ -7314,12 +7320,6 @@
         "Other"
     ],
     "mrishab/google-photos-delete-tool": [
-        "Other"
-    ],
-    "mrjohannchang/fz.sh": [
-        "Other"
-    ],
-    "mrjohannchang/zsh-interactive-cd": [
         "Other"
     ],
     "mrlt8/docker-wyze-bridge": [
