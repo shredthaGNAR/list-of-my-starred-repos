@@ -502,7 +502,7 @@
 * [brackets-cont/brackets](https://github.com/brackets-cont/brackets): An open source code editor for the web, written in JavaScript, HTML and CSS.
 * [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
 * [romankurnovskii/BrewMate](https://github.com/romankurnovskii/BrewMate): Homebrew GUI apps manager
-* [p-linnane/Brewy](https://github.com/p-linnane/Brewy): Brewy: A Homebrew GUI
+* [starhaven-io/Brewy](https://github.com/starhaven-io/Brewy): Brewy: A Homebrew GUI
 * [brothersinvines/brothersinvines.github.io](https://github.com/brothersinvines/brothersinvines.github.io): None
 * [hoyang/browse-later](https://github.com/hoyang/browse-later): Browse later, a WebExtensions add-on.
 * [kierandrewett/browser-chrome-experiment](https://github.com/kierandrewett/browser-chrome-experiment): None
