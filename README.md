@@ -2079,6 +2079,7 @@
 * [mnw700x/News2Me-Archives](https://github.com/mnw700x/News2Me-Archives): Pages saved with SingleFile
 * [garywill/newtab-btn-menu](https://github.com/garywill/newtab-btn-menu): FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button's context menu with a menu item to open clipboard URL in new tab. (runs on Firefox 128) 📋🖱️🔗
 * [garywill/newTabClipboardUrl](https://github.com/garywill/newTabClipboardUrl): Quickly create new tab opening URL from clipboard. Firefox addon 📋🖱️🔗
+* [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy): ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
 * [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil): OSINT tool for finding profiles by username
 * [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 * [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab): 浏览器插件：OneTab、Toby、N-Tab、SessionBuddy、KepTab 等扩展的升级替代品，功能丰富易用 | A nice, convenient, powerful tab manager  serving as an upgraded alternative to OneTab, Toby, SessionBuddy, N-Tab，KepTab...
@@ -2673,7 +2674,6 @@
 * [inotia00/ReVanced_Extended](https://github.com/inotia00/ReVanced_Extended): ReVanced Extended Issues/Request repo
 * [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A script to automatically build latest releases of ReVanced apps
 * [programminghoch10/ReVancedRepackaged](https://github.com/programminghoch10/ReVancedRepackaged): ReVanced, but patched locally.
-* [chsbuffer/ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed): ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback
 * [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT): None
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
 * [shredthaGNAR/reveal-md](https://github.com/shredthaGNAR/reveal-md): None
