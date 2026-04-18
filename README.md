@@ -2469,7 +2469,7 @@
 * [jairo-aguirre/product-comparison](https://github.com/jairo-aguirre/product-comparison): App enabling users in a simple and centralized way to compare product features or capabilities across multiple similar products.
 * [Shopify/product-reviews-sample-app](https://github.com/Shopify/product-reviews-sample-app): A sample Shopify application that creates and stores product reviews for a store, written in Node.js
 * [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
-* [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts): This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
+* [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts): Next-generation font management system.
 * [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 * [raycast/prompt-explorer](https://github.com/raycast/prompt-explorer): Easily browse, share, and add prompts to Raycast
 * [nkmr-jp/prompt-line](https://github.com/nkmr-jp/prompt-line): Prompt Line is a macOS app developed to improve the prompt input experience in the terminal for CLI-based AI coding agents such as Claude Code, Codex CLI, and Gemini CLI.
