@@ -2106,6 +2106,7 @@
 * [freaktechnik/notification-sounds](https://github.com/freaktechnik/notification-sounds): Makes a sound when a notification is shown
 * [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator): Trigger macOS notifications from Alfred, using the Workflow icon
 * [MDP43140/NoTrash-PureClean-YT](https://github.com/MDP43140/NoTrash-PureClean-YT): Makes YouTube Less trashy by removing distracting features, and trash videos
+* [Dhravya/notty](https://github.com/Dhravya/notty): An open source, minimal AI powered note taking app and powerful markdown editor
 * [nonbili/NouTube](https://github.com/nonbili/NouTube): YouTube and YouTube Music in a single app. No ads, plays in the background.
 * [sindresorhus/np](https://github.com/sindresorhus/np): A better `npm publish`
 * [npmhub/npmhub](https://github.com/npmhub/npmhub): 🔎 A browser extension to explore npm dependencies on GitHub repos
