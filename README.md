@@ -2302,7 +2302,7 @@
 * [umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website): It is a quality portfolio site with a beautiful and simple design that you can personalize for yourself.
 * [thlorenz/phe](https://github.com/thlorenz/phe): Poker hand evaluator
 * [celenityy/Phoenix](https://github.com/celenityy/Phoenix): Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, & usability. 
-* [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix): My Phoenix setup. Powerful, easy to customize, tuned for web development, adds a space switcher.
+* [fabiospampinato/phoenix](https://github.com/fabiospampinato/phoenix): My Phoenix setup.
 * [kasper/phoenix](https://github.com/kasper/phoenix): A lightweight macOS window and app manager scriptable with JavaScript
 * [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix): The text editor designed to make coding as simple and fun as playing a video game
 * [garrow/phoenix-configurations](https://github.com/garrow/phoenix-configurations): My custom configurations for the Phoenix macOS window Manager, ( https://github.com/kasper/phoenix )
