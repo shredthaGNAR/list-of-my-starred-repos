@@ -494,6 +494,16 @@
 * [frederikb/bookmarksync](https://github.com/frederikb/bookmarksync): Synchronize your browser bookmarks from a GitHub repository
 * [VienDinhCom/bootstrap-shopify-theme](https://github.com/VienDinhCom/bootstrap-shopify-theme): A responsive Shopify theme using Bootstrap, BEM, Liquid, Sass, ESNext, Theme Tools, and Webpack for flexibility.
 * [dreadnaut/bordercolors-d](https://github.com/dreadnaut/bordercolors-d): A Thunderbird add-on to color-code the compose window based on the selected identity.
+* [aaroncolesmith/bovada](https://github.com/aaroncolesmith/bovada): None
+* [matt57225/bovada-hand-history-converter](https://github.com/matt57225/bovada-hand-history-converter): None
+* [Jaammerr/bovada_football_parser](https://github.com/Jaammerr/bovada_football_parser): None
+* [ctrlaltdylan/bovadaAPI](https://github.com/ctrlaltdylan/bovadaAPI): interact with bovada.lv pro grammatically.
+* [jkol36/bovadaAPI](https://github.com/jkol36/bovadaAPI): interact with bovada.lv pro grammatically.
+* [pcsouthernbetting/BovadaBetDownloader](https://github.com/pcsouthernbetting/BovadaBetDownloader): Chrome Plugin to pull open bets into a CSV
+* [ZethYoutube/BovadaEVBot](https://github.com/ZethYoutube/BovadaEVBot): None
+* [aportner/BovadaHUD](https://github.com/aportner/BovadaHUD): Attempt to create a HUD for Bovada poker
+* [cartern206/bovadaOdds](https://github.com/cartern206/bovadaOdds): None
+* [PatrickMacIlwaine/bovadaScraper](https://github.com/PatrickMacIlwaine/bovadaScraper): Scrapes data from Bovada
 * [lazarnarcis/box-shadow-generator](https://github.com/lazarnarcis/box-shadow-generator): You can use this web application to more easily generate Box Shadow CSS!
 * [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css):  :pisces: A cross-browser collection of CSS box-shadows
 * [iposho/boxshadowru](https://github.com/iposho/boxshadowru): A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website. Preview the result and copy the generated code to your website. No coding required!
@@ -1792,6 +1802,7 @@
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [jnv/lists](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub and elsewhere
 * [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM): None
+* [gzanuttinifrank/live-basketball-odds-scraper](https://github.com/gzanuttinifrank/live-basketball-odds-scraper): Scraper for all ongoing basketball games on Bovada
 * [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
 * [Rivens7/Livelist](https://github.com/Rivens7/Livelist): IPTV-ipv6直播源同步及常看直播
 * [nt1m/livemarks](https://github.com/nt1m/livemarks): Extension that restores RSS Feed Livemarks in Firefox. 
