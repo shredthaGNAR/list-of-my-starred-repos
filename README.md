@@ -601,6 +601,7 @@
 * [adamlui/chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue): ⏩ Automatically continue generating answers when ChatGPT responses get cut-off
 * [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone): ChatGPT interface with better UI 
 * [ZohaibAhmed/ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google): Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search
+* [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension): This project is deprecated. Check my new project ChatHub:
 * [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity): ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
 * [swyxio/chatgpt-mac](https://github.com/swyxio/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 * [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
@@ -623,6 +624,7 @@
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
 * [olivertzeng/chrome](https://github.com/olivertzeng/chrome): 🦊 I respect proton UI and aim to improve it.
 * [adamschwartz/chrome-desaturate-favicons](https://github.com/adamschwartz/chrome-desaturate-favicons): Desaturate the favicons of all inactive tabs.
+* [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools): Build cross-browser extensions with native HMR and zero-config setup
 * [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples): Chrome Extensions Samples
 * [foray1010/chrome-manifest-loader](https://github.com/foray1010/chrome-manifest-loader): Chrome manifest loader for webpack
 * [AmiaaaZ/chrome-read-later](https://github.com/AmiaaaZ/chrome-read-later): A temporary bookmark focuses on reading later, rather than closing and removing, with several Vim keybindings!
@@ -789,6 +791,7 @@
 * [uso-archive/data](https://github.com/uso-archive/data): Full mirror of UserStyles.org
 * [akashahmed11/data-scraping](https://github.com/akashahmed11/data-scraping): 📊 Collect historical intraday minute-level data for major Indian stock market indices using a clean, modular Python project designed for educational purposes.
 * [d4t4x/data-selfie](https://github.com/d4t4x/data-selfie): Data Selfie - a browser extension to track yourself on Facebook and analyze your data. 
+* [klane/databall](https://github.com/klane/databall): Betting on the NBA with data
 * [iptv-org/database](https://github.com/iptv-org/database): User editable database for TV channels.
 * [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore): Work-in-progress successor to Dataview with a focus on UX and speed.
 * [TechnicalWebAnalytics/dataLayer-shopify](https://github.com/TechnicalWebAnalytics/dataLayer-shopify): A dataLayer integration specific to extracting information from Shopify.
@@ -985,6 +988,7 @@
 * [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui): Every front-end GUI client for ChatGPT, Claude, and other LLMs
 * [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2): Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 * [zukijourney/example-api](https://github.com/zukijourney/example-api): Simple base code for AI reverse proxies.
+* [PlasmoHQ/examples](https://github.com/PlasmoHQ/examples): 🔰 Example projects that demonstrate how to use the Plasmo Framework and integrate with popular tools
 * [SoldierInFaith14/excel_automation](https://github.com/SoldierInFaith14/excel_automation): Python script that modifies Shopify spreadsheet exports of order details.
 * [eventrifydev/exchangify](https://github.com/eventrifydev/exchangify): Simple, 100% free and tiny JavaScript library for realtime currency conversion and exchange rate calculation
 * [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner): Cross-platform desktop GUI app to clean image metadata
@@ -1291,6 +1295,7 @@
 * [XInTheDark/gemini-ai-sdk](https://github.com/XInTheDark/gemini-ai-sdk): The better Google Gemini SDK (TypeScript)
 * [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 * [googlecreativelab/gemini-demos](https://github.com/googlecreativelab/gemini-demos): None
+* [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager): An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navigation, folder management, prompt library, and chat export in one powerful extension. / Google Gemini & AI Studio 全能增强插件：集成时间轴导航、文件夹管理、提示词库及聊天导出等众多功能。
 * [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat): Minimal web UI for GeminiPro.
 * [ShivamMMMxyz/GeminiPromptsIndexer](https://github.com/ShivamMMMxyz/GeminiPromptsIndexer): None
 * [CJHwong/gems.sh](https://github.com/CJHwong/gems.sh): A Gemini Gem Manager in your MacBook powered by Gemma
@@ -1458,6 +1463,7 @@
 * [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData): Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 * [koo5/hackery2](https://github.com/koo5/hackery2): notes, scripts, utilities, dotfiles, experiments, toys..
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
+* [LasCC/HackTools](https://github.com/LasCC/HackTools): The all-in-one browser extension for offensive security professionals 🛠
 * [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon): Staggeringly powerful macOS desktop automation with Lua
 * [KURANADO2/hammerspoon-kuranado](https://github.com/KURANADO2/hammerspoon-kuranado): Hammerspoon config（Support custom shortcut keys, emoji search, application shortcut switching, real-time network speed, key echo, etc.）
 * [peterklijn/hammerspoon-shiftit](https://github.com/peterklijn/hammerspoon-shiftit): A ShiftIt like Hammerspoon window management configuration
@@ -1719,6 +1725,7 @@
 * [kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance](https://github.com/kenneth558/KingdomComeIMeanItAndIMeanNowSurveillance): A web page (NOTE: Only Firefox & Pale Moon browsers give approved rendering) and some server-side web server scripting in a mini web server called bashttpd.  Even looks good on Android devices as far as I've seen, though working the sliders is more difficult when your finger touch point is larger than them.  With this tricked out version of bashttpd, you won't need a high-powered web server like Apache nor nginx (I didn't feel like learning nginx, and certainly don't care for learning Apache).  IN PROGRESS but does work way, way better than nothing.  Chrome renders differently, but in a pinch it will function halfway.
 * [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher): A lightweight, pure-Swift library for downloading and caching images from the web.
 * [HugoBlox/kit](https://github.com/HugoBlox/kit): 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇
+* [klane/klane.github.io](https://github.com/klane/klane.github.io): My portfolio
 * [signerlabs/Klee](https://github.com/signerlabs/Klee): A native macOS AI chat app powered by MLX. 100% local inference on Apple Silicon, no cloud required. Built with ShipSwift.
 * [KDE/kleopatra](https://github.com/KDE/kleopatra): Certificate manager and GUI for OpenPGP and CMS cryptography
 * [kkkgo/KMS_VL_ALL](https://github.com/kkkgo/KMS_VL_ALL): 🔑KMS_VL_ALL - Smart Activation Script
@@ -1988,6 +1995,7 @@
 * [ninxsoft/Mist](https://github.com/ninxsoft/Mist): A Mac utility that automatically downloads macOS Firmwares / Installers.
 * [mjmlio/mjml](https://github.com/mjmlio/mjml): MJML: the only framework that makes responsive-email easy
 * [mjmlio/mjml-app](https://github.com/mjmlio/mjml-app): :email: The desktop app for MJML
+* [BenikaH/mlb-odds-scraper](https://github.com/BenikaH/mlb-odds-scraper): MLB Odds Scraper
 * [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter): Minimal Mistakes GitHub Pages site starter.
 * [inotia00/mMicroG](https://github.com/inotia00/mMicroG): None
 * [thebaer/MMRA](https://github.com/thebaer/MMRA): Make Medium Readable Again — a browser extension
@@ -2410,6 +2418,7 @@
 * [sdeep27/poker-simulator](https://github.com/sdeep27/poker-simulator): simulates starting hands and flop, turn, river for tournies and cash games in omaha and hold'em poker
 * [Stiff-2904/Poker_Omaha-Hi](https://github.com/Stiff-2904/Poker_Omaha-Hi): Juego de poker Omaha Hi
 * [400yk/PokerBotMac](https://github.com/400yk/PokerBotMac): Mac version of pokerbot project by Dick Neutral
+* [vuolo/PokerEye-Plus-for-Ignition-Casino](https://github.com/vuolo/PokerEye-Plus-for-Ignition-Casino): PokerEye+ (Plus) for Ignition Casino - An easy-to-use Chrome extension that records & calculates statistics while playing on Ignition Casino's Online Poker in your browser. (This extension can easily be customized to work on Bodog and Bovada's Online Poker as well, since they all use the same licensed PokerAPI software)
 * [HarperJonesGPT/PokerGPT](https://github.com/HarperJonesGPT/PokerGPT): Pokerstars bot that plays real-time poker using GPT4
 * [FranTheHuman/PokerHand](https://github.com/FranTheHuman/PokerHand): Functional exercise in Scala.
 * [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator): Poker-Hand-Evaluator: An efficient poker hand evaluation algorithm and its implementation, supporting 7-card poker and Omaha poker evaluation
@@ -2502,12 +2511,14 @@
 * [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox): A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
 * [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac
 * [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts): 💬 Send iMessages using Python through the Shortcuts app.
+* [DimaKudosh/pydfs-lineup-optimizer](https://github.com/DimaKudosh/pydfs-lineup-optimizer): Daily Fantasy Sports lineup optimzer for all popular daily fantasy sports sites
 * [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd): MacOS launchd/launchctl GUI
 * [e-alizadeh/PyPocket](https://github.com/e-alizadeh/PyPocket): A Python Wrapper (Unofficial) for GetPocket (https://getpocket.com)
 * [newville/pyshortcuts](https://github.com/newville/pyshortcuts): create desktop shortcuts to python scripts on Windows, Mac, or Linux
 * [googleapis/python-genai](https://github.com/googleapis/python-genai): Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.
 * [google/python-laurel](https://github.com/google/python-laurel): Python control of C by GE Bluetooth lightbulbs
 * [evanjd/python-logi-circle](https://github.com/evanjd/python-logi-circle): Python 3.7+ API for Logi Circle cameras
+* [SportsDataDirect/python_tutorials](https://github.com/SportsDataDirect/python_tutorials): Tutorials written in python for Sports Data Direct
 * [Frewacom/pywalfox](https://github.com/Frewacom/pywalfox): Dynamic theming of Firefox (and Thunderbird) using your Pywal colors 
 * [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent): qBittorrent BitTorrent client
 * [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition): [Unofficial] qBittorrent Enhanced, based on qBittorrent
@@ -2978,6 +2989,7 @@
 * [ryankrumenacker/sports-betting-arbitrage-project](https://github.com/ryankrumenacker/sports-betting-arbitrage-project): statistical-arbitrage-for-sports-betting
 * [Shymoney/Sports-betting-web-app](https://github.com/Shymoney/Sports-betting-web-app): Bisically this application serve as an Info system and  predicting sports results and placing a wager on the outcome. 
 * [JamesQuintero/Sports-Odds-Algorithms](https://github.com/JamesQuintero/Sports-Odds-Algorithms): System that calculates and uses algorithms to predict the outcome of NBA, NHL, and MLB sports games.
+* [zaltaie/SportsBettingArbitrage](https://github.com/zaltaie/SportsBettingArbitrage): Arbitrage betting algo, that searches and bets on safe wins on multiple betting platforms
 * [SoslyLW/SportsOdds](https://github.com/SoslyLW/SportsOdds): A Pythagorean win expectation-based Monte Carlo simulator to determine the odds of NHL teams making the playoffs.
 * [daniyalmaster693/sportssync](https://github.com/daniyalmaster693/sportssync): An All-in-One Sports Extension for Raycast
 * [w0lfschild/spotifyPlus](https://github.com/w0lfschild/spotifyPlus): 🎵 MacForge plugin to enhance the Spotify Desktop player on macOS
@@ -3027,6 +3039,7 @@
 * [erosman/support](https://github.com/erosman/support): Support Location for all my extensions
 * [pieces-app/support](https://github.com/pieces-app/support): None
 * [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys): Map your keys for web surfing, expand your browser with javascript and keyboard.
+* [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 * [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules): 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 * [jekyllt/sustain](https://github.com/jekyllt/sustain): 🎹 Personal blog powered by Jekyll
 * [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler): Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
