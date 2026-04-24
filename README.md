@@ -420,6 +420,7 @@
 * [homelab-admin/bettertouchtool-mcp-server](https://github.com/homelab-admin/bettertouchtool-mcp-server): None
 * [SichangHe/BetterTouchTool-SLite-Preset](https://github.com/SichangHe/BetterTouchTool-SLite-Preset): SLite is a preset of BetterTouchTool inspired by GoldenChaos and many other presets. It is a light preset that is also neat. Try it and you'll know.
 * [opentizen/bettertouchtool_apple_script](https://github.com/opentizen/bettertouchtool_apple_script): BettertouchTool Used User for AppleScript
+* [ruzcash/BetterTouchTool_Zcash](https://github.com/ruzcash/BetterTouchTool_Zcash): BetterTouchTool JSON presets for crypto and Zcash monitoring, including price widgets, shielded pool stats, and large transaction alerts.
 * [folivoraAI/BetterTouchToolPlugins](https://github.com/folivoraAI/BetterTouchToolPlugins): Development of BetterTouchTool Plugins
 * [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM): Enhancements for YouTube Music and YouTube
 * [seanpquig/betting-odds-analyzer](https://github.com/seanpquig/betting-odds-analyzer): Analyze sports betting based on historical statistics and current odds
@@ -549,6 +550,7 @@
 * [dyobi/btt_preset](https://github.com/dyobi/btt_preset): None
 * [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css): Awesome buttons for awesome projects!
 * [p-x9/BTTPluginHeadLineNews](https://github.com/p-x9/BTTPluginHeadLineNews): Headline News Widget for Better Touch Tool. You can display the articles fetched by rss.
+* [littleTurnip/BTTPluginsSPM](https://github.com/littleTurnip/BTTPluginsSPM): Development of BetterTouchTool Plugins
 * [Android-App-Patches/build-apps](https://github.com/Android-App-Patches/build-apps): The ReVanced APKs
 * [jarun/buku](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
 * [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener): Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
