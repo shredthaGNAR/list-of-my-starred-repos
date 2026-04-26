@@ -1364,6 +1364,7 @@
 * [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts): Userscripts to add functionality to GitHub
 * [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE): ⚡ Open GitHub repositories in online web IDE
 * [ckeditor/github-writer](https://github.com/ckeditor/github-writer): GitHub Writer - WYSIWYG Rich-Text Editor for GitHub, powered by CKEditor.
+* [omar-azmi/github_aid_ts](https://github.com/omar-azmi/github_aid_ts): A Chromium and Firefox extension for viewing github Repository sizes, and Downloading files/subdirectories. It also features a simple tooling workflow that is capable of auto-generate web-extensions with: pure Typescript, Deno, and ES-modules. Along with the ability to bundle with minification and common-code-splitting.
 * [benbalter/github_records_archiver](https://github.com/benbalter/github_records_archiver): Backs up a GitHub organization's repositories and all their associated information for archival purposes.
 * [kevinapps/githubstar](https://github.com/kevinapps/githubstar): Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
