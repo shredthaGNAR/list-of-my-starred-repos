@@ -461,6 +461,7 @@
 * [iam4x/bobarr](https://github.com/iam4x/bobarr): 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 * [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy): Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 * [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new): Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
+* [bhattsameer/Bombers](https://github.com/bhattsameer/Bombers): SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 * [Tenica/bookMark](https://github.com/Tenica/bookMark): A bookmark webpage built with javaScript 
 * [luxuxl/bookmark](https://github.com/luxuxl/bookmark): This is my personal Shareable bookmarks
 * [MattRuetz/bookmark-app](https://github.com/MattRuetz/bookmark-app): Simple webpage to store bookmarks using localStorage. Flexible and simple UI using CSS variables and animations.
@@ -2701,6 +2702,7 @@
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
 * [shredthaGNAR/reveal-md](https://github.com/shredthaGNAR/reveal-md): None
 * [gaerfield/reveal-md-github-pages](https://github.com/gaerfield/reveal-md-github-pages): Automatically deploys reveal-md presentations to github-pages
+* [Crimson7research/ReverseEngineering-AI](https://github.com/Crimson7research/ReverseEngineering-AI): None
 * [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches): 🧩 Patches for ReVanced
 * [timonus/Rhea](https://github.com/timonus/Rhea): A Mac status bar app for quickly sharing files and links.
 * [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close): Firefox close tab by right clicking on tab button ,userchrome script  🖱️
