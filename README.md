@@ -1438,7 +1438,7 @@
 * [sunlightworks/gosun_dev](https://github.com/sunlightworks/gosun_dev): Built for GoSun (gosun.co). Made with ♥ by Latimer Design. 
 * [HASH1da1/Gotanda](https://github.com/HASH1da1/Gotanda): Gotanda is browser Web Extension for OSINT.
 * [privacy-tech-lab/gpc-optmeowt](https://github.com/privacy-tech-lab/gpc-optmeowt): Privacy browser extension for opting out from web tracking via GPC
-* [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend): A modern "Enigma" built on GnuPG brings easy and trustworthy to your privacy life.
+* [saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend): A modern "Enigma" for OpenPGP. It makes encryption, signing, and key management easier and more trustworthy in everyday privacy workflows.
 * [gphoto/gphoto2](https://github.com/gphoto/gphoto2): The gphoto2 commandline tool for accessing and controlling digital cameras.
 * [yinthewind/GPHud](https://github.com/yinthewind/GPHud): None
 * [vipintom/gpm2spotify](https://github.com/vipintom/gpm2spotify): Google Play Music to Spotify Library Exporter
@@ -3081,7 +3081,7 @@
 * [anlcan/synonyms](https://github.com/anlcan/synonyms): Mac Quick Action for finding synonyms while tracking the history on Firebase
 * [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
 * [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly.
 * [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext): Add context menu to macOS Finder 
 * [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
 * [Lej77/tab-count-in-window-title](https://github.com/Lej77/tab-count-in-window-title): None
