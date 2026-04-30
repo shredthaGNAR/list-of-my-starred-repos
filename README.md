@@ -553,6 +553,7 @@
 * [p-x9/BTTPluginHeadLineNews](https://github.com/p-x9/BTTPluginHeadLineNews): Headline News Widget for Better Touch Tool. You can display the articles fetched by rss.
 * [littleTurnip/BTTPluginsSPM](https://github.com/littleTurnip/BTTPluginsSPM): Development of BetterTouchTool Plugins
 * [Android-App-Patches/build-apps](https://github.com/Android-App-Patches/build-apps): The ReVanced APKs
+* [gityeop/build_better_prompt_raycast_extension](https://github.com/gityeop/build_better_prompt_raycast_extension): Interactive AI prompt builder using flipped learning - AI asks you questions to create better prompts
 * [jarun/buku](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
 * [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener): Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 * [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh): :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
@@ -1456,6 +1457,7 @@
 * [Zaki-1052/GPTPortal](https://github.com/Zaki-1052/GPTPortal): A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
 * [linexjlin/GPTs](https://github.com/linexjlin/GPTs): leaked prompts of GPTs
 * [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript): Build AI assistants that interact with your systems
+* [ilyachenko/grammar-mate](https://github.com/ilyachenko/grammar-mate): The Raycast extension for fast AI grammar checks.
 * [madprops/grasshopper](https://github.com/madprops/grasshopper): Advanced Tab Manager For Firefox
 * [zenangst/Gray](https://github.com/zenangst/Gray):  :first_quarter_moon: Tailor your macOS Mojave experience
 * [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel): GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
@@ -2011,6 +2013,7 @@
 * [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter): Minimal Mistakes GitHub Pages site starter.
 * [inotia00/mMicroG](https://github.com/inotia00/mMicroG): None
 * [thebaer/MMRA](https://github.com/thebaer/MMRA): Make Medium Readable Again — a browser extension
+* [eshelman/MnemonicForge-raycast](https://github.com/eshelman/MnemonicForge-raycast): Fast, customizable, and parameterized AI prompts within Raycast
 * [ScanuNicco/Modern-ThunderBird](https://github.com/ScanuNicco/Modern-ThunderBird): A userChrome.css theme to make thunderbird resemble Firefox 89+
 * [keith/ModMove](https://github.com/keith/ModMove): Move/Resize windows using modifiers and the mouse
 * [charmbracelet/mods](https://github.com/charmbracelet/mods): AI on the command line
@@ -2572,6 +2575,7 @@
 * [raycast/ray-so](https://github.com/raycast/ray-so): Create code snippets, browse AI prompts, create extension icons and more.
 * [grndis/raycast](https://github.com/grndis/raycast): A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features with your own OpenAI API key.
 * [Ernest0-Production/raycast-ai-custom-providers](https://github.com/Ernest0-Production/raycast-ai-custom-providers): Bring Your Own Model in Raycast AI via extension
+* [Halil9901/raycast-ai-grammar-fix-ext](https://github.com/Halil9901/raycast-ai-grammar-fix-ext): None
 * [d-cu/raycast-ai-litellm-proxy](https://github.com/d-cu/raycast-ai-litellm-proxy): Use any LiteLLM model in Raycast AI without a subscription.
 * [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy): Integrate any OpenAI-compatible API with Raycast AI
 * [m3lander/raycast-ai-proxy](https://github.com/m3lander/raycast-ai-proxy): Integrate any OpenAI-compatible API with Raycast AI
@@ -2587,6 +2591,7 @@
 * [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai): GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
 * [krsntn/raycast-guerrilla-mail](https://github.com/krsntn/raycast-guerrilla-mail): Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API
 * [plevik/raycast-hipster-ipsum](https://github.com/plevik/raycast-hipster-ipsum): Raycast free extension to generate placeholder content using the official Hipster Ipsum API https://hipsum.co/the-api/
+* [chrismessina/raycast-karakeep](https://github.com/chrismessina/raycast-karakeep): A Raycast extension for Karakeep, a self-hostable bookmark manager with AI-powered tagging. Save, search, and manage your bookmarks, notes, and highlights without leaving Raycast.
 * [foru17/raycast-karakeep](https://github.com/foru17/raycast-karakeep): ✨ Raycast extension for Karakeep (previously Hoarder) - Your AI-powered bookmarks manager
 * [masaishi/raycast-llm-scripts](https://github.com/masaishi/raycast-llm-scripts): This repository is a collection of diverse and experimental Raycast scripts that integrate with popular LLMs (ChatGPT, Claude, and Perplexity) without requiring API keys. The scripts here are added organically as new ideas emerge, providing a playground for testing and evolving different use cases.
 * [masaishi/raycast-llm-scripts-template](https://github.com/masaishi/raycast-llm-scripts-template): This repository provides a template for creating Raycast scripts that integrate with popular LLMs (ChatGPT, Claude, and Perplexity) without requiring API keys. Simply write Python scripts with prompt templates, and launch your favorite LLM in the browser with pre-filled prompts.
