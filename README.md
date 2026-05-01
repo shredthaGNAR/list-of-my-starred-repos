@@ -381,6 +381,7 @@
 * [jarmo/backpocket](https://github.com/jarmo/backpocket): Backpocket is a command line utility for storing a reading list of articles from the Internet to your local disk for the future. It's an alternative to Pocket offering all the required features without handing over all your private reading materials to any 3rd party.
 * [alx-xlx/backup-website-to-cloud](https://github.com/alx-xlx/backup-website-to-cloud): This is a script to push a backup of your website, forum etc to Cloud Storage using rclone
 * [joshuachough/backupOneTab](https://github.com/joshuachough/backupOneTab): Back up and restore your OneTab Chrome extension data
+* [popcar2/BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist): A filter that blocks spam & misleading websites from appearing in search results via uBlocklist
 * [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks): Replicate DuckDuckGo !bang's in Firefox using Keymarks!
 * [nathanchapman/bash-functions](https://github.com/nathanchapman/bash-functions): 🔮 A collection of useful Bash/ZSH functions
 * [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator): Customize your Bash Prompt by setting the PS1 variable.
