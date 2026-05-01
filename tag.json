@@ -1328,6 +1328,9 @@
     "LightAPIs/free-export-bookmarks": [
         "Other"
     ],
+    "Lin-Guanguo/SenseTypeAI": [
+        "Other"
+    ],
     "Linhvjc/gpt4free": [
         "Other"
     ],
@@ -1445,6 +1448,9 @@
     "MatthewCash/firefox-mods": [
         "Other"
     ],
+    "MattieTK/raycast-opencode": [
+        "Other"
+    ],
     "Mattlk13/h4cker": [
         "Other"
     ],
@@ -1545,6 +1551,9 @@
         "Other"
     ],
     "MozillaSecurity/prefpicker": [
+        "Other"
+    ],
+    "MrHiTech123/GameAISplineAndRaycast": [
         "Other"
     ],
     "MrKai77/Loop": [
@@ -1883,6 +1892,9 @@
     "QuanBlue/mearn-portfolio": [
         "Other"
     ],
+    "Queazified/Piracy-Extras": [
+        "Other"
+    ],
     "REAndroid/APKEditor": [
         "Other"
     ],
@@ -1994,6 +2006,9 @@
     "RobinBoers/wavefox-lepton": [
         "Other"
     ],
+    "RokiLai/custom-ai-provider": [
+        "Other"
+    ],
     "RooneyMcNibNug/pihole-stuff": [
         "Other"
     ],
@@ -2019,6 +2034,9 @@
         "Other"
     ],
     "SamR1/rdltr-addon": [
+        "Other"
+    ],
+    "SammyLin/raycast-ai-actions": [
         "Other"
     ],
     "SamuelZ12/screen-scribe": [
@@ -2390,6 +2408,9 @@
     "ThinkInAIXYZ/deepchat": [
         "Other"
     ],
+    "Thomas-Basadonne/promptify-raycast": [
+        "Other"
+    ],
     "Thomashighbaugh/firefox": [
         "Other"
     ],
@@ -2403,6 +2424,9 @@
         "Other"
     ],
     "TiltCheck-ME/CollectClock": [
+        "Other"
+    ],
+    "TimoBechtel/raycast-skillset": [
         "Other"
     ],
     "Timvde/UserChrome-Tweaks": [
@@ -2823,6 +2847,9 @@
         "Other"
     ],
     "adobe/brackets": [
+        "Other"
+    ],
+    "adrianavarrete/raycast-ai-actions": [
         "Other"
     ],
     "adriangrantdotorg/Raycast-Skill": [
@@ -3332,6 +3359,9 @@
     "arthurdecloedt/BTT-scripts": [
         "Other"
     ],
+    "arturepremian/raycast-ai-grammar-fixer": [
+        "Other"
+    ],
     "asgeirtj/system_prompts_leaks": [
         "Other"
     ],
@@ -3761,10 +3791,16 @@
     "c0re100/qBittorrent-Enhanced-Edition": [
         "Other"
     ],
+    "c1gee/AI-Humanizer-Clipboard-Raycast": [
+        "Other"
+    ],
     "caballerofelipe/osx-automator-services": [
         "Other"
     ],
     "cadeyrn/bookmarks-organizer": [
+        "Other"
+    ],
+    "cai-layer/cai-raycast-extension": [
         "Other"
     ],
     "caiogondim/bullet-train.zsh": [
@@ -4076,6 +4112,9 @@
     "conema/monterail-fulldark": [
         "Other"
     ],
+    "connorholly11/raycast-ai-extensions-connor": [
+        "Other"
+    ],
     "containers/podman": [
         "Other"
     ],
@@ -4337,6 +4376,9 @@
     "ddawson/Link-Tools": [
         "Other"
     ],
+    "ddryo/raycast-call-ai": [
+        "Other"
+    ],
     "de1etenu11ptr/TGS-Extension": [
         "Other"
     ],
@@ -4395,6 +4437,9 @@
         "Other"
     ],
     "deniszanin/tabs2text": [
+        "Other"
+    ],
+    "derhamderham/raycast-jan-ai": [
         "Other"
     ],
     "derickfay/tag-services": [
@@ -4545,6 +4590,12 @@
         "Other"
     ],
     "dpschen/onetab-export-script": [
+        "Other"
+    ],
+    "dpshde/pocket-prompt-suite": [
+        "Other"
+    ],
+    "dpshde/raycast-opencode": [
         "Other"
     ],
     "dracula/thunderbird": [
@@ -5012,6 +5063,9 @@
     "fniephaus/alfred-pocket": [
         "Other"
     ],
+    "foeken/inbox-ai-raycast": [
+        "Other"
+    ],
     "folivoraAI/BetterTouchToolPlugins": [
         "Other"
     ],
@@ -5081,6 +5135,9 @@
     "frm/cryptotool": [
         "Other"
     ],
+    "frolvanya/ai-humanizer": [
+        "Other"
+    ],
     "fruiz500/VideoSkip-extension": [
         "Other"
     ],
@@ -5097,6 +5154,9 @@
         "Other"
     ],
     "gabeweb/Firefox-Browser-Proton-Custom": [
+        "Other"
+    ],
+    "gabriel-moresco/raycast-quick-ai": [
         "Other"
     ],
     "gaerfield/reveal-md-github-pages": [
@@ -5495,6 +5555,9 @@
     "harttle/liquidjs": [
         "Other"
     ],
+    "harunonsystem/raycast-extension-template": [
+        "Other"
+    ],
     "harv/userChromeJS": [
         "Other"
     ],
@@ -5768,6 +5831,9 @@
     "ineat/signature": [
         "Other"
     ],
+    "infinilabs/coco-app": [
+        "Other"
+    ],
     "infinitepower18/clone-in-vscode": [
         "Other"
     ],
@@ -5850,6 +5916,9 @@
         "Other"
     ],
     "itsmejayd/filter-duplicate-lines": [
+        "Other"
+    ],
+    "itsnex1s/MacClaw": [
         "Other"
     ],
     "itszechs/DriveStream": [
@@ -6077,6 +6146,9 @@
     "jianbingfang/vscode-dup-checker": [
         "Other"
     ],
+    "jibin2706/refine": [
+        "Other"
+    ],
     "jigar-sable/Portfolio-Website": [
         "Other"
     ],
@@ -6101,6 +6173,9 @@
     "jivoi/awesome-osint": [
         "Other"
     ],
+    "jjcall/raycast-vault-clipper": [
+        "Other"
+    ],
     "jkennethcarino/privacy-revanced-patches": [
         "Other"
     ],
@@ -6114,6 +6189,9 @@
         "Other"
     ],
     "jlord/sheetsee-pocket": [
+        "Other"
+    ],
+    "jmaaloe/raycast-ai-prompts": [
         "Other"
     ],
     "jmadden12/blackjack-bs-trainer": [
@@ -6464,6 +6542,9 @@
     "kingparks/cursor-vip": [
         "Other"
     ],
+    "kirel/raycast-openai-server": [
+        "Other"
+    ],
     "kiteco/vscode-plugin": [
         "Other"
     ],
@@ -6593,6 +6674,9 @@
     "kuldeepghodasara/Show-Payment-icons-to-Shopify-Dynamically": [
         "Other"
     ],
+    "kunkka19xx/look": [
+        "Other"
+    ],
     "kush-agra/Dynamic_Walls": [
         "Other"
     ],
@@ -6641,7 +6725,13 @@
     "larsow/SecurityCamera": [
         "Other"
     ],
+    "larygwil/ff-src-part": [
+        "Other"
+    ],
     "last-arg/bookmark_with_pocket": [
+        "Other"
+    ],
+    "lastIndexOf/macproxy": [
         "Other"
     ],
     "laurent22/joplin": [
@@ -6699,6 +6789,9 @@
         "Other"
     ],
     "leungwensen/svg-icon": [
+        "Other"
+    ],
+    "leveragedrobot/raycast-moltbot": [
         "Other"
     ],
     "lgarron/folderify": [
@@ -7520,6 +7613,9 @@
     "nagaraj-real/localaipilot-api": [
         "Other"
     ],
+    "nagauta/raycast-ai-sdk": [
+        "Other"
+    ],
     "naiemofficial/FUIX": [
         "Other"
     ],
@@ -7868,6 +7964,9 @@
     "omar-azmi/github_aid_ts": [
         "Other"
     ],
+    "omar-haris/smart-coding-mcp": [
+        "Other"
+    ],
     "omnixent/omnixent": [
         "Other"
     ],
@@ -8099,6 +8198,9 @@
     "peternmuller/revanced-morphe-builder": [
         "Other"
     ],
+    "pezzos/raycast-ai-assistant": [
+        "Other"
+    ],
     "pfcao/abookmark": [
         "Other"
     ],
@@ -8142,6 +8244,9 @@
         "Other"
     ],
     "piejanssens/premiumizer": [
+        "Other"
+    ],
+    "pierremouchan/raycast-ai-writing-assistant": [
         "Other"
     ],
     "pietervanheijningen/clickbait-remover-for-youtube": [
@@ -8381,6 +8486,9 @@
     "pystardust/ytfzf": [
         "Other"
     ],
+    "qazi0/local-ai-raycast": [
+        "Other"
+    ],
     "qbittorrent/qBittorrent": [
         "Other"
     ],
@@ -8453,9 +8561,6 @@
     "rahulkhatri137/revanced-yt-builder": [
         "Other"
     ],
-    "rainbowflesh/mimicfox": [
-        "Other"
-    ],
     "rajaprerak/rajaprerak.github.io": [
         "Other"
     ],
@@ -8499,6 +8604,9 @@
         "Other"
     ],
     "raycast/script-commands": [
+        "Other"
+    ],
+    "raycast/utils": [
         "Other"
     ],
     "razak17/firefox-user.js": [
@@ -8822,6 +8930,9 @@
     "salarcode/SmartProxy": [
         "Other"
     ],
+    "salemkode/writier-ai-raycast": [
+        "Other"
+    ],
     "salvoventura/save-my-tabs": [
         "Other"
     ],
@@ -9000,6 +9111,9 @@
         "Other"
     ],
     "sham00n/buster": [
+        "Other"
+    ],
+    "shanlan-L/raycast-ai-extension": [
         "Other"
     ],
     "sharadcodes/jekyll-theme-serial-programmer": [
@@ -9659,6 +9773,9 @@
     "taroontyagi/email-signature": [
         "Other"
     ],
+    "tarurata/ai-text-transformer": [
+        "Other"
+    ],
     "tasks/tasks": [
         "Other"
     ],
@@ -9846,6 +9963,9 @@
         "Other"
     ],
     "timqian/openprompt.co": [
+        "Other"
+    ],
+    "timrogers/build-raycast-extension": [
         "Other"
     ],
     "tj/n": [
@@ -10509,6 +10629,9 @@
         "Other"
     ],
     "xiaohk/clip2imgur": [
+        "Other"
+    ],
+    "xiaotiyanlove-star/OpenClawForRaycast": [
         "Other"
     ],
     "xiaoxiaoflood/firefox-scripts": [
