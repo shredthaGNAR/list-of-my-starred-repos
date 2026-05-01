@@ -80,6 +80,7 @@
 * [finxter/AI-Engineering-Learning-Resources](https://github.com/finxter/AI-Engineering-Learning-Resources): None
 * [frolvanya/ai-humanizer](https://github.com/frolvanya/ai-humanizer): AI Humanizer
 * [c1gee/AI-Humanizer-Clipboard-Raycast](https://github.com/c1gee/AI-Humanizer-Clipboard-Raycast): AI Humanizer Clipboard for Raycast
+* [EvanZhouDev/ai-model-index](https://github.com/EvanZhouDev/ai-model-index): Find the best models for any task. For free.
 * [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts): A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
 * [houssinehn11/ai-proxy](https://github.com/houssinehn11/ai-proxy): 🚀 Streamline access to major AI models like ChatGPT and Claude with a unified API, enhancing reliability and reducing costs for developers in China.
 * [cpbotha/ai-screenshot-namer](https://github.com/cpbotha/ai-screenshot-namer): Rename your screenshots with ollama LLaVA, GPT-4o and macOS OCR
@@ -433,6 +434,7 @@
 * [macOS26/bigmac](https://github.com/macOS26/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 * [garywill/BigSearch](https://github.com/garywill/BigSearch): Browser extension. Definitly more than a GET/POST sender. Handily use search engines via a Flexible Tool! UI has Vimium-like feature 🌐🔍 (Pure-client. No 3rd-party server needed) 大术专搜 既专又广 手敲几下 纵横去往
 * [zjns/BiliRoamingX-patches](https://github.com/zjns/BiliRoamingX-patches): [Deprecated] Merged into https://github.com/BiliRoamingX/BiliRoamingX.
+* [toanbku/bing-chat-raycast-extension](https://github.com/toanbku/bing-chat-raycast-extension): None
 * [sebaslogen/bitcoin-price-ticker](https://github.com/sebaslogen/bitcoin-price-ticker): Bitcoin Price Ticker Firefox Addon with multiple price sources and configuration options
 * [kdmukai/bitcoin_resources](https://github.com/kdmukai/bitcoin_resources): My starter pack for people new to the bewildering world of bitcoin.
 * [ajmalshahabudeen/Bitwarden-Duplicate-remover](https://github.com/ajmalshahabudeen/Bitwarden-Duplicate-remover): When Importing multiple CSV files Bitwarden creates Duplicate Entries. So this Python script will remove duplicate entries and keep ONE.
@@ -859,6 +861,7 @@
 * [BrettHuang2019/devportfolio](https://github.com/BrettHuang2019/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 * [QJX-XXXX/devportfolio](https://github.com/QJX-XXXX/devportfolio): A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 * [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio): A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
+* [stevepeak/dexa-raycast](https://github.com/stevepeak/dexa-raycast): Dexa raycast extension
 * [Kavakuo/Dict.cc-Alfred-Workflow](https://github.com/Kavakuo/Dict.cc-Alfred-Workflow): None
 * [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez): 📚 A customizable dictionary extension that supports double-click lookups in 20+ languages, 1000+ dictionaries, text-to-speech, translation and Anki integration.
 * [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): Make your diffs human readable for improved code quality and faster defect detection. :tada:
@@ -2650,6 +2653,7 @@
 * [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama): Raycast extention for Ollama
 * [brunnorpdias/RaycastAI](https://github.com/brunnorpdias/RaycastAI): Access llms from various different apis from your computer launcher
 * [daihy8759/raychat](https://github.com/daihy8759/raychat): turn your Raycast pro AI to OpenAI API Compatible API server
+* [jinghaihan/rayext](https://github.com/jinghaihan/rayext): A decentralized extension manager for Raycast.
 * [rbenv/rbenv](https://github.com/rbenv/rbenv): Manage your app's Ruby environment
 * [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 * [iampueroo/rComments](https://github.com/iampueroo/rComments): Chrome and Firefox extension for quickly exploring Reddit comments and replies without having to click through to the post!
@@ -3429,6 +3433,7 @@
 * [Pravpro/Vibn-Central](https://github.com/Pravpro/Vibn-Central): An app being built with the goal of making Product Uploading exponentially faster for Shopify stores with one-off products.
 * [Kayno0o/vibrant-glass-theme](https://github.com/Kayno0o/vibrant-glass-theme): I made this theme for myself at first, but some friends found it cool, so I decided to share it here.
 * [jtlw99/vicefox](https://github.com/jtlw99/vicefox): ViceFox make your FireFox great and beter!
+* [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae): A focused launcher for your desktop - native, fast, extensible
 * [rubjo/victor-mono](https://github.com/rubjo/victor-mono): A free programming font with cursive italics and ligatures. Donations welcome ❤️
 * [jeanslack/Videomass](https://github.com/jeanslack/Videomass): Videomass is a free, open source and cross-platform GUI for FFmpeg
 * [fruiz500/VideoSkip-extension](https://github.com/fruiz500/VideoSkip-extension): Same as VideoSkip, but as a Chrome/Firefox/Edge extension so it can edit videos streaming from many sources
