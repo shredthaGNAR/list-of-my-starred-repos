@@ -193,6 +193,7 @@
 * [aaronfreimark/Apple-ID-AppleScript](https://github.com/aaronfreimark/Apple-ID-AppleScript): AppleScript to programatically create Apple IDs
 * [Explosion-Scratch/apple-intelligence-prompts](https://github.com/Explosion-Scratch/apple-intelligence-prompts): System prompts from Apple's new Apple Intelligence on MacOS Sequoia
 * [agentcooper/apple-notes-bookmarklet](https://github.com/agentcooper/apple-notes-bookmarklet): Bookmarklet for saving selected text to Apple Notes
+* [EvanZhouDev/apple-prompt-injection](https://github.com/EvanZhouDev/apple-prompt-injection): A list of Apple Intelligence prompt injections.
 * [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide): Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers.
 * [threeplanetssoftware/apple_cloud_notes_parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser): Parser for Apple Notes data stored on the Cloud as seen on Apple handsets
 * [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI): A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
@@ -825,6 +826,7 @@
 * [shredthaGNAR/dawn](https://github.com/shredthaGNAR/dawn): Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 * [pedritobata/dawn-clone-shopify](https://github.com/pedritobata/dawn-clone-shopify): None
 * [dougpark/dayone](https://github.com/dougpark/dayone): Better Touch Tool create a DayOne journal entry
+* [deedy5/ddgs](https://github.com/deedy5/ddgs): A metasearch library that aggregates results from diverse web search services
 * [enokmadrid/deafink](https://github.com/enokmadrid/deafink): Custom Shopify Theme for Deafink
 * [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui): Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 * [khlam/debloat-samsung-android](https://github.com/khlam/debloat-samsung-android): ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to stock Android.
@@ -2610,6 +2612,7 @@
 * [m3lander/raycast-ai-proxy](https://github.com/m3lander/raycast-ai-proxy): Integrate any OpenAI-compatible API with Raycast AI
 * [nagauta/raycast-ai-sdk](https://github.com/nagauta/raycast-ai-sdk): None
 * [pierremouchan/raycast-ai-writing-assistant](https://github.com/pierremouchan/raycast-ai-writing-assistant): AI Writing Assistant is here to assist you with any of your writing tasks, from fixing grammar to generating a list of action items.
+* [EvanZhouDev/raycast-apple-intelligence](https://github.com/EvanZhouDev/raycast-apple-intelligence): None
 * [LitoMore/raycast-backend-api](https://github.com/LitoMore/raycast-backend-api): Accessing the Raycast backend API delightfully
 * [pa1ar/raycast-bridges](https://github.com/pa1ar/raycast-bridges): Connect any REST API to Raycast AI — scaffolded by an agent, callable from any conversation
 * [ddryo/raycast-call-ai](https://github.com/ddryo/raycast-call-ai): None
@@ -3131,6 +3134,7 @@
 * [anlcan/synonyms](https://github.com/anlcan/synonyms): Mac Quick Action for finding synonyms while tracking the history on Firebase
 * [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
 * [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+* [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts): None
 * [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly.
 * [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext): Add context menu to macOS Finder 
 * [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
