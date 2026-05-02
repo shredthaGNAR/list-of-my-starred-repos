@@ -2575,6 +2575,7 @@
 * [dustindmiller/QLab-Touchbar](https://github.com/dustindmiller/QLab-Touchbar): Touch Bar BTT config for QLab.
 * [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown): macOS Quick Look extension for Markdown files.
 * [Watson1978/QLMarkdownGFM](https://github.com/Watson1978/QLMarkdownGFM): Quicklook plugin for Github Flavored Markdown
+* [qltysh/qlty](https://github.com/qltysh/qlty): 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
 * [srirangav/qlZipInfo](https://github.com/srirangav/qlZipInfo): MacOSX QuickLook Generator for zip, jar, tar, tar.gz (.tgz), tar.bz2 (.tbz2/.tbz), tar.Z, xar (.xar, .pkg), debian (.deb), RedHat Package Manager (.rpm), 7zip (.7z), xz, Microsoft cabinet (.cab), gzip (.gz), lha, BinHex 4.0 (.hqx), ePub (.epub), and Stuffit (.sit) archives, and ISO9660 images
 * [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes): QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
 * [monyxie/qr-lite](https://github.com/monyxie/qr-lite): A browser extension for generating and scanning QR codes.
