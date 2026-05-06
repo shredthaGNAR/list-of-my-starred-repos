@@ -686,6 +686,7 @@
 * [kepano/clipper-templates](https://github.com/kepano/clipper-templates): Obsidian Web Clipper templates for various sites.
 * [aecreations/clippings](https://github.com/aecreations/clippings): Save frequently-entered text for pasting later. An extension for Firefox.
 * [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Save frequently-entered text for pasting later. An extension for Thunderbird.
+* [XInTheDark/CLIProxyAPI](https://github.com/XInTheDark/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 * [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
 * [ian4hu/Clipy](https://github.com/ian4hu/Clipy): Clipboard extension app for macOS.
@@ -709,6 +710,7 @@
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
 * [openai/codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
 * [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
+* [loocor/codmate](https://github.com/loocor/codmate): CodMate is a macOS SwiftUI app for managing CLI AI sessions: browse, search, organize, resume, and review work produced by Codex, Claude Code, and Gemini CLI.  It focuses on speed, a compact three-column UI, and “ship it” workflows like Project Review (Git Changes) and one-click Resume/New.
 * [coinpaprika/coinpaprika-api-swift-client](https://github.com/coinpaprika/coinpaprika-api-swift-client): This library provides convenient way to use Coinpaprika.com API in Swift.
 * [TiltCheck-ME/CollectClock](https://github.com/TiltCheck-ME/CollectClock): This project aims to streamline the bonus collection process and create an efficient system for timing multiple casino collections.
 * [ZizhengYang/Collection-Obsidian-Templates-Snippets](https://github.com/ZizhengYang/Collection-Obsidian-Templates-Snippets): This is a document collecting or different `Obsidian` snippets, how to write, how to use and how to expand
