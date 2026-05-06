@@ -1530,7 +1530,7 @@
 * [p-e-w/heretic](https://github.com/p-e-w/heretic): Fully automatic censorship removal for language models
 * [demtario/hes-gallery](https://github.com/demtario/hes-gallery): Light, dependency free, responsive gallery script
 * [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend): A fast and clever hex editor for macOS
-* [MStankiewiczOfficial/Hi-Notch](https://github.com/MStankiewiczOfficial/Hi-Notch): [Discontinued] Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
+* [stankiewiczmichal/Hi-Notch](https://github.com/stankiewiczmichal/Hi-Notch): [Discontinued] Hi Notch! makes using your MacBook even more productive. It displays additional buttons and statuses of active applications such as web browsers, Apple Music, Microsoft Teams and Zoom.
 * [dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS utility that helps hide menu bar icons
 * [hensm/hide_private_mode](https://github.com/hensm/hide_private_mode): None
 * [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator): Simple tool to generate HIDUTIL key remapping configurations for MacOS
