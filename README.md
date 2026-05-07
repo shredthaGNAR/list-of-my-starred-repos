@@ -3482,7 +3482,6 @@
 * [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey): Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 * [vira-themes/vira-assets](https://github.com/vira-themes/vira-assets): Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 * [sanderdebr/visited-places-api](https://github.com/sanderdebr/visited-places-api): Full-stack App - user generated map of visited places. Where have you been to?
-* [VitaliyVstyle/VitaliyVstyle.github.io](https://github.com/VitaliyVstyle/VitaliyVstyle.github.io): UserChromeFiles, Webextensions Experiments
 * [nt1m/vivaldi-fox](https://github.com/nt1m/vivaldi-fox): An add-on that aims to add Vivaldi style toolbar colouring to the Firefox UI
 * [sharkdp/vivid](https://github.com/sharkdp/vivid): A themeable LS_COLORS generator with a rich filetype datebase
 * [muhummadPatel/vLoader](https://github.com/muhummadPatel/vLoader): An extremely simple, no frills, GUI-based video downloader
