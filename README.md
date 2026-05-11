@@ -2190,6 +2190,7 @@
 * [theapplegates/obsidian-astro-suite](https://github.com/theapplegates/obsidian-astro-suite): A set of Obsidian vaults to plug into your Astro website to write and publish easily.
 * [roovo/obsidian-card-board](https://github.com/roovo/obsidian-card-board): An Obsidian plugin to make working with tasks a pleasure (hopefully anyway).
 * [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper): Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
+* [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights): An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
 * [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe): Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 * [JoshKasap/Obsidian-Faded-Theme](https://github.com/JoshKasap/Obsidian-Faded-Theme): Faded Theme For Obsidian By MatteCrystal
 * [stravo1/obsidian-gdrive-sync](https://github.com/stravo1/obsidian-gdrive-sync): sync notes across devices in Obsidian via Google Drive 
