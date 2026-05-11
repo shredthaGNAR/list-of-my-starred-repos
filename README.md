@@ -600,7 +600,7 @@
 * [unixpickle/cbyge](https://github.com/unixpickle/cbyge): Reverse engineering Cync (formerly "C by GE") WiFi devices
 * [CaptainN/cbyge2mqtt](https://github.com/CaptainN/cbyge2mqtt): None
 * [chriswayg/CC-Offline-Package-Generator](https://github.com/chriswayg/CC-Offline-Package-Generator): Adobe CC 2018 to 2022 Direct Download and Offline Installer Package Generator 
-* [farion1231/cc-switch](https://github.com/farion1231/cc-switch): A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+* [farion1231/cc-switch](https://github.com/farion1231/cc-switch): A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 * [cc-archive/ccsearch-browser-extension](https://github.com/cc-archive/ccsearch-browser-extension): [PROJECT TRANSFERRED] Cross-Browser extension to search, filter and use images in the public domain and under Creative Commons licenses.
 * [t4rra/CCStopper](https://github.com/t4rra/CCStopper): [Archived] Stops Adobe's pesky background apps and more 😉
 * [w0lfschild/cDock](https://github.com/w0lfschild/cDock): :lollipop: Basic dock customization for macOS
@@ -1998,7 +1998,6 @@
 * [nikivdev/mbt](https://github.com/nikivdev/mbt): MoonBit tools, libraries
 * [alienator88/McBrew](https://github.com/alienator88/McBrew): A fast GUI for Homebrew written in SwiftUI
 * [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant): Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...
-* [QuanBlue/mearn-portfolio](https://github.com/QuanBlue/mearn-portfolio): My first portfolio website, using MERN stack
 * [lightward/mechanic-tasks](https://github.com/lightward/mechanic-tasks): Public task repository for Mechanic (https://mechanic.dev)
 * [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader): Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 * [tillig/mediacenter](https://github.com/tillig/mediacenter): Documentation/info on my media center setup.
@@ -2018,6 +2017,7 @@
 * [austintraver/merge](https://github.com/austintraver/merge): Addon to replicate the Safari 'Merge All Windows' menu command
 * [wsmadsen/Merge-NHL-Odds](https://github.com/wsmadsen/Merge-NHL-Odds): Import NHL data from NHL website and merge odds
 * [jonathanKingston/merge-windows](https://github.com/jonathanKingston/merge-windows): A Firefox extension for merging windows
+* [QuanBlue/mern-portfolio](https://github.com/QuanBlue/mern-portfolio): My first portfolio website, using MERN stack
 * [zoidsh/meru](https://github.com/zoidsh/meru): :postbox: Gmail desktop app for macOS, Windows & Linux (formerly Gmail Desktop)
 * [nickysemenza/message-analyzer](https://github.com/nickysemenza/message-analyzer): 💬 📊 Facebook Messenger history scraper + analyzer
 * [cleidigh/Message-archive-options-TB](https://github.com/cleidigh/Message-archive-options-TB): Thunderbird Add-On Adds the ability to customize the date format of the archive folders created by TB Archive Messages
