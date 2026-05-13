@@ -2624,6 +2624,7 @@
 * [isheeze/rawalpindis](https://github.com/isheeze/rawalpindis): Shopify os 2.0 first theme of mine
 * [raycast/ray-so](https://github.com/raycast/ray-so): Create code snippets, browse AI prompts, create extension icons and more.
 * [grndis/raycast](https://github.com/grndis/raycast): A local backend implementation for Raycast that provides AI chat completions and translation services using OpenAI APIs. This project allows you to run a self-hosted version of Raycast's AI features with your own OpenAI API key.
+* [AA1labs/Raycast--Stealth-AI](https://github.com/AA1labs/Raycast--Stealth-AI): A Raycast Extension that allows to run AI commands in the background.
 * [SammyLin/raycast-ai-actions](https://github.com/SammyLin/raycast-ai-actions): None
 * [adrianavarrete/raycast-ai-actions](https://github.com/adrianavarrete/raycast-ai-actions): None
 * [pezzos/raycast-ai-assistant](https://github.com/pezzos/raycast-ai-assistant): A collection of AI-powered tools to enhance your productivity.
