@@ -1596,7 +1596,7 @@
 * [raphaelhanneken/iconizer](https://github.com/raphaelhanneken/iconizer): Create Xcode asset catalogs swift and painless. Generate images for macOS and iOS app icons, launch images and image sets.
 * [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir): An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
 * [kreativekorp/iconposeur](https://github.com/kreativekorp/iconposeur): Open-source recreation of the Icon Composer application. Create icons for Mac OS X without Xcode. Also creates Windows ico files.
-* [FirefoxUX/icons](https://github.com/FirefoxUX/icons): SVG icons used in Firefox. View all icons here:
+* [FirefoxUX/icons](https://github.com/FirefoxUX/icons): DEPRECATED - SVG icons used in Firefox. View all icons here:
 * [uuware/icons-font-desktop](https://github.com/uuware/icons-font-desktop): Desktop version of free-icons-customization, a collection of over 33,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or business requirements.
 * [tale/iconset](https://github.com/tale/iconset): A nifty command-line tool to customize macOS icons
 * [Sumeet-R/ID-Lookup](https://github.com/Sumeet-R/ID-Lookup): A search tool that can find exposed email addresses and mobile numbers on Internet.
