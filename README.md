@@ -239,7 +239,7 @@
 * [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio): This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the developer's skills, projects, and contact information. The website is responsive, accessible, and SEO-friendly.
 * [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
 * [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme): Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
-* [hansmartens68/Astro-Rocket](https://github.com/hansmartens68/Astro-Rocket): A production-ready Astro 6 starter with 12 beautiful themes, 57+ components, built-in i18n, dark mode and a fast, modern foundation to build anything on.
+* [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket): A production-ready Astro 6 starter with 12 beautiful themes, 57+ components, built-in i18n, dark mode and a fast, modern foundation to build anything on.
 * [immois/astro-zen](https://github.com/immois/astro-zen): Minimalist, accessible and SEO-optimized personal portfolio website template.
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
 * [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate): Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!
@@ -2233,6 +2233,7 @@
 * [quanm/Omaha-Poker](https://github.com/quanm/Omaha-Poker): None
 * [nguidice/omahaPoker](https://github.com/nguidice/omahaPoker): Program that evaluates the winner of a 2-player Omaha-High Hold’em poker game (also known as pot-limit Omaha).
 * [ksoeze/OmahaRangeExplorer](https://github.com/ksoeze/OmahaRangeExplorer): Omaha Range Explorer is a Python-based tool designed to evaluate and analyze Omaha 4-card, 5-card, and HILO poker hands and ranges. The tool allows users to construct in-game ranges over multiple streets using smart syntax, run equity and hand rank calculations, and perform basic EV estimations.
+* [VariableThe/Omelette-The-Openrouter-Extention-for-Raycast](https://github.com/VariableThe/Omelette-The-Openrouter-Extention-for-Raycast): A new extension for raycast using openrouter API keys to provide a clean and native UI for quick access to AI
 * [alyssaxuu/omni](https://github.com/alyssaxuu/omni): The all-in-one tool to supercharge your productivity ⌨️
 * [InQuest/omnibus](https://github.com/InQuest/omnibus): The OSINT Omnibus (beta release)
 * [omnixent/omnixent](https://github.com/omnixent/omnixent): 👀 A simple API that allows you to understand what people search on search engines, social networks, etc.
@@ -2659,6 +2660,8 @@
 * [foru17/raycast-karakeep](https://github.com/foru17/raycast-karakeep): ✨ Raycast extension for Karakeep (previously Hoarder) - Your AI-powered bookmarks manager
 * [masaishi/raycast-llm-scripts](https://github.com/masaishi/raycast-llm-scripts): This repository is a collection of diverse and experimental Raycast scripts that integrate with popular LLMs (ChatGPT, Claude, and Perplexity) without requiring API keys. The scripts here are added organically as new ideas emerge, providing a playground for testing and evolving different use cases.
 * [masaishi/raycast-llm-scripts-template](https://github.com/masaishi/raycast-llm-scripts-template): This repository provides a template for creating Raycast scripts that integrate with popular LLMs (ChatGPT, Claude, and Perplexity) without requiring API keys. Simply write Python scripts with prompt templates, and launch your favorite LLM in the browser with pre-filled prompts.
+* [kevintraver/raycast-mcp-edit](https://github.com/kevintraver/raycast-mcp-edit): A Raycast extension for quick access to MCP configuration files across AI coding assistants
+* [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server): Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
 * [leveragedrobot/raycast-moltbot](https://github.com/leveragedrobot/raycast-moltbot): Raycast extension for Clawdbot AI assistant
 * [Alorse/raycast-omnipilot-extension](https://github.com/Alorse/raycast-omnipilot-extension): 🚀 OmniPilot - Advanced Raycast extension for AI-powered assistance with multiple providers support, streaming responses, and command history
 * [rossinek/raycast-openai](https://github.com/rossinek/raycast-openai): Simple UI for OpenAI completion and chat API
@@ -2666,6 +2669,7 @@
 * [flowkscai/raycast-openai-translator](https://github.com/flowkscai/raycast-openai-translator): Raycast extension for translation based on ChatGPT compatible API.
 * [MattieTK/raycast-opencode](https://github.com/MattieTK/raycast-opencode): Raycast extension for OpenCode AI
 * [dpshde/raycast-opencode](https://github.com/dpshde/raycast-opencode): Raycast extension for OpenCode - AI coding assistant with session search and multi-terminal support
+* [chrismessina/raycast-parallel-web-tools](https://github.com/chrismessina/raycast-parallel-web-tools): This is a Raycast extension that provides AI-powered web search, content extraction, deep research, and entity discovery using the Parallel API.
 * [leolionart/raycast-personal-tools](https://github.com/leolionart/raycast-personal-tools): Raycast extension to use AI with proxy API
 * [SKaplanOfficial/Raycast-PromptLab](https://github.com/SKaplanOfficial/Raycast-PromptLab): A Raycast extension for creating powerful, contextually-aware AI commands using placeholders, action scripts, selected files, and more.
 * [gabriel-moresco/raycast-quick-ai](https://github.com/gabriel-moresco/raycast-quick-ai): None
