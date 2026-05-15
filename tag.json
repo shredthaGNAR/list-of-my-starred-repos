@@ -41,6 +41,9 @@
     "117649/Tab-Groups": [
         "Other"
     ],
+    "11ty/eleventy": [
+        "Other"
+    ],
     "11ty/eleventy-base-blog": [
         "Other"
     ],
@@ -6227,6 +6230,9 @@
     "jgressmann/harbour-vodman": [
         "Other"
     ],
+    "jhasubhash/btt-plugins": [
+        "Other"
+    ],
     "jhonatasrm/print-preview": [
         "Other"
     ],
@@ -6636,6 +6642,9 @@
         "Other"
     ],
     "kingparks/cursor-vip": [
+        "Other"
+    ],
+    "kireerik/refo": [
         "Other"
     ],
     "kirel/raycast-openai-server": [
