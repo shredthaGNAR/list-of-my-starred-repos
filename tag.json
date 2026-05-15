@@ -7565,6 +7565,9 @@
     "mozilla-ai/llamafile": [
         "Other"
     ],
+    "mozilla-services/syncstorage-rs": [
+        "Other"
+    ],
     "mozilla/FirefoxColor": [
         "Other"
     ],
