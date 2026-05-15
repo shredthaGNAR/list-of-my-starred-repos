@@ -3440,7 +3440,6 @@
 * [zephyrer/userChromeJS](https://github.com/zephyrer/userChromeJS): uc.js, uc.xul collections
 * [RJ-Infinity/UserChromeScriptLoader](https://github.com/RJ-Infinity/UserChromeScriptLoader): None
 * [SoloSaravanan/userjs](https://github.com/SoloSaravanan/userjs): Removes Mozilla spyware from Firefox and makes Firefox more secure 
-* [t0xk/username-generator](https://github.com/t0xk/username-generator): A username generator written in JavaScript
 * [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner): Fast & Accurate Username Scanner (Frontend)
 * [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript): CSDN 极简\沉浸式阅读\免登录复制 | 博客园美化 | 哔哩哔哩美化 | GreasyFork脚本页面👇
 * [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports): This is for the userscripts created on GreasyFork.org. 
