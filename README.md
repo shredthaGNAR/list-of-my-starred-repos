@@ -483,6 +483,7 @@
 * [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub): BookmarkHub , sync bookmarks across different browsers
 * [K2SOsint/Bookmarklets](https://github.com/K2SOsint/Bookmarklets): A small collection of bookmarklets that are useful for OSINT, including ones for e-mail addresses, Facebook, extracting links and WhatsMyName.app.
 * [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu): WebExtension allow to execute bookmarklets as privileged scripts
+* [chirag127/BookmarkMind-AI-Bookmark-Categorizer-Browser-Extension](https://github.com/chirag127/BookmarkMind-AI-Bookmark-Categorizer-Browser-Extension): AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
 * [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks): :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev 
 * [br4adam/bookmarks](https://github.com/br4adam/bookmarks): Organize your bookmarks with ease.
 * [dyu/bookmarks](https://github.com/dyu/bookmarks): a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
