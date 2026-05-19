@@ -3544,6 +3544,7 @@
 * [zhuowei/WDBRemoveThreeAppLimit](https://github.com/zhuowei/WDBRemoveThreeAppLimit): None
 * [CypherGoat/web](https://github.com/CypherGoat/web): The CypherGoat instant exchange aggregator web-ui
 * [dessant/web-archives](https://github.com/dessant/web-archives): Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
+* [lissy93/web-check](https://github.com/lissy93/web-check): 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 * [webclipper/web-clipper](https://github.com/webclipper/web-clipper): For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 * [obsidian-community/web-clipper-templates](https://github.com/obsidian-community/web-clipper-templates): Community collection of templates for the official Obsidian web clipper.
 * [zicotin/web-clipper-templates](https://github.com/zicotin/web-clipper-templates): None
