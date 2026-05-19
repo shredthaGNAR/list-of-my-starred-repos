@@ -670,7 +670,7 @@
 * [Haidzai/claude-code-proxy](https://github.com/Haidzai/claude-code-proxy): Monitor and visualize your Claude Code API interactions with Claude Code Proxy. Easily set up a transparent proxy and live dashboard. 🛠️🚀
 * [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy): Claude Code to OpenAI API Proxy
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-* [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts): All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
+* [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts): All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
 * [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code): The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 * [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
 * [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp): Batch Clipboard is a Mac app that let's you copy then paste multiple clipboard items at a time, like magic! This is the repo for v1.0.x, titled after the app's codename. The repo for v2.0 and forward is https://github.com/jpmhouston/Batch-Clipboard
@@ -1349,7 +1349,7 @@
 * [vincens2005/GentleFox](https://github.com/vincens2005/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
 * [danielmiessler/GeoHarvest](https://github.com/danielmiessler/GeoHarvest): A simple script for translating IP addresses to GeoLocations
 * [danielmiessler/geoip](https://github.com/danielmiessler/geoip): A Ruby script that takes in IPs and returns Country, State, and City
-* [marchyman/GeoTag](https://github.com/marchyman/GeoTag): Image geo location editing for macOS Ventura (13) and later.  Instructions and a .dmg of the current version are on the application home page.
+* [marchyman/GeoTag](https://github.com/marchyman/GeoTag): Image geo location editing for macOS.  Instructions and a .dmg of the current version are on the application home page.
 * [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy): Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
 * [Kevin-De-Koninck/Get-It](https://github.com/Kevin-De-Koninck/Get-It): A macOS GUI for youtube-dl
 * [finia2NA/getter](https://github.com/finia2NA/getter): A multi-workflow YouTube downloader
