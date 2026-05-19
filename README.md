@@ -2552,6 +2552,7 @@
 * [sangddn/prompt_builder](https://github.com/sangddn/prompt_builder): A macOS tool to build long-context prompts for models like OpenAI o3 and Gemini 2.5.
 * [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo): Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.
 * [Thomas-Basadonne/promptify-raycast](https://github.com/Thomas-Basadonne/promptify-raycast): One-key prompt enhancer for any AI. Select → copy → Promptify shows a clean, structured version. Works locally with Ollama. History + JSON export.
+* [SuffolkLITLab/prompts](https://github.com/SuffolkLITLab/prompts): A browser extension that generates and runs LLM prompts based on templates and user input such as selected text and the contents of the current page 
 * [f/prompts.chat](https://github.com/f/prompts.chat): f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree): Cross platform GUI plist editor written in python.
 * [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy): Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns. 
