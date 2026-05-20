@@ -3320,7 +3320,7 @@
 * [JimmyLaurent/torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api): Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)
 * [r12habh/Torrent-To-Google-Drive-Downloader](https://github.com/r12habh/Torrent-To-Google-Drive-Downloader): Simple notebook to stream torrent files to Google Drive using Google Colab and python3.
 * [TheBeastLT/torrentio-scraper](https://github.com/TheBeastLT/torrentio-scraper): None
-* [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch): A Material 3 designed Android app for searching and downloading torrents from multiple providers.
+* [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch): An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions.
 * [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator): Use the Touch Bar on any Mac
 * [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab): Switch apps with trackpad on macOS.
 * [GaffaSnobb/touchbar-crypto](https://github.com/GaffaSnobb/touchbar-crypto): Live update crypto prices on the Touch Bar.
