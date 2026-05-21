@@ -228,6 +228,7 @@
 * [trmckay/article-export](https://github.com/trmckay/article-export): Export Pocket list as CSV!
 * [TKOxff/ASAP](https://github.com/TKOxff/ASAP): The Global Shortcuts for macOS, to launch any apps
 * [GSA/asis](https://github.com/GSA/asis): ASIS (Advanced Social Image Search) indexes Flickr and MRSS images and provides a search API across both indexes.
+* [TwisterMc/ask_ai](https://github.com/TwisterMc/ask_ai): Ai Image Generator, Text Enhancement, and Password Generator
 * [phguo/AskGPT](https://github.com/phguo/AskGPT): AskGPT: an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
 * [SuffolkLITLab/asklit](https://github.com/SuffolkLITLab/asklit): A no-code factory for publishing high-quality AI chatbots grounded in your own documents.
 * [withastro/astro](https://github.com/withastro/astro): The web framework for content-driven websites. ⭐️ Star to support our work!
@@ -595,6 +596,7 @@
 * [suliveevil/Capslock](https://github.com/suliveevil/Capslock): ultimate macOS keyboard re-mapping
 * [miozus/CapslockMagic](https://github.com/miozus/CapslockMagic): Make Capslock Great Three! 
 * [cardrank/cardrank](https://github.com/cardrank/cardrank): Go types, funcs, and utilities for working with cards, decks, and evaluating poker hands (Holdem, Omaha, Stud, more)
+* [nbakh16/career-portfolio-template](https://github.com/nbakh16/career-portfolio-template): Showcase your career, skills and projects highlights with this modern Astro-powered SSG portfolio template —fast, customizable, and deploy-ready.
 * [jacklukem/CatalinaOTAswufix](https://github.com/jacklukem/CatalinaOTAswufix): None
 * [cerpow/catapult](https://github.com/cerpow/catapult): Access your workspace on the fly.
 * [marekbrze/categorized-raycast-extensions](https://github.com/marekbrze/categorized-raycast-extensions): Easily find Raycast Extensions!🚀
@@ -1088,6 +1090,7 @@
 * [martabal/ff-diff](https://github.com/martabal/ff-diff): ff-diff is a simple script to compare changes in user.js preference files between two versions of Firefox.
 * [B00ze64/FF-Menu-Icon-Plus-CSS](https://github.com/B00ze64/FF-Menu-Icon-Plus-CSS): Add icons to Firefox menus using userChrome/userContent.css
 * [larygwil/ff-src-part](https://github.com/larygwil/ff-src-part): Part of Firefox source code (unofficial), for userChrome css / js programmers and user customizers to explore
+* [TwisterMc/ff-tab-expose](https://github.com/TwisterMc/ff-tab-expose): Safari like Tab Expose for Firefox
 * [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA): The Firefox theme with too many options.. FF Ultima.
 * [gwennlbh/ffcss](https://github.com/gwennlbh/ffcss): A CLI interface to apply and configure FirefoxCSS themes
 * [mcosta3tc/FFCSS](https://github.com/mcosta3tc/FFCSS): Custom FireFox CSS
@@ -1889,7 +1892,7 @@
 * [robin/LYTabView](https://github.com/robin/LYTabView): A customized Mac OS X Tab View with modern tab bar style
 * [rgcr/m-cli](https://github.com/rgcr/m-cli):  Swiss Army Knife for macOS 
 * [zamgi/m3u8](https://github.com/zamgi/m3u8): m3u8 file downloader library and chrome & firefox extensions/add-on's
-* [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid): [PRs are welcome] Modern streaming media player for Android designed to provide a feature-rich experience for viewing IPTV content, managing M3U playlists, and playing various media formats. Built with Kotlin and modern Android development practices.
+* [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid): a clean, practical, ad-free IPTV app
 * [mxvish/mac-auto-setup](https://github.com/mxvish/mac-auto-setup): Configuration files to setup macOS(Intel 2020)
 * [JFtechOfficial/mac-automation-scripts](https://github.com/JFtechOfficial/mac-automation-scripts): BTT presets, macros & scripts I use to make my life sometimes easier
 * [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI):  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
@@ -2109,6 +2112,7 @@
 * [tansawit/my-mac-setup](https://github.com/tansawit/my-mac-setup): List of applications and tools that optimize my macOS experience. Inspired by https://github.com/nikitavoloboev/my-mac-os
 * [penge/my-notes](https://github.com/penge/my-notes): Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.
 * [leohu1/My-UserChrome](https://github.com/leohu1/My-UserChrome): My UserChrome Css and Script
+* [shredthaGNAR/my-zero-bloat-showcase](https://github.com/shredthaGNAR/my-zero-bloat-showcase): None
 * [iam-py-test/my_filters_001](https://github.com/iam-py-test/my_filters_001): My filter lists - feel free to add these lists to uBlock Origin
 * [shredthaGNAR/my_portfolio_site](https://github.com/shredthaGNAR/my_portfolio_site): Lucas McKay's Personal Website & Collections of Projects
 * [programming086/my_site](https://github.com/programming086/my_site): Files for site
