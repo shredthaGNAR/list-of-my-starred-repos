@@ -102,6 +102,7 @@
 * [pinetum/AirUnlock-for-Mac](https://github.com/pinetum/AirUnlock-for-Mac): Using android phone to establish a connection with your Mac via Bluetooth low-energy (BLE), controlling Mac lock state (Lock or Unlock).
 * [NightMachinery/aistudio_userscript](https://github.com/NightMachinery/aistudio_userscript): None
 * [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox): 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
+* [ivostoykov/AIWebFormFill](https://github.com/ivostoykov/AIWebFormFill): None
 * [altano/alanglow](https://github.com/altano/alanglow): A Firefox theme
 * [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring): Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 * [ajrosen/Alfred](https://github.com/ajrosen/Alfred): Alfred workflows
@@ -180,6 +181,7 @@
 * [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm): The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 * [Mintplex-Labs/anythingllm-extension](https://github.com/Mintplex-Labs/anythingllm-extension): Browser extension for AnythingLLM Docker & Desktop application
 * [amugofjava/anytime_podcast_player](https://github.com/amugofjava/anytime_podcast_player): Simple, easy to use Podcast player app written in Flutter and Dart.
+* [marcoagpinto/aoo-mozilla-en-dict](https://github.com/marcoagpinto/aoo-mozilla-en-dict): English Dictionaries Project
 * [drcika/apc-extension](https://github.com/drcika/apc-extension): None
 * [wulkano/Aperture](https://github.com/wulkano/Aperture): Record the screen on macOS
 * [vincenzocaputo/API-s-for-OSINT](https://github.com/vincenzocaputo/API-s-for-OSINT): List of API's for gathering information about phone numbers, addresses, domains etc
@@ -1075,6 +1077,7 @@
 * [calvinballing/fake-filler-extension](https://github.com/calvinballing/fake-filler-extension): A free browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page.
 * [busiyiworld/fake-raycast-backend](https://github.com/busiyiworld/fake-raycast-backend): A fake Raycast backend that can be deployed to Vercel in just one step.
 * [dumbmatter/fakeIndexedDB](https://github.com/dumbmatter/fakeIndexedDB): A pure JS in-memory implementation of the IndexedDB API
+* [Loocist23/FakeInfo-Filler](https://github.com/Loocist23/FakeInfo-Filler): None
 * [kfreitag1/FancyFolders](https://github.com/kfreitag1/FancyFolders): Fancy Folders is a macOS application for creating custom folder icons from SF symbols, text, or images.
 * [ColdSpirit0/FastCopyLinks](https://github.com/ColdSpirit0/FastCopyLinks): Firefox addon, copies hovered links on Ctrl+C.
 * [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward): Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
@@ -3129,6 +3132,7 @@
 * [shredthaGNAR/static-marks-docker](https://github.com/shredthaGNAR/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
 * [gaerfield/static-marks-github-pages](https://github.com/gaerfield/static-marks-github-pages): static-marks automatically deployed to github-pages
 * [vipintom/stealthFox](https://github.com/vipintom/stealthFox): Clean and minimal set of changes to get Vertical Tabs in Firefox
+* [criimera/steam-mass-comment-bot](https://github.com/criimera/steam-mass-comment-bot): 💬 Easily comment under a ton of steam profiles, groups, sharedfiles & discussions with one account!
 * [gookie-dev/StepDaddyLiveHD](https://github.com/gookie-dev/StepDaddyLiveHD): A self-hosted IPTV proxy for DLHD.
 * [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock): 🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒
 * [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback): The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
@@ -3359,7 +3363,6 @@
 * [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh): Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
 * [dopeytree/TVx](https://github.com/dopeytree/TVx): 📺 TVx — the warmth of modern nostalgia  This is the way - television you remember feeling: present, unhurried, *analog*
 * [humandecoded/twayback](https://github.com/humandecoded/twayback): Automate downloading archived deleted Tweets.
-* [criimera/twitter-apk](https://github.com/criimera/twitter-apk): twitter apk builds of piko patches
 * [crimera/twitter-apk](https://github.com/crimera/twitter-apk): Apk builds of piko patches
 * [RobTrew/txtquery-tools](https://github.com/RobTrew/txtquery-tools): Tools for generating custom perspectives & reports from FoldingText and TaskPaper docs
 * [KarlPiper/typography-shortcuts](https://github.com/KarlPiper/typography-shortcuts): BetterTouchTool actions for typing special characters, and reference for macOS keyboard shortcuts.
