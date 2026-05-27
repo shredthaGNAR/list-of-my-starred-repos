@@ -409,6 +409,7 @@
 * [themeselection/best-chrome-extensions](https://github.com/themeselection/best-chrome-extensions): A curated list of Best Awesome Chrome Extensions to boost your productivity in your Browsers
 * [tomhaydn/BetArbit](https://github.com/tomhaydn/BetArbit): Sports betting arbitrage algorithm
 * [dashee87/betScrapeR](https://github.com/dashee87/betScrapeR): R package to scrape live sports betting odds
+* [tromoSM/Better-Firefox](https://github.com/tromoSM/Better-Firefox): Enhance the firefox user interface with betterFirefox
 * [aligo/better-google](https://github.com/aligo/better-google): Userscript to Better (or Older and Good) Google
 * [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab): :bookmark_tabs: A better OneTab for Chrome  :memo:
 * [structunit/better-onetab](https://github.com/structunit/better-onetab): :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
@@ -1127,6 +1128,7 @@
 * [bennypowers/fireblocks](https://github.com/bennypowers/fireblocks): Chonky Firefox tabs for square developers
 * [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder): A comprehensive firefox profile, themes, userCSS and userChrome builder
 * [Lexxrt/FireFly](https://github.com/Lexxrt/FireFly): 📱ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ ʟᴏᴏᴋᴜᴘ📱
+* [Rotmayer24/Firefox](https://github.com/Rotmayer24/Firefox): None
 * [Thomashighbaugh/firefox](https://github.com/Thomashighbaugh/firefox): Torturing Firefox with userchrome.js and userchrome.css in response to Mozilla's successive degradation of the browser window. 
 * [awesome-windows11/firefox](https://github.com/awesome-windows11/firefox): 🦊 Awesome Firefox
 * [crssi/Firefox](https://github.com/crssi/Firefox): None
@@ -1178,6 +1180,7 @@
 * [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod): None
 * [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur): A Fork with an Installer for "Firefox Mod Blur - Modular"
 * [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
+* [go2tom42/Firefox-Mod-Blur-override](https://github.com/go2tom42/Firefox-Mod-Blur-override): Personal touches, more square more compact
 * [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods): Firefox CSS and JS Mods
 * [sonnenfell/firefox-new-duplicate-tab-closer](https://github.com/sonnenfell/firefox-new-duplicate-tab-closer): A small Firefox WebExtension to automatically close newly created duplicate tabs. Does not affect tabs that were already open before becoming duplicates by default.
 * [DivitMittal/firefox-nixCfg](https://github.com/DivitMittal/firefox-nixCfg): A declarative Firefox configuration using Nix home-manager, designed for enhanced performance, a streamlined UI, and powerful automation
@@ -1246,6 +1249,7 @@
 * [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig): Firefox privacy configuration (help + user.js)
 * [macleod-ee/FirefoxSidebar](https://github.com/macleod-ee/FirefoxSidebar): Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available! [!] Moved to https://codeberg.org/macleod/FirefoxSidebar
 * [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor): Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊 
+* [Yeove/FirefoxTweaks](https://github.com/Yeove/FirefoxTweaks): None
 * [gomita/firegestures](https://github.com/gomita/firegestures): FireGestures, a Firefox extension.
 * [josepedromonteiro/fireze](https://github.com/josepedromonteiro/fireze): Custome safari theme for Firefox
 * [kosimst/Firicico](https://github.com/kosimst/Firicico): Combined programming mono font with italics and font ligatures made from Fira Code and Pacifico for Italics
@@ -2150,6 +2154,7 @@
 * [QuantumNous/new-api](https://github.com/QuantumNous/new-api): A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 * [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere): 💬 New-Bing-Anywhere extension's source Always use Bing GPT-4
 * [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style): A replacement for Firefox's builtin browser style CSS
+* [Biinladen/NewFox](https://github.com/Biinladen/NewFox): 🦊 Customize your Firefox experience with NewFox, a minimal theme featuring userContent and userChrome for a sleek, personalized look.
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android.
 * [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe): A fork of NewPipe with SponsorBlock functionality.
 * [mnw700x/News2Me-Archives](https://github.com/mnw700x/News2Me-Archives): Pages saved with SingleFile
