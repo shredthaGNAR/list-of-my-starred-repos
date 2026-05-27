@@ -1881,7 +1881,7 @@
 * [ParisNeo/lollms_legacy](https://github.com/ParisNeo/lollms_legacy): Lord of LLMS
 * [kunkka19xx/look](https://github.com/kunkka19xx/look): An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
 * [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
-* [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
+* [mrkai77/Loop](https://github.com/mrkai77/Loop): Window management made elegant.
 * [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher): Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
 * [ThatOrJohn/lottery-texas-scratchoffs](https://github.com/ThatOrJohn/lottery-texas-scratchoffs): Populate Neo4J AuraDB with daily Texas Lottery Scratch Ticket claim data
 * [Wkasel/lottery_scraper](https://github.com/Wkasel/lottery_scraper): Scraper for lottery scratchers
