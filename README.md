@@ -351,7 +351,7 @@
 * [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
 * [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents): 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint): :scream: A curated list of amazingly awesome OSINT
-* [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List): OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.
+* [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List): 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 * [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins): List of pastebin services
 * [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy): A curated list of awesome warez and piracy links
 * [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy): A curated list of awesome warez and piracy links.
@@ -581,6 +581,7 @@
 * [shredthaGNAR/buttons](https://github.com/shredthaGNAR/buttons): A collection of CSS buttons.
 * [romanvht/ByeByeDPI](https://github.com/romanvht/ByeByeDPI): Приложение локально запускает ByeDPI и перенаправляет весь трафик через него
 * [alextidalrise/bysofie-shipping-message](https://github.com/alextidalrise/bysofie-shipping-message): None
+* [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash): A code snippet storage solution written in React & node.js
 * [cai-layer/cai-raycast-extension](https://github.com/cai-layer/cai-raycast-extension): A privacy-friendly, AI-powered Raycast clipboard assistant that analyzes copied content and suggests intelligent actions using locally-run language models
 * [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet): The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 * [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew): Manage your Homebrew formulas with style using Cakebrew.
