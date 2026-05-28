@@ -2204,6 +2204,7 @@
 * [dawiidio/o-menu](https://github.com/dawiidio/o-menu): Simple circular svg menu 
 * [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal): Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 * [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri): Advanced modes for Obsidian URI
+* [TfTHacker/obsidian-ai-templater](https://github.com/TfTHacker/obsidian-ai-templater): Extends Templater with AI Chat commands using the OpenAI Client Library
 * [theapplegates/obsidian-astro-suite](https://github.com/theapplegates/obsidian-astro-suite): A set of Obsidian vaults to plug into your Astro website to write and publish easily.
 * [roovo/obsidian-card-board](https://github.com/roovo/obsidian-card-board): An Obsidian plugin to make working with tasks a pleasure (hopefully anyway).
 * [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper): Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
@@ -2228,6 +2229,7 @@
 * [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template): Starter templates for Obsidian
 * [groepl/Obsidian-Templates](https://github.com/groepl/Obsidian-Templates): A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
 * [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin): Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
+* [esodesod/obsidian-web-clipper-templates](https://github.com/esodesod/obsidian-web-clipper-templates): My collection of Obsidian Web Clipper templates
 * [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export): Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity.
 * [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo): Smart, snappy, and multilingual AI assistant for your vault.
 * [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium): Get Android app updates straight from the source.
