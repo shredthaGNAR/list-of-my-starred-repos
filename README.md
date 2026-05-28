@@ -970,7 +970,7 @@
 * [notable/dumper](https://github.com/notable/dumper): Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 * [fmhy/dupe-checker](https://github.com/fmhy/dupe-checker): A simple, fast tool to compare links against the FMHY wiki, and display their redirect chains.
 * [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru): Find duplicate files
-* [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer): Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
+* [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer): Duplicate Tabs Closer - Detects and closes duplicate browser tabs. Supports Chrome, Firefox, Edge, Opera, Vivaldi and Brave. Features Manifest V3, visual themes, URL and title pattern rules, and more.
 * [powerwolf543/DuplicateFinder](https://github.com/powerwolf543/DuplicateFinder): Duplicate Finder is a macOS application that is written by Swift. It's a useful tool that would help you find all duplicate files with the same names in the specific folder.
 * [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely encrypted backups in the cloud!
 * [floracheng/dusty-tabs](https://github.com/floracheng/dusty-tabs): Firefox tab management extension
