@@ -5069,6 +5069,9 @@
     "facebookresearch/faiss": [
         "Other"
     ],
+    "faker-js/faker": [
+        "Other"
+    ],
     "fanesz/session-switcher": [
         "Other"
     ],
