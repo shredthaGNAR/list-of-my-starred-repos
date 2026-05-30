@@ -2208,7 +2208,6 @@
 * [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal): Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 * [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri): Advanced modes for Obsidian URI
 * [TfTHacker/obsidian-ai-templater](https://github.com/TfTHacker/obsidian-ai-templater): Extends Templater with AI Chat commands using the OpenAI Client Library
-* [theapplegates/obsidian-astro-suite](https://github.com/theapplegates/obsidian-astro-suite): A set of Obsidian vaults to plug into your Astro website to write and publish easily.
 * [roovo/obsidian-card-board](https://github.com/roovo/obsidian-card-board): An Obsidian plugin to make working with tasks a pleasure (hopefully anyway).
 * [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper): Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 * [nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights): An experimental Obsidian plugin that highlights all occurrences of the word under the cursor
