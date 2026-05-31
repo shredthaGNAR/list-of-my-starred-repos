@@ -3608,6 +3608,7 @@
 * [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent): ⚡️ Streaming torrent client for the web
 * [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop): Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 * [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf): Detect and bypass web application firewalls and protection systems
+* [ReVanced/where-is-revanced-patches](https://github.com/ReVanced/where-is-revanced-patches): https://gitlab.com/revanced/revanced-patches
 * [Jay-Karia/wherewasi](https://github.com/Jay-Karia/wherewasi): Chrome extension that remembers your search sessions and captures context.
 * [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme): Mac OS Safari theme for Firefox on Linux
 * [FirefoxCSSThemers/WhiteSur-FirefoxTheme](https://github.com/FirefoxCSSThemers/WhiteSur-FirefoxTheme): A Firefox theme made by Agnihotra Nath, to simulate Safari on macOS Big Sur 11. Works best on Proton.
