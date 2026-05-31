@@ -466,7 +466,6 @@
 * [Filip-Sutkowy/blurclean-firefox-theme](https://github.com/Filip-Sutkowy/blurclean-firefox-theme): Clean, transparent firefox theme
 * [skylineone044/blurclean-firefox-theme](https://github.com/skylineone044/blurclean-firefox-theme): Clean, transparent firefox theme
 * [TheBi11iona1re/BlurFox-CSS-for-Mac](https://github.com/TheBi11iona1re/BlurFox-CSS-for-Mac): Update  to manilarome's Blur Fox for mac only
-* [dwarvesf/blurred](https://github.com/dwarvesf/blurred): A macOS utility that helps reduce distraction by dimming your inactive noise
 * [eromatiya/blurredfox](https://github.com/eromatiya/blurredfox): A sleek, modern and elegant Firefox CSS theme
 * [khaneliman/blurredfox](https://github.com/khaneliman/blurredfox): A sleek, modern and elegant Firefox CSS theme
 * [MrOtherGuy/bmbgone](https://github.com/MrOtherGuy/bmbgone): None
