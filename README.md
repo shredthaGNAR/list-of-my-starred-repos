@@ -2578,6 +2578,7 @@
 * [vlvagerviwager/protect-your-privacy](https://github.com/vlvagerviwager/protect-your-privacy): Privacy resources for the layperson. Highlights resources, tools, VPNs, search engines, articles, books, and dark patterns. 
 * [ProtonMail/proton-mail](https://github.com/ProtonMail/proton-mail): React web application to manage ProtonMail 
 * [sagars007/Proton-UI-connected-rounded-tabs](https://github.com/sagars007/Proton-UI-connected-rounded-tabs): Firefox Proton UI minimal changes with nav-bar-connected rounded tabs, reduced compact mode, nightly color gradient accents etc..
+* [joschiv1977/proton_to_apple_password](https://github.com/joschiv1977/proton_to_apple_password): Python script to convert Proton Pass to Apple Passwords
 * [steccas/ProtonClient](https://github.com/steccas/ProtonClient): An unofficial desktop client for ProtonMail done with electron nativefier
 * [Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird](https://github.com/Dan-Q/ProtonMail-Encryption-Indicators-for-Thunderbird): Thunderbird plugin to show E2E-encryption status for ProtonMail Bridge emails.
 * [marpies/protonmail-macos](https://github.com/marpies/protonmail-macos): Experimental email client for the ProtonMail service written in Swift.
