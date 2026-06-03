@@ -2851,6 +2851,7 @@
 * [nbeaver/save-tabs-as-html](https://github.com/nbeaver/save-tabs-as-html): Webextension to save the title and URLs of open tabs as an HTML file.
 * [Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc](https://github.com/Lewiscowles1986/save-tabs-as-markdown-ff-chrome-poc): Browser addon for FireFox & Chrome to save active tabs as Markdown
 * [bobbyrne01/save-text-to-file-firefox](https://github.com/bobbyrne01/save-text-to-file-firefox): Firefox addon that saves highlighted text to a file.
+* [yfdyh000/save-text-to-file-firefox](https://github.com/yfdyh000/save-text-to-file-firefox): Firefox addon that saves highlighted text to a file.
 * [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine): Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
 * [chrisjagoda/saved-to-bookmark-for-reddit](https://github.com/chrisjagoda/saved-to-bookmark-for-reddit): A browser extension for converting saved reddit posts to bookmarks.
 * [117649/SavedPasswordEditorRedux](https://github.com/117649/SavedPasswordEditorRedux): Not Gecko, application to allow creating and editing saved passwords 
