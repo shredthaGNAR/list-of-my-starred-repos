@@ -1797,7 +1797,7 @@
 * [lando/lando](https://github.com/lando/lando): A development tool for all your projects that is fast, easy, powerful and liberating
 * [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop): Drop any files to any devices on your LAN.
 * [langchain-ai/langchain](https://github.com/langchain-ai/langchain): The agent engineering platform.
-* [langfuse/langfuse](https://github.com/langfuse/langfuse): 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
+* [langfuse/langfuse](https://github.com/langfuse/langfuse): 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
 * [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool): Style and Grammar Checker for 25+ Languages
 * [stuyam/laravel-phone-validator](https://github.com/stuyam/laravel-phone-validator): A phone validator for Laravel using the free Twilio phone lookup service.
 * [arekusandr/last_layer](https://github.com/arekusandr/last_layer): Ultra-fast, low latency LLM prompt injection/jailbreak detection ⛓️
