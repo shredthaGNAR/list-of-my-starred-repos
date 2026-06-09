@@ -5066,9 +5066,6 @@
     "facebook-adblock/facebook_adblock": [
         "Other"
     ],
-    "facebook/react": [
-        "Other"
-    ],
     "facebookresearch/faiss": [
         "Other"
     ],
@@ -8826,6 +8823,9 @@
         "Other"
     ],
     "rclone/rclone": [
+        "Other"
+    ],
+    "react/react": [
         "Other"
     ],
     "realoatesman/Dawn": [
