@@ -3200,7 +3200,7 @@
 * [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
 * [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 * [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts): None
-* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Extracted system prompts from Anthropic - Claude Code, Claude Design, Opus 4.8, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex, Google - Gemini - 3.5 Flash, 3.1 Pro, Antigravity, xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
+* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.
 * [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext): Add context menu to macOS Finder 
 * [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
 * [Lej77/tab-count-in-window-title](https://github.com/Lej77/tab-count-in-window-title): None
