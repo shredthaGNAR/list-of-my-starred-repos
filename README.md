@@ -1541,7 +1541,6 @@
 * [evanjd/hass-logi-circle](https://github.com/evanjd/hass-logi-circle): Logi Circle Home Assistant component
 * [nikshriv/hassio-addons](https://github.com/nikshriv/hassio-addons): None
 * [bilde2910/Hauk](https://github.com/bilde2910/Hauk): Open-source realtime location sharing
-* [bilde2910/Hauk](https://github.com/bilde2910/Hauk): Open-source realtime location sharing
 * [guardianproject/haven](https://github.com/guardianproject/haven): Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 * [haveno-dex/haveno](https://github.com/haveno-dex/haveno): Decentralized P2P exchange platform built on Monero and Tor
 * [dawn-collective/haveno-dawn](https://github.com/dawn-collective/haveno-dawn): Decentralized P2P exchange platform built on Monero and Tor
@@ -2572,6 +2571,7 @@
 * [jairo-aguirre/product-comparison](https://github.com/jairo-aguirre/product-comparison): App enabling users in a simple and centralized way to compare product features or capabilities across multiple similar products.
 * [Shopify/product-reviews-sample-app](https://github.com/Shopify/product-reviews-sample-app): A sample Shopify application that creates and stores product reviews for a store, written in Node.js
 * [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
+* [masoudsoleymani/projects-portfolio-template](https://github.com/masoudsoleymani/projects-portfolio-template): Astro portfolio template to showcase projects and experiences- fast, customizable, and deploy-ready.
 * [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 * [raycast/prompt-explorer](https://github.com/raycast/prompt-explorer): Easily browse, share, and add prompts to Raycast
 * [nkmr-jp/prompt-line](https://github.com/nkmr-jp/prompt-line): Prompt Line is a macOS app developed to improve the prompt input experience in the terminal for CLI-based AI coding agents such as Claude Code, Codex CLI, and Gemini CLI.
