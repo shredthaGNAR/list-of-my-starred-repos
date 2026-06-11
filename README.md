@@ -243,9 +243,11 @@
 * [shredthaGNAR/astro-cv-theme](https://github.com/shredthaGNAR/astro-cv-theme): None
 * [Gothsec/Astro-portfolio](https://github.com/Gothsec/Astro-portfolio): Portfolio template built with Astro, React, TypeScript and TailwindCSS. (Handcrafted with Figma)
 * [uzzii-21/astro-portfolio](https://github.com/uzzii-21/astro-portfolio): This repo contains the source code for a personal portfolio website built with Astro, a framework for building fast and modern websites with your favorite frontend tools. The website showcases the developer's skills, projects, and contact information. The website is responsive, accessible, and SEO-friendly.
+* [MarcusHoltz/astro-portfolio-theme](https://github.com/MarcusHoltz/astro-portfolio-theme): Astro Portfolio Theme. Use on almost any host. Ditch the CMS. Edit a few JSON files - personal info, skills, project showcases - build, and deploy. 
 * [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart): A bare-bones Astro template to get you deployed to Netlify fast!
 * [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme): Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
 * [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket): A production-ready Astro 6 starter with 12 beautiful themes, 57+ components, built-in i18n, dark mode and a fast, modern foundation to build anything on.
+* [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro): Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.
 * [immois/astro-zen](https://github.com/immois/astro-zen): Minimalist, accessible and SEO-optimized personal portfolio website template.
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
 * [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate): Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!
@@ -3610,6 +3612,7 @@
 * [alx-xlx/websites](https://github.com/alx-xlx/websites): Websites I visit
 * [Sav22999/websites-notes](https://github.com/Sav22999/websites-notes): Take notes on every website in a smart and simple way!
 * [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent): ⚡️ Streaming torrent client for the web
+* [031devstudios/weighmybru-site](https://github.com/031devstudios/weighmybru-site): WeighMyBru Website Files
 * [oOthkOo/whatsapp-desktop](https://github.com/oOthkOo/whatsapp-desktop): Unofficial WhatsApp Desktop Client for OSX, Linux and Windows. Build with Electron.
 * [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf): Detect and bypass web application firewalls and protection systems
 * [ReVanced/where-is-revanced-patches](https://github.com/ReVanced/where-is-revanced-patches): https://gitlab.com/revanced/revanced-patches
