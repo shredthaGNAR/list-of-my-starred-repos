@@ -1264,7 +1264,7 @@
 * [pmiddlet72/fix_onetab](https://github.com/pmiddlet72/fix_onetab): Scripts to help extract OneTab urls and/or fix the OneTab extension when this app fails in the Google Chrome browser (currently only tested in Linux --> Ubuntu 24.04 and Linux Mint 22.1). 
 * [jsoto3000/fl_lottery](https://github.com/jsoto3000/fl_lottery): Webscrapes for Florida Lotttery Scratch Game Data
 * [daniruiz/flat-remix-css](https://github.com/daniruiz/flat-remix-css): A lightweight CSS library that provides a set of predesigned elements useful for rapid web development. It follows a modern flat design using a colorful palette with some shadows, highlights, and gradients for some depth.
-* [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox): A lightweight Firefox theme focused on usability, flexibility, and smooth performance.
+* [yuuqilin/FlexFox](https://github.com/yuuqilin/FlexFox): A lightweight Firefox userChrome theme designed to optimize screen space without sacrificing accessibility.
 * [d3ward/floatly](https://github.com/d3ward/floatly): An extension that adds a floating button for browser quick actions 
 * [floccusaddon/floccus](https://github.com/floccusaddon/floccus): :cloud: Sync your bookmarks privately across browsers and devices
 * [julianandrews/flopferret](https://github.com/julianandrews/flopferret): Texas Hold'em board texture analyzer.
