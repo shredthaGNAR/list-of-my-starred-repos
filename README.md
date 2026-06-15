@@ -504,7 +504,7 @@
 * [atkinsio/bookmarks-html-generator](https://github.com/atkinsio/bookmarks-html-generator): A tool which allows you to convert a list of URLs into Bookmarks for use with all major browsers.
 * [scraggo/bookmarks-markdown-utils](https://github.com/scraggo/bookmarks-markdown-utils): Collection of command-line tools for Chrome, OneTab, Evernote, and FireFox bookmark management. The tools are mostly to convert proprietary formats to markdown and organizing and add tags.
 * [cadeyrn/bookmarks-organizer](https://github.com/cadeyrn/bookmarks-organizer): With the Bookmarks Organizer it's easy to put order in your bookmarks. The Bookmarks Organizer finds no longer working bookmarks, redirects, duplicates and more!
-* [rb81/bookmarks-organizer](https://github.com/rb81/bookmarks-organizer): A powerful and automated way of organizing your browser bookmarks.
+* [rb81/bookmarks-organizer](https://github.com/rb81/bookmarks-organizer): AI-powered bookmark organizer that reads your exported bookmarks (Netscape format), categorizes them into folders using any OpenAI-compatible LLM, and exports them back — ready to import into any browser.
 * [dvdn/bookmarks-reader](https://github.com/dvdn/bookmarks-reader): Display all your bookmarks files on a webpage
 * [shredthaGNAR/bookmarks2git](https://github.com/shredthaGNAR/bookmarks2git): None
 * [mabdelaal86/bookmarks_gkeep](https://github.com/mabdelaal86/bookmarks_gkeep): Copy bookmarks from Google Keep into Pocket/Instapaper
