@@ -3156,6 +3156,7 @@
 * [MrMonkey42/stremio-addon-debrid-search](https://github.com/MrMonkey42/stremio-addon-debrid-search): Stremio Addon to search downloads and torrents in your Debrid cloud
 * [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager): Manage your Stremio Addons
 * [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5): 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
+* [rleroi/Stremio-Streaming-Catalogs-Addon](https://github.com/rleroi/Stremio-Streaming-Catalogs-Addon): Stremio Streaming Catalogs Addon
 * [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru): Companion for Stremio.
 * [charlesLoder/stylometry](https://github.com/charlesLoder/stylometry): A comparison of different strategies for affecting an LLM's output style, with attention given towards library science.
 * [NoureldinAmer/stylometry-based-trigger-llm-backdoor-attack](https://github.com/NoureldinAmer/stylometry-based-trigger-llm-backdoor-attack): None
