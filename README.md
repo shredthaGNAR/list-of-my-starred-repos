@@ -572,6 +572,7 @@
 * [Android-App-Patches/build-apps](https://github.com/Android-App-Patches/build-apps): The ReVanced APKs
 * [timrogers/build-raycast-extension](https://github.com/timrogers/build-raycast-extension): A GitHub action which ensures that a Raycast extension can be built successfully
 * [gityeop/build_better_prompt_raycast_extension](https://github.com/gityeop/build_better_prompt_raycast_extension): Interactive AI prompt builder using flipped learning - AI asks you questions to create better prompts
+* [11ty/buildawesome](https://github.com/11ty/buildawesome): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 * [jarun/buku](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
 * [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener): Bulk URL Opener is an application that provides the user with multiple utilities to help with managing and using large amounts of urls
 * [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh): :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
@@ -1000,7 +1001,6 @@
 * [ayushhroyy/elegantfox](https://github.com/ayushhroyy/elegantfox): An "elegent" theme for Firefox 
 * [Zonnev/elementaryos-firefox-theme](https://github.com/Zonnev/elementaryos-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS user interface.
 * [Zonnev/elementaryos5-firefox-theme](https://github.com/Zonnev/elementaryos5-firefox-theme): This theme for Firefox supports all the window buttons layouts from Tweaks and it blends into the elementary OS 5 (Hera) user interface.
-* [11ty/eleventy](https://github.com/11ty/eleventy): A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 * [11ty/eleventy-base-blog](https://github.com/11ty/eleventy-base-blog): A starter repository for a blog web site using the Eleventy static site generator.
 * [blake-regalia/elitouch.bttpreset](https://github.com/blake-regalia/elitouch.bttpreset): A generative BetterTouchTool preset w/ special support for Spotify, Sublime Text 3, and Terminal
 * [jmathai/elodie](https://github.com/jmathai/elodie): An EXIF-based photo assistant, organizer  and workflow automation tool.
