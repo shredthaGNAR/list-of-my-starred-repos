@@ -368,7 +368,7 @@
 * [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi): 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 * [alx-xlx/awesome-raspberry-r4nchy](https://github.com/alx-xlx/awesome-raspberry-r4nchy): This repo consists of useful tools, scripts and tutorials for Raspberry Pi
 * [j3lte/awesome-raycast](https://github.com/j3lte/awesome-raycast): Automated list of all Raycast extensions
-* [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced): A curated list of all ReVanced resources, patches and projects!
+* [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced): A curated list of all ReVanced and Morphe resources, patches and projects!
 * [o19s/awesome-search-relevance](https://github.com/o19s/awesome-search-relevance): Tools and other things for people who work on search relevance & information retrieval
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
 * [LeCoupa/awesome-shopify](https://github.com/LeCoupa/awesome-shopify): 👩‍🎓👨‍🎓 Must-read articles, videos and books for store owners, app and theme developers.
