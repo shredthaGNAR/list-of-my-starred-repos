@@ -95,6 +95,9 @@
     "64characters/Telephone": [
         "Other"
     ],
+    "A-Archives-and-Forks/Adobe-Downloader": [
+        "Other"
+    ],
     "A9T9/Copyfish": [
         "Other"
     ],
@@ -351,9 +354,6 @@
         "Other"
     ],
     "Betterbird/thunderbird-patches": [
-        "Other"
-    ],
-    "Biinladen/NewFox": [
         "Other"
     ],
     "Bill13579/tabby": [
@@ -5658,9 +5658,6 @@
         "Other"
     ],
     "hagezi/dns-blocklists": [
-        "Other"
-    ],
-    "hake12345/DumpChromeSecrets": [
         "Other"
     ],
     "halfhelix/shopify-guide": [

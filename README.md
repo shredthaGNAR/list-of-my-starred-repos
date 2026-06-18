@@ -58,6 +58,7 @@
 * [CleanMachine1/AdlistTXTS](https://github.com/CleanMachine1/AdlistTXTS): A repository dedicated to mirroring some block-lists into 1 file for ease of use
 * [ethanaicode/Adobe-Block-Hosts-List](https://github.com/ethanaicode/Adobe-Block-Hosts-List): Adobe Block Hosts List to block Adobe activation.
 * [FlickyOs/Adobe-Debloater](https://github.com/FlickyOs/Adobe-Debloater): Adobe Deloater
+* [A-Archives-and-Forks/Adobe-Downloader](https://github.com/A-Archives-and-Forks/Adobe-Downloader): macOS Adobe apps download & installer
 * [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader): macOS Adobe apps download & installer
 * [chiumax/adobe-font-scraper](https://github.com/chiumax/adobe-font-scraper): 💢 don't have adobe plan and want their fonts? no need to worry! download from us ;)
 * [baileylatimer/adobe-illustrator](https://github.com/baileylatimer/adobe-illustrator): None
@@ -970,7 +971,6 @@
 * [sjackwu/DualFinder](https://github.com/sjackwu/DualFinder): Make Finder a two-pane file manager on Mac OS X
 * [KudoAI/duckduckgpt](https://github.com/KudoAI/duckduckgpt): 🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 * [JosephAlton/duckemail](https://github.com/JosephAlton/duckemail): RayCast extension ( TypeScript, React, Raycast API with useContext .etc )
-* [hake12345/DumpChromeSecrets](https://github.com/hake12345/DumpChromeSecrets): 🔍 Extract sensitive data from modern Chrome versions, including credentials, cookies, and browsing history, for improved security management.
 * [notable/dumper](https://github.com/notable/dumper): Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.
 * [fmhy/dupe-checker](https://github.com/fmhy/dupe-checker): A simple, fast tool to compare links against the FMHY wiki, and display their redirect chains.
 * [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru): Find duplicate files
@@ -2161,7 +2161,6 @@
 * [QuantumNous/new-api](https://github.com/QuantumNous/new-api): A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 * [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere): 💬 New-Bing-Anywhere extension's source Always use Bing GPT-4
 * [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style): A replacement for Firefox's builtin browser style CSS
-* [Biinladen/NewFox](https://github.com/Biinladen/NewFox): 🦊 Customize your Firefox experience with NewFox, a minimal theme featuring userContent and userChrome for a sleek, personalized look.
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android.
 * [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe): A fork of NewPipe with SponsorBlock functionality.
 * [mnw700x/News2Me-Archives](https://github.com/mnw700x/News2Me-Archives): Pages saved with SingleFile
