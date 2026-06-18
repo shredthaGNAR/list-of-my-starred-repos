@@ -397,7 +397,6 @@
 * [joshuachough/backupOneTab](https://github.com/joshuachough/backupOneTab): Back up and restore your OneTab Chrome extension data
 * [popcar2/BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist): A filter that blocks spam & misleading websites from appearing in search results via uBlocklist
 * [jameshealyio/bang-bookmarks](https://github.com/jameshealyio/bang-bookmarks): Replicate DuckDuckGo !bang's in Firefox using Keymarks!
-* [nathanchapman/bash-functions](https://github.com/nathanchapman/bash-functions): 🔮 A collection of useful Bash/ZSH functions
 * [Scriptim/bash-prompt-generator](https://github.com/Scriptim/bash-prompt-generator): Customize your Bash Prompt by setting the PS1 variable.
 * [unixorn/Bash-Snippets](https://github.com/unixorn/Bash-Snippets): A collection of small bash scripts for heavy terminal users
 * [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
@@ -1207,7 +1206,7 @@
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [deseven/firefox-quickllm](https://github.com/deseven/firefox-quickllm): Firefox extension that integrates LLMs into your browser
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (130–151) find bar.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (130–152) find bar.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -3727,6 +3726,7 @@
 * [zbrateam/Zebra](https://github.com/zbrateam/Zebra): 🦓 A Useful Package Manager for iOS
 * [zed-industries/zed](https://github.com/zed-industries/zed): Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 * [farrosfr/zenix](https://github.com/farrosfr/zenix): A high-performance Astro 6 SaaS theme by Farros FR. 100/100 Lighthouse optimized with dark mode, MDX blog, changelog, and command palette search.
+* [nathanchapman/zfunctions](https://github.com/nathanchapman/zfunctions): 🔮 A collection of useful zsh functions
 * [RealRaven2000/ZombieKeys](https://github.com/RealRaven2000/ZombieKeys): Thunderbird / Waterfox Add-on: ZombieKeys
 * [zotero/zotero-connectors](https://github.com/zotero/zotero-connectors): Chrome, Firefox, Edge, and Safari extensions for Zotero
 * [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide): A smarter cd command. Supports all major shells.
