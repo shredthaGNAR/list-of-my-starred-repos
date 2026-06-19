@@ -699,7 +699,7 @@
 * [aecreations/clippings](https://github.com/aecreations/clippings): Save frequently-entered text for pasting later. An extension for Firefox.
 * [aecreations/clippings-tb](https://github.com/aecreations/clippings-tb): Save frequently-entered text for pasting later. An extension for Thunderbird.
 * [XInTheDark/CLIProxyAPI](https://github.com/XInTheDark/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
-* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI): Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
 * [Clipy/Clipy](https://github.com/Clipy/Clipy): Clipboard extension app for macOS.
 * [ian4hu/Clipy](https://github.com/ian4hu/Clipy): Clipboard extension app for macOS.
 * [spieglt/Cloaker](https://github.com/spieglt/Cloaker): Simple, drag-and-drop, password-based file encryption
@@ -2047,7 +2047,7 @@
 * [slimcandy/MetaCleaner](https://github.com/slimcandy/MetaCleaner): Remove metadata from your images online.
 * [duolingo/metasearch](https://github.com/duolingo/metasearch): Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 * [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist): YouTube Music client for Android
-* [alexta69/metube](https://github.com/alexta69/metube): Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
+* [alexta69/metube](https://github.com/alexta69/metube): Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 * [nanocortex/metube-firefox-addon](https://github.com/nanocortex/metube-firefox-addon): Firefox addon for queueing videos to MeTube instance.
 * [MikeFighting/MFSractchView](https://github.com/MikeFighting/MFSractchView): The tool used for scratch lottery. 
 * [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE): GmsCore fork for Morphe patched apps
