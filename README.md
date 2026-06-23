@@ -2667,7 +2667,6 @@
 * [d-cu/raycast-ai-litellm-proxy](https://github.com/d-cu/raycast-ai-litellm-proxy): Use any LiteLLM model in Raycast AI without a subscription.
 * [miikkaylisiurunen/raycast-ai-openrouter-proxy](https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy): Integrate any OpenAI-compatible API with Raycast AI
 * [jmaaloe/raycast-ai-prompts](https://github.com/jmaaloe/raycast-ai-prompts): None
-* [m3lander/raycast-ai-proxy](https://github.com/m3lander/raycast-ai-proxy): Integrate any OpenAI-compatible API with Raycast AI
 * [nagauta/raycast-ai-sdk](https://github.com/nagauta/raycast-ai-sdk): None
 * [pierremouchan/raycast-ai-writing-assistant](https://github.com/pierremouchan/raycast-ai-writing-assistant): AI Writing Assistant is here to assist you with any of your writing tasks, from fixing grammar to generating a list of action items.
 * [EvanZhouDev/raycast-apple-intelligence](https://github.com/EvanZhouDev/raycast-apple-intelligence): None
