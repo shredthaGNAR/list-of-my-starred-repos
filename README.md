@@ -1186,7 +1186,7 @@
 * [D3SOX/firefox-minimal-compact-css](https://github.com/D3SOX/firefox-minimal-compact-css): My personal Firefox theme based on Sidebery and CSS hacks - Inspired by Zen
 * [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod): None
 * [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur): A Fork with an Installer for "Firefox Mod Blur - Modular"
-* [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
+* [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox CSS Theme - Dark theme / More compact / Modular / Blur
 * [go2tom42/Firefox-Mod-Blur-override](https://github.com/go2tom42/Firefox-Mod-Blur-override): Personal touches, more square more compact
 * [MatthewCash/firefox-mods](https://github.com/MatthewCash/firefox-mods): Firefox CSS and JS Mods
 * [sonnenfell/firefox-new-duplicate-tab-closer](https://github.com/sonnenfell/firefox-new-duplicate-tab-closer): A small Firefox WebExtension to automatically close newly created duplicate tabs. Does not affect tabs that were already open before becoming duplicates by default.
