@@ -484,6 +484,7 @@
 * [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver): 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
 * [MrOtherGuy/bookmark-batch-updater](https://github.com/MrOtherGuy/bookmark-batch-updater): A webextension tool to update multiple bookmarks at once
 * [Rob--W/bookmark-container-tab](https://github.com/Rob--W/bookmark-container-tab): Firefox add-on to add "Open in Container Tab" menu item to bookmark menus
+* [oriz-org/bookmark-mind-bs-ext](https://github.com/oriz-org/bookmark-mind-bs-ext): AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
 * [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2): Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymore in latest Firefox, and which was very useful.
 * [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar): Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 * [last-arg/bookmark_with_pocket](https://github.com/last-arg/bookmark_with_pocket): Browser extension that adds bookmark to Pocket if rules allow it
@@ -492,7 +493,6 @@
 * [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub): BookmarkHub , sync bookmarks across different browsers
 * [K2SOsint/Bookmarklets](https://github.com/K2SOsint/Bookmarklets): A small collection of bookmarklets that are useful for OSINT, including ones for e-mail addresses, Facebook, extracting links and WhatsMyName.app.
 * [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu): WebExtension allow to execute bookmarklets as privileged scripts
-* [chirag127/BookmarkMind-AI-Bookmark-Categorizer-Browser-Extension](https://github.com/chirag127/BookmarkMind-AI-Bookmark-Categorizer-Browser-Extension): AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
 * [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks): :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev 
 * [br4adam/bookmarks](https://github.com/br4adam/bookmarks): Organize your bookmarks with ease.
 * [dyu/bookmarks](https://github.com/dyu/bookmarks): a simple self-hosted bookmarking app that can import bookmarks from delicious and chrome
