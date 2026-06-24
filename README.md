@@ -805,6 +805,7 @@
 * [superkhau/curcon](https://github.com/superkhau/curcon): Command-line tool for converting currencies using Open Exchange Rates.
 * [dblandin/Currency-Converter](https://github.com/dblandin/Currency-Converter): Currency Converter written in Javascript using jQuery and the Open Source Exchange Rates API
 * [skibitsky/current-task](https://github.com/skibitsky/current-task): 🗻 This utility allows me to focus on one task at a time.
+* [criimera/cursor-unlimited](https://github.com/criimera/cursor-unlimited): Cross-platform unlimited credits solution for Cursor Desktop.
 * [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip): cursor IDE enjoy VIP
 * [thatisuday/curved-menu](https://github.com/thatisuday/curved-menu): VanillaJS fully configurable curved menu (circular navigation)
 * [RokiLai/custom-ai-provider](https://github.com/RokiLai/custom-ai-provider): translate plugin for raycast
@@ -3147,7 +3148,6 @@
 * [shredthaGNAR/static-marks-docker](https://github.com/shredthaGNAR/static-marks-docker): Containerized static-marks to convert plain yaml bookmark files into a static web app.
 * [gaerfield/static-marks-github-pages](https://github.com/gaerfield/static-marks-github-pages): static-marks automatically deployed to github-pages
 * [vipintom/stealthFox](https://github.com/vipintom/stealthFox): Clean and minimal set of changes to get Vertical Tabs in Firefox
-* [criimera/steam-mass-comment-bot](https://github.com/criimera/steam-mass-comment-bot): 💬 Easily comment under a ton of steam profiles, groups, sharedfiles & discussions with one account!
 * [gookie-dev/StepDaddyLiveHD](https://github.com/gookie-dev/StepDaddyLiveHD): A self-hosted IPTV proxy for DLHD.
 * [mikropsoft/StevenBlock](https://github.com/mikropsoft/StevenBlock): 🚫 Advanced Ad-Blocking Module for Android | Compatible with Magisk, KernelSU, and APatch 🔒
 * [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback): The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
