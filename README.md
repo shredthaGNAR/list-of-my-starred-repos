@@ -2942,6 +2942,7 @@
 * [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop): Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 * [jimmod/ShareToComputer](https://github.com/jimmod/ShareToComputer): None
 * [marcosdiez/shareviahttp](https://github.com/marcosdiez/shareviahttp): Share Via Http - Android
+* [ShareX/ShareX](https://github.com/ShareX/ShareX): ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
 * [jlord/sheetsee-pocket](https://github.com/jlord/sheetsee-pocket): A website for your Pocket article archive. Fork-n-Go!
 * [koalaman/shellcheck](https://github.com/koalaman/shellcheck): ShellCheck, a static analysis tool for shell scripts
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock): Hunt down social media accounts by username across social networks
