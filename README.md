@@ -2410,7 +2410,7 @@
 * [s0md3v/Photon](https://github.com/s0md3v/Photon): Incredibly fast crawler designed for OSINT.
 * [wilfredwee/photon-australis](https://github.com/wilfredwee/photon-australis): Bringing sexy curves back to Firefox Photon.
 * [eszdman/PhotonCamera](https://github.com/eszdman/PhotonCamera): Android Camera that uses Enhanced image processing
-* [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨
+* [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App 🌈💎✨
 * [peter-sk/photosdup](https://github.com/peter-sk/photosdup): Mac Photos Duplicate Finder
 * [antipalindrome/Photoshop-Export-Layers-to-Files-Fast](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast): This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
 * [dermesser/photosync](https://github.com/dermesser/photosync): Now that Google deprecated the Photos<->Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes them locally. It is not very user friendly yet, but definitely usable
