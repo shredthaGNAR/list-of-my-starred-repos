@@ -1230,7 +1230,7 @@
 * [BloodyHell619/Firefox-Theme-DarkMatter](https://github.com/BloodyHell619/Firefox-Theme-DarkMatter): None
 * [dazecoop/firefox-theme-macos-vibrant](https://github.com/dazecoop/firefox-theme-macos-vibrant): None
 * [LDK-iii/firefox-transparent-theme-mac](https://github.com/LDK-iii/firefox-transparent-theme-mac): One-line theme
-* [RobinBoers/firefox-tweaks](https://github.com/RobinBoers/firefox-tweaks): :fox_face: My current userChrome.css config for Firefox. Photon like design for Firefox.
+* [RobinBoers/firefox-tweaks](https://github.com/RobinBoers/firefox-tweaks): 🦊 My current userChrome.css config for Firefox. Photon like design for Firefox.
 * [fuyu0425/firefox-tweaks](https://github.com/fuyu0425/firefox-tweaks): My FireFox Tweaks
 * [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix): 🦊 I respect proton UI and aim to improve it.
 * [denis-g/firefox-user.js](https://github.com/denis-g/firefox-user.js): 🦊 Firefox user.js – based on arkenfox/user.js with additional UI fixes.
