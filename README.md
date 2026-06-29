@@ -3103,7 +3103,7 @@
 * [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot): Code AI platform with Code Search & Cody
 * [sowdust/sowdust.github.io](https://github.com/sowdust/sowdust.github.io): Facebook search engine that works after the Graph API has been shut down
 * [soscripted/sox](https://github.com/soscripted/sox): Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features
-* [djsiddz/space-ahead](https://github.com/djsiddz/space-ahead): Space Ahead! An Astro v6 powered personal blog template.
+* [djsiddz/space-ahead](https://github.com/djsiddz/space-ahead): Space Ahead! An Astro v7 powered personal blog template.
 * [cmacrae/spacebar](https://github.com/cmacrae/spacebar): A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 * [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt): 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 * [friedPotat0/Spam-Scores](https://github.com/friedPotat0/Spam-Scores): Thunderbird add-on to display spam scores according to mail headers. Supports spam/ham score headers of Rspamd and SpamAssassin. The add-on adds a column with the overall spam score to the mail list view and shows details of any matched spam/ham rule.
@@ -3538,6 +3538,7 @@
 * [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples): Sample code illustrating the VS Code extension API.
 * [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist): vscode extension for quick gists
 * [SimonSiefke/vscode-html-missing-features](https://github.com/SimonSiefke/vscode-html-missing-features): None
+* [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons): Icons for Visual Studio Code
 * [paulhoughton/vscode-jscpd](https://github.com/paulhoughton/vscode-jscpd): Copy/Paste Detector (jscpd) for Visual Studio Code
 * [panoply/vscode-liquid](https://github.com/panoply/vscode-liquid): 💧Liquid language support for VS Code
 * [killalau/vscode-liquid-snippets](https://github.com/killalau/vscode-liquid-snippets): Shopify Liquid Template Snippets
