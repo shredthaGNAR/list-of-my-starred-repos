@@ -85,6 +85,7 @@
 * [EvanZhouDev/ai-model-index](https://github.com/EvanZhouDev/ai-model-index): Find the best models for any task. For free.
 * [Tolga1452/ai-prompts](https://github.com/Tolga1452/ai-prompts): A collection of original system prompts and tool data used for AI chatbots. Explore how companies such as ChatGPT prompt their AIs!
 * [houssinehn11/ai-proxy](https://github.com/houssinehn11/ai-proxy): 🚀 Streamline access to major AI models like ChatGPT and Claude with a unified API, enhancing reliability and reducing costs for developers in China.
+* [asleepace/ai-rename-screenshot](https://github.com/asleepace/ai-rename-screenshot): Swift helper for renaming Screenshots with Ai
 * [cpbotha/ai-screenshot-namer](https://github.com/cpbotha/ai-screenshot-namer): Rename your screenshots with ollama LLaVA, GPT-4o and macOS OCR
 * [tarurata/ai-text-transformer](https://github.com/tarurata/ai-text-transformer): Raycast extension to apply AI prompts to clipboard content
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to augment your web experience
@@ -355,6 +356,7 @@
 * [yjose/awesome-new](https://github.com/yjose/awesome-new): A list of `.new` domains to perform online actions in one quick action.
 * [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
 * [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents): 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
+* [weisser-dev/awesome-opencode](https://github.com/weisser-dev/awesome-opencode): 108 agents, 15 skills, smart model config, and interactive CLI for OpenCode — npx @weisser-dev/awesome-opencode
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint): :scream: A curated list of amazingly awesome OSINT
 * [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List): 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 * [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins): List of pastebin services
