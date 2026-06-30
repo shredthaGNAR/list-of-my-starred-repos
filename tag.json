@@ -1193,9 +1193,6 @@
     "JuanJakobo/Pocketbook-Read-offline": [
         "Other"
     ],
-    "JudiniLabs/code-gpt-docs": [
-        "Other"
-    ],
     "JustAnotherArchivist/snscrape": [
         "Other"
     ],
@@ -4626,6 +4623,9 @@
         "Other"
     ],
     "diegov/searchbox": [
+        "Other"
+    ],
+    "diffbot/code-gpt-docs": [
         "Other"
     ],
     "disposable/disposable-email-domains": [
