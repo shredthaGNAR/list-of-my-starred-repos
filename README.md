@@ -1756,7 +1756,7 @@
 * [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 * [brianluby/karakeep-extractor](https://github.com/brianluby/karakeep-extractor): None
 * [duongdev/karakeep-social-ai](https://github.com/duongdev/karakeep-social-ai): A personal bookmark manager that auto-syncs saved posts from multiple social platforms (X, Reddit, YouTube, TikTok, Dribbble, Instagram, Facebook), with AI-powered summarization, categorization, and intelligent search using Claude.
-* [sozercan/kaset](https://github.com/sozercan/kaset): 📻 The missing YouTube and YouTube Music macOS app
+* [sozercan/kaset](https://github.com/sozercan/kaset): 📼 The missing YouTube and YouTube Music macOS app
 * [kazimmt/kazimmt.github.io](https://github.com/kazimmt/kazimmt.github.io): Organized ReVanced & ReVanced Extended functionalities along with visual illustrations.
 * [pqrs-org/KE-complex_modifications](https://github.com/pqrs-org/KE-complex_modifications): Karabiner-Elements complex_modifications rules
 * [tmcinerney/keep](https://github.com/tmcinerney/keep): Run Google Keep in the menu bar
