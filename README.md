@@ -486,7 +486,7 @@
 * [TarekJor/bookmark-archiver](https://github.com/TarekJor/bookmark-archiver): 🗄 Save an archived copy of websites from Pocket/Pinboard/Bookmarks/RSS. Outputs HTML, PDFs, and more...
 * [MrOtherGuy/bookmark-batch-updater](https://github.com/MrOtherGuy/bookmark-batch-updater): A webextension tool to update multiple bookmarks at once
 * [Rob--W/bookmark-container-tab](https://github.com/Rob--W/bookmark-container-tab): Firefox add-on to add "Open in Container Tab" menu item to bookmark menus
-* [oriz-org/bookmark-mind-bs-ext](https://github.com/oriz-org/bookmark-mind-bs-ext): AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
+* [chirag127/bookmark-mind-bs-ext](https://github.com/chirag127/bookmark-mind-bs-ext): AI-driven browser extension that automatically categorizes bookmarks using Gemini, Groq, and other LLMs, offering snapshot/undo, performance insights, and seamless cross‑browser support.
 * [aaFn/Bookmark-search-plus-2](https://github.com/aaFn/Bookmark-search-plus-2): Displays and filters bookmarks on search string, show parent folders.  This is a Web Extension add-on version of the old "Bookmark search plus" XUL extension published by Alice0775, not working anymore in latest Firefox, and which was very useful.
 * [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar): Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 * [last-arg/bookmark_with_pocket](https://github.com/last-arg/bookmark_with_pocket): Browser extension that adds bookmark to Pocket if rules allow it
@@ -3231,8 +3231,8 @@
 * [ClementGre/Tabs-Groups-Manager](https://github.com/ClementGre/Tabs-Groups-Manager): Firefox Add-ons to sync tabs between browsers and to manage tabs with custom tabs groups
 * [jingyu9575/tabs-to-bookmark-groups](https://github.com/jingyu9575/tabs-to-bookmark-groups): (Work in progress) Firefox extension to save the tabs to a bookmark group and switch between different groups.
 * [deniszanin/tabs2text](https://github.com/deniszanin/tabs2text): Tabs2Text is a Firefox extension to export all your opened tabs to a text file.
-* [Reeywhaar/tabsaver](https://github.com/Reeywhaar/tabsaver): WebExtension to manage tabs
 * [nekoramuza/tabsaver](https://github.com/nekoramuza/tabsaver): Allows you to easily save all of your tabs for later use, reducing clutter
+* [reeywhaar/tabsaver](https://github.com/reeywhaar/tabsaver): WebExtension to manage tabs
 * [jdberry/tag](https://github.com/jdberry/tag): A command line tool to manipulate tags on Mac OS X files, and to query for files with those tags.
 * [derickfay/tag-services](https://github.com/derickfay/tag-services): Automator workflows to add tagging services to Mavericks
 * [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces): TagSpaces is an offline, open source, document manager with tagging support
