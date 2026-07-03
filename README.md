@@ -3368,7 +3368,7 @@
 * [jofpin/trape](https://github.com/jofpin/trape): People tracker on the Internet: OSINT analysis and research tool by Jose Pino
 * [piroor/treestyletab](https://github.com/piroor/treestyletab): Tree Style Tab, Show tabs like a tree.
 * [Xinkai/TreeStyleTabCompanion.uc.js](https://github.com/Xinkai/TreeStyleTabCompanion.uc.js): A Firefox userChrome.js for hiding the native tab bar when a sidebar tab manager is active
-* [tstanmay13/trend](https://github.com/tstanmay13/trend): None
+* [tstanmay13/trend](https://github.com/tstanmay13/trend): Auto-curated daily digest of dev trends — GitHub Trending, Hacker News, npm, PyPI — fetched and committed on a cron.
 * [amebalabs/TRex](https://github.com/amebalabs/TRex): Copy any text on your screen, stop retyping.
 * [TrialAppleApp/trial-macOS-app](https://github.com/TrialAppleApp/trial-macOS-app): Long-term trials of macOS apps
 * [trockerapp/trocker](https://github.com/trockerapp/trocker): This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
