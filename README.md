@@ -1943,6 +1943,7 @@
 * [schappim/macOCR](https://github.com/schappim/macOCR): Get any text on your screen into your clipboard.
 * [xulihang/macOCR](https://github.com/xulihang/macOCR): Command line OCR tool using macOS's VNRecognizeTextRequest
 * [shubhambatra3019/macOrganizer](https://github.com/shubhambatra3019/macOrganizer): A macOS app for organizing folders
+* [glenrobertson/macos-ai-screenshot-renamer](https://github.com/glenrobertson/macos-ai-screenshot-renamer): A MacOS launchd/Shortcut that renames screenshot files using Apple Intelligence
 * [temochka/macos-automation](https://github.com/temochka/macos-automation): A collection of my macOS automation scripts (Alfred Workflows, AppleScript, and JXA)
 * [SKaplanOfficial/macOS-Automation-Resources](https://github.com/SKaplanOfficial/macOS-Automation-Resources): Resources for MacOS automation languages
 * [steipete/macos-automator-mcp](https://github.com/steipete/macos-automator-mcp): An MCP server to run AppleScript and JXA (JavaScript for Automation) to macOS.
