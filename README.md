@@ -2566,7 +2566,7 @@
 * [jkennethcarino/privacy-revanced-patches](https://github.com/jkennethcarino/privacy-revanced-patches): Privacy Patches for ReVanced to disable ads, trackers and analytics, always open Gboard in incognito mode, and much more!
 * [StellarSand/privacy-settings](https://github.com/StellarSand/privacy-settings): Guide to privacy settings for most major software and services.
 * [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy): Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
-* [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt): Interact with your documents using the power of GPT, 100% privately, no data leaks
+* [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt): Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 * [seemoo-lab/privatedrop](https://github.com/seemoo-lab/privatedrop): Practical Privacy-Preserving Authentication for Apple AirDrop
 * [xmansyx/Pro-Fox](https://github.com/xmansyx/Pro-Fox): A custome CSS Theme for firefox
 * [objective-see/ProcessMonitor](https://github.com/objective-see/ProcessMonitor): Process Monitor Library (based on Apple's new Endpoint Security Framework)
