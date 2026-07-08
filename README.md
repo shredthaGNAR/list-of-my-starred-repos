@@ -3108,7 +3108,7 @@
 * [djsiddz/space-ahead](https://github.com/djsiddz/space-ahead): Space Ahead! An Astro v7 powered personal blog template.
 * [cmacrae/spacebar](https://github.com/cmacrae/spacebar): A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 * [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt): 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
-* [friedPotat0/Spam-Scores](https://github.com/friedPotat0/Spam-Scores): Thunderbird add-on to display spam scores according to mail headers. Supports spam/ham score headers of Rspamd and SpamAssassin. The add-on adds a column with the overall spam score to the mail list view and shows details of any matched spam/ham rule.
+* [friedPotat0/Spam-Scores](https://github.com/friedPotat0/Spam-Scores): Thunderbird add-on that shows the spam score your mail server already assigned to each message, in a colour-coded mail-list column with a rule-by-rule breakdown. Reads SpamAssassin, rspamd, MailScanner, OVH, Sophos and more.
 * [librespeed/speedtest](https://github.com/librespeed/speedtest): Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 * [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli): Command line interface for testing internet bandwidth using speedtest.net
 * [CharlieS1103/spicetify-extensions](https://github.com/CharlieS1103/spicetify-extensions): extensions for spotify  i'm creating
