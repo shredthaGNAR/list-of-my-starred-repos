@@ -1518,7 +1518,7 @@
 * [arkenfox/gui](https://github.com/arkenfox/gui): A companion gui for arkenfox user.js
 * [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01): Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascript website this boilerplate is for you. 
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
-* [akkva/gwfox](https://github.com/akkva/gwfox): Bringing a refreshing macOS-inspired skin to Firefox
+* [akkva/gwfox](https://github.com/akkva/gwfox): Bringing a crisp new look to Firefox
 * [akkva/GWfox-T](https://github.com/akkva/GWfox-T): A macOS Tahoe-style Firefox theme 
 * [glomatico/gytmdl](https://github.com/glomatico/gytmdl): A command-line app for downloading YouTube Music songs with tags from YouTube Music.
 * [Mattlk13/h4cker](https://github.com/Mattlk13/h4cker): This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
