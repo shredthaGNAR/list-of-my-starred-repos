@@ -1892,7 +1892,7 @@
 * [ParisNeo/lollms](https://github.com/ParisNeo/lollms): An all in one AI solution compatible with any known AI service on the planet
 * [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui): Lord of Large Language and Multi modal Systems Web User Interface
 * [ParisNeo/lollms_legacy](https://github.com/ParisNeo/lollms_legacy): Lord of LLMS
-* [kunkka19xx/look](https://github.com/kunkka19xx/look): An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. I'm working on this project with AI agents.
+* [kunkka19xx/look](https://github.com/kunkka19xx/look): An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Raycast. Made in Viet Nam 
 * [TB-throwback/LookOut-fix-version](https://github.com/TB-throwback/LookOut-fix-version): Fork of LookOut (fix version)
 * [mrkai77/Loop](https://github.com/mrkai77/Loop): Window management made elegant.
 * [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher): Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
