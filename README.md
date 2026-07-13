@@ -2640,7 +2640,7 @@
 * [chhoumann/quickadd](https://github.com/chhoumann/quickadd): QuickAdd for Obsidian
 * [RealRaven2000/quickFilters](https://github.com/RealRaven2000/quickFilters): Thunderbird Add-on: quickFilters 
 * [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders): Thunderbird Add-on: QuickFolders
-* [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo): This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
+* [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo): Finder Thumbnails, Quick Look previews, Get Info metadata and previews for most types of audio and video files.
 * [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver): Quicksilver Project Source
 * [jobisoft/quicktext](https://github.com/jobisoft/quicktext): An extension for Thunderbird that lets you create templates that can be easily inserted into your own emails.
 * [kamryn404/quietfox](https://github.com/kamryn404/quietfox): Very Clean Firefox userChrome Mod
