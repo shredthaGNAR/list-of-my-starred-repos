@@ -2327,7 +2327,7 @@
 * [hjerpbakk/OpenFolderInVSCode](https://github.com/hjerpbakk/OpenFolderInVSCode): With this macOS service, you can quickly open any given folder as a project in Visual Studio Code from the Finders context menu.
 * [evanp/openfollow](https://github.com/evanp/openfollow): Search server to find people on the federated social web
 * [OpenHoldem/openholdembot](https://github.com/OpenHoldem/openholdembot): OpenHoldem Poker Bot (free, open-source poker-bot for Texas Hold'em and Omaha)   Please click the link below or Forum news.
-* [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode): :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
+* [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode): 📂 macOS Finder toolbar app to open current folder in Visual Studio Code
 * [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 * [dstark5/Openlib](https://github.com/dstark5/Openlib): An Open source app to download and read books from shadow library (Anna’s Archive)
 * [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
@@ -3602,7 +3602,7 @@
 * [thunderbird/webext-experiments](https://github.com/thunderbird/webext-experiments): WebExtension Experiments for Thunderbird
 * [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill): A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 * [sblask-webextensions/webextension-skip-redirect](https://github.com/sblask-webextensions/webextension-skip-redirect): Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
-* [sblask-webextensions/webextension-tab-deque](https://github.com/sblask-webextensions/webextension-tab-deque): A Firefox extension for better tab handling.
+* [sblask-webextensions/webextension-tab-deque](https://github.com/sblask-webextensions/webextension-tab-deque): A webextension for better tab handling. Inspired by Opera 12
 * [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox): Small CLI toolbox for cross-browser WebExtension development
 * [tpamula/webextension-window-titler](https://github.com/tpamula/webextension-window-titler): Label your Firefox windows and profiles by modifying window title
 * [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples): Example Firefox add-ons created using the WebExtensions API
