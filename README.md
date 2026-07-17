@@ -3554,7 +3554,7 @@
 * [benhcai/VSCode-Theme-Snazzy](https://github.com/benhcai/VSCode-Theme-Snazzy): None
 * [phoihos/vscode-translate-it](https://github.com/phoihos/vscode-translate-it): Text/Comment Translator Extension for VS Code    https://marketplace.visualstudio.com/items?itemName=phoihos.translate-it
 * [EYHN/vscode-vibrancy](https://github.com/EYHN/vscode-vibrancy): Enable Acrylic/Glass effect for your VS Code.
-* [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued): Enable Acrylic/Mica/Glass effect for your VS Code.
+* [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued): Enable Acrylic/Mica/Glass effect for your VS Code
 * [andrejsharapov/vue-box-shadows](https://github.com/andrejsharapov/vue-box-shadows): Collection of CSS box-shadows for every taste contains more than 100 simple, beautiful and airy shadows.
 * [Kocal/vue-web-extension](https://github.com/Kocal/vue-web-extension): 🛠️ A Vue CLI 3+ preset (previously a Vue CLI 2 boilerplate) for quickly starting a web extension with Vue, Babel, ESLint and more!
 * [sedemmler/WagerBrain](https://github.com/sedemmler/WagerBrain): A package containing the essential math required for sports betting and gambling.
