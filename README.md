@@ -228,7 +228,7 @@
 * [axross/aqua](https://github.com/axross/aqua):  ♠️ Beautiful iOS/Android poker odds calculator app made of Flutter.
 * [yuuiko/AquaNotch](https://github.com/yuuiko/AquaNotch): Add a Notch to your old Macbook with BetterTouchTool.
 * [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch): Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
-* [betterbrowser/arcfox](https://github.com/betterbrowser/arcfox): Make your production flow
+* [betterbrowser/arcfox](https://github.com/betterbrowser/arcfox): Make your production flow.
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 * [archivy/archivy](https://github.com/archivy/archivy): Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 * [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF): A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
