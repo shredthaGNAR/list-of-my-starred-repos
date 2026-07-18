@@ -1858,7 +1858,7 @@
 * [fregante/list-github-dir-content](https://github.com/fregante/list-github-dir-content): List all the files in a GitHub repo’s directory
 * [blocklistproject/Lists](https://github.com/blocklistproject/Lists): Primary Block Lists
 * [jnv/lists](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub and elsewhere
-* [BerriAI/litellm](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
+* [BerriAI/litellm](https://github.com/BerriAI/litellm): The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
 * [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM): LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.
 * [gzanuttinifrank/live-basketball-odds-scraper](https://github.com/gzanuttinifrank/live-basketball-odds-scraper): Scraper for all ongoing basketball games on Bovada
 * [webextensions/live-css-editor](https://github.com/webextensions/live-css-editor): Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less & Sass)
