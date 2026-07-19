@@ -690,7 +690,7 @@
 * [postmodern/chruby](https://github.com/postmodern/chruby): Changes the current Ruby
 * [emvaized/circle-mouse-gestures](https://github.com/emvaized/circle-mouse-gestures): Chrome and Firefox extension for mouse gestures with visual representation of actions as a circle
 * [asilvas/circler](https://github.com/asilvas/circler): (non-official) Logitech Circle utility application (download etc)
-* [0x7370346365/classic-tabs-firefox](https://github.com/0x7370346365/classic-tabs-firefox): None
+* [sp4ce99/classic-tabs-firefox](https://github.com/sp4ce99/classic-tabs-firefox): None
 * [opactorai/Claudable](https://github.com/opactorai/Claudable): Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 * [anthropics/claude-code](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 * [StamKavid/claude-code-prompting-101](https://github.com/StamKavid/claude-code-prompting-101): A comprehensive educational repository for mastering prompt engineering with Anthropic's Claude AI, from basic concepts to production-ready systems. Based on Anthropic's official Claude Code Prompting 101 tutorial with extensive enhancements.

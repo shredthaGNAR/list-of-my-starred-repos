@@ -11,9 +11,6 @@
     "0x2e73/ChromeFox": [
         "Other"
     ],
-    "0x7370346365/classic-tabs-firefox": [
-        "Other"
-    ],
     "0xAwoL/firefox-tabs-clipboard-saver": [
         "Other"
     ],
@@ -9708,6 +9705,9 @@
         "Other"
     ],
     "sozercan/kaset": [
+        "Other"
+    ],
+    "sp4ce99/classic-tabs-firefox": [
         "Other"
     ],
     "spaceship-prompt/spaceship-prompt": [
