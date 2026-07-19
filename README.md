@@ -92,6 +92,7 @@
 * [houssinehn11/ai-proxy](https://github.com/houssinehn11/ai-proxy): 🚀 Streamline access to major AI models like ChatGPT and Claude with a unified API, enhancing reliability and reducing costs for developers in China.
 * [asleepace/ai-rename-screenshot](https://github.com/asleepace/ai-rename-screenshot): Swift helper for renaming Screenshots with Ai
 * [cpbotha/ai-screenshot-namer](https://github.com/cpbotha/ai-screenshot-namer): Rename your screenshots with ollama LLaVA, GPT-4o and macOS OCR
+* [fahmidme/ai-screenshot-renamer](https://github.com/fahmidme/ai-screenshot-renamer): This project automatically renames screenshots using AI-generated descriptions. It's designed to work with macOS and uses OpenAI's GPT-4 Vision model to analyze and describe screenshots.
 * [tarurata/ai-text-transformer](https://github.com/tarurata/ai-text-transformer): Raycast extension to apply AI prompts to clipboard content
 * [adamlui/ai-web-extensions](https://github.com/adamlui/ai-web-extensions): 🤖 AI browser extensions & userscripts to augment your web experience
 * [lszefner/aiautomatize](https://github.com/lszefner/aiautomatize): A modern, multilingual landing page for AI Automatize - a service that helps businesses integrate AI-powered automation to improve conversion rates, save time, and scale operations.
@@ -352,6 +353,7 @@
 * [langgptai/awesome-llama-prompts](https://github.com/langgptai/awesome-llama-prompts): LLM prompts, llama3 prompts, llama2 prompts
 * [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
 * [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+* [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources): 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources. 
 * [ilsilfverskiold/Awesome-LLM-Resources-List](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List): A Curated Collection of resources for applied AI engineering (work in progress).
 * [vince-lam/awesome-local-llms](https://github.com/vince-lam/awesome-local-llms): Compare compatible open-source local LLM projects by their metrics to assess popularity and activeness.
 * [HoMeCracKeR/awesome-mac](https://github.com/HoMeCracKeR/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -780,6 +782,7 @@
 * [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api): Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 * [hugodemenez/copilot-openai-bridge](https://github.com/hugodemenez/copilot-openai-bridge): Exposes GitHub Copilot SDK as OpenAI-compatible API for Raycast Custom Providers
 * [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard): Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
+* [noahvogt/copy-url-on-hover](https://github.com/noahvogt/copy-url-on-hover): brower extension to copy URL's on hover when pressing Y
 * [ctrlxc/copyaddrs](https://github.com/ctrlxc/copyaddrs): thunderbird webextentions
 * [BlackGlory/copycat](https://github.com/BlackGlory/copycat): 🌳 Copy content from web powerful than ever before.
 * [A9T9/Copyfish](https://github.com/A9T9/Copyfish): Copy, paste and translate text from images, videos and PDFs with this free Chrome extension
@@ -1257,7 +1260,6 @@
 * [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt): Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
 * [DrDesten/Firefox_reStock](https://github.com/DrDesten/Firefox_reStock): reStock theme for Mozilla Firefox. Gives Firefox an overhauled look and feel while preserving the structure und color palette of the default look
 * [Smile4ever/firefoxaddons](https://github.com/Smile4ever/firefoxaddons): Extend the functionality of Firefox with cool addons
-* [sdavidg/firefoxChromeScripts](https://github.com/sdavidg/firefoxChromeScripts): None
 * [sdavidg/firefoxChromeScripts](https://github.com/sdavidg/firefoxChromeScripts): None
 * [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor): Theming demo for Firefox Quantum and beyond
 * [AutomaticFailure/FirefoxCSS](https://github.com/AutomaticFailure/FirefoxCSS): None
@@ -2584,6 +2586,7 @@
 * [jairo-aguirre/product-comparison](https://github.com/jairo-aguirre/product-comparison): App enabling users in a simple and centralized way to compare product features or capabilities across multiple similar products.
 * [Shopify/product-reviews-sample-app](https://github.com/Shopify/product-reviews-sample-app): A sample Shopify application that creates and stores product reviews for a store, written in Node.js
 * [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
+* [dujonwalker/project-nova](https://github.com/dujonwalker/project-nova): A multi-agent AI architecture that connects 25+ specialized agents through n8n and MCP servers. Project NOVA routes requests to domain-specific experts, enabling control of applications from knowledge bases to DAWs, home automation to development tools. Includes system prompts, Dockerfiles, and workflows for a complete AI assistant ecosystem.
 * [masoudsoleymani/projects-portfolio-template](https://github.com/masoudsoleymani/projects-portfolio-template): Astro portfolio template to showcase projects and experiences- fast, customizable, and deploy-ready.
 * [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 * [raycast/prompt-explorer](https://github.com/raycast/prompt-explorer): Easily browse, share, and add prompts to Raycast
@@ -2724,6 +2727,7 @@
 * [jjcall/raycast-vault-clipper](https://github.com/jjcall/raycast-vault-clipper): Raycast script to clip tweets, YouTube videos,  and web pages to Obsidian w/ AI summaries,  auto-tagging, and no browser extension required.
 * [missuo/raycast2api](https://github.com/missuo/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [xxxbrian/raycast2api](https://github.com/xxxbrian/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint. Deployable to Cloudflare Workers / Docker / Local Binary with Raycast V2 signarure.
+* [QuoVadis2020/raycast2api-mirror-001](https://github.com/QuoVadis2020/raycast2api-mirror-001): None
 * [WToa/raycast_extensions_by_downloads](https://github.com/WToa/raycast_extensions_by_downloads): Rank raycast extensions by downloads
 * [Zack4DEV/Raycast_g4f](https://github.com/Zack4DEV/Raycast_g4f): Raycast extension by @XInTheDark to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 * [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama): Raycast extention for Ollama
@@ -2783,6 +2787,7 @@
 * [husnainfareed/rename-images-with-ai-raycast-extension](https://github.com/husnainfareed/rename-images-with-ai-raycast-extension): A Raycast extension that uses AI to intelligently rename screenshot and image files based on their content.
 * [cdaein/rename-screenshot](https://github.com/cdaein/rename-screenshot): Rename Mac screenshots based on its contents with local Ollama or ChatGPT
 * [dexiota/replacefirefoxicon](https://github.com/dexiota/replacefirefoxicon): A collection of CSS tweaks to only change Firefox's icon throughout the UI.
+* [p-wis/ReplaceSelectionAI](https://github.com/p-wis/ReplaceSelectionAI): Firefox extension that processes selected text (or clipboard content) with AI and replaces it in place. Supports OpenAI, Anthropic Claude, and any OpenAI-compatible provider. Define your own prompts — each appears as a context menu item.
 * [jeevatkm/ReplyWithHeader-Thunderbird](https://github.com/jeevatkm/ReplyWithHeader-Thunderbird): Outlook style headers and few goodies for Thunderbird
 * [Zaxxon709/repo](https://github.com/Zaxxon709/repo): None
 * [srvaroa/repocket](https://github.com/srvaroa/repocket): Manage a local copy of articles saved in Pocket
@@ -3075,6 +3080,7 @@
 * [dh1011/smart-bookmark](https://github.com/dh1011/smart-bookmark): Smart Bookmark is a simple, AI-powered tool to help you stay organized and make the most of your bookmarks. Features like smart search, automatic summaries, and tagging make it easy to search and organize your bookmarks.
 * [omar-haris/smart-coding-mcp](https://github.com/omar-haris/smart-coding-mcp): An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.
 * [brianpetro/smart-connect](https://github.com/brianpetro/smart-connect): None
+* [syedamaann/smart_renamer](https://github.com/syedamaann/smart_renamer): Automates screenshot labeling using OpenAI's GPT-4 Vision
 * [smartertechnologist/SmarterBookmarks-Android](https://github.com/smartertechnologist/SmarterBookmarks-Android): Official documentation for the SmarterBookmarks android app
 * [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy): Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 * [RealRaven2000/SmartTemplates](https://github.com/RealRaven2000/SmartTemplates): Thunderbird Add-on: SmartTemplates
