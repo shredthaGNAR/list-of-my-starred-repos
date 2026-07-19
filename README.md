@@ -674,6 +674,7 @@
 * [weierz/chrome-read-later](https://github.com/weierz/chrome-read-later): A temporary bookmark focused on reading later, rather than closing and removing, with several Vim keybindings!
 * [elgervb/chrome-readinglist2](https://github.com/elgervb/chrome-readinglist2): None
 * [Noitidart/Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified): Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites.
+* [Vatsal057/chrome-to-safari](https://github.com/Vatsal057/chrome-to-safari): Turn any Chrome extension — even straight from a Chrome Web Store link — into a signed Safari extension with one command. Free Apple ID signing, no $99 dev account, no re-enabling unsigned extensions every restart
 * [matthewfallshaw/chrome-window-management-scripts](https://github.com/matthewfallshaw/chrome-window-management-scripts): Chrome window and tab management scripts
 * [OtsoBear/chrome2moz](https://github.com/OtsoBear/chrome2moz): chrome extension to firefox extension converter
 * [priyankchheda/chrome_password_grabber](https://github.com/priyankchheda/chrome_password_grabber): Get unencrypted 'Saved Password' from Google Chrome
