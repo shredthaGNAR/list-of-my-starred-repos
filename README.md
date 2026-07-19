@@ -48,6 +48,7 @@
 * [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast): Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 * [evilpie/add-custom-search-engine](https://github.com/evilpie/add-custom-search-engine): Add a custom search engine to the list of available search engines in Firefox
 * [erichgoldman/add-url-to-window-title](https://github.com/erichgoldman/add-url-to-window-title): A Chrome/Firefox addon which will put the web page address (URL) into the window's title. Useful for customizing KeePass's auto-type
+* [addfox/addfox](https://github.com/addfox/addfox): 🧩 Accelerate your browser extension development. Built on Rsbuild — fast, simple, and free
 * [ClearURLs/Addon](https://github.com/ClearURLs/Addon): ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 * [mozilla/addons-linter](https://github.com/mozilla/addons-linter): 🔍 Firefox Add-ons linter, written in JavaScript. 👁
 * [himanshukumar660/Address-Validation](https://github.com/himanshukumar660/Address-Validation): This is a website where user can perform Address Verification.
@@ -78,6 +79,7 @@
 * [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents): A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 * [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
 * [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions): Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.
+* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [fastaddons/AI-Anywhere](https://github.com/fastaddons/AI-Anywhere): None
 * [vanrohan/ai-bookmark-organizer](https://github.com/vanrohan/ai-bookmark-organizer): None
@@ -296,7 +298,6 @@
 * [Josua996/AutoTag](https://github.com/Josua996/AutoTag): A Thunderbird Add-on that automatically tag emails based on the sender address 🤖🏷
 * [tamcore/autoupdate-oh-my-zsh-plugins](https://github.com/tamcore/autoupdate-oh-my-zsh-plugins): Plugin for oh-my-zsh to automatically update custom-plugins
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
-* [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
 * [robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3): A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 * [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents
 * [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
@@ -313,6 +314,7 @@
 * [bskim45/awesome-btt-config](https://github.com/bskim45/awesome-btt-config): An curated list of awesome BetterTouchTool configs.
 * [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt): 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 * [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt): A curated list of awesome ChatGPT related projects.
+* [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories): A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code skills.
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 * [MissMitsuha/awesome-course-piracy](https://github.com/MissMitsuha/awesome-course-piracy): An index of course piracy resources
 * [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography): A curated list of cryptography resources and links.
@@ -332,6 +334,7 @@
 * [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps): A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
 * [bartcctv/awesome-gemini-prompts](https://github.com/bartcctv/awesome-gemini-prompts): Gemini Prompts, Bard Prompts, LLM Prompts, LangGPT
 * [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai): A curated list of Generative AI tools, works, models, and references
+* [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 * [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme): 😎 A curated list of awesome GitHub Profile which updates in real time 
 * [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering): A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
 * [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store): A curated list of awesome GPTs in the GPT Store
@@ -393,6 +396,7 @@
 * [rjaus/awesome-ublacklist](https://github.com/rjaus/awesome-ublacklist): Awesome list of uBlacklist subscriptions to block search results from google, bing, duckduckgo.
 * [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts): 📖  A curated list of Awesome Userscripts.
 * [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security): 🚗  A curated list of resources for learning about vehicle security and car hacking.
+* [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode): 🎨 A curated list of delightful VS Code packages and resources.
 * [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez): All your base are belong to us!
 * [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design): 🎨 A curated list of awesome resources for digital designers.
 * [nuhmanpk/Awesome-Web-Hosting](https://github.com/nuhmanpk/Awesome-Web-Hosting): A curated list of free hosting providers for developers to deploy and manage web projects effortlessly. These platforms offer various features, including serverless functions, Git integration, unlimited bandwidth, and more.
@@ -687,6 +691,7 @@
 * [0x7370346365/classic-tabs-firefox](https://github.com/0x7370346365/classic-tabs-firefox): None
 * [opactorai/Claudable](https://github.com/opactorai/Claudable): Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 * [anthropics/claude-code](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+* [StamKavid/claude-code-prompting-101](https://github.com/StamKavid/claude-code-prompting-101): A comprehensive educational repository for mastering prompt engineering with Anthropic's Claude AI, from basic concepts to production-ready systems. Based on Anthropic's official Claude Code Prompting 101 tutorial with extensive enhancements.
 * [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy): Claude Code to OpenAI API Proxy
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 * [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts): All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
@@ -1252,6 +1257,7 @@
 * [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt): Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
 * [DrDesten/Firefox_reStock](https://github.com/DrDesten/Firefox_reStock): reStock theme for Mozilla Firefox. Gives Firefox an overhauled look and feel while preserving the structure und color palette of the default look
 * [Smile4ever/firefoxaddons](https://github.com/Smile4ever/firefoxaddons): Extend the functionality of Firefox with cool addons
+* [sdavidg/firefoxChromeScripts](https://github.com/sdavidg/firefoxChromeScripts): None
 * [sdavidg/firefoxChromeScripts](https://github.com/sdavidg/firefoxChromeScripts): None
 * [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor): Theming demo for Firefox Quantum and beyond
 * [AutomaticFailure/FirefoxCSS](https://github.com/AutomaticFailure/FirefoxCSS): None
@@ -2781,6 +2787,7 @@
 * [Zaxxon709/repo](https://github.com/Zaxxon709/repo): None
 * [srvaroa/repocket](https://github.com/srvaroa/repocket): Manage a local copy of articles saved in Pocket
 * [yamadashy/repomix](https://github.com/yamadashy/repomix): 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
+* [a4k-openproject/repository.openwizard](https://github.com/a4k-openproject/repository.openwizard): The official home of OpenWizard
 * [JeremiahPetersen/RepoToText](https://github.com/JeremiahPetersen/RepoToText): Turn an entire GitHub Repo into a single organized .txt file to use with LLM's (ChatGPT, Claude, Gemini, etc)
 * [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature): ✨ Template generator for (responsive) emails & email signatures 
 * [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template): A free simple responsive HTML email template
