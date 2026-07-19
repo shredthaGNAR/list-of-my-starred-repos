@@ -2215,6 +2215,7 @@
 * [dawiidio/o-menu](https://github.com/dawiidio/o-menu): Simple circular svg menu 
 * [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal): Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 * [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri): Advanced modes for Obsidian URI
+* [pfrankov/obsidian-ai-providers](https://github.com/pfrankov/obsidian-ai-providers): This plugin is a hub for setting AI providers (OpenAI-like, Ollama and more) in one place.
 * [TfTHacker/obsidian-ai-templater](https://github.com/TfTHacker/obsidian-ai-templater): Extends Templater with AI Chat commands using the OpenAI Client Library
 * [roovo/obsidian-card-board](https://github.com/roovo/obsidian-card-board): An Obsidian plugin to make working with tasks a pleasure (hopefully anyway).
 * [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper): Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
