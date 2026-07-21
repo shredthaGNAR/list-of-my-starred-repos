@@ -1309,7 +1309,7 @@
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 * [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources): A list of free LLM inference resources accessible via API.
 * [jamesjingyi/free-mac-apps](https://github.com/jamesjingyi/free-mac-apps): A list of apps I use on my MacBook
-* [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list): a free rotating proxy API with tested HTTPS and SOCKS5 proxies from 100+ countries
+* [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list): 🚀 Free HTTP, SOCKS4, & SOCKS5 proxy list * Updated every 5 minutes * and rotating proxy API (100+ countries)
 * [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api): 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、Cherry Studio、沉浸式翻译等项目使用
 * [psugihara/FreeChat](https://github.com/psugihara/FreeChat): llama.cpp based AI chat app for macOS
 * [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio): 100% FREE professional portfolio website templates
