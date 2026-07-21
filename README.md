@@ -1910,7 +1910,7 @@
 * [ThatOrJohn/lottery-texas-scratchoffs](https://github.com/ThatOrJohn/lottery-texas-scratchoffs): Populate Neo4J AuraDB with daily Texas Lottery Scratch Ticket claim data
 * [Wkasel/lottery_scraper](https://github.com/Wkasel/lottery_scraper): Scraper for lottery scratchers
 * [davidKolesar/LotteryTicketDataScraper](https://github.com/davidKolesar/LotteryTicketDataScraper): A program that analyzes all scratch off lottery tickets for the state of Pennsylvania and evalutes remaining winners & remaining prize monies for each given ticket (updates real time with Pennsylvania Website)
-* [kawhyte/Lotto-Tickets-API](https://github.com/kawhyte/Lotto-Tickets-API): An API for the Florida Lottery Scratch-off game
+* [kawhyte/lotto-tickets-api](https://github.com/kawhyte/lotto-tickets-api): An API for the Florida Lottery Scratch-off game
 * [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks): 💚 🍴 Show notable forks of GitHub repositories under their names.
 * [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed): LSPosed Framework
 * [objective-see/LuLu](https://github.com/objective-see/LuLu): LuLu is the free open-source macOS firewall
