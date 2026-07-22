@@ -642,7 +642,7 @@
 * [ivanfioravanti/chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama): Chatbot Ollama is an open source chat UI for Ollama.
 * [chatboxai/chatbox](https://github.com/chatboxai/chatbox): Powerful AI Client
 * [khzg/ChatGPT](https://github.com/khzg/ChatGPT): Ai Chat everywhere (firefox addons)
-* [lencx/ChatGPT](https://github.com/lencx/ChatGPT): 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+* [lencx/ChatGPT](https://github.com/lencx/ChatGPT): ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 * [ZohaibAhmed/chatgpt-api](https://github.com/ZohaibAhmed/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 * [hunkimForks/chatgpt-arxiv-extension](https://github.com/hunkimForks/chatgpt-arxiv-extension): A browser extension that enhance search engines with ChatGPT
 * [ishandutta2007/chatgpt-arxiv-extension_hunkimForks](https://github.com/ishandutta2007/chatgpt-arxiv-extension_hunkimForks): A browser extension that enhance search engines with ChatGPT
@@ -2242,6 +2242,7 @@
 * [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop): This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 * [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast): Raycast extension with commands for the note taking app Obsidian.
 * [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater): None
+* [swalker326/obsidian-smart-capture](https://github.com/swalker326/obsidian-smart-capture): A Raycast extension that uses AI to organize captured notes in an Obsidian vault
 * [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections): Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 * [masonlr/obsidian-starter-templates](https://github.com/masonlr/obsidian-starter-templates): :rocket: Starter templates for Obsidian.md
 * [obsidian-community/obsidian-style-settings](https://github.com/obsidian-community/obsidian-style-settings): A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian
