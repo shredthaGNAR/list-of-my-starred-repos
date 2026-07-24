@@ -1373,7 +1373,7 @@
 * [ShivamMMMxyz/GeminiPromptsIndexer](https://github.com/ShivamMMMxyz/GeminiPromptsIndexer): None
 * [CJHwong/gems.sh](https://github.com/CJHwong/gems.sh): A Gemini Gem Manager in your MacBook powered by Gemma
 * [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim): Neovim plugin to generate text using LLMs with customizable prompts
-* [microsoft/genaiscript](https://github.com/microsoft/genaiscript): Automatable GenAI Scripting
+* [microsoft/genaiscript](https://github.com/microsoft/genaiscript): DEPRECATED
 * [google/generative-ai-docs](https://github.com/google/generative-ai-docs): This repository is deprecated and will be archived
 * [webextension-toolbox/generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension): Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 * [alfaaarex/GentleFox](https://github.com/alfaaarex/GentleFox): A Firefox theme, which features gentle curves, transparency and a minimal interface.
