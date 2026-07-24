@@ -1028,7 +1028,6 @@
 * [taroontyagi/email-signature](https://github.com/taroontyagi/email-signature): Retire those uncool email signatures, use the template to customize and create your won cool email signature.
 * [Van-Code/email-signature-generator](https://github.com/Van-Code/email-signature-generator):  html email signature generator
 * [vinitshahdeo/Email-Signature-Template](https://github.com/vinitshahdeo/Email-Signature-Template): An email signature template made using HTML & CSS - let's make its easier for everyone!
-* [bluginbuhl/email-signatures](https://github.com/bluginbuhl/email-signatures): Custom HTML/CSS e-mail signatures for Gmail
 * [ColorlibHQ/email-templates](https://github.com/ColorlibHQ/email-templates): Free HTML email templates for Mailchimp and other emails services
 * [maldevel/EmailHarvester](https://github.com/maldevel/EmailHarvester): Email addresses harvester
 * [crowdproperty/EmailSignatureMachine](https://github.com/crowdproperty/EmailSignatureMachine): You here to make some email signatures
