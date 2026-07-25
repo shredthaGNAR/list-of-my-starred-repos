@@ -560,6 +560,9 @@
     "David-Kunz/gen.nvim": [
         "Other"
     ],
+    "DavidMoore/ipfilter": [
+        "Other"
+    ],
     "DebianArch64/DebProvision": [
         "Other"
     ],
@@ -10340,6 +10343,9 @@
     "totu/Swipe2Nav": [
         "Other"
     ],
+    "touhidurrr/iplist-youtube": [
+        "Other"
+    ],
     "tpamula/webextension-window-titler": [
         "Other"
     ],
@@ -11163,6 +11169,9 @@
         "Other"
     ],
     "zanetu/direct_google_images": [
+        "Other"
+    ],
+    "zangadoprojets/pi-hole-blocklist": [
         "Other"
     ],
     "zanonmark/Google-4-TbSync": [

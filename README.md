@@ -1675,7 +1675,9 @@
 * [devcxm/iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor): A Mac app to decode and extract images from iOS apps, support png/jpg/ipa/Assets.car files.
 * [BlackJack8/iOSAdblockList](https://github.com/BlackJack8/iOSAdblockList): Ultimate Host List for Mobile Adblockers (Focused on iOS)
 * [ShaleenM/IP-Camera](https://github.com/ShaleenM/IP-Camera): Change your android phone to surveillance camera
+* [DavidMoore/ipfilter](https://github.com/DavidMoore/ipfilter): Keeps your preferred Bit Torrent client blocklist up to date to support your privacy and security
 * [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop): An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. 
+* [touhidurrr/iplist-youtube](https://github.com/touhidurrr/iplist-youtube): An attempt to list all Youtube IPs at one place.
 * [Free-TV/IPTV](https://github.com/Free-TV/IPTV): M3U Playlist for free TV channels
 * [doms9/iptv](https://github.com/doms9/iptv): tv channels & sporting events
 * [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world
@@ -2433,6 +2435,7 @@
 * [pooja-v-dev/php-drive-s3](https://github.com/pooja-v-dev/php-drive-s3): Read a Google Drive account, list files in a folder and move selected file to S3.
 * [uoftcprg/phs-dataset](https://github.com/uoftcprg/phs-dataset): A dataset of poker hand strengths
 * [Pyenb/Pi-hole-blocklist](https://github.com/Pyenb/Pi-hole-blocklist): A comprehensive blocklist for Pi-hole (or any other service). Updated daily. Around 2.4 million domains.
+* [zangadoprojets/pi-hole-blocklist](https://github.com/zangadoprojets/pi-hole-blocklist): Neste repositório você encontrará listas de bloqueio personalizadas para o serviço PiHole. Elas podem ser usadas em serviços semelhantes (AdGuard, Ublock). | English:  In this repository you will find custom blacklists for the PiHole service. They can be used on similar services (AdGuard, Ublock).
 * [bltavares/pickpocket](https://github.com/bltavares/pickpocket): Pocket CLI management tools
 * [patrick-petrovic/pickpocket](https://github.com/patrick-petrovic/pickpocket): Pickpocket imports Pocket links to Safari reading list. 
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
