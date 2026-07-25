@@ -2001,6 +2001,7 @@
 * [peci1/mailing-list-filter](https://github.com/peci1/mailing-list-filter): Thunderbird mail filter search term using mailing lists (and not whole addressbooks).
 * [apparition47/MailTrackerBlocker](https://github.com/apparition47/MailTrackerBlocker): Email tracker, read receipt and spy pixel blocker plugin for macOS Mail (10.11-13.x)
 * [Make-md/makemd](https://github.com/Make-md/makemd): None
+* [romainmarcoux/malicious-domains](https://github.com/romainmarcoux/malicious-domains): Aggregation of lists of malicious domains (phishing) that can be integrated into FortiGate firewalls and other products.
 * [objective-see/Malware](https://github.com/objective-see/Malware): macOS Malware Collection
 * [mangtronix/MangTouchBar](https://github.com/mangtronix/MangTouchBar): Minimalist Touch Bar setup
 * [neilsardesai/Manila](https://github.com/neilsardesai/Manila): A Finder extension for changing folder colors
@@ -2431,6 +2432,7 @@
 * [dermesser/photosync](https://github.com/dermesser/photosync): Now that Google deprecated the Photos<->Drive synchronization, I need another way to back up my photos locally. This program downloads all photos from your Google Photos account and organizes them locally. It is not very user friendly yet, but definitely usable
 * [pooja-v-dev/php-drive-s3](https://github.com/pooja-v-dev/php-drive-s3): Read a Google Drive account, list files in a folder and move selected file to S3.
 * [uoftcprg/phs-dataset](https://github.com/uoftcprg/phs-dataset): A dataset of poker hand strengths
+* [Pyenb/Pi-hole-blocklist](https://github.com/Pyenb/Pi-hole-blocklist): A comprehensive blocklist for Pi-hole (or any other service). Updated daily. Around 2.4 million domains.
 * [bltavares/pickpocket](https://github.com/bltavares/pickpocket): Pocket CLI management tools
 * [patrick-petrovic/pickpocket](https://github.com/patrick-petrovic/pickpocket): Pickpocket imports Pocket links to Safari reading list. 
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
@@ -3289,6 +3291,7 @@
 * [beowulf518/textnow-automation](https://github.com/beowulf518/textnow-automation): creating textnow account with temp email
 * [de1etenu11ptr/TGS-Extension](https://github.com/de1etenu11ptr/TGS-Extension): Tab Group Saver (TGS) Extension for firefox that mainly utilizes the bookmarks API to allow for reliable persistence of tab groups.
 * [stonerl/Thaw](https://github.com/stonerl/Thaw): Menu bar manager for macOS 26
+* [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall): 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
 * [passthesh3ll/The-Pika-s-OSINT-ToolBox](https://github.com/passthesh3ll/The-Pika-s-OSINT-ToolBox): A curated list of free OSINT tools ⚡️
 * [balvin-perrie/the-pirate-bay-torrent-search](https://github.com/balvin-perrie/the-pirate-bay-torrent-search): A browser extension to search for magnet links from The Pirate Bay directly from a popup toolbar
 * [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
@@ -3393,6 +3396,7 @@
 * [trockerapp/trocker](https://github.com/trockerapp/trocker): This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
 * [opa334/TrollStore](https://github.com/opa334/TrollStore): Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 * [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch): Gets info from truepeoplesearch.com and adds it to Maltego
+* [phishdestroy/trustname-evidence](https://github.com/phishdestroy/trustname-evidence): Phase II evidence package: complete-zone scan of ICANN registrar #4318 Trustname.com / Fewmoretaps OÜ — 7,641 domains,   86% of active content confirmed malicious.
 * [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel): Modern, fast and obfuscated VPN protocol
 * [syanle/ts-commercials-remover](https://github.com/syanle/ts-commercials-remover): MPEG-TS stream workflow
 * [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): Your self hosted YouTube media server
