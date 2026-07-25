@@ -838,7 +838,6 @@
 * [Aris-t2/CustomizeMyBird](https://github.com/Aris-t2/CustomizeMyBird): Customize Thunderbird 52-60.x (no support for Thunderbird 68+)
 * [Aris-t2/CustomJSforFx](https://github.com/Aris-t2/CustomJSforFx): custom scripts
 * [insidegui/CustomStatusBarWindow](https://github.com/insidegui/CustomStatusBarWindow): Demonstrates a custom NSWindowController that can be attached to a NSStatusItem on macOS.
-* [amitness/cutcode](https://github.com/amitness/cutcode): A browser extension that enables double click to copy code snippet from stack overflow.
 * [juanboro/cync2mqtt](https://github.com/juanboro/cync2mqtt): Bridge Cync bluetooth mesh to mqtt
 * [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights): Home Assistant Integration for controlling Cync switches, plugs, and bulbs
 * [DanaMW/DanaMW.github.io](https://github.com/DanaMW/DanaMW.github.io): None
