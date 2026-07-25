@@ -2729,6 +2729,7 @@
 * [TimoBechtel/raycast-skillset](https://github.com/TimoBechtel/raycast-skillset): Adds skills support to Raycast AI
 * [Vincenzo160/Raycast-Spell](https://github.com/Vincenzo160/Raycast-Spell): Struggling to spell a word? With this Raycast extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API.
 * [Joshlucpoll/raycast-tempmail](https://github.com/Joshlucpoll/raycast-tempmail): A Raycast extension that provides a temporary mailbox -- powered by Mail.tm API
+* [FezVrasta/raycast-toolkit](https://github.com/FezVrasta/raycast-toolkit): Utilities and Components to extend the Raycast Extensions API functionalities
 * [jjcall/raycast-vault-clipper](https://github.com/jjcall/raycast-vault-clipper): Raycast script to clip tweets, YouTube videos,  and web pages to Obsidian w/ AI summaries,  auto-tagging, and no browser extension required.
 * [missuo/raycast2api](https://github.com/missuo/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint
 * [xxxbrian/raycast2api](https://github.com/xxxbrian/raycast2api): Relay your Raycast AI to an OpenAI compatible API endpoint. Deployable to Cloudflare Workers / Docker / Local Binary with Raycast V2 signarure.
