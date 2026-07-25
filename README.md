@@ -2433,7 +2433,7 @@
 * [bltavares/pickpocket](https://github.com/bltavares/pickpocket): Pocket CLI management tools
 * [patrick-petrovic/pickpocket](https://github.com/patrick-petrovic/pickpocket): Pickpocket imports Pocket links to Safari reading list. 
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
-* [crimera/piko](https://github.com/crimera/piko): morphe patches for twitter
+* [crimera/piko](https://github.com/crimera/piko): morphe patches for twitter and instagram
 * [sungshon/PimpMyStremio](https://github.com/sungshon/PimpMyStremio): Local add-on manager for Stremio
 * [bhootd/pin-unpin-tab](https://github.com/bhootd/pin-unpin-tab): Firefox add-on to pin or unpin current tab in more efficient ways.
 * [pinterest/PINCache](https://github.com/pinterest/PINCache): Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
