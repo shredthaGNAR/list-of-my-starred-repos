@@ -1070,6 +1070,7 @@
 * [MobileFirstLLC/extension-cli](https://github.com/MobileFirstLLC/extension-cli): Command line tool for building extensions/add-ons for chromium based browsers.
 * [Pocket/extension-save-to-pocket](https://github.com/Pocket/extension-save-to-pocket): Save to Pocket is a browser extension that is used to save pages to a connected Pocket account
 * [namuorg/extension-starter-kit](https://github.com/namuorg/extension-starter-kit): Starter kit for building Chrome/Firefox extensions
+* [sh2/extension-summarize-translate-gemini](https://github.com/sh2/extension-summarize-translate-gemini): Chrome extension to summarize and translate web pages. Uses Gemini or an OpenAI-compatible API as the backend.
 * [mozilla/extension-workshop](https://github.com/mozilla/extension-workshop): Firefox Extension Workshop
 * [extension-js/extension.js](https://github.com/extension-js/extension.js): The cross-browser extension framework.
 * [chrismessina/extensions](https://github.com/chrismessina/extensions): Everything you need to extend Raycast.
@@ -2181,6 +2182,7 @@
 * [NexAlloy/NexAlloy](https://github.com/NexAlloy/NexAlloy): ChsBuffer's LSPosed module, powered by Morphe, ReVanced, and beyond. (formerly ReVanced Xposed)
 * [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil): OSINT tool for finding profiles by username
 * [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+* [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config): Setup guide for NextDNS, a DoH proxy with advanced capabilities
 * [web-dahuyou/NiceTab](https://github.com/web-dahuyou/NiceTab): 浏览器插件：OneTab、Toby、N-Tab、SessionBuddy、KepTab 等扩展的升级替代品，功能丰富易用 | A nice, convenient, powerful tab manager  serving as an upgraded alternative to OneTab, Toby, SessionBuddy, N-Tab，KepTab...
 * [santiagobaronz/Nickname-Generator](https://github.com/santiagobaronz/Nickname-Generator): The nickname generator is a tool designed to display random names following the parameters given by the user as the gender of the name.
 * [nicoleahmed/nicoles-ublacklist](https://github.com/nicoleahmed/nicoles-ublacklist): Block bad & dangerous search results using uBlacklist. A collection of filter lists for different locales and settings. Additionally Nicole's personal subscription list
