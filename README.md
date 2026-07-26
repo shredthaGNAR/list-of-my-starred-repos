@@ -2257,7 +2257,7 @@
 * [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin): Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 * [esodesod/obsidian-web-clipper-templates](https://github.com/esodesod/obsidian-web-clipper-templates): My collection of Obsidian Web Clipper templates
 * [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export): Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity.
-* [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo): Smart, snappy, and multilingual AI assistant for your vault.
+* [Lapis0x0/obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo): Agent-native AI assistant — chat, write, learning, all in one.
 * [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium): Get Android app updates straight from the source.
 * [rlgrpe/ocr-raycast](https://github.com/rlgrpe/ocr-raycast): macOS OCR screenshot tool with Raycast integration. Uses Vision API for fast multilingual text recognition (uk, ru, en).
 * [DevipriyaSarkar/OCR-Reader](https://github.com/DevipriyaSarkar/OCR-Reader): An Android app to extract text from camera preview directly.
