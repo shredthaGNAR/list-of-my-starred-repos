@@ -1060,7 +1060,7 @@
 * [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner): Cross-platform desktop GUI app to clean image metadata
 * [KhashayarKhm/export-tabs-urls](https://github.com/KhashayarKhm/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
 * [Zabakes/export-tabs-urls](https://github.com/Zabakes/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
-* [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls): https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+* [alct/export-tabs-urls](https://github.com/alct/export-tabs-urls): A Firefox extension to list and filter open tabs, export the result to a file.
 * [clach04/export-tabs-urls-phoenix](https://github.com/clach04/export-tabs-urls-phoenix): Fork of the original Export Tab URLs - for Chrome, Edge, and Firefox with html export and text import (open tab) support
 * [zaksid/ext-duplicate-bookmarks-finder](https://github.com/zaksid/ext-duplicate-bookmarks-finder): Browser extension that allows to find and delete duplicate bookmarks.
 * [crimx/ext-saladict](https://github.com/crimx/ext-saladict): 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
