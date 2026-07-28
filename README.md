@@ -452,7 +452,7 @@
 * [opentizen/bettertouchtool_apple_script](https://github.com/opentizen/bettertouchtool_apple_script): BettertouchTool Used User for AppleScript
 * [ruzcash/BetterTouchTool_Zcash](https://github.com/ruzcash/BetterTouchTool_Zcash): BetterTouchTool JSON presets for crypto and Zcash monitoring, including price widgets, shielded pool stats, and large transaction alerts.
 * [folivoraAI/BetterTouchToolPlugins](https://github.com/folivoraAI/BetterTouchToolPlugins): Development of BetterTouchTool Plugins
-* [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM): Enhancements for YouTube Music and YouTube
+* [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM): Tons of Enhancements for YouTube Music and YouTube
 * [seanpquig/betting-odds-analyzer](https://github.com/seanpquig/betting-odds-analyzer): Analyze sports betting based on historical statistics and current odds
 * [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher): A primitive USB patcher for installing macOS Big Sur on unsupported Macs
 * [macOS26/bigmac](https://github.com/macOS26/bigmac): Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
@@ -2074,6 +2074,7 @@
 * [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick):  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 * [cl3m/MiddleClick](https://github.com/cl3m/MiddleClick): Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse.
 * [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard): Сustom color schemes for all websites
+* [siteplay-ai/minimal](https://github.com/siteplay-ai/minimal): Free template Minimal from siteplay.ai. It contains Next, Nuxt, Astro-vue, Astro-react, react and vue codebase for same template 
 * [mut-ex/minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox): A minimal, yet functional Firefox userChrome configuration.
 * [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes): :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 * [tortious/MintyFox](https://github.com/tortious/MintyFox): Customization of Firefox Quantum using userChrome, userContent, and various other files involving the userChrome.js hack that allows for uc.js docs to be incorporated. 
@@ -3250,7 +3251,7 @@
 * [menhera-org/TabArray](https://github.com/menhera-org/TabArray): Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 * [Bill13579/tabby](https://github.com/Bill13579/tabby): A web extension for managing great amounts of windows and tabs at ease.
 * [TabbyML/tabby](https://github.com/TabbyML/tabby): Self-hosted AI coding assistant
-* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+* [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * [jakob/TableTool](https://github.com/jakob/TableTool): A simple CSV editor for the Mac
 * [lbragile/TabMerger](https://github.com/lbragile/TabMerger): TabMerger is a cross-browser extension that stores your tabs in a single place to save memory usage and increase your productivity.
 * [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus): New Tab mix plus for modern Firefox
