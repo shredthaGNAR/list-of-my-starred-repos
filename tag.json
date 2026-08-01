@@ -3326,6 +3326,9 @@
     "anewuser/firefox-clean-dark-theme": [
         "Other"
     ],
+    "anilbeesetti/nextplayer": [
+        "Other"
+    ],
     "anishathalye/dotbot": [
         "Other"
     ],
@@ -4212,6 +4215,12 @@
         "Other"
     ],
     "collinbarrett/FilterLists": [
+        "Other"
+    ],
+    "community-archive/obsidian-style-settings": [
+        "Other"
+    ],
+    "community-archive/web-clipper-templates": [
         "Other"
     ],
     "conema/monterail-dark": [
@@ -8136,12 +8145,6 @@
         "Other"
     ],
     "objective-see/ProcessMonitor": [
-        "Other"
-    ],
-    "obsidian-community/obsidian-style-settings": [
-        "Other"
-    ],
-    "obsidian-community/web-clipper-templates": [
         "Other"
     ],
     "obsidianmd/obsidian-clipper": [
