@@ -3653,7 +3653,6 @@
 * [ReVanced/where-is-revanced-patches](https://github.com/ReVanced/where-is-revanced-patches): https://gitlab.com/revanced/revanced-patches
 * [Jay-Karia/wherewasi](https://github.com/Jay-Karia/wherewasi): Chrome extension that remembers your search sessions and captures context.
 * [vinceliuice/WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme): Mac OS Safari theme for Firefox on Linux
-* [FirefoxCSSThemers/WhiteSur-FirefoxTheme](https://github.com/FirefoxCSSThemers/WhiteSur-FirefoxTheme): A Firefox theme made by Agnihotra Nath, to simulate Safari on macOS Big Sur 11. Works best on Proton.
 * [AdamXweb/WhiteSurFirefoxThemeMacOS](https://github.com/AdamXweb/WhiteSurFirefoxThemeMacOS): MacOS Big Sur like theme for Firefox on MacOS & Windows. Make your Firefox look like Safari.
 * [aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork](https://github.com/aprilmaccydee/WhiteSurFirefoxThemeMacOS-Fork): None
 * [ATechnocratis/widefox](https://github.com/ATechnocratis/widefox): A wide screen friendly browser
