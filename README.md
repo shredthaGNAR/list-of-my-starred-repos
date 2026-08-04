@@ -3757,7 +3757,7 @@
 * [rupa/z](https://github.com/rupa/z): z - jump around
 * [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP by Checkmarx Core project
 * [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme): party like it's firefox 87!
-* [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors): 🌈 Generate a theme for git, grep, less and zsh that matches your $LS_COLORS
+* [marlonrichert/zcolors](https://github.com/marlonrichert/zcolors): 🌈 Generate a single, coherent theme for ls, git, grep, less and zsh
 * [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir): My zsh config
 * [zbrateam/Zebra](https://github.com/zbrateam/Zebra): 🦓 A Useful Package Manager for iOS
 * [zed-industries/zed](https://github.com/zed-industries/zed): Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
