@@ -1305,7 +1305,6 @@
 * [prabunagrajan/free-design-resources](https://github.com/prabunagrajan/free-design-resources): A collection of websites for free UI design materials for Sketch, Adobe XD, Figma, and other design tools.
 * [LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks): Freely bookmark export tool. 自由地书签导出工具。
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-* [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources): A list of free LLM inference resources accessible via API.
 * [jamesjingyi/free-mac-apps](https://github.com/jamesjingyi/free-mac-apps): A list of apps I use on my MacBook
 * [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list): 🚀 Free HTTP, SOCKS4, & SOCKS5 proxy list * Updated every 5 minutes * and rotating proxy API (100+ countries)
 * [psugihara/FreeChat](https://github.com/psugihara/FreeChat): llama.cpp based AI chat app for macOS
