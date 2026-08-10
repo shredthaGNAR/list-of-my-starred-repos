@@ -2943,6 +2943,7 @@
 * [thcolin/sensorr](https://github.com/thcolin/sensorr): 🍿📼 Sensorr - Your Friendly Digital Video Recorder
 * [alienator88/Sentinel](https://github.com/alienator88/Sentinel): Configure Gatekeeper, remove apps from quarantine and self-sign apps
 * [umbrae/Serendipity](https://github.com/umbrae/Serendipity): /r/serendipity is a meta-subreddit meant to broaden the perspective of its subscribers. It takes a popular entry from a random subreddit and posts it every few hours. If you want to increase your exposure to niche subreddits, or just your perspective on things on the web in general, serendipity might help you do that. But it might not. It's a bot, after all.
+* [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): Model Context Protocol Servers
 * [LeeluPradhan/Service-accounts-seperator-AutoRclone](https://github.com/LeeluPradhan/Service-accounts-seperator-AutoRclone): To split google service accounts after 10 accounts, to add in google group easily and use autorclone!
 * [knurling/ServiceStation](https://github.com/knurling/ServiceStation): Service Station
 * [tjluoma/servicestationscripts](https://github.com/tjluoma/servicestationscripts): Scripts to be used with the macOS App Service Station
