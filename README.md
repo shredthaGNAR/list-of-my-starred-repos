@@ -328,6 +328,7 @@
 * [wangbing1416/Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection): An awesome paper list of fake news detection (FND) and rumor detection.
 * [Drovosek01/awesome-files-hostings](https://github.com/Drovosek01/awesome-files-hostings): List and comparison of services for publishing and sharing files on the Internet
 * [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
+* [open-free-llm-api/awesome-freellm-apis](https://github.com/open-free-llm-api/awesome-freellm-apis): 134+ free LLM APIs & AI API keys from 40+ providers. Google Gemini, NVIDIA NIM, Groq, OpenRouter & more. One-click setup for Claude Code, Cursor and Codex.
 * [prayash/awesome-gatsby](https://github.com/prayash/awesome-gatsby): ⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.
 * [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini): A collection of awesome things regarding the gemini protocol ecosystem.
 * [AbdooMohamedd/Awesome-Gemini-Apps](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps): A curated list of projects powered by the Google Gemini API. Explore innovative applications and ideas from the Gemini API competition that showcase the capabilities of Gemini technology.
