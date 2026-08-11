@@ -2077,7 +2077,7 @@
 * [miromannino/miro-windows-manager](https://github.com/miromannino/miro-windows-manager): Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX
 * [liamengland1/miscfilters](https://github.com/liamengland1/miscfilters): None
 * [ninxsoft/Mist](https://github.com/ninxsoft/Mist): A Mac utility that automatically downloads macOS Firmwares / Installers.
-* [mjmlio/mjml](https://github.com/mjmlio/mjml): MJML: the only framework that makes responsive-email easy
+* [mjmlio/mjml](https://github.com/mjmlio/mjml): MJML: the only framework that makes responsive email easy
 * [mjmlio/mjml-app](https://github.com/mjmlio/mjml-app): :email: The desktop app for MJML
 * [BenikaH/mlb-odds-scraper](https://github.com/BenikaH/mlb-odds-scraper): MLB Odds Scraper
 * [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter): Minimal Mistakes GitHub Pages site starter.
