@@ -3353,7 +3353,7 @@
 * [PierreLebedel/ThunderbirdLargerMessageList](https://github.com/PierreLebedel/ThunderbirdLargerMessageList): Thunderbird extension that enlarges the display of the message list, and the folder tree view too
 * [eromatiya/thunderblurred](https://github.com/eromatiya/thunderblurred): A theme for Thunderbird
 * [cleidigh/ThunderKdB](https://github.com/cleidigh/ThunderKdB): Thunderbird Addon Code Knowledge Base
-* [networkException/thundersort](https://github.com/networkException/thundersort): Sort incoming mails based on recipient slug
+* [networkException/thundersort](https://github.com/networkException/thundersort): Sort Thunderbird mails with regex
 * [cleidigh/ThunderStorm](https://github.com/cleidigh/ThunderStorm): Tips, Tricks & Examples for Thunderbird E-mail New Add-On Development
 * [snchong/thunderthings](https://github.com/snchong/thunderthings): Integration between Thunderbird and Cultured Code's Things on macOS
 * [Darkcast/tids](https://github.com/Darkcast/tids): Automate Touch ID for sudo commands directly in your macOS terminal! Gain secure fingerprint authentication for elevated privileges, effectively replacing passwords and boosting your command-line security.
