@@ -3113,7 +3113,7 @@
 * [akarlsten/snazzy-plus](https://github.com/akarlsten/snazzy-plus): VS Code color theme
 * [snthcy/snazzy-vscode](https://github.com/snthcy/snazzy-vscode): A snazzy looking theme for Visual Studio Code.
 * [Bebrowskiy/Sniffle](https://github.com/Bebrowskiy/Sniffle): Feel like a real spy with Sniffle! A powerful set of tools for OSINT that makes data mining fast and fun. Everything you need to analyze is now at your fingertips - easy and hassle-free!
-* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): Comfortably monitor your Internet traffic 🕵️‍♂️
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): Comfortably monitor your network traffic 🕵️‍♂️
 * [gocomet/snippets](https://github.com/gocomet/snippets): A collection of code snippets, generally for use with Shopify
 * [JustAnotherArchivist/snscrape](https://github.com/JustAnotherArchivist/snscrape): A social networking service scraper in Python
 * [Nick-Gottschlich/Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia): Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from "that phase" 5 years ago.
