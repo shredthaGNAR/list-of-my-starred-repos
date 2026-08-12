@@ -1525,6 +1525,7 @@
 * [vitalif/grive2](https://github.com/vitalif/grive2): Google Drive client with support for new Drive REST API and partial sync
 * [tardisx/gropple](https://github.com/tardisx/gropple): Server and bookmarklet to download files via youtube-dl directly from your browser. Cross platform single binary installation, web browser configurable.
 * [xslhub/gruvbox-gnomeish-firefox-theme](https://github.com/xslhub/gruvbox-gnomeish-firefox-theme): A minimal Firefox theme inspired by the aesthetics of Gruvbox and GNOME.
+* [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core): Git. Ship. Done - Core
 * [arkenfox/gui](https://github.com/arkenfox/gui): A companion gui for arkenfox user.js
 * [samfromaway/Gulp-Boilerplate01](https://github.com/samfromaway/Gulp-Boilerplate01): Boilerplate for a Gulp-Workflow for a Youtube video. If you are lazy like me and are always on the watch out of how you can optimize your workflow especially in regards to deploying a HTML CSS Javascript website this boilerplate is for you. 
 * [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify): Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI.
@@ -2196,6 +2197,7 @@
 * [nghtfall/nightfall-vsc](https://github.com/nghtfall/nightfall-vsc): a blue-ish gray with a purple accent color palette for Visual Studio Code.
 * [chvancooten/NimPackt-v1](https://github.com/chvancooten/NimPackt-v1): Nim-based assembly packer and shellcode loader for opsec & profit
 * [nixgates/nixgates](https://github.com/nixgates/nixgates): Repository for Kodi Addons
+* [zebbern/no-cost-ai](https://github.com/zebbern/no-cost-ai): 80+ free AI services for chat, image, video, voice & APIs (may sometimes include access to lead gen ai models for free)
 * [calibr/node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser): Parses Firefox/Chrome HTML bookmarks files
 * [alex-phillips/node-clouddrive](https://github.com/alex-phillips/node-clouddrive): Node SDK and CLI for Amazon's Cloud Drive
 * [Bellisario/node-snapdrop](https://github.com/Bellisario/node-snapdrop): Node.js version of the original Snapdrop
