@@ -2842,7 +2842,7 @@
 * [shredthaGNAR/reveal-md](https://github.com/shredthaGNAR/reveal-md): None
 * [gaerfield/reveal-md-github-pages](https://github.com/gaerfield/reveal-md-github-pages): Automatically deploys reveal-md presentations to github-pages
 * [Crimson7research/ReverseEngineering-AI](https://github.com/Crimson7research/ReverseEngineering-AI): None
-* [YT-Advanced/ReX-patches](https://github.com/YT-Advanced/ReX-patches): 🧩 Patches for ReVanced
+* [fromhgbwithluv/ReX-patches](https://github.com/fromhgbwithluv/ReX-patches): 🧩 Patches for ReVanced
 * [timonus/Rhea](https://github.com/timonus/Rhea): A Mac status bar app for quickly sharing files and links.
 * [ricocc/ricoui-astro-starter](https://github.com/ricocc/ricoui-astro-starter): Astro Starter template
 * [garywill/right-click-tab-close](https://github.com/garywill/right-click-tab-close): Firefox close tab by right clicking on tab button ,userchrome script  🖱️
