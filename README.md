@@ -1436,6 +1436,7 @@
 * [gorse-io/gitrec](https://github.com/gorse-io/gitrec): A recommender system for GitHub repositories based on Gorse provides personalized recommendations and similar repositories 
 * [to-ie/gitswitch](https://github.com/to-ie/gitswitch): This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis.  
 * [k0src/GitSync](https://github.com/k0src/GitSync): Sync Firefox windows, tabs, and tab groups via GitHub
+* [d0dg3r/GitSyncMarks](https://github.com/d0dg3r/GitSyncMarks): Browser extension for bidirectional bookmark sync with Git (GitHub, GitLab, Codeberg, Gitea & more). One JSON file per bookmark, three-way merge, auto-sync, multiple profiles. Chrome & Firefox & Companion App. Linkwarden, Smart Search. Add via Git, CLI, or Actions. No middleman.
 * [aritrakrbasu/gitty](https://github.com/aritrakrbasu/gitty): Gitty is a handy tool that will instantly transform your github account to a presentable portfolio website that you can share. 
 * [gitx/gitx](https://github.com/gitx/gitx): The best fork of the best lightweight, visual git client for macOS.
 * [KinoLien/gitzip](https://github.com/KinoLien/gitzip): It can make sub-folder/sub-directory of github repository as zip and download it.
