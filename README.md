@@ -2090,6 +2090,7 @@
 * [inotia00/mMicroG](https://github.com/inotia00/mMicroG): None
 * [thebaer/MMRA](https://github.com/thebaer/MMRA): Make Medium Readable Again — a browser extension
 * [eshelman/MnemonicForge-raycast](https://github.com/eshelman/MnemonicForge-raycast): Fast, customizable, and parameterized AI prompts within Raycast
+* [theapplegates/modern-mac-kleopatra](https://github.com/theapplegates/modern-mac-kleopatra): A Mac version for Kleopatra. 
 * [ScanuNicco/Modern-ThunderBird](https://github.com/ScanuNicco/Modern-ThunderBird): A userChrome.css theme to make thunderbird resemble Firefox 89+
 * [keith/ModMove](https://github.com/keith/ModMove): Move/Resize windows using modifiers and the mouse
 * [charmbracelet/mods](https://github.com/charmbracelet/mods): AI on the command line
