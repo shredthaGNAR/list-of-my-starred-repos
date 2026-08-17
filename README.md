@@ -260,6 +260,7 @@
 * [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro): Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.
 * [immois/astro-zen](https://github.com/immois/astro-zen): Minimalist, accessible and SEO-optimized personal portfolio website template.
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
+* [denv17/astrolify](https://github.com/denv17/astrolify): None
 * [zeon-studio/astroplate](https://github.com/zeon-studio/astroplate): Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!
 * [shredthaGNAR/astroship](https://github.com/shredthaGNAR/astroship): None
 * [surjithctly/astroship](https://github.com/surjithctly/astroship): Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
