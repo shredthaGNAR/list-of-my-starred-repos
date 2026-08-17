@@ -2629,6 +2629,7 @@
 * [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists): A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 * [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 * [GetPublii/Publii](https://github.com/GetPublii/Publii): The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+* [cbetz/pulsar-lite](https://github.com/cbetz/pulsar-lite): Free dark landing-page + blog theme for devtool companies. Astro 6 + Tailwind 4, no UI frameworks.
 * [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): JavaScript API for Chrome and Firefox
 * [sindresorhus/pure](https://github.com/sindresorhus/pure): Pretty, minimal and fast ZSH prompt
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
