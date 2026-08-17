@@ -1198,7 +1198,7 @@
 * [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-): Light theme on Firefox 
 * [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar): macOS Native-looking Translucent Tabbar for Firefox
 * [jeremyperkin/Firefox-macOS-setup](https://github.com/jeremyperkin/Firefox-macOS-setup): userChrome.css and userContent.css files.
-* [D3SOX/firefox-minimal-compact-css](https://github.com/D3SOX/firefox-minimal-compact-css): My personal Firefox theme based on Sidebery and CSS hacks - Inspired by Zen
+* [D3SOX/firefox-minimal-compact-css](https://github.com/D3SOX/firefox-minimal-compact-css): 🧘 My personal Firefox theme based on Sidebery and CSS hacks - Inspired by Zen
 * [datttran/Firefox-mod](https://github.com/datttran/Firefox-mod): None
 * [Alan-Kuan/Firefox-Mod-Blur](https://github.com/Alan-Kuan/Firefox-Mod-Blur): A Fork with an Installer for "Firefox Mod Blur - Modular"
 * [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur): Firefox CSS Theme - Dark theme / More compact / Modular / Blur
