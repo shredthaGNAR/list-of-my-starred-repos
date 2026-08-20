@@ -301,6 +301,7 @@
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3): A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 * [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents
+* [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools): A curated list of AI-powered coding tools
 * [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools): A curated list of Artificial Intelligence Top Tools
 * [tankvn/awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools): A curated list of 7766 awesome AI tools
 * [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search): List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search
