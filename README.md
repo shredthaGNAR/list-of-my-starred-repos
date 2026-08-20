@@ -1335,6 +1335,7 @@
 * [MrOtherGuy/fx-nightly-changelog](https://github.com/MrOtherGuy/fx-nightly-changelog): Generated list of daily bug fixes
 * [hensm/fx_cast](https://github.com/hensm/fx_cast): Chromecast Web Sender SDK implementation for Firefox
 * [MrOtherGuy/FxChromeViewer](https://github.com/MrOtherGuy/FxChromeViewer): None
+* [AdamXweb/fxcss](https://github.com/AdamXweb/fxcss): 🦊 Live-reload, inspect and screenshot-test Firefox userChrome.css themes
 * [johannjhang/fz.sh](https://github.com/johannjhang/fz.sh): Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 * [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 * [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab): Replace zsh's default completion selection menu with fzf!
