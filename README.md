@@ -3139,6 +3139,7 @@
 * [chris1111/Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer): Command Line script to download Install macOS
 * [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr): Smart PVR for newsgroup and bittorrent users.
 * [semvis123/Sonitus](https://github.com/semvis123/Sonitus): Noise-control like native, but for non-Apple devices
+* [MartianLee/sontab](https://github.com/MartianLee/sontab): A lightweight, OneTab-style tab manager for Chrome. Local-only, no tracking.
 * [sooti/sootio-stremio-addon](https://github.com/sooti/sootio-stremio-addon): Stremio Addon to search downloads and torrents in your Debrid cloud
 * [SortableJS/Sortable](https://github.com/SortableJS/Sortable): Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 * [pesc101/SortRobot](https://github.com/pesc101/SortRobot): Python script to sort the mac download dir automatially
