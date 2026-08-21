@@ -1197,7 +1197,6 @@
 * [SophieFitz/Firefox-History-Combiner](https://github.com/SophieFitz/Firefox-History-Combiner): 🚀 A blazing fast and efficient tool with GUI to combine multiple Firefox history databases together!
 * [nicolasspaniol/firefox-invert-dark-favicons](https://github.com/nicolasspaniol/firefox-invert-dark-favicons): Firefox addon that inverts the colors of dark favicons so that they are visible under black backgrounds
 * [pratyushtewari/firefox-like-chrome](https://github.com/pratyushtewari/firefox-like-chrome): This is the userChrome.css that can be used to theme Firfox Quantum 59.0 to look like chrome
-* [eko5/Firefox-Mac-os-X-](https://github.com/eko5/Firefox-Mac-os-X-): Light theme on Firefox 
 * [zvuc/firefox-macos-native-tabbar](https://github.com/zvuc/firefox-macos-native-tabbar): macOS Native-looking Translucent Tabbar for Firefox
 * [jeremyperkin/Firefox-macOS-setup](https://github.com/jeremyperkin/Firefox-macOS-setup): userChrome.css and userContent.css files.
 * [D3SOX/firefox-minimal-compact-css](https://github.com/D3SOX/firefox-minimal-compact-css): 🧘 My personal Firefox theme based on Sidebery and CSS hacks - Inspired by Zen
