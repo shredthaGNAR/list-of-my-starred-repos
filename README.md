@@ -613,6 +613,7 @@
 * [mattlag/California-Gothic](https://github.com/mattlag/California-Gothic): A typeface for California vexillographers 
 * [Neil-Lal/California-Lotto-Scratchers-EV](https://github.com/Neil-Lal/California-Lotto-Scratchers-EV): This project is to pull data from the California lotto website into a local MSSQL server.  This data is used to calculate and report on the EV of each lotto ticket.  The goal is to make statistically "smart" scratcher purchases.
 * [NessieCanCode/California-State-Lottery-API](https://github.com/NessieCanCode/California-State-Lottery-API): AWS Lambda Function for custom API for IFTTT & LaMetric, this pulls results for various "Draw Games" from California State's Lottery API.
+* [elonmust26/calmtab](https://github.com/elonmust26/calmtab): Save & restore your browser tabs as named sessions — without closing them. Restore all or just a few, auto-backup, 100% local. A calmer alternative to OneTab & Session Buddy.
 * [Protovision/calottery-scratchers](https://github.com/Protovision/calottery-scratchers): Web scraper for california lottery scratchers
 * [babldev/camera-cli](https://github.com/babldev/camera-cli): Configure your webcam via the command line
 * [itaybre/CameraController](https://github.com/itaybre/CameraController): 📷 Control USB Cameras from an app
@@ -2302,6 +2303,7 @@
 * [AltarBeastiful/onetab](https://github.com/AltarBeastiful/onetab): Onetab extension unofuscated with a few keyboard shortcuts added.
 * [Sumit07p/ONETAB](https://github.com/Sumit07p/ONETAB): None
 * [svarts/OneTab](https://github.com/svarts/OneTab): OneTab is a chrome extension that transforms all open tabs into a single list for better organization and reduced memory usage. Ideal for heavy tab users, it allows easy access and efficient management of tabs with options for sharing and backup.
+* [virendrasingh02/onetab-ai](https://github.com/virendrasingh02/onetab-ai): None
 * [ikki4/OneTab-Backup](https://github.com/ikki4/OneTab-Backup): Python script to backup your OneTab data. Can be scheduled with Windows' Task Scheduler to run automatically.
 * [busyxiang/OneTab-Backup-Automation](https://github.com/busyxiang/OneTab-Backup-Automation): Automated Python Script to backup your OneTab data
 * [ikki4/OneTab-Backup-Automation](https://github.com/ikki4/OneTab-Backup-Automation): Automated Python Script to backup your OneTab data
@@ -2324,6 +2326,7 @@
 * [eskutcheon/OnetabAutosorter](https://github.com/eskutcheon/OnetabAutosorter): tool I wrote in a day or two awhile back using KeyBERT to parse groups of Onetab tabs after parsing the full set from HTML; extensions will allow clustering of bookmarks by topic (using additional data from webscraping) and output to a new `bookmarks.html` file
 * [Enan01/OneTabClear](https://github.com/Enan01/OneTabClear): Quickly clear OneTab tag group.
 * [hy4101/OneTabPro](https://github.com/hy4101/OneTabPro): Save up to 95% of memory and reduce label clutter \n When you find yourself with too many tabs, click the OneTab Pro icon to convert all the tabs into a list. You can restore it or delete it. \n\n Privacy protection \n\n \n\n Information about your tag will never be transmitted or revealed to OneTab Pro developers the tag will never be shared.
+* [jclyke/OneTabScrape](https://github.com/jclyke/OneTabScrape): None
 * [yegor-pelykh/OnHand](https://github.com/yegor-pelykh/OnHand): An open source browser extension to save your favorite bookmarks on a "new tab" page.
 * [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch): ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 * [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx): Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -2968,6 +2971,7 @@
 * [oxen-io/session-android](https://github.com/oxen-io/session-android): Session Android - Onion routing based messenger [DEPRECATED SEE README]
 * [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop): Session Desktop - Onion routing based messenger [DEPRECATED SEE README]
 * [fanesz/session-switcher](https://github.com/fanesz/session-switcher): A Browser extension for switching login sessions with ease
+* [dublyo/sessionat](https://github.com/dublyo/sessionat): The open-source Mac browser AI can actually use. Workspaces, auto-saved sessions (replaces Session Buddy/OneTab/Toby), local-only visit analytics, and a built-in MCP server so Claude, Cursor, and any AI agent can drive your real browser. MIT-licensed.
 * [Ulf3000/sessionBuddy](https://github.com/Ulf3000/sessionBuddy): simple session manager for firefox using the internal sessionstore api
 * [navorite/sessionic](https://github.com/navorite/sessionic): A web extension to save, manage and restore sessions, windows and tabs.
 * [AlexPerathoner/Sessions](https://github.com/AlexPerathoner/Sessions): Safari extension to save your working sessions
@@ -3187,6 +3191,7 @@
 * [maizzle/starter-gradients](https://github.com/maizzle/starter-gradients): Use CSS background gradients in HTML emails, with VML fallback for Outlook.
 * [maizzle/starter-markdown](https://github.com/maizzle/starter-markdown): Generate HTML emails from Markdown files
 * [actions/starter-workflows](https://github.com/actions/starter-workflows): Accelerating new GitHub Actions workflows 
+* [sudoeren/stash](https://github.com/sudoeren/stash): Your Tabs, Organized. Effortlessly.
 * [thedevdojo/static](https://github.com/thedevdojo/static): ⚡️ The ultimate static site generator. Tailor-made for killer blogs, sizzling SaaS landings, audacious personal sites, and every web fantasy you dare to dream up.
 * [WeinbM/static-marks](https://github.com/WeinbM/static-marks): Shareable bookmarks
 * [darekkay/static-marks](https://github.com/darekkay/static-marks): Shareable bookmarks
@@ -3258,7 +3263,6 @@
 * [Lej77/tab-count-in-window-title](https://github.com/Lej77/tab-count-in-window-title): None
 * [117649/Tab-Groups](https://github.com/117649/Tab-Groups): Reimplementation of Firefox Tab Groups as an add-on.
 * [cdzombak/tab-lists-ext](https://github.com/cdzombak/tab-lists-ext): Send a tab list from the current window to the Things to-do app or to the clipboard.
-* [xatier/tab-manager](https://github.com/xatier/tab-manager): Simple OneTab replacement
 * [stefanXO/Tab-Manager-Plus](https://github.com/stefanXO/Tab-Manager-Plus): An updated and improved Chrome and Firefox extension of the old google chrome extension "Tab Manager". 
 * [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2): Search, group, move, and clean up tabs across browser windows with a keyboard-first workflow
 * [wildskyf/tab-notes](https://github.com/wildskyf/tab-notes): Browser Add-on: Allow you to write anything in new tab
