@@ -298,7 +298,7 @@
 * [sbmpost/AutoRaise](https://github.com/sbmpost/AutoRaise): AutoRaise (and focus) a window when hovering over it with the mouse
 * [Josua996/AutoTag](https://github.com/Josua996/AutoTag): A Thunderbird Add-on that automatically tag emails based on the sender address 🤖🏷
 * [tamcore/autoupdate-oh-my-zsh-plugins](https://github.com/tamcore/autoupdate-oh-my-zsh-plugins): Plugin for oh-my-zsh to automatically update custom-plugins
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 * [robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3): A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 * [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents
 * [ai-for-developers/awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools): A curated list of AI-powered coding tools
