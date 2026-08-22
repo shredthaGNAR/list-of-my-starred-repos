@@ -370,6 +370,7 @@
 * [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
 * [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents): 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 * [weisser-dev/awesome-opencode](https://github.com/weisser-dev/awesome-opencode): 108 agents, 15 skills, smart model config, and interactive CLI for OpenCode — npx @weisser-dev/awesome-opencode
+* [OpenRouterTeam/awesome-openrouter](https://github.com/OpenRouterTeam/awesome-openrouter): Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint): :scream: A curated list of amazingly awesome OSINT
 * [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List): 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
 * [lorien/awesome-pastebins](https://github.com/lorien/awesome-pastebins): List of pastebin services
