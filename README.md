@@ -3797,7 +3797,7 @@
 * [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search): 🐠 ZSH port of Fish history search (up arrow)
 * [johannjhang/zsh-interactive-cd](https://github.com/johannjhang/zsh-interactive-cd): Fish like interactive tab completion for cd in zsh
 * [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad): 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
-* [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions): Worlds largest collection of zsh completions
+* [MenkeTechnologies/zsh-more-completions](https://github.com/MenkeTechnologies/zsh-more-completions): Curated zsh completion corpus
 * [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm): Zsh plugin for installing, updating and loading nvm
 * [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit): A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 * [agkozak/zsh-z](https://github.com/agkozak/zsh-z): Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
