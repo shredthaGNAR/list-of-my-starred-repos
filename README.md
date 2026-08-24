@@ -2189,7 +2189,7 @@
 * [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): RSS reader for macOS and iOS.
 * [PhilippMatthes/neural-greenscreen](https://github.com/PhilippMatthes/neural-greenscreen): Real time background replacement on a mac os driven webcam using the DeepLabV3 neural network for image segmentation and the native CoreMediaIO DAL framework of Mac OS.
 * [synapp009/NeuroCalm](https://github.com/synapp009/NeuroCalm): Vagus nerve stimulator with vibration of the smartphone pressed on the cymba conchae of the left ear
-* [QuantumNous/new-api](https://github.com/QuantumNous/new-api): A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
+* [QuantumNous/new-api](https://github.com/QuantumNous/new-api): A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
 * [WesleyBranton/New-Browser-Style](https://github.com/WesleyBranton/New-Browser-Style): A replacement for Firefox's builtin browser style CSS
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android.
 * [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe): A fork of NewPipe with SponsorBlock functionality.
