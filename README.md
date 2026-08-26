@@ -1939,7 +1939,7 @@
 * [Feng6611/mac-command-reopen](https://github.com/Feng6611/mac-command-reopen): Reopen closed & minimized windows with Command+Tab
 * [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook): Mac setup and configuration via Ansible.
 * [michaelschwobe/mac-dev-setup](https://github.com/michaelschwobe/mac-dev-setup): A macOS setup guide specific to front-end development.
-* [andrewpetrochenkov/mac-finder](https://github.com/andrewpetrochenkov/mac-finder): :apple: macOS Finder scripts
+* [petrochenkov-ak/mac-finder](https://github.com/petrochenkov-ak/mac-finder): :apple: macOS Finder scripts
 * [eth-p/mac-icons](https://github.com/eth-p/mac-icons): An assortment of custom MacOS folder icons, editable without Adobe products.
 * [zhuochun/mac-keyboard](https://github.com/zhuochun/mac-keyboard): 🎹 Keyboard Enhancements for Mac
 * [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix): Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
