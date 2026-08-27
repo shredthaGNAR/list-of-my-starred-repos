@@ -1438,7 +1438,7 @@
 * [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 * [coderamp-labs/gitingest-extension](https://github.com/coderamp-labs/gitingest-extension): ✨ A extension can help you open git ingest to turn any git repository into a prompt-friendly text ingest for LLMs.
 * [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal): Mobile first Note Taking integrated with Git
-* [arifszn/gitprofile](https://github.com/arifszn/gitprofile): 🚀 Create and publish a dynamic portfolio by just providing your GitHub username.
+* [arifszn/gitprofile](https://github.com/arifszn/gitprofile): 🚀 Create and publish a GitHub-synced portfolio by just providing your GitHub username.
 * [gorse-io/gitrec](https://github.com/gorse-io/gitrec): A recommender system for GitHub repositories based on Gorse provides personalized recommendations and similar repositories 
 * [to-ie/gitswitch](https://github.com/to-ie/gitswitch): This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis.  
 * [k0src/GitSync](https://github.com/k0src/GitSync): Sync Firefox windows, tabs, and tab groups via GitHub
