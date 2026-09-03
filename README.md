@@ -2353,7 +2353,7 @@
 * [deboorn/openai-improve-text-extension](https://github.com/deboorn/openai-improve-text-extension): Chrome extension that elevates your writing using OpenAI's AI models. Simply select text on any webpage, use our lightning-fast keyboard shortcuts or right-click menu, and choose from five powerful improvement modes to instantly transform your writing.
 * [XInTheDark/openai-to-ollama-api](https://github.com/XInTheDark/openai-to-ollama-api): A simple, lightweight OpenAI to Ollama API adapter
 * [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-* [openclaw/openclaw](https://github.com/openclaw/openclaw): Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+* [openclaw/openclaw](https://github.com/openclaw/openclaw): The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 * [xiaotiyanlove-star/OpenClawForRaycast](https://github.com/xiaotiyanlove-star/OpenClawForRaycast): The official OpenClaw Gateway client for Raycast. Seamless, secure, and blazing fast AI chat.
 * [anomalyco/opencode](https://github.com/anomalyco/opencode): The open source coding agent.
 * [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher): Experience macOS just like before
