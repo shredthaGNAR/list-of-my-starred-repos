@@ -264,7 +264,7 @@
 * [shredthaGNAR/astroship](https://github.com/shredthaGNAR/astroship): None
 * [surjithctly/astroship](https://github.com/surjithctly/astroship): Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 * [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind): ⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.
-* [Zenlua/AT-YT](https://github.com/Zenlua/AT-YT): Tool build YouTube revanced mods auto.
+* [Kakathic/AT-YT](https://github.com/Kakathic/AT-YT): Tool build YouTube revanced mods auto.
 * [atom/atom](https://github.com/atom/atom): :atom: The hackable text editor
 * [Hann8n/Atom-for-Firefox](https://github.com/Hann8n/Atom-for-Firefox): Restores UI to default settings but keeps the translucency effects of FluidFox for MacOS
 * [nathanbuchar/atom-one-dark-terminal](https://github.com/nathanbuchar/atom-one-dark-terminal): A Terminal theme that mimics the One Dark theme made by the Atom team.
