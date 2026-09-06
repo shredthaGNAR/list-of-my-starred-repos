@@ -169,7 +169,7 @@
 * [TroopJostle/alt-tab-community](https://github.com/TroopJostle/alt-tab-community): Windows alt-tab on macOS 
 * [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS 
 * [steventheworker/alt-tab-macos](https://github.com/steventheworker/alt-tab-macos): AltTab - scriptable branch
-* [javi11/altmount](https://github.com/javi11/altmount): usenet virtual fs
+* [kipsilabs/altmount](https://github.com/kipsilabs/altmount): usenet virtual fs
 * [altstoreio/AltStore](https://github.com/altstoreio/AltStore): AltStore is an alternative app store for non-jailbroken iOS devices.
 * [ryanpcmcquen/amatron](https://github.com/ryanpcmcquen/amatron): A cross-platform electron Amazon Cloud Drive app.
 * [BoolenBread/Amazon-Drive-Video-Stream-API](https://github.com/BoolenBread/Amazon-Drive-Video-Stream-API): Grabs direct mp4 link from amazon drive with filename and picture.
@@ -467,7 +467,7 @@
 * [3j14/bitwarden-menubar](https://github.com/3j14/bitwarden-menubar): Bitwarden in the macOS menu bar
 * [eliasfloreteng/bitwarden_find_duplicates](https://github.com/eliasfloreteng/bitwarden_find_duplicates): Find duplicate logins based on domain, from Bitwarden export. Open source for your safety.
 * [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh): 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
-* [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird): An OSINT tool to search for accounts by username and email in social networks.
+* [antoniaci/blackbird](https://github.com/antoniaci/blackbird): An OSINT tool to search for accounts by username and email in social networks.
 * [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts): List of free GPTs that doesn't require plus subscription 
 * [danielmiessler/blackhat-arsenal-tools](https://github.com/danielmiessler/blackhat-arsenal-tools): Official Black Hat Arsenal Security Tools Repository
 * [jmadden12/blackjack-bs-trainer](https://github.com/jmadden12/blackjack-bs-trainer): None
