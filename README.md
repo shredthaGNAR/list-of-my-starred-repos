@@ -824,7 +824,6 @@
 * [superkhau/curcon](https://github.com/superkhau/curcon): Command-line tool for converting currencies using Open Exchange Rates.
 * [dblandin/Currency-Converter](https://github.com/dblandin/Currency-Converter): Currency Converter written in Javascript using jQuery and the Open Source Exchange Rates API
 * [skibitsky/current-task](https://github.com/skibitsky/current-task): 🗻 This utility allows me to focus on one task at a time.
-* [criimera/cursor-unlimited](https://github.com/criimera/cursor-unlimited): Cross-platform unlimited credits solution for Cursor Desktop.
 * [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip): cursor IDE enjoy VIP
 * [thatisuday/curved-menu](https://github.com/thatisuday/curved-menu): VanillaJS fully configurable curved menu (circular navigation)
 * [RokiLai/custom-ai-provider](https://github.com/RokiLai/custom-ai-provider): translate plugin for raycast
