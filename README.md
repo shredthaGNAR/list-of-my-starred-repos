@@ -3009,7 +3009,6 @@
 * [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku): Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 * [GregoryFore/shopfy-theme-dev](https://github.com/GregoryFore/shopfy-theme-dev): Shopify Theme Development
 * [vuestorefront/shopify](https://github.com/vuestorefront/shopify): Vue Storefront 2 integration for Shopify
-* [phillipkingston/Shopify---Change-Image-On-Hover](https://github.com/phillipkingston/Shopify---Change-Image-On-Hover): A few simple lines of code to swap product images on hover across collection pages and feature product sections on homepage and product pages in Shopify. Many projects in the Shopify App Store are a) expensive or b) do not work with the default Shopify Theme in 2020 (Debut) or c) do not work at all.
 * [JoshTag/shopify-2.0-dev-course](https://github.com/JoshTag/shopify-2.0-dev-course): None
 * [jeremybwilson/shopify-bebe](https://github.com/jeremybwilson/shopify-bebe): None
 * [Shopify/shopify-cli](https://github.com/Shopify/shopify-cli): Shopify CLI helps you build against the Shopify platform faster.
