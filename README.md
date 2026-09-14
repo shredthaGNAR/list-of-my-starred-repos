@@ -2861,7 +2861,7 @@
 * [SinTan1729/ReVancedBuilder](https://github.com/SinTan1729/ReVancedBuilder): A script to automatically build latest releases of ReVanced apps
 * [programminghoch10/ReVancedRepackaged](https://github.com/programminghoch10/ReVancedRepackaged): ReVanced, but patched locally.
 * [shekhawat2/RevancedYT](https://github.com/shekhawat2/RevancedYT): None
-* [thunderkex/revancex](https://github.com/thunderkex/revancex): Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe, Magisk, and KernelSU modules with WebUI and dynamic config.
+* [thunderkex/revancex](https://github.com/thunderkex/revancex): Modern, high-performance Rust patcher & orchestrator for ReVanced, Morphe. Magisk and KernelSU modules with WebUI and dynamic config.
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
 * [shredthaGNAR/reveal-md](https://github.com/shredthaGNAR/reveal-md): None
 * [gaerfield/reveal-md-github-pages](https://github.com/gaerfield/reveal-md-github-pages): Automatically deploys reveal-md presentations to github-pages
