@@ -2118,6 +2118,7 @@
 * [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager): Morphe app patcher for Android
 * [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches): Morphe Patches
 * [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches): 🍃 Patches for Morphe
+* [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library): Shared library for use by patch developers
 * [LeddaZ/morphe-repo](https://github.com/LeddaZ/morphe-repo): None
 * [LeddaZ/MorpheUpdater](https://github.com/LeddaZ/MorpheUpdater): Morphe Updater for my personal builds
 * [Svznify/MorpheX](https://github.com/Svznify/MorpheX): Unofficial APK Releases for YouTube Morphe (previously RVX/Revanced Extended) - Built and ready to install -  Safe and Trusted
@@ -2834,6 +2835,7 @@
 * [cormiertyshawn895/Retroactive](https://github.com/cormiertyshawn895/Retroactive): Run Aperture, iPhoto, and iTunes on macOS Golden Gate, macOS Tahoe, macOS Sequoia, macOS Sonoma, macOS Ventura, macOS Monterey, macOS Big Sur, and macOS Catalina. Xcode 11.7 on macOS Mojave. Final Cut Pro 7, Logic Pro 9, and iWork ’09 on macOS Mojave or macOS High Sierra.
 * [NoName-exe/revanced](https://github.com/NoName-exe/revanced): ReVanced YT and YT-M for both root and non-root users.
 * [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root): Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release
+* [kewld00d/Revanced-And-Revanced-Extended-Non-Root](https://github.com/kewld00d/Revanced-And-Revanced-Extended-Non-Root): Real-time repository build Revanced and Revanced Extended about 5 minutes after patch release
 * [n0k0m3/revanced-build-template](https://github.com/n0k0m3/revanced-build-template): Github Template for building Revanced
 * [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder): A NodeJS ReVanced builder
 * [ReVanced/revanced-cli](https://github.com/ReVanced/revanced-cli): 💻 Command-line application to use ReVanced
