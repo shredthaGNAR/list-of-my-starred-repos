@@ -361,7 +361,6 @@
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 * [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software.
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS):   A curated list of awesome applications, softwares, tools and shiny things for macOS.
-* [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos): A curated list of awesome software for Apple's macOS.
 * [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
 * [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers): A curated list of Model Context Protocol (MCP) servers
 * [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates): 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.
