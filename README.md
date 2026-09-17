@@ -209,7 +209,7 @@
 * [EvanZhouDev/apple-prompt-injection](https://github.com/EvanZhouDev/apple-prompt-injection): A list of Apple Intelligence prompt injections.
 * [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide): Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Silicon powers.
 * [threeplanetssoftware/apple_cloud_notes_parser](https://github.com/threeplanetssoftware/apple_cloud_notes_parser): Parser for Apple Notes data stored on the Cloud as seen on Apple handsets
-* [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI): A MacOS menu bar app for ChatGPT, Gemini,  Claude, Perplexity, Copilot, DeepSeek, Grok and many more into one streamlined interface
+* [bunnysayzz/AppleAI](https://github.com/bunnysayzz/AppleAI): ⛔ Discontinued - name retired, everything moved to Utilix (bunnysayzz/utilix). Repo kept as archive.
 * [littlebyteorg/appledb](https://github.com/littlebyteorg/appledb): None
 * [revblaze/AppleMusicUltra](https://github.com/revblaze/AppleMusicUltra): Music Client for macOS. Use WebKit interoperability with JS-injection to add custom scripting and styling to your music experience.
 * [mattrose/AppleNotes2Joplin](https://github.com/mattrose/AppleNotes2Joplin): Apple Notes to Joplin - Export Apple notes to Markdown in Joplin export format
