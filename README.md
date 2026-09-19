@@ -2009,7 +2009,7 @@
 * [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): The Magic Mask for Android
 * [Magisk-Modules-Repo/MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf): This tool is now dead...
 * [Clipy/Magnet](https://github.com/Clipy/Magnet): Customize global hotkeys in macOS.
-* [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+* [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 * [torerobo/maigret](https://github.com/torerobo/maigret): Collect a dossier on a person by username from a huge number of sites
 * [Bakhomious/mail-tm](https://github.com/Bakhomious/mail-tm): Uses Mail.tm API to generate a temporary email from Raycast.
 * [peci1/mailing-list-filter](https://github.com/peci1/mailing-list-filter): Thunderbird mail filter search term using mailing lists (and not whole addressbooks).
