@@ -4049,6 +4049,9 @@
     "cerpow/catapult": [
         "Other"
     ],
+    "cfgerr/42": [
+        "Other"
+    ],
     "chaance/vscode-setup": [
         "Other"
     ],
@@ -9182,9 +9185,6 @@
     "rsms/inter": [
         "Other"
     ],
-    "rspk1/42": [
-        "Other"
-    ],
     "rtfcv/tab-attic": [
         "Other"
     ],
@@ -10458,6 +10458,9 @@
         "Other"
     ],
     "trafilea/nx-shopify": [
+        "Other"
+    ],
+    "trakt/trakt-api": [
         "Other"
     ],
     "trambarhq/mark-gor": [

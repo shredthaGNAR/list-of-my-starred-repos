@@ -24,7 +24,7 @@
 * [arch3rPro/1Panel-Appstore](https://github.com/arch3rPro/1Panel-Appstore): 1Panel-第三方应用商店(运维监控、免费大模型API、Nas工具、容器管理)
 * [tortious/2019Firefox](https://github.com/tortious/2019Firefox): None
 * [tortious/2021_Firefox](https://github.com/tortious/2021_Firefox): Updated config settings & possibilities for Firefox. This includes all file types (css; uc.js; js; etc) and other tips and tricks, including about:config tweaks
-* [rspk1/42](https://github.com/rspk1/42): @rsapkf's wiki. [Merged into rsapkf/www]
+* [cfgerr/42](https://github.com/cfgerr/42): @rsapkf's wiki. [Merged into rsapkf/www]
 * [Lexxrt/9xe3](https://github.com/Lexxrt/9xe3): 🔍sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʟᴏᴏᴋᴜᴘ🔍
 * [ignaciocastro/a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb): Easily block Adobe telemetry checking domains. Continuously Updated. Useful for HostsMan / SwitchHosts / Pi-hole users ✨
 * [ffoodd/a11y.css-webextension](https://github.com/ffoodd/a11y.css-webextension): a11y.css webextension repository — for both Chromium and Firefox
@@ -3421,6 +3421,7 @@
 * [ngosang/trackerslist](https://github.com/ngosang/trackerslist): Updated list of public BitTorrent trackers
 * [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection): 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 * [RealityRipple/trackpackage](https://github.com/RealityRipple/trackpackage): Fork of Track Package for Pale Moon. 📦️ Track Packages from the right-click menu.
+* [trakt/trakt-api](https://github.com/trakt/trakt-api): The Trakt API is a RESTful API that allows developers to integrate TV show and movie tracking features into their applications. It enables access to Trakt's extensive media database and lets apps synchronize a user's watch history, ratings, and lists with their Trakt.tv profile.
 * [erickok/transdroid-search](https://github.com/erickok/transdroid-search): Cross-app torrent search results provider for Android
 * [menukaonline/transfer-between-drives](https://github.com/menukaonline/transfer-between-drives): This is a Google Colab notebook for transferring files/folders between drives from different Google accounts
 * [byeolbit/translucent](https://github.com/byeolbit/translucent): Translucent plastic card theme.
