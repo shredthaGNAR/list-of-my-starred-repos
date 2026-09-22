@@ -2651,7 +2651,7 @@
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
 * [drduh/Purse](https://github.com/drduh/Purse): Manage secrets with Bash and GnuPG asymmetric encryption (YubiKey)
 * [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox): A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
-* [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, Bielik, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac
+* [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac
 * [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts): 💬 Send iMessages using Python through the Shortcuts app.
 * [DimaKudosh/pydfs-lineup-optimizer](https://github.com/DimaKudosh/pydfs-lineup-optimizer): Daily Fantasy Sports lineup optimzer for all popular daily fantasy sports sites
 * [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd): MacOS launchd/launchctl GUI
@@ -3264,7 +3264,7 @@
 * [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
 * [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 * [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts): None
-* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
 * [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext): Add context menu to macOS Finder 
 * [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
 * [rtfcv/tab-attic](https://github.com/rtfcv/tab-attic): None
