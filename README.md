@@ -737,7 +737,7 @@
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support
-* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): Coding prompts for chatbots
+* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): AI coding with static context
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
 * [openai/codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
 * [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
@@ -3084,7 +3084,7 @@
 * [ronfybish/Signature-Generator](https://github.com/ronfybish/Signature-Generator): Email Signature Generator - React & Firebase
 * [silexlabs/Silex](https://github.com/silexlabs/Silex): Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 * [SillyTavern/SillyTavern-Launcher](https://github.com/SillyTavern/SillyTavern-Launcher): Launcher scripts for SillyTavern and ST-Extras.
-* [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet): An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+* [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet): The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 * [tiansh/simple-context-search](https://github.com/tiansh/simple-context-search): An easy way to act a context searching with one-time selected search provider. Context Search should be Simple. This extension use your searching list configured in browser, which means it could be used just out-of-box.
 * [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups): Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 * [migueravila/simplefox](https://github.com/migueravila/simplefox): A Userstyle theme for Firefox minimalist and Keyboard centered.
