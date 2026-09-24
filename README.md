@@ -2879,6 +2879,7 @@
 * [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt): RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!  
 * [rootfont/rootfont](https://github.com/rootfont/rootfont): The native font manager for designers and programmers on macOS.
 * [mike-kfed/roundcube-thunderbird_labels](https://github.com/mike-kfed/roundcube-thunderbird_labels): Thunderbird Labels Plugin for Roundcube Webmail
+* [fwdai/rowel](https://github.com/fwdai/rowel): 🔑   Free Offline-first Password Manager 
 * [caro401/royal-velvet](https://github.com/caro401/royal-velvet): A dark theme for obsidian.md
 * [moisseev/rspamd-spamness](https://github.com/moisseev/rspamd-spamness): Thunderbird add-on for visualizing rspamd spam scores.
 * [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox): A Graceful and Powerful Customized Firefox
@@ -3247,7 +3248,6 @@
 * [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search): Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 * [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar): Powerful macOS menu bar customization tool
 * [Lord-Kamina/SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps): Replacement for RCDefaultApps, written in Swift.
-* [swiftyapp/swifty](https://github.com/swiftyapp/swifty): 🔑   Free Offline-first Password Manager 
 * [anuejn/swipe-back](https://github.com/anuejn/swipe-back): A web extension that allows you to jump back/forward in the browser's history by swiping horizontally with two fingers on your touchpad. Mimics the default behaviour on Mac Os.
 * [totu/Swipe2Nav](https://github.com/totu/Swipe2Nav): Firefox Add-on to enable two-finger left and right gestures to navigate browser history
 * [numist/Switch](https://github.com/numist/Switch): A window-based context switcher for the Mac
