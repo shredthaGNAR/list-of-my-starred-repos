@@ -969,7 +969,7 @@
 * [natelandau/dotfiles](https://github.com/natelandau/dotfiles): Home for my bootstrap script, dotfiles, and configuration files
 * [rinsuki/dotfiles](https://github.com/rinsuki/dotfiles): my dotfiles
 * [rkalis/dotfiles](https://github.com/rkalis/dotfiles): 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
-* [servitola/dotfiles](https://github.com/servitola/dotfiles): servitola dotfiles repository
+* [servitola/dotfiles](https://github.com/servitola/dotfiles): How to live with macOS since 2020: Hammerspoon, Karabiner hyper layers, Birman layouts, one `up` to update 200+ apps, Claude Code skills
 * [timmybytes/dotfiles](https://github.com/timmybytes/dotfiles): My personal (.)dotfiles and configurations for various programs and environments. 
 * [trybick/dotfiles](https://github.com/trybick/dotfiles): Config files and new Mac setup guide
 * [vufly/dotfiles](https://github.com/vufly/dotfiles): This is the place where I keep my configuration.
