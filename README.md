@@ -506,7 +506,6 @@
 * [fedragon/bookmarkd](https://github.com/fedragon/bookmarkd): Stores HTML pages as Markdown files in an Obsidian vault
 * [vaeth/bookmarkdupes](https://github.com/vaeth/bookmarkdupes): A WebExtension which can display/remove duplicate bookmarks or empty folders
 * [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub): BookmarkHub , sync bookmarks across different browsers
-* [K2SOsint/Bookmarklets](https://github.com/K2SOsint/Bookmarklets): A small collection of bookmarklets that are useful for OSINT, including ones for e-mail addresses, Facebook, extracting links and WhatsMyName.app.
 * [mems/bookmarklets-context-menu](https://github.com/mems/bookmarklets-context-menu): WebExtension allow to execute bookmarklets as privileged scripts
 * [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks): :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev 
 * [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks): :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer: 
@@ -737,7 +736,7 @@
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support
-* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): Blazing fast AI coding for everyone
+* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): Blazing fast AI coding for VS Code
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
 * [openai/codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
 * [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
