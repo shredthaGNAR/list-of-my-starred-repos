@@ -2117,7 +2117,7 @@
 * [MorpheApp/morphe-documentation](https://github.com/MorpheApp/morphe-documentation): General documentation about Morphe
 * [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager): Morphe app patcher for Android
 * [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches): Morphe Patches
-* [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches): 🍃 Patches for Morphe
+* [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches): 🍃 Human-made patches for Morphe
 * [MorpheApp/morphe-patches-library](https://github.com/MorpheApp/morphe-patches-library): Shared library for use by patch developers
 * [LeddaZ/morphe-repo](https://github.com/LeddaZ/morphe-repo): None
 * [LeddaZ/MorpheUpdater](https://github.com/LeddaZ/MorpheUpdater): Morphe Updater for my personal builds
