@@ -1183,7 +1183,6 @@
 * [dexeonify/firefox-css](https://github.com/dexeonify/firefox-css): My CSS configuration to customise Firefox to my liking.
 * [seatedSinger/Firefox-CSS](https://github.com/seatedSinger/Firefox-CSS): None
 * [NiBa97/firefox-css-custom](https://github.com/NiBa97/firefox-css-custom): A modified version of Andreas Grafen's "ag-proton" design for firefox
-* [viesual/Firefox-CSS-for-MacOS](https://github.com/viesual/Firefox-CSS-for-MacOS): A custom Firefox CSS that works well with the current MacOS design
 * [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks): Collection of userstyles affecting the browser
 * [whitelightning76/Firefox-dark-theme](https://github.com/whitelightning76/Firefox-dark-theme): Just another dark theme
 * [junguler/firefox-dark-userContent.css](https://github.com/junguler/firefox-dark-userContent.css): css to compliment firefox's colors option for dark mode on all websites 
