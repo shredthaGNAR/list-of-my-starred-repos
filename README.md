@@ -934,7 +934,6 @@
 * [SuffolkLITLab/docassemble-filler-extension](https://github.com/SuffolkLITLab/docassemble-filler-extension): A browser extension for Chrome, Edge and Firefox that fills dummy text in all input fields in a page. Adapted to work with Docassemble inputs.
 * [PepsRyuu/dock-window-preview](https://github.com/PepsRyuu/dock-window-preview): Mac OSX app that displays window previews when hovering over app icon on the Dock. 
 * [steventheworker/DockAltTab](https://github.com/steventheworker/DockAltTab): Window preview app for MacOS (on the dock) using AltTab.
-* [steventheworker/DockAltTab-home](https://github.com/steventheworker/DockAltTab-home): website for DockAltTab
 * [ejbills/DockDoor](https://github.com/ejbills/DockDoor): Window peeking, alt-tab and other enhancements for macOS
 * [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 * [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced): One Click Python util to build all Revanced apps.
@@ -2782,7 +2781,7 @@
 * [timleland/ReadLaterCE](https://github.com/timleland/ReadLaterCE): Read Later Chrome Extension
 * [aecreations/readnext](https://github.com/aecreations/readnext): The reading list that syncs to the cloud. An extension for Firefox.
 * [Hakanbaban53/RealFire](https://github.com/Hakanbaban53/RealFire): A minimalist animated oneliner theme for Firefox perfectly matching real Dark.
-* [steventheworker/recents-macos](https://github.com/steventheworker/recents-macos): Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher.
+* [steventheworker/recents-macos](https://github.com/steventheworker/recents-macos): Edit the 'recents lists' (or App Exposé entries) of other apps! Secondarily, a file or app launcher. —Features also available in Dock Exposé.
 * [bhavsec/reconspider](https://github.com/bhavsec/reconspider): 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 * [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle): Move and resize windows on macOS with keyboard shortcuts and snap areas
 * [rxhanson/RectanglePro-Community](https://github.com/rxhanson/RectanglePro-Community): Bug reports and discussion for the Rectangle Pro app
