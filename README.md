@@ -3254,6 +3254,7 @@
 * [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx): Change the audio source for Mac OS X from the command line.
 * [jason5122/switcher](https://github.com/jason5122/switcher): None
 * [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts): Switch hosts quickly!
+* [shredthaGNAR/swp-freelancer-portfolio](https://github.com/shredthaGNAR/swp-freelancer-portfolio): None
 * [calzoneman/sync](https://github.com/calzoneman/sync): Node.JS Server and JavaScript/HTML Client for synchronizing online media
 * [JasonkayZK/sync-onetab](https://github.com/JasonkayZK/sync-onetab): A tool to sync data in onetab plugin.
 * [FreeWebber/SyncedJSONtoOnetab](https://github.com/FreeWebber/SyncedJSONtoOnetab): Firefox Synced JSON of tabs to Onetab format
