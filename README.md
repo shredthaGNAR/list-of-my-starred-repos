@@ -1043,7 +1043,7 @@
 * [aheimowitz/ente-auth-extension](https://github.com/aheimowitz/ente-auth-extension): Unofficial browser extension for Ente Auth - secure 2FA autofill for Chrome and Firefox
 * [andreyvit/env](https://github.com/andreyvit/env): None
 * [iptv-org/epg](https://github.com/iptv-org/epg): Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
-* [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk): Welcome to EPG Talk, your go-to repository for an extensive Electronic Program Guide (EPG) covering a diverse range of television channels from the United States, Canada, United Kingdom, and Mexico. This project aims to simplify your TV viewing experience by providing accurate and up-to-date schedules, ensuring you never miss your favorite shows.
+* [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk): 📡 4,000+ channels. 7 guides. $0. Forever. 🇺🇸🇬🇧🇨🇦🇲🇽🏆🆓 Free auto-updating XMLTV EPG for TiviMate, Kodi, Plex & any IPTV app — plus a live TV guide, 🔎 Ask EPGTalk, live sports & playoff brackets at epgtalk.com
 * [bitgapp/eqMac](https://github.com/bitgapp/eqMac): macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 * [rlxone/Equinox](https://github.com/rlxone/Equinox): 🌇 🌃  Create dynamic wallpapers for macOS.
 * [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy): 📱 Display and control your Android device graphically with scrcpy.
