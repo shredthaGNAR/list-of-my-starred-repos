@@ -2109,7 +2109,7 @@
 * [conema/monterail-fulldark](https://github.com/conema/monterail-fulldark): Monterail Full Dark, a Thunderbird theme inspired by the mockup of Monterail 
 * [eduardhojbota/moonlight-userChrome](https://github.com/eduardhojbota/moonlight-userChrome): A dark userstyle for Firefox inspired by moonlight-vscode-theme and github-moonlight
 * [peci1/more-snooze](https://github.com/peci1/more-snooze): More Snooze addon for Thunderbird
-* [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds): A clean and easy workflow that automatically builds Morphe APKs every 24 hours.
+* [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds): Config-driven CI pipeline that automates Android app builds daily. Educational purposes.
 * [elohim-etz/morphe-builder](https://github.com/elohim-etz/morphe-builder): A Magisk/KernelSU module and Apk builder for Morphe patches
 * [MorpheApp/morphe-desktop](https://github.com/MorpheApp/morphe-desktop): Morphe desktop patching tool
 * [MorpheApp/morphe-documentation](https://github.com/MorpheApp/morphe-documentation): General documentation about Morphe
@@ -2403,7 +2403,7 @@
 * [ahXN00/OwnTV](https://github.com/ahXN00/OwnTV): Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.
 * [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist): Use your locally running AI models to assist you in your web browsing
 * [fm-sys/pairdrop-android](https://github.com/fm-sys/pairdrop-android): Android client for local file sharing via https://pairdrop.net and self-hosted snapdrop 
-* [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer): Offline desktop forensic triage tool (Python, OpenCV, PyQt5) that flags images likely to contain nudity and searches image sets for a person of interest from reference photos. For authorized investigators; all results need human review.
+* [AaronSoria/PAnalizer](https://github.com/AaronSoria/PAnalizer): Offline desktop forensic triage tool. Flags images likely to contain nudity (NudeNet) and finds a person of interest from reference photos (OpenCV YuNet/SFace), with adjustable thresholds and session logs. For authorized investigators; all results need human review.
 * [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai): Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 * [projectdelphai/panorama-tab-groups](https://github.com/projectdelphai/panorama-tab-groups):  An add-on for Firefox that implements the old Tab Groups/Panorama functionality
 * [photodiode/panorama-view](https://github.com/photodiode/panorama-view): Add-on for Firefox letting you organize tabs and tab groups visually
@@ -2736,7 +2736,7 @@
 * [masaishi/raycast-llm-scripts-template](https://github.com/masaishi/raycast-llm-scripts-template): This repository provides a template for creating Raycast scripts that integrate with popular LLMs (ChatGPT, Claude, and Perplexity) without requiring API keys. Simply write Python scripts with prompt templates, and launch your favorite LLM in the browser with pre-filled prompts.
 * [kevintraver/raycast-mcp-edit](https://github.com/kevintraver/raycast-mcp-edit): A Raycast extension for quick access to MCP configuration files across AI coding assistants
 * [ExpertVagabond/raycast-mcp-server](https://github.com/ExpertVagabond/raycast-mcp-server): Model Context Protocol server for Raycast — 9 tools for AI-native macOS workflow automation
-* [leveragedrobot/raycast-moltbot](https://github.com/leveragedrobot/raycast-moltbot): Raycast extension for Clawdbot AI assistant
+* [leveragedrobot/raycast-moltbot](https://github.com/leveragedrobot/raycast-moltbot): Original source of the OpenClaw extension for Raycast. Archived; maintained in raycast/extensions under extensions/openclaw.
 * [Alorse/raycast-omnipilot-extension](https://github.com/Alorse/raycast-omnipilot-extension): 🚀 OmniPilot - Advanced Raycast extension for AI-powered assistance with multiple providers support, streaming responses, and command history
 * [rossinek/raycast-openai](https://github.com/rossinek/raycast-openai): Simple UI for OpenAI completion and chat API
 * [kirel/raycast-openai-server](https://github.com/kirel/raycast-openai-server): Extension that thats local openai server which passes requests to Raycast AI.
