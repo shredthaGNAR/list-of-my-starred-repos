@@ -113,7 +113,7 @@
 * [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox): 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
 * [ivostoykov/AIWebFormFill](https://github.com/ivostoykov/AIWebFormFill): None
 * [altano/alanglow](https://github.com/altano/alanglow): A Firefox theme
-* [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring): Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+* [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring): Menu bar Tool to set Charge Limits and Prolong Battery Lifespan
 * [ajrosen/Alfred](https://github.com/ajrosen/Alfred): Alfred workflows
 * [kkanzelmeyer/alfred](https://github.com/kkanzelmeyer/alfred): Raspberry pi webcam and motion sensor project
 * [kevin-funderburg/alfred-bettertouchtool-gestures](https://github.com/kevin-funderburg/alfred-bettertouchtool-gestures): Use Alfred to quickly search through all the trackpad gestures within BetterTouchTool
