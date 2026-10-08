@@ -1623,7 +1623,7 @@
 * [potsky/iajai-email-signature](https://github.com/potsky/iajai-email-signature): None
 * [deseven/iCanHazShortcut](https://github.com/deseven/iCanHazShortcut): simple shortcut manager for macOS
 * [jordanbaird/Ice](https://github.com/jordanbaird/Ice): Powerful menu bar manager for macOS
-* [albinstman/icloud-hide-my-email-api](https://github.com/albinstman/icloud-hide-my-email-api): None
+* [nicorobinreal/icloud-hide-my-email-api](https://github.com/nicorobinreal/icloud-hide-my-email-api): None
 * [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension): Enjoy iCloud's Hide My Email service in your favourite browser
 * [nicolodiamante/icloud-nosync](https://github.com/nicolodiamante/icloud-nosync): Take control of your iCloud Drive files with iCloud NoSync—the ultimate utility for effortless sync and management! Get the edge you need to stay organised and up–to–date.
 * [au2001/icloud-passwords-firefox](https://github.com/au2001/icloud-passwords-firefox): Firefox extension which lets you use your passwords stored on iCloud Keychain®.
@@ -2561,7 +2561,6 @@
 * [goldfire/pokersolver](https://github.com/goldfire/pokersolver): Javascript poker hand solver.
 * [Jantero93/pokerstars-statistics-script](https://github.com/Jantero93/pokerstars-statistics-script): Script for tracking history on PokerStars
 * [andrewprock/pokerstove](https://github.com/andrewprock/pokerstove): poker evaluation and enumeration software
-* [Mattlk13/poogle](https://github.com/Mattlk13/poogle): Porn finder. Search simultaneously on different porn websites to display it once. 
 * [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions): Source code for extensions maintained by @pilotmoon in the official PopClip Extension Directory
 * [martipops/popcorn-raycast](https://github.com/martipops/popcorn-raycast): A Raycast extension that uses the Stremio API to search for movies and TV shows and stream them to local media players using Stremio addons. 
 * [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime): Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
