@@ -3368,7 +3368,6 @@
 * [Gara-Dorta/Thunderbird-Google-Keep-Tab](https://github.com/Gara-Dorta/Thunderbird-Google-Keep-Tab): Google Keep for Thunderbird
 * [marph91/thunderbird-joplin-export](https://github.com/marph91/thunderbird-joplin-export): Easily export your Thunderbird emails to Joplin.
 * [Balth-D/thunderbird-monterail](https://github.com/Balth-D/thunderbird-monterail): A light and red theme for Thunderbird
-* [ixnewton/thunderbird-monterail](https://github.com/ixnewton/thunderbird-monterail): A set of themes for thunderbird inspired by a Monterail blog post
 * [spymastermatt/thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail): A set of themes for thunderbird inspired by a Monterail blog post
 * [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches): Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 * [kaipee/thunderbird-theme-arc](https://github.com/kaipee/thunderbird-theme-arc): Arc inspired theme for Thunderbird
