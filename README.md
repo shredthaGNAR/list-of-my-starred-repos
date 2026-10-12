@@ -1949,7 +1949,6 @@
 * [Renset/macai](https://github.com/Renset/macai): All-in-one native macOS AI chat application for virtually any AI provider
 * [glamorwish/MacAI](https://github.com/glamorwish/MacAI): All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
 * [araa47/MacbookProTouchBar-Crypto-Ticker](https://github.com/araa47/MacbookProTouchBar-Crypto-Ticker): Customise your macbook pro touchbar into a cryptocurrency ticker 
-* [itsnex1s/MacClaw](https://github.com/itsnex1s/MacClaw): Raycast-style macOS client for OpenClaw
 * [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager for macOS
 * [jonbeebe/MacDynamicWallpaper](https://github.com/jonbeebe/MacDynamicWallpaper): Mojave-style dynamic wallpapers for macOS.
 * [MacEnhance/MacForge](https://github.com/MacEnhance/MacForge): 📦 Plugin, App, and Theme store which includes plugin injection for macOS
