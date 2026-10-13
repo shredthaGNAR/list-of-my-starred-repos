@@ -737,7 +737,7 @@
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support
-* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): Blazing fast AI coding for VS Code
+* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): Blazing fast AI coding with static context
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
 * [openai/codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
 * [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
@@ -914,7 +914,7 @@
 * [nokeya/direct-links-out](https://github.com/nokeya/direct-links-out): Removes all "You are leaving our site" stuff from links
 * [zanetu/direct_google_images](https://github.com/zanetu/direct_google_images): Direct Google Images
 * [bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3](https://github.com/bluppus20/Disable-Gatekeeper-macOS-Sequoia-beta-3):  Disable Gatekeeper macOS Sequoia beta 3 
-* [cygnusx-1-org/Discoverium](https://github.com/cygnusx-1-org/Discoverium): Android app for discovering open source Android apps
+* [cygnusx-1-org/Discoverium](https://github.com/cygnusx-1-org/Discoverium): Android phone and TV app for discovering open source Android apps
 * [Homebrew/discussions](https://github.com/Homebrew/discussions): 🗣 Public open-ended discussions. Replacement for our Discourse.
 * [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains): Daily updated repository for https://github.com/disposable/disposable
 * [tapans/DIY-Surveillance-with-Smartphones](https://github.com/tapans/DIY-Surveillance-with-Smartphones): DIY hack for a complete CCTV solution using open source software and smartphones. 
