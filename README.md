@@ -1222,7 +1222,7 @@
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [deseven/firefox-quickllm](https://github.com/deseven/firefox-quickllm): Firefox extension that integrates LLMs into your browser
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (150-157) find bar.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (150-158) find bar.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -2415,7 +2415,7 @@
 * [devanshbatham/ParamSpider](https://github.com/devanshbatham/ParamSpider):  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing 
 * [roddhjav/pass-import](https://github.com/roddhjav/pass-import): A pass extension for importing data from most existing password managers
 * [sindresorhus/Pasteboard-Viewer](https://github.com/sindresorhus/Pasteboard-Viewer): 📋 Inspect the system pasteboards on macOS
-* [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry): Patch bundle registry for ReVanced, Morphe, and Reseam, with searchable patches, app compatibility, historical releases, prereleases, and changelogs.
+* [Jman-Github/Patch-Bundle-Registry](https://github.com/Jman-Github/Patch-Bundle-Registry): Patch bundle registry for ReVanced, Morphe, and Reseam, with searchable patches, app compatibility, historical releases, prereleases, and changelogs retrievable through a REST and GraphQL API plus a user friendly frontend.
 * [yozdas/PdfCombiner](https://github.com/yozdas/PdfCombiner): This is Automator app built in Mac
 * [benwiggy/PDFsuite](https://github.com/benwiggy/PDFsuite): Python scripts, Automator Services and Quartz Filters for MacOS (OS X) that create, manipulate, and query PDF files
 * [Yumeo0/pear-desktop](https://github.com/Yumeo0/pear-desktop): Pear 🍐 is extension for music player
@@ -2875,7 +2875,7 @@
 * [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt): RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!  
 * [rootfont/rootfont](https://github.com/rootfont/rootfont): The native font manager for designers and programmers on macOS.
 * [mike-kfed/roundcube-thunderbird_labels](https://github.com/mike-kfed/roundcube-thunderbird_labels): Thunderbird Labels Plugin for Roundcube Webmail
-* [fwdai/rowel](https://github.com/fwdai/rowel): 🔑   Free Offline-first Password Manager 
+* [fwdai/rowel](https://github.com/fwdai/rowel): 🔑   Local-first Secrets Manager 
 * [caro401/royal-velvet](https://github.com/caro401/royal-velvet): A dark theme for obsidian.md
 * [moisseev/rspamd-spamness](https://github.com/moisseev/rspamd-spamness): Thunderbird add-on for visualizing rspamd spam scores.
 * [runningcheese/RunningCheese-Firefox](https://github.com/runningcheese/RunningCheese-Firefox): A Graceful and Powerful Customized Firefox
