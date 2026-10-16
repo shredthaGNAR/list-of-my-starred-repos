@@ -2068,7 +2068,7 @@
 * [nickysemenza/message-analyzer](https://github.com/nickysemenza/message-analyzer): 💬 📊 Facebook Messenger history scraper + analyzer
 * [cleidigh/Message-archive-options-TB](https://github.com/cleidigh/Message-archive-options-TB): Thunderbird Add-On Adds the ability to customize the date format of the archive folders created by TB Archive Messages
 * [glaurent/MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser): a macOS/OSX app to comfortably browse and search through your Messages.app history.
-* [slimcandy/MetaCleaner](https://github.com/slimcandy/MetaCleaner): Remove metadata from your images online.
+* [slimcandy/MetaCleaner](https://github.com/slimcandy/MetaCleaner): Remove EXIF, GPS, XMP and IPTC metadata from photos in the browser. Nothing is uploaded, pixels are never re-encoded.
 * [duolingo/metasearch](https://github.com/duolingo/metasearch): Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 * [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist): YouTube Music client for Android
 * [alexta69/metube](https://github.com/alexta69/metube): Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
