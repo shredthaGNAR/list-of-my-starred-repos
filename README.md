@@ -3405,7 +3405,6 @@
 * [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch): An Android app for searching torrents across multiple providers with fast search speed, detailed results, and packed with complete torrent actions.
 * [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator): Use the Touch Bar on any Mac
 * [ris58h/Touch-Tab](https://github.com/ris58h/Touch-Tab): Switch apps with trackpad on macOS.
-* [GaffaSnobb/touchbar-crypto](https://github.com/GaffaSnobb/touchbar-crypto): Live update crypto prices on the Touch Bar.
 * [lilythstern/touchbar-cryptocoins](https://github.com/lilythstern/touchbar-cryptocoins): View BTC, LTC, ETH and NEO on your Macbook Touchbar using the BetterTouchTool.
 * [ZachAttackMLR/TouchBar-Fun](https://github.com/ZachAttackMLR/TouchBar-Fun): Using BetterTouchTool to display things on the new MacBook Pro's touch bar
 * [rickkas7/TowerInfo](https://github.com/rickkas7/TowerInfo): Tool to show the location of nearby cellular towers on a mobile device, tablet, or laptop
