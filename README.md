@@ -674,7 +674,6 @@
 * [egoist/chatkit-desktop](https://github.com/egoist/chatkit-desktop): a new desktop app for chatkit.app
 * [IntelHeartPrime/ChatWithAPI---Raycast-Extentsion](https://github.com/IntelHeartPrime/ChatWithAPI---Raycast-Extentsion): None
 * [actions/checkout](https://github.com/actions/checkout): Action for checking out a repo
-* [olivertzeng/chrome](https://github.com/olivertzeng/chrome): 🦊 I respect proton UI and aim to improve it.
 * [adamschwartz/chrome-desaturate-favicons](https://github.com/adamschwartz/chrome-desaturate-favicons): Desaturate the favicons of all inactive tabs.
 * [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools): Build cross-browser extensions with native HMR and zero-config setup
 * [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples): Chrome Extensions Samples
@@ -2645,7 +2644,7 @@
 * [WaldiPL/purplePrivateWindows](https://github.com/WaldiPL/purplePrivateWindows):  Extension for Firefox
 * [drduh/Purse](https://github.com/drduh/Purse): Manage secrets with Bash and GnuPG asymmetric encryption (YubiKey)
 * [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox): A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
-* [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech synthesis and speech recognition, web search, memory, presets, canvas, assistants, themes, computer use. Windows, Linux, and Mac.
+* [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt): Desktop AI Assistant powered by GPT, Gemini, Claude, Grok, Ollama, DeepSeek, Perplexity, and more - chat, agents, tools, MCP, plugins, RAG, vision, voice, image and video generation, speech synthesis and speech recognition, web search, memory, presets, canvas, assistants, themes, computer use. Windows, Linux, and Mac.
 * [kevinschaich/py-imessage-shortcuts](https://github.com/kevinschaich/py-imessage-shortcuts): 💬 Send iMessages using Python through the Shortcuts app.
 * [DimaKudosh/pydfs-lineup-optimizer](https://github.com/DimaKudosh/pydfs-lineup-optimizer): Daily Fantasy Sports lineup optimzer for all popular daily fantasy sports sites
 * [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd): MacOS launchd/launchctl GUI
