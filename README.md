@@ -1269,7 +1269,6 @@
 * [Tenmag/FirefoxPrivacyConfig](https://github.com/Tenmag/FirefoxPrivacyConfig): Firefox privacy configuration (help + user.js)
 * [macleod-ee/FirefoxSidebar](https://github.com/macleod-ee/FirefoxSidebar): Vertical tab design for Firefox with dynamic indentation:: Sidebery and TreeStyleTabs (Legacy) themes available! [!] Moved to https://codeberg.org/macleod/FirefoxSidebar
 * [garywill/FirefoxTaskMonitor](https://github.com/garywill/FirefoxTaskMonitor): Show CPU & memory bar, per tab and all tasks. Firefox userChrome script. 🛠️📊 
-* [Yeove/FirefoxTweaks](https://github.com/Yeove/FirefoxTweaks): None
 * [gomita/firegestures](https://github.com/gomita/firegestures): FireGestures, a Firefox extension.
 * [josepedromonteiro/fireze](https://github.com/josepedromonteiro/fireze): Custome safari theme for Firefox
 * [kosimst/Firicico](https://github.com/kosimst/Firicico): Combined programming mono font with italics and font ligatures made from Fira Code and Pacifico for Italics
@@ -3712,6 +3711,7 @@
 * [asmvik/yabai](https://github.com/asmvik/yabai): A tiling window manager for macOS based on binary space partitioning
 * [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT): Locally running, hands-free ChatGPT UI
 * [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator): 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
+* [Yeove/Yeoves_Custom_Firefox_CSS](https://github.com/Yeove/Yeoves_Custom_Firefox_CSS): None
 * [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [npetrovski/yi-hack-easy](https://github.com/npetrovski/yi-hack-easy): Customized firmware for Yi Home Camera 720p
