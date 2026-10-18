@@ -2380,7 +2380,7 @@
 * [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet): OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
 * [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list):  🕵🏽‍♀️ Curated list of OSINT tools and online services to find social media accounts by username
 * [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection): A collection of several hundred online tools for OSINT
-* [rly0nheart/osinteye](https://github.com/rly0nheart/osinteye): Username enumeration & reconnaisance suite
+* [ritchiemwewa/osinteye](https://github.com/ritchiemwewa/osinteye): Username enumeration & reconnaisance suite
 * [awareseven/OSINTsources](https://github.com/awareseven/OSINTsources): This is a repo containing several osint sources
 * [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo): Turn GitHub into a bookmark manager
 * [OspreyProject/Osprey](https://github.com/OspreyProject/Osprey): Browser extension that protects you from phishing and malicious websites.
@@ -3346,7 +3346,7 @@
 * [alienthief/thesourc](https://github.com/alienthief/thesourc): A curated list of awesome warez and piracy links
 * [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude): Let your Claude able to think
 * [devmount/third-stats](https://github.com/devmount/third-stats): Thunderbird add-on turning your emails into beautifully visualized email account stats.
-* [rly0nheart/thorndyke](https://github.com/rly0nheart/thorndyke): Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
+* [ritchiemwewa/thorndyke](https://github.com/ritchiemwewa/thorndyke): Lightweight username enumeration tool that checks the availability of a specified username on over 200 websites.
 * [spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape): A collection & lists of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, OGUser, XSS, Dread, & more
 * [mrdoob/three.js](https://github.com/mrdoob/three.js): JavaScript 3D Library.
 * [micz/ThunderAI](https://github.com/micz/ThunderAI): ThunderAI is a Thunderbird Addon that uses the capabilities of ChatGPT, Gemini, Claude or Ollama to enhance email management.
