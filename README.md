@@ -779,7 +779,7 @@
 * [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff): This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
 * [hariprasd/cool-bookmarklets](https://github.com/hariprasd/cool-bookmarklets): Bookmarklets for Browsers, that are cool in some way for someone. Minimum Automation
 * [webkul/coolhue](https://github.com/webkul/coolhue): Coolest Gradient Hues and Swatches
-* [coollabsio/coolify](https://github.com/coollabsio/coolify): An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+* [coollabsio/coolify](https://github.com/coollabsio/coolify): An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 * [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api): Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 * [hugodemenez/copilot-openai-bridge](https://github.com/hugodemenez/copilot-openai-bridge): Exposes GitHub Copilot SDK as OpenAI-compatible API for Raycast Custom Providers
 * [piroor/copy-selected-tabs-to-clipboard](https://github.com/piroor/copy-selected-tabs-to-clipboard): Provides ability to copy title and URL of selected tabs to the clipboard for Firefox 63 and later.
