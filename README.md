@@ -2863,6 +2863,7 @@
 * [decipher3114/Revancify](https://github.com/decipher3114/Revancify): The only revancify
 * [shredthaGNAR/reveal-md](https://github.com/shredthaGNAR/reveal-md): None
 * [gaerfield/reveal-md-github-pages](https://github.com/gaerfield/reveal-md-github-pages): Automatically deploys reveal-md presentations to github-pages
+* [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle): 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 * [Crimson7research/ReverseEngineering-AI](https://github.com/Crimson7research/ReverseEngineering-AI): None
 * [fromhgbwithluv/ReX-patches](https://github.com/fromhgbwithluv/ReX-patches): 🧩 Patches for ReVanced
 * [timonus/Rhea](https://github.com/timonus/Rhea): A Mac status bar app for quickly sharing files and links.
@@ -3177,6 +3178,7 @@
 * [zaltaie/SportsBettingArbitrage](https://github.com/zaltaie/SportsBettingArbitrage): Arbitrage betting algo, that searches and bets on safe wins on multiple betting platforms
 * [SoslyLW/SportsOdds](https://github.com/SoslyLW/SportsOdds): A Pythagorean win expectation-based Monte Carlo simulator to determine the odds of NHL teams making the playoffs.
 * [daniyalmaster693/sportssync](https://github.com/daniyalmaster693/sportssync): An All-in-One Sports Extension for Raycast
+* [CennoxX/spotify-ai-blocker](https://github.com/CennoxX/spotify-ai-blocker): Block AI-generated music on Spotify Web automatically using a community-maintained list. Runs in your browser with Tampermonkey, keeps your Spotify account free from AI artists, and updates daily.
 * [w0lfschild/spotifyPlus](https://github.com/w0lfschild/spotifyPlus): 🎵 MacForge plugin to enhance the Spotify Desktop player on macOS
 * [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX): SpotX patcher used for patching the desktop version of Spotify
 * [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash): SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
@@ -3779,6 +3781,7 @@
 * [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader): Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
 * [andrewmarkallen/YTPlaylistHelper](https://github.com/andrewmarkallen/YTPlaylistHelper): Simple applescript to save an open youtube video to a defined playlist. Used as a BetterTouchTool action to speed up youtube playlist building.
 * [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm): Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
+* [Homefronts/YTubic-Plus](https://github.com/Homefronts/YTubic-Plus): YTubic Plus: a fast YouTube Music desktop client with radio mixes and offline downloads. Community edition of YTubic by NUber.
 * [rupa/z](https://github.com/rupa/z): z - jump around
 * [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP by Checkmarx Core project
 * [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme): party like it's firefox 87!
