@@ -1039,7 +1039,7 @@
 * [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles): macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
 * [hrai/english-popup-thesaurus](https://github.com/hrai/english-popup-thesaurus): Thesaurus firefox add-on.
 * [babarot/enhancd](https://github.com/babarot/enhancd): :rocket: A next-generation cd command with your interactive filter
-* [aheimowitz/ente-auth-extension](https://github.com/aheimowitz/ente-auth-extension): Unofficial browser extension for Ente Auth - secure 2FA autofill for Chrome and Firefox
+* [aheimowitz/ente-auth-extension](https://github.com/aheimowitz/ente-auth-extension): Duckey: unofficial browser extension that autofills 2FA codes from your Ente Auth vault. Chrome, Edge and Firefox.
 * [andreyvit/env](https://github.com/andreyvit/env): None
 * [iptv-org/epg](https://github.com/iptv-org/epg): Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 * [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk): 📡 4,000+ channels. 7 guides. $0. Forever. 🇺🇸🇬🇧🇨🇦🇲🇽🏆🆓 Free auto-updating XMLTV EPG for TiviMate, Kodi, Plex & any IPTV app — plus a live TV guide, 🔎 Ask EPGTalk, live sports & playoff brackets at epgtalk.com
