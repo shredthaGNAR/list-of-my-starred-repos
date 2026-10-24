@@ -307,6 +307,7 @@
 * [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows): A curated list of awesome alfred workflows
 * [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms): A curated list of awesome places to learn and/or practice algorithms.
 * [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics): A curated list of analytics frameworks, software and other tools.
+* [Jman-Github/Awesome-Android-Patching](https://github.com/Jman-Github/Awesome-Android-Patching): Android application patching ecosystems built around ReVanced, Morphe, Reseam, and compatible community tooling.
 * [devrsi0n/awesome-apple-notes](https://github.com/devrsi0n/awesome-apple-notes): A curated list of awesome websites, applications, tools, and shiny things for Apple Notes.
 * [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants): A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below. 
 * [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro): Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
@@ -383,7 +384,6 @@
 * [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi): 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 * [alx-xlx/awesome-raspberry-r4nchy](https://github.com/alx-xlx/awesome-raspberry-r4nchy): This repo consists of useful tools, scripts and tutorials for Raspberry Pi
 * [j3lte/awesome-raycast](https://github.com/j3lte/awesome-raycast): Automated list of all Raycast extensions
-* [Jman-Github/Awesome-ReVanced](https://github.com/Jman-Github/Awesome-ReVanced): Android application patching ecosystems built around ReVanced, Morphe, and compatible community tooling.
 * [o19s/awesome-search-relevance](https://github.com/o19s/awesome-search-relevance): Tools and other things for people who work on search relevance & information retrieval
 * [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
 * [LeCoupa/awesome-shopify](https://github.com/LeCoupa/awesome-shopify): 👩‍🎓👨‍🎓 Must-read articles, videos and books for store owners, app and theme developers.
@@ -3531,7 +3531,6 @@
 * [harv/userChromeJS](https://github.com/harv/userChromeJS): My userChromeJS scripts!
 * [jikamens/userChromeJS](https://github.com/jikamens/userChromeJS): Re-implementation of the userChromeJS add-on for Thunderbird 60+
 * [myfreeer/userChromeJS](https://github.com/myfreeer/userChromeJS): userChrome.js scripts for firefox
-* [zephyrer/userChromeJS](https://github.com/zephyrer/userChromeJS): uc.js, uc.xul collections
 * [RJ-Infinity/UserChromeScriptLoader](https://github.com/RJ-Infinity/UserChromeScriptLoader): None
 * [SoloSaravanan/userjs](https://github.com/SoloSaravanan/userjs): Removes Mozilla spyware from Firefox and makes Firefox more secure 
 * [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner): Fast & Accurate Username Scanner (Frontend)
