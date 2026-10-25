@@ -558,6 +558,7 @@
 * [stefanvd/Browser-Extensions](https://github.com/stefanvd/Browser-Extensions): Open Source Browser extension for Google Chrome, Firefox, Opera, Safari, Naver Whale, and Microsoft Edge
 * [adi6409/browser-ff](https://github.com/adi6409/browser-ff): None
 * [Luzifer/browser-privacy](https://github.com/Luzifer/browser-privacy): List of filter rules for uBlock Origin to enhance the browsing privacy and replace Ghostery
+* [webpro/browser-tab-bridge](https://github.com/webpro/browser-tab-bridge): Focus or open a URL in the default browser tab (macOS-only)
 * [purarue/browserexport](https://github.com/purarue/browserexport): backup and parse your browser history databases (chrome, firefox, safari, and other chrome/firefox derivatives)
 * [Zegnat/browserext-window-merger](https://github.com/Zegnat/browserext-window-merger): Merge specified browser windows into each other. Or all of them into one. Simply right click to open Firefox’s context menu when multiple windows are open, or configure a keyboard shortcut. All wrapped up in one tiny free extension.
 * [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus): 🦖 The browser prompter for macOS
@@ -698,6 +699,7 @@
 * [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy): Claude Code to OpenAI API Proxy
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 * [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts): All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.
+* [shbmx/claude-history](https://github.com/shbmx/claude-history): Raycast extension to browse, search, and resume Claude Code sessions
 * [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code): An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 * [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
 * [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp): Batch Clipboard is a Mac app that let's you copy then paste multiple clipboard items at a time, like magic! This is the repo for v1.0.x, titled after the app's codename. The repo for v2.0 and forward is https://github.com/jpmhouston/Batch-Clipboard
@@ -2467,6 +2469,7 @@
 * [gocom/pinceau](https://github.com/gocom/pinceau): Personal Firefox userChrome and preference customizations
 * [LeakForge/Piracy-Extras](https://github.com/LeakForge/Piracy-Extras): A curated list of awesome warez and piracy links
 * [zer0biwan/piracy-list-23](https://github.com/zer0biwan/piracy-list-23): Forked from Igglybuff/awesome-piracy
+* [SKaplanOfficial/Placeholders-Toolkit](https://github.com/SKaplanOfficial/Placeholders-Toolkit): A placeholders system for supplying dynamic content to Raycast extensions.
 * [alextselegidis/plainpad](https://github.com/alextselegidis/plainpad): 📓 Plainpad - Self Hosted Note Taking App
 * [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic): Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 * [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo): 🧩 The Browser Extension Framework
@@ -2727,6 +2730,8 @@
 * [harunonsystem/raycast-extension-template](https://github.com/harunonsystem/raycast-extension-template): Template for Raycast extensions with AI rules, ESLint/Prettier, and store-ready structure
 * [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f): Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 * [SmetDenis/raycast-gemai](https://github.com/SmetDenis/raycast-gemai): GemAI is a Raycast extension designed to supercharge your productivity by integrating Google's Gemini AI models directly into your workflow.
+* [AndBoyS/raycast-gemini-proxyapi](https://github.com/AndBoyS/raycast-gemini-proxyapi): None
+* [regenrek/raycast-gpt-launcher](https://github.com/regenrek/raycast-gpt-launcher): Launch ChatGPT 5 with a prompt directly from Raycast.
 * [krsntn/raycast-guerrilla-mail](https://github.com/krsntn/raycast-guerrilla-mail): Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API
 * [plevik/raycast-hipster-ipsum](https://github.com/plevik/raycast-hipster-ipsum): Raycast free extension to generate placeholder content using the official Hipster Ipsum API https://hipsum.co/the-api/
 * [derhamderham/raycast-jan-ai](https://github.com/derhamderham/raycast-jan-ai): None
