@@ -2903,6 +2903,7 @@
 * [steventheworker/safari-userscripts](https://github.com/steventheworker/safari-userscripts): Enrich your browsing experience, whether it be on mobile (iOS) or your desktop (macOS)
 * [linuxscoop/safarifox-theme](https://github.com/linuxscoop/safarifox-theme): A Firefox theme look Like Safari Web Browser
 * [thepante/SAL-Firefox](https://github.com/thepante/SAL-Firefox): Sidebar Always Loaded for Firefox
+* [fahadalijaved/SamFonts](https://github.com/fahadalijaved/SamFonts): None
 * [CruelKernel/samsung-exynos9820](https://github.com/CruelKernel/samsung-exynos9820): Unified kernel tree for S10 and Note10 devices
 * [NHClaessens/samsung_pass_converter](https://github.com/NHClaessens/samsung_pass_converter): None
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
@@ -3452,7 +3453,7 @@
 * [trockerapp/trocker](https://github.com/trockerapp/trocker): This chrome/Firefox extension is an email Tracker Blocker, hence the name: Trocker!
 * [opa334/TrollStore](https://github.com/opa334/TrollStore): Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 * [thehappydinoa/TruePeopleSearch](https://github.com/thehappydinoa/TruePeopleSearch): Gets info from truepeoplesearch.com and adds it to Maltego
-* [phishdestroy/trustname-evidence](https://github.com/phishdestroy/trustname-evidence): Phase II evidence package: complete-zone scan of ICANN registrar #4318 Trustname.com / Fewmoretaps OÜ — 15,040 domains tracked, 4,276 classified IOC (3,293 HIGH). Daily updated IOC feeds, SIEM CSV, operator clusters.
+* [phishdestroy/trustname-evidence](https://github.com/phishdestroy/trustname-evidence): Phase II evidence package: complete-zone scan of ICANN registrar #4318 Trustname.com / Fewmoretaps OÜ — 20,038 domains tracked, 4,276 classified IOC (3,293 HIGH). Daily updated IOC feeds, SIEM CSV, operator clusters.
 * [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel): Modern, fast and obfuscated VPN protocol
 * [syanle/ts-commercials-remover](https://github.com/syanle/ts-commercials-remover): MPEG-TS stream workflow
 * [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): Your self hosted YouTube media server
