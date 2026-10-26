@@ -185,6 +185,7 @@
 * [mortenjust/androidtool-mac](https://github.com/mortenjust/androidtool-mac): One-click screenshots, video recordings, app installation for iOS and Android
 * [ait-cs-IaaS/ansible-firefox-autoconfig](https://github.com/ait-cs-IaaS/ansible-firefox-autoconfig): Ansible Role Installs firefox and makes it configurable through environment variables
 * [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod): A podcast manager for Android
+* [zebbern/antigravity-awesome-skills](https://github.com/zebbern/antigravity-awesome-skills): The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel. 
 * [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M): App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 * [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin): Personal theme for Obsidian
 * [nightmare-space/any_share](https://github.com/nightmare-space/any_share): Fast Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.
@@ -317,6 +318,7 @@
 * [bskim45/awesome-btt-config](https://github.com/bskim45/awesome-btt-config): An curated list of awesome BetterTouchTool configs.
 * [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt): 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE OF TOO MANY LOW QUALITY SUBMISSIONS]
 * [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories): A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
+* [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit): The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 * [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills): A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 * [MissMitsuha/awesome-course-piracy](https://github.com/MissMitsuha/awesome-course-piracy): An index of course piracy resources
@@ -698,6 +700,7 @@
 * [anymorph-ai/Claudable](https://github.com/anymorph-ai/Claudable): Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 * [anthropics/claude-code](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 * [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know): Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact cited to its source. Independent community guide.
+* [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide): Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 * [StamKavid/claude-code-prompting-101](https://github.com/StamKavid/claude-code-prompting-101): A comprehensive educational repository for mastering prompt engineering with Anthropic's Claude AI, from basic concepts to production-ready systems. Based on Anthropic's official Claude Code Prompting 101 tutorial with extensive enhancements.
 * [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy): Claude Code to OpenAI API Proxy
 * [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
@@ -2928,6 +2931,7 @@
 * [Phisteven/scraping-bets](https://github.com/Phisteven/scraping-bets): Experiments with web srcaping from sports betting websites
 * [GChristensen/scrapyard](https://github.com/GChristensen/scrapyard): Bookmark heavy lifting
 * [EerieGoesD/scratch-ev](https://github.com/EerieGoesD/scratch-ev): Free EV calculator for scratch tickets & lottery. Compare expected value before and after taxes.
+* [shredthaGNAR/scratch-ev](https://github.com/shredthaGNAR/scratch-ev): Free EV calculator for scratch tickets & lottery. Compare expected value before and after taxes.
 * [AdamEshem/Scratch-Off-Probability](https://github.com/AdamEshem/Scratch-Off-Probability): Gives the probability of each scratch off ticket in the Ohio Lottery.
 * [nate-walter/Scratch-Off-Science](https://github.com/nate-walter/Scratch-Off-Science): A non-gambling data analyst and his scratch off lottery ticket experiment 
 * [ImmaZoni/scratcha](https://github.com/ImmaZoni/scratcha): A simple python script to scrape scratcher data from AZ Lottery website.
@@ -3115,6 +3119,7 @@
 * [kewld00d/SingleFileZ-Archives](https://github.com/kewld00d/SingleFileZ-Archives): My repo archive of my collection of saved webpages , to read later + etc etc. Archive was created using SingleFile extension, which is able to save and compress webpages in a self-contained and cool self extracting zip file  but is just an easy to use html file  that enables good viewing and archiving of websites  with the added bonus of small file sizes and no folders or other files: just 1  html file per save or zip auto uploaded to this Github repo 
 * [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar): A highly customizable macOS status bar replacement
 * [asmvik/skhd](https://github.com/asmvik/skhd):  Simple hotkey daemon for macOS
+* [zebbern/skills](https://github.com/zebbern/skills): High-quality Agent Skills made to perform reliably in real workflows
 * [SerpentDrago/skin.auramod](https://github.com/SerpentDrago/skin.auramod): Auramod Skin for Kodi 18 
 * [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic): None
 * [ErveI/skip-discord-update](https://github.com/ErveI/skip-discord-update): An easy way to skip Discord updates on the macOS app launch.
