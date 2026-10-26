@@ -3193,6 +3193,7 @@
 * [daniyalmaster693/sportssync](https://github.com/daniyalmaster693/sportssync): An All-in-One Sports Extension for Raycast
 * [CennoxX/spotify-ai-blocker](https://github.com/CennoxX/spotify-ai-blocker): Block AI-generated music on Spotify Web automatically using a community-maintained list. Runs in your browser with Tampermonkey, keeps your Spotify account free from AI artists, and updates daily.
 * [w0lfschild/spotifyPlus](https://github.com/w0lfschild/spotifyPlus): 🎵 MacForge plugin to enhance the Spotify Desktop player on macOS
+* [team-spotube/spotube](https://github.com/team-spotube/spotube): 🎧 Open source music streaming app! Available for both desktop & mobile!
 * [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX): SpotX patcher used for patching the desktop version of Spotify
 * [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash): SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 * [ziacto/spynet-camera](https://github.com/ziacto/spynet-camera): Allows to use your mobile device as an IP camera
