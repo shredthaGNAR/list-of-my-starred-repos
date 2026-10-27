@@ -2606,7 +2606,6 @@
 * [parkermuir/preflop-poker](https://github.com/parkermuir/preflop-poker): Python scripts to navigate Texas Hold 'Em and Pot Limit Omaha preflop decision trees ♠️♣️
 * [MozillaSecurity/prefpicker](https://github.com/MozillaSecurity/prefpicker): Manage & generate prefs.js files
 * [neox387/premiumizer](https://github.com/neox387/premiumizer): None
-* [piejanssens/premiumizer](https://github.com/piejanssens/premiumizer): Download manager for premiumize.me cloud downloads
 * [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode): Visual Studio Code extension for Prettier
 * [n89nanda/pretty-pocket](https://github.com/n89nanda/pretty-pocket): Convert Pocket Export file from HTML to Json to reveal tags and other metadata
 * [alkatrazstudio/prev-colors](https://github.com/alkatrazstudio/prev-colors): Thunderbird add-on for choosing one of the previously selected colors
