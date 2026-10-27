@@ -259,6 +259,7 @@
 * [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme): Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
 * [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket): Lightning-fast Astro 7 starter theme to build anything on: 44 designed components, 8 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Astro Theme Developer.  https://hansmartens.dev
 * [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro): Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.
+* [DomeT99/astro-wellness](https://github.com/DomeT99/astro-wellness): A modern, dark, energetic gym template built with Astro and Bulma
 * [immois/astro-zen](https://github.com/immois/astro-zen): Minimalist, accessible and SEO-optimized personal portfolio website template.
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
 * [denv17/astrolify](https://github.com/denv17/astrolify): None
@@ -3236,6 +3237,7 @@
 * [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5): 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
 * [rleroi/Stremio-Streaming-Catalogs-Addon](https://github.com/rleroi/Stremio-Streaming-Catalogs-Addon): Stremio Streaming Catalogs Addon
 * [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru): Companion for Stremio.
+* [DomeT99/studio-pulse](https://github.com/DomeT99/studio-pulse): Marketing site for a full-service communication agency, brand strategy, creative direction, digital, content, and more.
 * [charlesLoder/stylometry](https://github.com/charlesLoder/stylometry): A comparison of different strategies for affecting an LLM's output style, with attention given towards library science.
 * [NoureldinAmer/stylometry-based-trigger-llm-backdoor-attack](https://github.com/NoureldinAmer/stylometry-based-trigger-llm-backdoor-attack): None
 * [openstyles/stylus](https://github.com/openstyles/stylus): Stylus - Userstyles Manager
