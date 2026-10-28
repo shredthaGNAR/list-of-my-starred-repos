@@ -372,7 +372,7 @@
 * [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates): 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.
 * [yjose/awesome-new](https://github.com/yjose/awesome-new): A list of `.new` domains to perform online actions in one quick action.
 * [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
-* [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents): 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
+* [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents): 196 production-ready AI agent templates for OpenClaw. SOUL.md configs across 24 categories. Submit yours!
 * [weisser-dev/awesome-opencode](https://github.com/weisser-dev/awesome-opencode): 108 agents, 15 skills, smart model config, and interactive CLI for OpenCode — npx @weisser-dev/awesome-opencode
 * [OpenRouterTeam/awesome-openrouter](https://github.com/OpenRouterTeam/awesome-openrouter): Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint): :scream: A curated list of amazingly awesome OSINT
