@@ -1049,7 +1049,7 @@
 * [mullvad/encrypted-dns-profiles](https://github.com/mullvad/encrypted-dns-profiles): macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.
 * [hrai/english-popup-thesaurus](https://github.com/hrai/english-popup-thesaurus): Thesaurus firefox add-on.
 * [babarot/enhancd](https://github.com/babarot/enhancd): :rocket: A next-generation cd command with your interactive filter
-* [aheimowitz/ente-auth-extension](https://github.com/aheimowitz/ente-auth-extension): Duckey: unofficial browser extension that autofills 2FA codes from your Ente Auth vault. Chrome, Edge and Firefox.
+* [aheimowitz/ente-auth-extension](https://github.com/aheimowitz/ente-auth-extension): Duckey: browser extension that autofills 2FA codes from your Ente Auth vault. Chrome, Edge and Firefox.
 * [andreyvit/env](https://github.com/andreyvit/env): None
 * [iptv-org/epg](https://github.com/iptv-org/epg): Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 * [acidjesuz/EPGTalk](https://github.com/acidjesuz/EPGTalk): 📡 4,000+ channels. 7 guides. $0. Forever. 🇺🇸🇬🇧🇨🇦🇲🇽🏆🆓 Free auto-updating XMLTV EPG for TiviMate, Kodi, Plex & any IPTV app — plus a live TV guide, 🔎 Ask EPGTalk, live sports & playoff brackets at epgtalk.com
@@ -1233,7 +1233,7 @@
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
 * [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (150-158) find bar.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
-* [BGMP/firefox-revert-proton](https://github.com/BGMP/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
+* [bgm/firefox-revert-proton](https://github.com/bgm/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
 * [panjilp-lab/firefox-safari-style](https://github.com/panjilp-lab/firefox-safari-style): put to default:profiles root dir
 * [tsanaung/firefox-safari-style](https://github.com/tsanaung/firefox-safari-style): None
