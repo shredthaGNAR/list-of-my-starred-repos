@@ -2122,6 +2122,7 @@
 * [peci1/more-snooze](https://github.com/peci1/more-snooze): More Snooze addon for Thunderbird
 * [RookieEnough/Morphe-AutoBuilds](https://github.com/RookieEnough/Morphe-AutoBuilds): Config-driven CI pipeline that automates Android app builds daily. Educational purposes.
 * [elohim-etz/morphe-builder](https://github.com/elohim-etz/morphe-builder): A Magisk/KernelSU module and Apk builder for Morphe patches
+* [sixstrings/morphe-builder](https://github.com/sixstrings/morphe-builder): A Magisk/KernelSU module builder for Morphe modules. Builds also APKs. Updated several times daily. 
 * [MorpheApp/morphe-desktop](https://github.com/MorpheApp/morphe-desktop): Morphe desktop patching tool
 * [MorpheApp/morphe-documentation](https://github.com/MorpheApp/morphe-documentation): General documentation about Morphe
 * [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager): Morphe app patcher for Android
