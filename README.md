@@ -2581,6 +2581,7 @@
 * [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime): Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 * [iSapozhnik/Popover](https://github.com/iSapozhnik/Popover): Custom macOS Popover 💬
 * [eight04/popup-tab](https://github.com/eight04/popup-tab): A Firefox addon, easily convert a tab into a popup and vice versa.
+* [Homefronts/Porchlight](https://github.com/Homefronts/Porchlight): YTubic Plus: a fast YouTube Music desktop client with radio mixes and offline downloads. Community edition of YTubic by NUber.
 * [Porco-Rosso/PorcoSpoon](https://github.com/Porco-Rosso/PorcoSpoon): My Versatile Hammerspoon Config
 * [Osnaider19/Portafolio](https://github.com/Osnaider19/Portafolio): Mi Portafolio
 * [codewithsadee/portfolio](https://github.com/codewithsadee/portfolio): Fully responsive personal portfolio website
@@ -3803,7 +3804,6 @@
 * [jamesbrindle/YTMusicUploader](https://github.com/jamesbrindle/YTMusicUploader): Automatically upload your music library and playlists to YouTube Music .Net Application. Upload songs to YouTube Music and bulk delete music and playlists from YouTube Music. C#.
 * [andrewmarkallen/YTPlaylistHelper](https://github.com/andrewmarkallen/YTPlaylistHelper): Simple applescript to save an open youtube video to a defined playlist. Used as a BetterTouchTool action to speed up youtube playlist building.
 * [chibicitiberiu/ytsm](https://github.com/chibicitiberiu/ytsm): Self-hosted tool which manages your YouTube subscriptions, and downloads files automatically.
-* [Homefronts/YTubic-Plus](https://github.com/Homefronts/YTubic-Plus): YTubic Plus: a fast YouTube Music desktop client with radio mixes and offline downloads. Community edition of YTubic by NUber.
 * [rupa/z](https://github.com/rupa/z): z - jump around
 * [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP by Checkmarx Core project
 * [zapSNH/zapsCoolPhotonTheme](https://github.com/zapSNH/zapsCoolPhotonTheme): party like it's firefox 87!
