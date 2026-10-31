@@ -961,7 +961,6 @@
 * [svetlyak40wt/dotfiler](https://github.com/svetlyak40wt/dotfiler): Shell agnostic git based dotfiles package manager, written in Python.
 * [CodelyTV/dotfiles](https://github.com/CodelyTV/dotfiles): 🐢 💨 Speedup your MacOS setup with this fine tuning settings
 * [GiorgioBertolotti/dotfiles](https://github.com/GiorgioBertolotti/dotfiles): 💻 My config files for the shell (MacOS & WSL)
-* [ahmadawais/dotfiles](https://github.com/ahmadawais/dotfiles): A non-exhaustive collection of my dotfiles.
 * [atomantic/dotfiles](https://github.com/atomantic/dotfiles): 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 * [cheshire137/dotfiles](https://github.com/cheshire137/dotfiles): All my handy configuration files, including for stuff like Skyrim. ⚔️
 * [codfish/dotfiles](https://github.com/codfish/dotfiles): My macOS dotfiles: Oh My Zsh, git, brew, node, mac settings, mac apps, and more.
