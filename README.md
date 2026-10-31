@@ -1231,7 +1231,7 @@
 * [Sporif/firefox-quantum-userchromejs](https://github.com/Sporif/firefox-quantum-userchromejs): Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement
 * [deseven/firefox-quickllm](https://github.com/deseven/firefox-quickllm): Firefox extension that integrates LLMs into your browser
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
-* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (150-158) find bar.
+* [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (150-159) find bar.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
 * [bgm/firefox-revert-proton](https://github.com/bgm/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
@@ -2474,6 +2474,7 @@
 * [bltavares/pickpocket](https://github.com/bltavares/pickpocket): Pocket CLI management tools
 * [patrick-petrovic/pickpocket](https://github.com/patrick-petrovic/pickpocket): Pickpocket imports Pocket links to Safari reading list. 
 * [RooneyMcNibNug/pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff): blocklists, scripts, etc.
+* [Perflyst/PiHoleBlocklist](https://github.com/Perflyst/PiHoleBlocklist): PiHole and AGH Blocklists
 * [crimera/piko](https://github.com/crimera/piko): morphe patches for twitter and instagram
 * [sungshon/PimpMyStremio](https://github.com/sungshon/PimpMyStremio): Local add-on manager for Stremio
 * [bhootd/pin-unpin-tab](https://github.com/bhootd/pin-unpin-tab): [Moved to https://git.sr.ht/~bhoot/pin-unpin-tab] Firefox add-on to pin or unpin current tab in more efficient ways.
