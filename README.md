@@ -1572,7 +1572,7 @@
 * [headcaver/headcaver.github.io](https://github.com/headcaver/headcaver.github.io): satan's underpants motorcycle club
 * [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall): Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 * [OldManJax/helperplayers](https://github.com/OldManJax/helperplayers): json players for TheMovieDb-Helper in Kodi 21
-* [p-e-w/heretic](https://github.com/p-e-w/heretic): Fully automatic censorship removal for language models
+* [p-e-w/heretic](https://github.com/p-e-w/heretic): Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more
 * [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent): The agent that grows with you
 * [demtario/hes-gallery](https://github.com/demtario/hes-gallery): Light, dependency free, responsive gallery script
 * [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend): A fast and clever hex editor for macOS
@@ -2786,6 +2786,7 @@
 * [SamR1/rdltr](https://github.com/SamR1/rdltr): a simple read-it later app
 * [SamR1/rdltr-addon](https://github.com/SamR1/rdltr-addon): Firefox add-on for rdltr (read-it-later app)
 * [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client): Real-Debrid Client Proxy
+* [morluto/rea](https://github.com/morluto/rea): Reverse engineer anything with agents, from app behavior down to native binaries.
 * [react/react](https://github.com/react/react): The library for web and native user interfaces.
 * [SuniRein/read-it-later](https://github.com/SuniRein/read-it-later): A light web browser extension to manage your read-it-later list easily.
 * [XcrossD/read-later-bookmarks](https://github.com/XcrossD/read-later-bookmarks): A chrome extension that add a read later view for chrome bookmarks
