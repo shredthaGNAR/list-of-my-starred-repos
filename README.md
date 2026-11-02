@@ -762,6 +762,7 @@
 * [DigiDNA/ColorSet](https://github.com/DigiDNA/ColorSet): ColorSet is a macOS utility and framework allowing developers to manage custom interface colors with ease.
 * [OsborneLabs/Columbia](https://github.com/OsborneLabs/Columbia): Columbia by Osborne - Blocks ads, analytics, popups, and trackers
 * [micz/ColumnsWizard](https://github.com/micz/ColumnsWizard): This is a Thunderbird addon that adds some magic to the folder list columns. Check the addon website for more info...
+* [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists): Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO / ADG subscriptions, and a whole lot more. All merged from multiple reputable sources, combined with my own research. Also, script-based utilities to help you create such things yourself. Updated at least once every two weeks, usually more frequently. Since 2017.
 * [pvrs12/comment-hover](https://github.com/pvrs12/comment-hover): None
 * [claustromaniac/Compare-UserJS](https://github.com/claustromaniac/Compare-UserJS): PowerShell script for comparing user.js (or prefs.js) files.
 * [timhettler/compass-photoshop-gradient-overlay](https://github.com/timhettler/compass-photoshop-gradient-overlay): A compass extension to translate between Photoshop gradient overlays and CSS linear-gradients
@@ -3530,6 +3531,7 @@
 * [jingyu9575/user-chrome-js](https://github.com/jingyu9575/user-chrome-js): Firefox extension (privileged) to enable userChrome.js support
 * [JYLD/User-CSS-For-Firefox-And-Thunderbird](https://github.com/JYLD/User-CSS-For-Firefox-And-Thunderbird): User CSS Contributions For CustomizeMyBird and Custom CSS For FX
 * [taitems/user-email-enrichment](https://github.com/taitems/user-email-enrichment): A free, open source tool to lookup user identities by email address
+* [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner): 🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+ username) for security research, investigations, and digital footprinting.
 * [arkenfox/user.js](https://github.com/arkenfox/user.js): Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 * [pyllyukko/user.js](https://github.com/pyllyukko/user.js): user.js -- Firefox configuration hardening
 * [Nomes77/UserChrome](https://github.com/Nomes77/UserChrome): userChrome.css for FireFox and Thunderbird
