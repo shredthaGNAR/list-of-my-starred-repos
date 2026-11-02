@@ -746,7 +746,6 @@
 * [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * [CodeverDotDev/codever](https://github.com/CodeverDotDev/codever): Bookmarks & Notes Manager for Developers — with Markdown and Code Snippets support
-* [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat): Markdown prompts for chatbots, APIs, and CLIs with seamless integration
 * [jcv8000/Codex](https://github.com/jcv8000/Codex): A free note-taking software for programmers and Computer Science students
 * [openai/codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
 * [frankmdmc/CodexDidThis](https://github.com/frankmdmc/CodexDidThis): GPT Codex Did This
@@ -851,6 +850,7 @@
 * [Aris-t2/CustomizeMyBird](https://github.com/Aris-t2/CustomizeMyBird): Customize Thunderbird 52-60.x (no support for Thunderbird 68+)
 * [Aris-t2/CustomJSforFx](https://github.com/Aris-t2/CustomJSforFx): custom scripts
 * [insidegui/CustomStatusBarWindow](https://github.com/insidegui/CustomStatusBarWindow): Demonstrates a custom NSWindowController that can be attached to a NSStatusItem on macOS.
+* [CodeWebChat/CWC](https://github.com/CodeWebChat/CWC): Markdown prompts for chatbots, APIs, and CLIs with seamless integration
 * [juanboro/cync2mqtt](https://github.com/juanboro/cync2mqtt): Bridge Cync bluetooth mesh to mqtt
 * [nikshriv/cync_lights](https://github.com/nikshriv/cync_lights): Home Assistant Integration for controlling Cync switches, plugs, and bulbs
 * [DanaMW/DanaMW.github.io](https://github.com/DanaMW/DanaMW.github.io): None

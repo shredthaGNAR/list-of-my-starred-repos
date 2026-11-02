@@ -488,6 +488,9 @@
     "CodeEditApp/CodeEdit": [
         "Other"
     ],
+    "CodeWebChat/CWC": [
+        "Other"
+    ],
     "CodelyTV/dotfiles": [
         "Other"
     ],
@@ -9129,9 +9132,6 @@
         "Other"
     ],
     "robertocaldas/AdbInstallService": [
-        "Other"
-    ],
-    "robertpiosik/CodeWebChat": [
         "Other"
     ],
     "robilic/DockHand": [
