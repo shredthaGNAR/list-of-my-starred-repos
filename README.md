@@ -3562,6 +3562,7 @@
 * [SoloSaravanan/userjs](https://github.com/SoloSaravanan/userjs): Removes Mozilla spyware from Firefox and makes Firefox more secure 
 * [erdidogan/username-scanner](https://github.com/erdidogan/username-scanner): Fast & Accurate Username Scanner (Frontend)
 * [Yuhanawa/UserScript](https://github.com/Yuhanawa/UserScript): CSDN 极简\沉浸式阅读\免登录复制 | 博客园美化 | 哔哩哔哩美化 | GreasyFork脚本页面👇
+* [losnappas/userscript-mcp-claude-webextension](https://github.com/losnappas/userscript-mcp-claude-webextension): Webextension to make userscripts via claude.ai
 * [cyfung1031/userscript-supports](https://github.com/cyfung1031/userscript-supports): This is for the userscripts created on GreasyFork.org. 
 * [Trinovantes/userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer): Drag and drop interface to organize playlists on YouTube
 * [masterofobzene/UserScriptRepo](https://github.com/masterofobzene/UserScriptRepo): A place to put the userscripts I come up with to make internet a less miserable place. Take a look, see if something is useful.
