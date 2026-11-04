@@ -1547,7 +1547,7 @@
 * [Mattlk13/h4cker](https://github.com/Mattlk13/h4cker): This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 * [mofach90/hackathon-24jan26-sponsor-skipper-firefox](https://github.com/mofach90/hackathon-24jan26-sponsor-skipper-firefox): None
 * [SirAlidadi/HackBar](https://github.com/SirAlidadi/HackBar): Hackbar Firefox Extension
-* [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData): Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+* [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData): Decrypt and export passwords, cookies, history and more from 20 browsers on Windows, macOS and Linux. For authorized security research, incident response and DFIR.
 * [koo5/hackery2](https://github.com/koo5/hackery2): notes, scripts, utilities, dotfiles, experiments, toys..
 * [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh): Hackintosh long-term maintenance model EFI and installation tutorial
 * [LasCC/HackTools](https://github.com/LasCC/HackTools): The all-in-one browser extension for offensive security professionals 🛠
