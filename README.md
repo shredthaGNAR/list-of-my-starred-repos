@@ -372,7 +372,7 @@
 * [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates): 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.
 * [yjose/awesome-new](https://github.com/yjose/awesome-new): A list of `.new` domains to perform online actions in one quick action.
 * [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian): 🕶️ Awesome stuff for Obsidian
-* [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents): 196 production-ready AI agent templates for OpenClaw. SOUL.md configs across 24 categories. Submit yours!
+* [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents): 197 production-ready AI agent templates for OpenClaw. SOUL.md configs across 24 categories. Submit yours!
 * [weisser-dev/awesome-opencode](https://github.com/weisser-dev/awesome-opencode): 108 agents, 15 skills, smart model config, and interactive CLI for OpenCode — npx @weisser-dev/awesome-opencode
 * [OpenRouterTeam/awesome-openrouter](https://github.com/OpenRouterTeam/awesome-openrouter): Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.
 * [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint): :scream: A curated list of amazingly awesome OSINT
@@ -803,7 +803,7 @@
 * [home-assistant/core](https://github.com/home-assistant/core): :house_with_garden: Open source home automation that puts local control and privacy first.
 * [Andereoo/Cortland](https://github.com/Andereoo/Cortland): A sleek, modern, macOS-inspired theme for Firefox
 * [leminlimez/Cowabunga](https://github.com/leminlimez/Cowabunga): iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
-* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf
+* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.
 * [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg): A shell script to build fancy DMGs
 * [luooooob/create-my-awesome](https://github.com/luooooob/create-my-awesome): Github Actions for automatically generating the personal awesome list from all of the repositories you starred.
 * [ololx/create-symlink](https://github.com/ololx/create-symlink): Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS. There is an alternative https://github.com/ololx/quick-symlink
@@ -2606,7 +2606,7 @@
 * [ryanoasis/powerline-extra-symbols](https://github.com/ryanoasis/powerline-extra-symbols): :arrow_forward: Extra glyphs for your powerline separators
 * [DanaMW/PowerShell-TuneUp](https://github.com/DanaMW/PowerShell-TuneUp): PowerShell scripts and snips for the learning curve.
 * [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel): Powerful and extensible proxy server with anti-censorship functionality
-* [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.
+* [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): Private AI agents for highly regulated teams, and for anyone who wants AI on their own computer. Open-source Python agent framework that runs fully offline.
 * [parkermuir/preflop-poker](https://github.com/parkermuir/preflop-poker): Python scripts to navigate Texas Hold 'Em and Pot Limit Omaha preflop decision trees ♠️♣️
 * [MozillaSecurity/prefpicker](https://github.com/MozillaSecurity/prefpicker): Manage & generate prefs.js files
 * [neox387/premiumizer](https://github.com/neox387/premiumizer): None
