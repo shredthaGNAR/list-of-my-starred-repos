@@ -1913,7 +1913,7 @@
 * [jatinkrmalik/LLMFeeder](https://github.com/jatinkrmalik/LLMFeeder): Browser extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click!
 * [kartikm7/llocal](https://github.com/kartikm7/llocal): Aiming to provide a seamless and privacy driven chatting experience with open-sourced technologies(Ollama), particularly open sourced LLM's(eg. Llama3, Phi-3, Mistral). Focused on ease of use. Available on both Windows and Mac.
 * [vybestack/llxprt-code](https://github.com/vybestack/llxprt-code): An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.
-* [lobehub/lobehub](https://github.com/lobehub/lobehub): 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+* [lobehub/lobehub](https://github.com/lobehub/lobehub): 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 * [qazi0/local-ai-raycast](https://github.com/qazi0/local-ai-raycast): Chat with local LLMs (Ollama, LM Studio, llama.cpp) directly from Raycast
 * [mudler/LocalAI](https://github.com/mudler/LocalAI): LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 * [nagaraj-real/localaipilot-api](https://github.com/nagaraj-real/localaipilot-api): API container for Local AI Pilot extension
@@ -2700,7 +2700,7 @@
 * [chhoumann/quickadd](https://github.com/chhoumann/quickadd): QuickAdd for Obsidian
 * [RealRaven2000/quickFilters](https://github.com/RealRaven2000/quickFilters): Thunderbird Add-on: quickFilters 
 * [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders): Thunderbird Add-on: QuickFolders
-* [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo): Finder Thumbnails, Quick Look previews, Get Info metadata and previews for most types of audio and video files.
+* [Marginal/QuickLookVideo](https://github.com/Marginal/QuickLookVideo): Thumbnails in Finder, Quick Look previews, and metadata in Spotlight and Finder's Get Info window for most types of audio and video files.
 * [quicksilver/Quicksilver](https://github.com/quicksilver/Quicksilver): Quicksilver Project Source
 * [jobisoft/quicktext](https://github.com/jobisoft/quicktext): An extension for Thunderbird that lets you create templates that can be easily inserted into your own emails.
 * [kamryn404/quietfox](https://github.com/kamryn404/quietfox): Very Clean Firefox userChrome Mod
@@ -3746,11 +3746,14 @@
 * [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT): Locally running, hands-free ChatGPT UI
 * [hendrikbgr/YandexMail-Account-Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator): 🚀 Create hundreds of free YandexMail Email Accounts in the matter of minutes 🚀
 * [Yeove/yeove_CustomFirefoxCSS](https://github.com/Yeove/yeove_CustomFirefoxCSS): None
+* [direk/yi-hack](https://github.com/direk/yi-hack): Xiaomi Yi Ants 22CN: Fritz's hack with camera-native ONVIF and RTSP for UniFi Protect
+* [fritz-smh/yi-hack](https://github.com/fritz-smh/yi-hack): Xiaomi Yi Ants camera hack
 * [roleoroleo/yi-hack-Allwinner](https://github.com/roleoroleo/yi-hack-Allwinner): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2): Custom firmware for Yi 1080p camera based on Allwinner platform
 * [npetrovski/yi-hack-easy](https://github.com/npetrovski/yi-hack-easy): Customized firmware for Yi Home Camera 720p
 * [roleoroleo/yi-hack-MStar](https://github.com/roleoroleo/yi-hack-MStar): Custom firmware for Yi 1080p camera based on MStar platform
 * [roleoroleo/yi-hack-MStar.gdrive](https://github.com/roleoroleo/yi-hack-MStar.gdrive): Google drive loader for yi smart ip camera (MStar based)
+* [pupartemis/yi-hack-v2](https://github.com/pupartemis/yi-hack-v2): Xiaomi Yi Ants Camera 2 hack
 * [shadow-1/yi-hack-v3](https://github.com/shadow-1/yi-hack-v3): Alternative Firmware for Xiaomi Cameras based on Hi3518e Chipset
 * [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4): New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
 * [alienatedsec/yi-hack-v5](https://github.com/alienatedsec/yi-hack-v5): Even newer Custom Firmware for Xiaomi Cameras based on Hi3518ev200 Chipset. It includes free RTSP, ONVIF and other improvements based on the work by roleoroleo
