@@ -2916,7 +2916,6 @@
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [Erisa/save-all-tab-urls](https://github.com/Erisa/save-all-tab-urls): Save all the open tabs as a list of URLs to go back to!
 * [allen505/save-for-later](https://github.com/allen505/save-for-later): A web extension for Chrome/Firefox which saves the tabs in current window for later use.
-* [Gitoffthelawn/save-in](https://github.com/Gitoffthelawn/save-in): WebExtension for saving media, links, or selections into user-defined directories
 * [gyng/save-in](https://github.com/gyng/save-in): WebExtension for saving media, links, or selections into user-defined directories
 * [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs): Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
 * [theopenroad/save-open-tabs-extension](https://github.com/theopenroad/save-open-tabs-extension): Firefox extension to save all open tabs within the extension
