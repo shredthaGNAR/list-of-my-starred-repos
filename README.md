@@ -482,7 +482,7 @@
 * [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert): Malware, advert and tracking blacklist
 * [pengelana/blocklist](https://github.com/pengelana/blocklist): Privacy DNS
 * [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist): Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
-* [nextdns/blocklists](https://github.com/nextdns/blocklists): None
+* [nextdns/blocklists](https://github.com/nextdns/blocklists): Ad and tracker blocklist definitions for NextDNS.
 * [Nuzair46/BlockTheSpot-Mac](https://github.com/Nuzair46/BlockTheSpot-Mac): Spotify Ad blocker for MacOS
 * [izikeros/blog](https://github.com/izikeros/blog): My personal blog available at safjan.com
 * [RickStrahl/BlogPosts](https://github.com/RickStrahl/BlogPosts): None
@@ -1234,7 +1234,7 @@
 * [xpmn/firefox-reading-list](https://github.com/xpmn/firefox-reading-list): A minimal Firefox extension for saving pages to read later.
 * [ravindUwU/firefox-refined-findbar](https://github.com/ravindUwU/firefox-refined-findbar): A customisable userChrome.css style to improve the Firefox (150-159) find bar.
 * [mobiusxp/firefox-remap-private-browsing](https://github.com/mobiusxp/firefox-remap-private-browsing): UserChrome JS script to remap Firefox's Private Browsing to match everything else
-* [bgm/firefox-revert-proton](https://github.com/bgm/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
+* [BGM/firefox-revert-proton](https://github.com/BGM/firefox-revert-proton): Revert Firefox Proton to Photon & Photon Compact
 * [panjilp-lab/firefox-safari-noFix](https://github.com/panjilp-lab/firefox-safari-noFix): learning to make safari style for firefox
 * [panjilp-lab/firefox-safari-style](https://github.com/panjilp-lab/firefox-safari-style): put to default:profiles root dir
 * [tsanaung/firefox-safari-style](https://github.com/tsanaung/firefox-safari-style): None
@@ -3289,7 +3289,7 @@
 * [syphon-org/syphon](https://github.com/syphon-org/syphon): ⚗️  a privacy centric matrix client 
 * [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 * [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts): None
-* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+* [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily.
 * [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext): Add context menu to macOS Finder 
 * [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead): Web Browser Extension that helps you to quickly find open tabs by title and URL.
 * [rtfcv/tab-attic](https://github.com/rtfcv/tab-attic): None
