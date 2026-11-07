@@ -109,6 +109,7 @@
 * [airmessage/airmessage-web](https://github.com/airmessage/airmessage-web): AirMessage for the web
 * [xwmx/airport](https://github.com/xwmx/airport): A command line / terminal tool for Wi-Fi on macOS / OS X up to macOS Sonoma 14.4.
 * [SethuSenthil/AirPush](https://github.com/SethuSenthil/AirPush): The all in one AirMessage (iMessage) script you can forget about
+* [sameerasw/airsync-mac](https://github.com/sameerasw/airsync-mac): AirSync macOS - Bring the forbidden macOS continuity to Android
 * [pinetum/AirUnlock-for-Mac](https://github.com/pinetum/AirUnlock-for-Mac): Using android phone to establish a connection with your Mac via Bluetooth low-energy (BLE), controlling Mac lock state (Lock or Unlock).
 * [NightMachinery/aistudio_userscript](https://github.com/NightMachinery/aistudio_userscript): None
 * [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox): 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎
@@ -147,7 +148,7 @@
 * [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow): Full-featured library for writing Alfred 3 & 4 workflows
 * [Stephen-Lon/Alfred-workflow-open-macos-settings-panes](https://github.com/Stephen-Lon/Alfred-workflow-open-macos-settings-panes): Open macOS Settings Panes from list
 * [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows): Save time, Improve life.🚀  ☕️ 💻
-* [linsa-io/alfred-workflows](https://github.com/linsa-io/alfred-workflows): Amazing Alfred Workflows
+* [gendotnew/alfred-workflows](https://github.com/gendotnew/alfred-workflows): Amazing Alfred Workflows
 * [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows): My Alfred Workflows
 * [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows): Collection of Alfred workflows
 * [zeitlings/alfred-workflows](https://github.com/zeitlings/alfred-workflows): Collected Alfred Workflows & Proof of Concept
@@ -1197,7 +1198,7 @@
 * [junguler/firefox-dark-userContent.css](https://github.com/junguler/firefox-dark-userContent.css): css to compliment firefox's colors option for dark mode on all websites 
 * [Madis0/firefox-desaturate-favicons](https://github.com/Madis0/firefox-desaturate-favicons): Desaturate the favicons of all inactive tabs.
 * [gsomoza/firefox-easy-container-shortcuts](https://github.com/gsomoza/firefox-easy-container-shortcuts): Easy, opinionated, keyboard shortcuts for Firefox 57+ containers.
-* [linsa-io/firefox-extensions](https://github.com/linsa-io/firefox-extensions): Awesome Firefox Extensions
+* [gendotnew/firefox-extensions](https://github.com/gendotnew/firefox-extensions): Awesome Firefox Extensions
 * [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme): A GNOME👣 theme for Firefox🔥
 * [MethodGrab/firefox-google-search-by-image](https://github.com/MethodGrab/firefox-google-search-by-image): A Firefox extension that adds Google’s "search by image" to the browser context menu
 * [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx): Opera GX Skin for Firefox
@@ -1906,6 +1907,7 @@
 * [radames/LLM-automator](https://github.com/radames/LLM-automator): Create keyboard shortcuts for an LLM using OpenAI GPT, Ollama, HuggingFace with Automator on macOS.
 * [ICTMCG/LLM-for-misinformation-research](https://github.com/ICTMCG/LLM-for-misinformation-research): Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.
 * [timmyy123/LLM-Hub](https://github.com/timmyy123/LLM-Hub): Local LLM, image&video&music generator
+* [langgptai/LLM-Jailbreaks](https://github.com/langgptai/LLM-Jailbreaks): LLM Jailbreaks, ChatGPT, Claude, Llama, DAN Prompts, Prompt Leaking
 * [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library): A playground of highly experimental prompts, Jinja2 templates & scripts for machine intelligence models from OpenAI, Anthropic, DeepSeek, Meta, Mistral, Google, xAI & others. Author: Alex Bilzerian (2022-present).
 * [jamesponddotco/llm-prompts](https://github.com/jamesponddotco/llm-prompts): [READ-ONLY] A collection of prompts for enhancing productivity with large language models.
 * [brkunver/llm-toolbox](https://github.com/brkunver/llm-toolbox): Browser extension for popular LLMs 
@@ -3128,6 +3130,7 @@
 * [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar): A highly customizable macOS status bar replacement
 * [asmvik/skhd](https://github.com/asmvik/skhd):  Simple hotkey daemon for macOS
 * [zebbern/skills](https://github.com/zebbern/skills): High-quality Agent Skills made to perform reliably in real workflows
+* [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager): A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 * [SerpentDrago/skin.auramod](https://github.com/SerpentDrago/skin.auramod): Auramod Skin for Kodi 18 
 * [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic): None
 * [ErveI/skip-discord-update](https://github.com/ErveI/skip-discord-update): An easy way to skip Discord updates on the macOS app launch.

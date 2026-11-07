@@ -5519,6 +5519,12 @@
     "geerlingguy/mac-dev-playbook": [
         "Other"
     ],
+    "gendotnew/alfred-workflows": [
+        "Other"
+    ],
+    "gendotnew/firefox-extensions": [
+        "Other"
+    ],
     "genesy/karabiner-complex-rules-generator": [
         "Other"
     ],
@@ -7037,6 +7043,9 @@
     "langfuse/langfuse": [
         "Other"
     ],
+    "langgptai/LLM-Jailbreaks": [
+        "Other"
+    ],
     "langgptai/awesome-claude-prompts": [
         "Other"
     ],
@@ -7161,12 +7170,6 @@
         "Other"
     ],
     "linkwarden/linkwarden": [
-        "Other"
-    ],
-    "linsa-io/alfred-workflows": [
-        "Other"
-    ],
-    "linsa-io/firefox-extensions": [
         "Other"
     ],
     "linuxscoop/safarifox-theme": [
@@ -9380,6 +9383,9 @@
     "samber/the-great-gpt-firewall": [
         "Other"
     ],
+    "sameerasw/airsync-mac": [
+        "Other"
+    ],
     "samfromaway/Gulp-Boilerplate01": [
         "Other"
     ],
@@ -11169,6 +11175,9 @@
         "Other"
     ],
     "xilopaint/alfred-things": [
+        "Other"
+    ],
+    "xingkongliang/skills-manager": [
         "Other"
     ],
     "xmansyx/Pro-Fox": [
