@@ -3421,7 +3421,7 @@
 * [OlegPoljakov/TinderPeopleFinder_Yandex_Images](https://github.com/OlegPoljakov/TinderPeopleFinder_Yandex_Images): This program helps to find people from tinder in some other social medias. It takes the screenshot of tinder profile, cuts the image and search it in Yandex Image. All you need to do is to choose the pictures and push few buttons.
 * [pqrs-org/Tinkle](https://github.com/pqrs-org/Tinkle): None
 * [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts): Collection of small scripts
-* [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast): Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+* [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast): A native macOS launcher for everyday productivity. Lightweight and open source.
 * [ParisNeo/tinyLollms](https://github.com/ParisNeo/tinyLollms): A tiny lollms
 * [FilteringDev/tinyShield](https://github.com/FilteringDev/tinyShield): A lightweight redefined version of microShield
 * [ayoubchwt/TL-WR](https://github.com/ayoubchwt/TL-WR): TL;WR automatically summarizes long Reddit posts and threads into concise, easy-to-read bullet points.
