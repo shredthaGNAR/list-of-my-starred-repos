@@ -2248,6 +2248,7 @@
 * [Nevesto/NullSpawn](https://github.com/Nevesto/NullSpawn): Cybersecurity-themed Nickname Generator.
 * [apilayer/numverify-API](https://github.com/apilayer/numverify-API): Free global phone number validation & lookup JSON API
 * [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile): Official Nuvio Mobile Repository
+* [homelessbrian/NuvioPlusIPTV](https://github.com/homelessbrian/NuvioPlusIPTV): Nuvio + IPTV
 * [edgars21/nuxtjs-shopify-flex-theme-section-with-vue](https://github.com/edgars21/nuxtjs-shopify-flex-theme-section-with-vue): None
 * [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 * [1111mp/nvm-desktop](https://github.com/1111mp/nvm-desktop): Node Version Manager Desktop - A desktop application to manage multiple active node.js versions.
@@ -3237,6 +3238,7 @@
 * [Shopify/storefront-api-feedback](https://github.com/Shopify/storefront-api-feedback): The home of discussions and feedback surrounding the evolution of Shopify's Storefront API.
 * [streamlink/streamlink](https://github.com/streamlink/streamlink): Streamlink is a CLI utility which pipes video streams from various services into a video player
 * [Davidona/StreamVault-IPTV](https://github.com/Davidona/StreamVault-IPTV): StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.
+* [DryKillLogic/stremio-account-bootstrapper](https://github.com/DryKillLogic/stremio-account-bootstrapper): Set up your Stremio/Nuvio account with just a few clicks
 * [MrMonkey42/stremio-addon-debrid-search](https://github.com/MrMonkey42/stremio-addon-debrid-search): Stremio Addon to search downloads and torrents in your Debrid cloud
 * [pancake3000/stremio-addon-manager](https://github.com/pancake3000/stremio-addon-manager): Manage your Stremio Addons
 * [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5): 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
