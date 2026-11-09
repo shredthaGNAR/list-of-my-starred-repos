@@ -79,7 +79,7 @@
 * [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents): A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 * [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
 * [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions): Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Antigravity, Hermes, OpenClaw, Copilot CLI, and more.
-* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): 2,926+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
+* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills): 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 * [wshobson/agents](https://github.com/wshobson/agents): Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.
 * [piroor/aggregate-tabs-to-main-window](https://github.com/piroor/aggregate-tabs-to-main-window): Aggregate new tabs to a window which has most many tabs and largest size.
 * [AI-Anywhere/AI-Anywhere](https://github.com/AI-Anywhere/AI-Anywhere): Your agents. Any browser. Anywhere
@@ -260,7 +260,7 @@
 * [wasutz/astro-resume-theme](https://github.com/wasutz/astro-resume-theme): Astro Resume Theme is a customizable and responsive template designed to help you create a beautiful online resume or portfolio quickly. Built with Astro and styled using Tailwind CSS.
 * [hansmartensdev/Astro-Rocket](https://github.com/hansmartensdev/Astro-Rocket): Lightning-fast Astro 7 starter theme to build anything on: 44 designed components, 8 colour themes, dark mode and built-in i18n. Astro Rocket is created by Hans Martens Dev — Astro Theme Developer.  https://hansmartens.dev
 * [devgelo-labs/astro-starter-pro](https://github.com/devgelo-labs/astro-starter-pro): Astro Starter Pro: A free, production-ready Astro starter focused on SEO, performance, and best practices.
-* [DomeT99/astro-wellness](https://github.com/DomeT99/astro-wellness): A modern, dark, energetic gym template built with Astro and Bulma
+* [Domenico-Tenace-Open-Labs/astro-wellness](https://github.com/Domenico-Tenace-Open-Labs/astro-wellness): A modern, dark, energetic gym template built with Astro and Bulma
 * [immois/astro-zen](https://github.com/immois/astro-zen): Minimalist, accessible and SEO-optimized personal portfolio website template.
 * [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy): Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
 * [denv17/astrolify](https://github.com/denv17/astrolify): None
@@ -712,6 +712,7 @@
 * [shbmx/claude-history](https://github.com/shbmx/claude-history): Raycast extension to browse, search, and resume Claude Code sessions
 * [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code): An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 * [tomas-hartman/clean-the-mess](https://github.com/tomas-hartman/clean-the-mess): WebExtension to make your tabs clean
+* [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv): Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 * [jpmhouston/Cleepp](https://github.com/jpmhouston/Cleepp): Batch Clipboard is a Mac app that let's you copy then paste multiple clipboard items at a time, like magic! This is the repo for v1.0.x, titled after the app's codename. The repo for v2.0 and forward is https://github.com/jpmhouston/Batch-Clipboard
 * [cli/cli](https://github.com/cli/cli): GitHub’s official command line tool
 * [spicetify/cli](https://github.com/spicetify/cli): Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
@@ -2918,6 +2919,7 @@
 * [sass/sass](https://github.com/sass/sass): Sass makes CSS fun!
 * [Erisa/save-all-tab-urls](https://github.com/Erisa/save-all-tab-urls): Save all the open tabs as a list of URLs to go back to!
 * [allen505/save-for-later](https://github.com/allen505/save-for-later): A web extension for Chrome/Firefox which saves the tabs in current window for later use.
+* [Gitoffthelawn/save-in](https://github.com/Gitoffthelawn/save-in): WebExtension for saving media, links, or selections into user-defined directories
 * [gyng/save-in](https://github.com/gyng/save-in): WebExtension for saving media, links, or selections into user-defined directories
 * [salvoventura/save-my-tabs](https://github.com/salvoventura/save-my-tabs): Open source browser extension/addon to save all open tabs to a folder in the Bookmarks Toolbar
 * [theopenroad/save-open-tabs-extension](https://github.com/theopenroad/save-open-tabs-extension): Firefox extension to save all open tabs within the extension
@@ -3246,7 +3248,7 @@
 * [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5): 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
 * [rleroi/Stremio-Streaming-Catalogs-Addon](https://github.com/rleroi/Stremio-Streaming-Catalogs-Addon): Stremio Streaming Catalogs Addon
 * [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru): Companion for Stremio.
-* [DomeT99/studio-pulse](https://github.com/DomeT99/studio-pulse): Marketing site for a full-service communication agency, brand strategy, creative direction, digital, content, and more.
+* [Domenico-Tenace-Open-Labs/studio-pulse](https://github.com/Domenico-Tenace-Open-Labs/studio-pulse): Marketing site for a full-service communication agency, brand strategy, creative direction, digital, content, and more.
 * [charlesLoder/stylometry](https://github.com/charlesLoder/stylometry): A comparison of different strategies for affecting an LLM's output style, with attention given towards library science.
 * [NoureldinAmer/stylometry-based-trigger-llm-backdoor-attack](https://github.com/NoureldinAmer/stylometry-based-trigger-llm-backdoor-attack): None
 * [openstyles/stylus](https://github.com/openstyles/stylus): Stylus - Userstyles Manager
